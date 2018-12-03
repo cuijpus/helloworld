@@ -102,3 +102,9 @@
 2018.11.27 [地平线将获10亿美元B轮融资，估值40亿美元](https://baijiahao.baidu.com/s?id=1618269959673952951&wfr=spider&for=pc)<br>
 2018.3 [为无人车造芯这三年 地平线都干了什么？](https://www.d1ev.com/news/qiye/64203)<br>
 
+[寒武纪](http://www.cambricon.com/)<br>
+
+2018.11.12 [寒武纪官宣：麒麟980是我的IP，和华为没有分手](https://baijiahao.baidu.com/s?id=1616891686250532577&wfr=spider&for=pc)<br>
+2018.10.14 [对话陈天石：寒武纪不做“期货”芯片](http://tech.163.com/18/1014/14/DU37J7B500098IEO.html)<br>
+[一文读懂寒武纪国内首款云端芯片,这块芯片有何用途](https://baijiahao.baidu.com/s?id=1618371531307958578&wfr=spider&for=pc)<br>
+[中国芯片界黑马的诞生：成立当年业务收入过亿，华为都找它合作](https://baijiahao.baidu.com/s?id=1617755542012568249&wfr=spider&for=pc)<br>
