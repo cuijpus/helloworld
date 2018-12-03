@@ -90,5 +90,7 @@
 >>[一文读懂特斯拉的发展历程 ](http://www.eefocus.com/automobile-electronics/413938/r0)<br>
 
 
-
+# 驾驶芯片
+[地平线]:<br>
+[地平线将获10亿美元B轮融资，估值40亿美元](https://baijiahao.baidu.com/s?id=1618269959673952951&wfr=spider&for=pc)<br>
 
