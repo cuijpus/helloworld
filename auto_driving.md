@@ -106,5 +106,8 @@
 
 2018.11.12 [寒武纪官宣：麒麟980是我的IP，和华为没有分手](https://baijiahao.baidu.com/s?id=1616891686250532577&wfr=spider&for=pc)<br>
 2018.10.14 [对话陈天石：寒武纪不做“期货”芯片](http://tech.163.com/18/1014/14/DU37J7B500098IEO.html)<br>
+2018.5.4 [一文读懂寒武纪国内首款云端芯片，这块芯片有何用途](https://36kr.com/p/5132416.html)<br>
+2018.5.3 [全球首发7nm！寒武纪发全新终端/云端AI芯片：算力恐怖](https://baijiahao.baidu.com/s?id=1599439474590758975&wfr=spider&for=pc)<br>
+2018.4.4[AI芯片独角兽寒武纪新融资完成：估值逾20亿美元，国家队基金入场](https://www.sohu.com/a/227268968_610300)<br>
 [一文读懂寒武纪国内首款云端芯片,这块芯片有何用途](https://baijiahao.baidu.com/s?id=1618371531307958578&wfr=spider&for=pc)<br>
 [中国芯片界黑马的诞生：成立当年业务收入过亿，华为都找它合作](https://baijiahao.baidu.com/s?id=1617755542012568249&wfr=spider&for=pc)<br>
