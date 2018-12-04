@@ -49,7 +49,7 @@
         <th></th>
         <th>A9S/A6S</th>
         <th></th>
-        <th>A8S</th>
+        <th>A8S<br>打孔屏</th>
     </tr>
     <tr>
         <th>苹果</th>
