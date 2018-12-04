@@ -22,7 +22,7 @@
 
 <table>
     <tr>
-        <th>厂家</th>
+        <th></th>
         <th>1月</th>
         <th>2月</th>
         <th>3月</th>
