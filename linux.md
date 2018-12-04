@@ -23,7 +23,7 @@ password=ask <br>
 ip=127.0.0.1 <br>
 port=-1 <br>
 <br>
-[xrdp3] <br>
+[xrdp3] //可以登陆的，所以 xrdp1的配置，模仿它<br>
 name=vnc-any <br>
 lib=libvnc.so <br>
 ip=ask <br>
