@@ -49,7 +49,7 @@
         <th></th>
         <th>A9S/A6S</th>
         <th></th>
-        <th>A8S?</th>
+        <th>A8S</th>
     </tr>
     <tr>
         <th>苹果</th>
@@ -94,7 +94,7 @@
         <th></th>
         <th>Magic2</th>
         <th></th>
-        <th></th>
+        <th>Nova4</th>
     </tr>     
     <tr>
         <th>OPPO</th>
@@ -157,6 +157,9 @@
         <th></th>
     </tr>    
 </table>
+
+2018.12.3 <br>
+[12月3日晚间，三星官方宣布：“未来先行，12月10日一起眼见为实 ”。这将是全球首款“打孔屏”手机。](https://baijiahao.baidu.com/s?id=1618830885121332449&wfr=spider&for=pc)<br>
 
 2018.11.28 [手游最佳打开方式 红魔Mars电竞手机发布](http://mobile.zol.com.cn/703/7039272.html)<br>
 散热：液冷x风冷+石墨烯贴片。<br>
