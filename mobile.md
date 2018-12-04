@@ -17,6 +17,7 @@
 
 # 销量趋势
 [18年Q3全球手机出货排行：三星下滑依旧第一，华为爆发甩开苹果](https://baijiahao.baidu.com/s?id=1616199865343528907&wfr=spider&for=pc)<br>
+![2018 Q3](https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=2479854287,3931982226&fm=173&app=49&f=JPEG?w=640&h=302&s=0A0A7C2297D861CA585D80DB0000C0B1)<br>
 
 # 18年新品动态
 每一家都上紧发条，各种创新尝试，给消费者带了各个价位的良好体验：<br>
