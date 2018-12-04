@@ -34,6 +34,9 @@ password=ask <br>
 [Linux与Windows共享文件夹之samba的安装与使用（Ubuntu为例）](https://www.cnblogs.com/gzdaijie/p/5194033.html)<br>
 
 [VIM 提升] <br>
+1. sudo apt-get install ctags
+2. sudo apt-get install cscope
+3. install bundle
 https://github.com/tczengming/myvim/
 希望能给大家做一个参考。插件用bundle (也有人叫vundle)管理的，推荐大家使用bundle，插件安装升级很方便
 只要一个vimrc <br>
