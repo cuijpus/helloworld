@@ -192,6 +192,7 @@
 2018.10.16 [Mate 20 发布（10.16): AI升级双NPU，屏下指纹，双向反充，超广角，超微距，AI摄影大师，超级夜景，更多AI落地（AI智慧识物/AI翻译/AI语音助手）](http://tech.sina.com.cn/mobile/n/c/2018-10-17/doc-ifxeuwws5088583.shtml)<br>
 10.26国内发布，980芯片；
 [官网宣传页](https://sale.vmall.com/hwmate.html?cid=97010)<br>
+[一图看懂华为 Mate 20 / Mate 20 P](http://www.sohu.com/a/260000244_100179557)<br>
 
 2018.9.13 [2018秋季发布会]http://tech.sina.com.cn/zt_d/newiphone/<br>
 
