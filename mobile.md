@@ -61,7 +61,7 @@
         <th></th>
         <th></th>
         <th></th>
-        <th>XR/XS</th>
+        <th>XR/XS<br>刘海</th>
         <th></th>
         <th></th>
         <th></th>
