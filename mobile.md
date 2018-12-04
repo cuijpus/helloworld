@@ -49,7 +49,7 @@
         <th></th>
         <th>A9S/A6S<br>4摄</th>
         <th></th>
-        <th>A8S<br>打孔屏</th>
+        <th>A8S<br>打孔</th>
     </tr>
     <tr>
         <th>苹果</th>
@@ -94,7 +94,7 @@
         <th></th>
         <th>Magic2<br>滑屏</th>
         <th></th>
-        <th>Nova4<br>打孔屏</th>
+        <th>Nova4<br>打孔</th>
     </tr>     
     <tr>
         <th>OPPO</th>
@@ -105,7 +105,7 @@
         <th></th>
         <th>FindX<br>弹出</th>
         <th></th>
-        <th>R17<br>水滴屏</th>
+        <th>R17<br>水滴</th>
         <th></th>
         <th></th>
         <th></th>
@@ -121,7 +121,7 @@
         <th>NEX<br>弹出</th>
         <th></th>
         <th></th>
-        <th>X23<br>水滴屏</th>
+        <th>X23<br>水滴</th>
         <th></th>
         <th></th>
         <th></th>
