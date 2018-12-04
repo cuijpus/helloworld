@@ -39,13 +39,13 @@
     <tr>
         <th>三星</th>
         <th></th>
-        <th>S9</th>
+        <th>S9<br>曲屏</th>
         <th></th>
         <th></th>
         <th></th>
         <th></th>
         <th></th>
-        <th>Note9</th>
+        <th>Note9<br>曲屏</th>
         <th></th>
         <th>A9S/A6S<br>4摄</th>
         <th></th>
