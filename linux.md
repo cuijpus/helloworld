@@ -32,3 +32,18 @@ username=na <br>
 password=ask <br>
 
 [Linux与Windows共享文件夹之samba的安装与使用（Ubuntu为例）](https://www.cnblogs.com/gzdaijie/p/5194033.html)<br>
+
+[VIM 提升]
+
+https://github.com/tczengming/myvim/
+希望能给大家做一个参考。插件用bundle (也有人叫vundle)管理的，推荐大家使用bundle，插件安装升级很方便
+只要一个vimrc
+先安装bundle
+git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+然后可下载我的.vimrc替换你的.vimrc
+git clone https://github.com/tczengming/myvim.git      
+下载后用myvim/myvimrc替换你的.vimrc (可自行修改其内容)
+然后在vim中执行
+BundleInstall!    就可以自动地更新安装插件,不用再手动去网上一个个下最新包了。
+ 缷载插件  :BundleClean
+
