@@ -47,7 +47,7 @@
         <th></th>
         <th>Note9</th>
         <th></th>
-        <th>A9S/A6<br>4摄</th>
+        <th>A9S/A6S<br>4摄</th>
         <th></th>
         <th>A8S<br>打孔屏</th>
     </tr>
