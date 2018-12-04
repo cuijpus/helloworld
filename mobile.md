@@ -47,7 +47,7 @@
         <th></th>
         <th>Note9</th>
         <th></th>
-        <th>A9S/A6S</th>
+        <th>A9S/A6<4摄></th>
         <th></th>
         <th>A8S<br>打孔屏</th>
     </tr>
@@ -77,7 +77,7 @@
         <th></th>
         <th></th>
         <th></th>
-        <th>Mate20</th>
+        <th>Mate20<br>超越</th>
         <th></th>
         <th></th>
     </tr>
@@ -88,13 +88,13 @@
         <th></th>
         <th></th>
         <th></th>
-        <th>Play</th>
+        <th>Play<br><GPU Turbo></th>
         <th></th>
         <th></th>
         <th></th>
         <th>Magic2</th>
         <th></th>
-        <th>Nova4</th>
+        <th>Nova4<br>打孔屏</th>
     </tr>     
     <tr>
         <th>OPPO</th>
