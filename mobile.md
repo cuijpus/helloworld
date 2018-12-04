@@ -77,7 +77,7 @@
         <th></th>
         <th></th>
         <th></th>
-        <th>Mate20</th>
+        <th>Mate20<BR>超越</th>
         <th></th>
         <th></th>
     </tr>
@@ -88,7 +88,7 @@
         <th></th>
         <th></th>
         <th></th>
-        <th>Play</th>
+        <th>Play<br>涡轮</th>
         <th></th>
         <th></th>
         <th></th>
