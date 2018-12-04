@@ -98,6 +98,8 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
 ### 中移动
 2018.12.4 [中移500万NB-IoT模组招标结果出炉！最低20元以下，价格再创新低！](https://baijiahao.baidu.com/s?id=1618884517839900353&wfr=spider&for=pc)<BR>
 目前NB-IoT已经广泛运用到远程抄表、消防烟感、智慧停车、智慧路灯、物流跟踪等领域，上半年中国移动物联网只能连接数量净增1.55亿，规模达到3.84亿元，物联网同比收入增长47.6%。此次中国移动限购单模NB模组，意味着移动未来将逐步开启NB代替2G的趋势。<br>
+2018.11.29 [中国移动智慧城市NB-IoT业务推介会在苏州召开](https://baijiahao.baidu.com/s?id=1618884517839900353&wfr=spider&for=pc)<br>
+2018.11.23 [中国移动智慧农业NB-IoT业务推介会在哈尔滨举行 加快布局智慧农业新未来](http://news.youth.cn/jsxw/201811/t20181123_11794128.htm)<br>
 2017.3.27 [中移窄带物联网简介](https://wenku.baidu.com/view/d6630e1e6fdb6f1aff00bed5b9f3f90f76c64d0c.html)<br>
 
 ### 中电信
