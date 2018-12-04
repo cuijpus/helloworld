@@ -70,7 +70,7 @@
         <th>华为</th>
         <th></th>
         <th></th>
-        <th>P20<br>小刘海</th>
+        <th>P20<br>刘海</th>
         <th></th>
         <th></th>
         <th></th>
@@ -88,7 +88,7 @@
         <th></th>
         <th></th>
         <th></th>
-        <th>Play<br>刘海屏</th>
+        <th>Play<br>刘海</th>
         <th></th>
         <th></th>
         <th></th>
@@ -100,7 +100,7 @@
         <th>OPPO</th>
         <th></th>
         <th></th>
-        <th>R15<br>刘海屏</th>
+        <th>R15<br>刘海</th>
         <th></th>
         <th></th>
         <th>FindX<br>弹出</th>
@@ -115,7 +115,7 @@
         <th>VIVO</th>
         <th></th>
         <th></th>
-        <th>X21<br>刘海屏</th>
+        <th>X21<br>刘海</th>
         <th></th>
         <th></th>
         <th>NEX<br>弹出</th>
@@ -132,7 +132,7 @@
         <th></th>
         <th></th>
         <th></th>
-        <th>Mi8<br>刘海屏</th>
+        <th>Mi8<br>刘海</th>
         <th></th>
         <th></th>
         <th></th>
