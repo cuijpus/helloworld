@@ -96,6 +96,7 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
 
 
 ### 中移动
+2018.12.4 [中移500万NB-IoT模组招标结果出炉！最低20元以下，价格再创新低！](https://baijiahao.baidu.com/s?id=1618884517839900353&wfr=spider&for=pc)<BR>
 2017.3.27 [中移窄带物联网简介](https://wenku.baidu.com/view/d6630e1e6fdb6f1aff00bed5b9f3f90f76c64d0c.html)<br>
 
 ### 中电信
