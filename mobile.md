@@ -47,7 +47,7 @@
         <th></th>
         <th>Note9</th>
         <th></th>
-        <th>A9S/A6<4摄></th>
+        <th>A9S/A6<br><4摄></th>
         <th></th>
         <th>A8S<br>打孔屏</th>
     </tr>
@@ -88,11 +88,11 @@
         <th></th>
         <th></th>
         <th></th>
-        <th>Play<br><GPU Turbo></th>
+        <th>Play<br>GPU Turbo</th>
         <th></th>
         <th></th>
         <th></th>
-        <th>Magic2</th>
+        <th>Magic2<br>滑屏</th>
         <th></th>
         <th>Nova4<br>打孔屏</th>
     </tr>     
@@ -103,7 +103,7 @@
         <th>R15</th>
         <th></th>
         <th></th>
-        <th>FindX</th>
+        <th>FindX<br>弹出</th>
         <th></th>
         <th>R17</th>
         <th></th>
@@ -118,10 +118,10 @@
         <th>X21</th>
         <th></th>
         <th></th>
-        <th>NEX</th>
+        <th>NEX<br>弹出</th>
         <th></th>
         <th></th>
-        <th>X23</th>
+        <th>X23<br>F2FS</th>
         <th></th>
         <th></th>
         <th></th>
@@ -137,7 +137,7 @@
         <th></th>
         <th></th>
         <th></th>
-        <th>MIX3</th>
+        <th>MIX3<BR>滑屏</th>
         <th></th>
         <th></th>
     </tr>  
