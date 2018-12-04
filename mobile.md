@@ -77,7 +77,7 @@
         <th></th>
         <th></th>
         <th></th>
-        <th>Mate20<br>超越</th>
+        <th>Mate20</th>
         <th></th>
         <th></th>
     </tr>
@@ -88,7 +88,7 @@
         <th></th>
         <th></th>
         <th></th>
-        <th>Play<br>GPU Turbo</th>
+        <th>Play</th>
         <th></th>
         <th></th>
         <th></th>
