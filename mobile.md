@@ -200,6 +200,7 @@
 2018.8.21 [OPPO R17] <br>
 
 2018.8.9 [三星电子正式发布了Galaxy Note9旗舰智能手机，以及最新的Galaxy Watch智能手表以及GalaxyHome智能音箱](http://mobile.zol.com.cn/695/6955327.html)<br>
+[一图回顾三星Galaxy Note9新品发布会](http://www.sohu.com/a/246409051_114760)<br>
 
 2018.6.20 [OPPO FindX] <br>
 
