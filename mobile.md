@@ -121,7 +121,7 @@
         <th>NEX<br>弹出</th>
         <th></th>
         <th></th>
-        <th>X23<br>F2FS</th>
+        <th>X23</th>
         <th></th>
         <th></th>
         <th></th>
