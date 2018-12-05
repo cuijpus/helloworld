@@ -140,7 +140,7 @@
         <th>X23<br>水滴</th>
         <th></th>
         <th></th>
-        <th></th>
+        <th>NEX<br>双屏</th>
     </tr>  
     <tr>
         <th>XiaoMi</th>
@@ -173,6 +173,8 @@
         <th></th>
     </tr>    
 </table>
+
+2018.12.5 [外形震撼！vivo NEX双屏版正式官宣：正面完美 前后镜头合体 ](http://www.sohu.com/a/279729442_163726)<br>
 
 2018.12.3 <br>
 [12月3日晚间，三星官方宣布：“未来先行，12月10日一起眼见为实 ”。这将是全球首款“打孔屏”手机。](https://baijiahao.baidu.com/s?id=1618830885121332449&wfr=spider&for=pc)<br>
