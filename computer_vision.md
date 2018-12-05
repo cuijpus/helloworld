@@ -124,6 +124,7 @@ https://www.youtube.com/watch?v=UYieT8tZnKU <br>
 [reference papers](https://www.semanticscholar.org/paper/Fog-Removal-from-Video-Sequences-Using-Contrast-Xu-Liu/d12a041ba2a0275883f5386f7e6d98a0d2c848b8)<br>
 
 [Towards Photography Through Realistic Fog](http://web.media.mit.edu/~guysatat/fog/)<br>
+[Video and image enhancement using rain, haze and fog removal techniques](http://ste-ntulab.ntu.edu.sg/Research/Pages/Video-and-Image-Enhancement-using-rain%2C-haze-and-fog-removal-techniques.aspx)<br>
 
 # 数据集
 [深度学习图像标注工具汇总](https://yq.aliyun.com/wenji/252379)<br>
