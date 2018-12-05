@@ -20,6 +20,8 @@
 ## 巨头们的生态构筑
 
 ### 小米
+2018.12.29 [小米宜家牵手，为何如此高调](https://baijiahao.baidu.com/s?id=1618370694462261771&wfr=spider&for=pc)<br>
+![co-work](https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=4274412955,2019119824&fm=173&app=49&f=JPEG?w=640&h=426&s=32A5F9044E7988DC5CDAA5920300E09C)<br>
 2018.11.28 [「小米AIoT开发者大会」雷军宣布小爱同学激活破亿，和宜家开启](https://baijiahao.baidu.com/s?id=1618352092306146940&wfr=spider&for=pc)<br>
 [视频直播](http://video.sina.com.cn/l/p/1725227.html)<br>
 ![AIOT](http://img1.mydrivers.com/img/20181128/7703a10029cc4fb2a659781a4f54f32d.jpg)<br>
