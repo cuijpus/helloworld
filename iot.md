@@ -47,7 +47,8 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
 2013.11 发布小米路由器 <br>
 
 ### 华为
-
+2018.12.4 [华为与京东达成战略合作 IoT产品实现互联互通](https://baijiahao.baidu.com/s?id=1618923588201408066&wfr=spider&for=pc)<br>
+![合作启动](https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=662790603,3713309390&fm=173&app=49&f=JPEG?w=554&h=369&s=300368B40322ACED08631E890300A089)<br>
 2018.11 [IoT联接管理平台彩页](https://e.huawei.com/cn/material/onLineView?MaterialID=8d922d32711144399be5fcda3d64b3a3)<br>
 2018.10 [华为物联网平台 ](https://developer.huawei.com/ict/cn/site-oceanconnect-next)<br>
 2018.10 [Huawei LiteOS 物联网操作系统](https://developer.huawei.com/ict/cn/site-iot-liteos)<br>
