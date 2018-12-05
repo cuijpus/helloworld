@@ -118,6 +118,8 @@ https://www.faceplusplus.com.cn/face-detection/
 
 
 [实时视频浓雾消除论文](http://xuewen.cnki.net/CMFD-1015569367.nh.html)<br>
+https://www.youtube.com/watch?v=UYieT8tZnKU
+[Real Time Fog Removal from Videos & Real-Time Rain Removal from Videos’](https://economictimes.indiatimes.com/news/science/fog-wont-delay-your-journey-as-iit-develops-this-new-technology/real-time-fog-removal/slideshow/59335439.cms)<br>
 
 # 数据集
 [深度学习图像标注工具汇总](https://yq.aliyun.com/wenji/252379)<br>
