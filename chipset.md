@@ -16,7 +16,8 @@
       
 ![product](https://www.goodix.com/webimages/2017img02.jpg)<br>
 
-[一张图看懂汇顶科技2017年报](https://baijiahao.baidu.com/s?id=1598814231760895937&wfr=spider&for=pc)<br>
+2017.12.30 [一张图看懂汇顶科技2017年报](https://baijiahao.baidu.com/s?id=1598814231760895937&wfr=spider&for=pc)<br>
+2017.06.18 [指尖上的战争：指纹识别公司汇顶科技如何反超瑞典FPC](http://tech.qq.com/a/20170618/010811.htm)<br>
 
 ## 上海思立微
 http://www.sileadinc.com/ <br>
