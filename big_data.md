@@ -1,11 +1,11 @@
-# big_data_-_AI_landscape
-
 # Overview
 ![总览图](http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png)
 
 # 行业报告
 
 [大数据白皮书（2018年）](http://www.caict.ac.cn/kxyj/qwfb/bps/201804/P020180418587931723585.pdf)<br>
+2017.09.20 [哪些黑科技正在改变金融？深度解剖知识图谱的四大应用](https://people.pedaily.cn/u/18881/420194.shtml)<br>
+
 
 # Infrastructure (基础设施)
 
