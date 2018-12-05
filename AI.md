@@ -33,6 +33,8 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
 [15 个开源的顶级人工智能工具](http://www.iteye.com/news/31877)<br>
 [那些有趣又实用的开源人工智能项目Top 10](http://ai.51cto.com/art/201809/582996.htm)<br>
 
+## TensorFlow
+[TensorFlow](https://www.tensorflow.org)<br>
 
 # 实操
 [为猪脸识别而进行自己数据集的构建、训练](https://blog.csdn.net/duanshao/article/details/78797616)<br>
