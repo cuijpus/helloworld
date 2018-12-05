@@ -10,12 +10,16 @@
 
 # 芯片IP
 
+## 指纹识别芯片
+2017.9.23 [汇顶科技/AuthenTec/FPC/新思/敦泰等指纹识别厂商如何应对全面屏手机时代？ ](http://www.eefocus.com/sensor/392785/r0)<br>
+
 ## 汇顶（指纹）
 汇顶科技（SH：603160）是一家基于芯片设计和软件开发的整体应用解决方案提供商，目前主要面向智能移动终端市场提供领先的人机交互和生物识别解决方案，并已成为安卓阵营全球指纹识别方案第一供应商。产品和解决方案主要应用于华为、OPPO、vivo、小米、一加、中兴、魅族、Amazon、Samsung、Nokia、Dell、HP、LG、ASUS、acer、TOSHIBA、Panasonic等国际国内知名品牌，服务全球数亿人群。
 公司正努力扩展技术研究领域和产品应用市场，将在移动终端、IoT和汽车电子领域为全球更多用户提供应用覆盖面更广的领先技术、产品及应用解决方案，打造世界级的中国“芯”。
       
 ![product](https://www.goodix.com/webimages/2017img02.jpg)<br>
 
+2018.9.16 [汇顶科技被oppo禁用5年，在指纹识别模块供应上未达到oppo要求](https://baijiahao.baidu.com/s?id=1611753594704048667&wfr=spider&for=pc)<br>
 2017.12.30 [一张图看懂汇顶科技2017年报](https://baijiahao.baidu.com/s?id=1598814231760895937&wfr=spider&for=pc)<br>
 2017.06.18 [指尖上的战争：指纹识别公司汇顶科技如何反超瑞典FPC](http://tech.qq.com/a/20170618/010811.htm)<br>
 
