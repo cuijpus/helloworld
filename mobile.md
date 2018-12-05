@@ -119,7 +119,7 @@
         <th>R15<br>刘海</th>
         <th></th>
         <th></th>
-        <th>FindX<br>弹出</th>
+        <th>FindX<br>弹头</th>
         <th></th>
         <th>R17<br>水滴</th>
         <th></th>
@@ -134,7 +134,7 @@
         <th>X21<br>刘海</th>
         <th></th>
         <th></th>
-        <th>NEX<br>弹出</th>
+        <th>NEX<br>弹眼</th>
         <th></th>
         <th></th>
         <th>X23<br>水滴</th>
