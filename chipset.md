@@ -18,6 +18,11 @@
 
 [一张图看懂汇顶科技2017年报](https://baijiahao.baidu.com/s?id=1598814231760895937&wfr=spider&for=pc)<br>
 
+## 上海思立微
+http://www.sileadinc.com/ <br>
+
+
+
 # 芯片设计
 
 # 芯片代工
