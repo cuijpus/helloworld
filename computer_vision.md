@@ -104,6 +104,7 @@ https://www.faceplusplus.com.cn/face-detection/
 ## 物体识别
 ## 场景识别
 ## 行为分析
+[20年安防老兵创业，这家CV创企要做最强“车脸识别”](https://baijiahao.baidu.com/s?id=1618886809197180699&wfr=spider&for=pc)<br>
 
 # 学术大牛
 >>[汤晓鸥：商汤科技创始人](https://baike.baidu.com/item/%E6%B1%A4%E6%99%93%E9%B8%A5/7200225?fr=kg_qa)<br>
