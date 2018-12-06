@@ -7,6 +7,67 @@
 
 # 手机智能语音助手
 
+
+<table>
+    <tr>
+        <th></th>
+        <th>语音助手</th>
+        <th>何时发布</th>
+        <th>主要功能</th>
+        <th>背后技术</th>
+        <th>能力级别</th>
+    </tr>
+    <tr>
+        <th>三星</th>
+        <th></th>
+        <th>S9<br>曲屏</th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>苹果</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>华为</th>
+        <th></th>
+        <th></th>
+        <th>P20<br>刘海</th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>OPPO</th>
+        <th></th>
+        <th></th>
+        <th>R15<br>刘海</th>
+        <th></th>
+        <th></th>
+    </tr>   
+    <tr>
+        <th>VIVO</th>
+        <th></th>
+        <th></th>
+        <th>X21<br>刘海</th>
+        <th></th>
+        <th></th>
+    </tr>  
+    <tr>
+        <th>XiaoMi</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th>Mi8<br>刘海</th>
+    </tr>  
+</table>
+
+
 # 国内语音明星公司
 ## 合肥 科大讯飞
 [科大讯飞](http://www.iflytek.com/)<br>
