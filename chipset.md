@@ -51,6 +51,7 @@ http://www.sileadinc.com/ <br>
 
 # 概念扫描
 [什么是 GPU 加速计算？ ](https://www.nvidia.cn/object/what-is-gpu-computing-cn.html)<br>
-
+[CPU（中央处理器）和GPU（图像处理器）区别大揭秘](https://blog.csdn.net/qq_27022241/article/details/78293946)<br>
+[CPU和GPU的区别、工作原理、及如何tensorflow-GPU安装等操作](https://blog.csdn.net/sinat_36458870/article/details/78783587)<br>
 
 
