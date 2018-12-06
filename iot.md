@@ -13,8 +13,11 @@
 7. 科大讯飞IoT平台
 8. 小米IoT生态链
 
+# 练手
+[看物联网开发实战：20分钟搭建简易环境监测站](http://www.dashunet.cn/archives/2592)<br>
 
 # 政策导航
+2018.12.6 [工信部：加速推进人工智能、物联网和智慧城市国际标准](http://www.sohu.com/a/279937844_468632)<br>
 
 # 生态
 ## 巨头们的生态构筑
@@ -107,8 +110,6 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
 2017.3.27 [中移窄带物联网简介](https://wenku.baidu.com/view/d6630e1e6fdb6f1aff00bed5b9f3f90f76c64d0c.html)<br>
 
 ### 中电信
-
-
 
 
 ## 垂直供应商的补充
