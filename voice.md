@@ -21,7 +21,7 @@
         <th>三星</th>
         <th>Bixby</th>
         <th>2017.11.7<br>中文发布</th>
-        <th>语音唤醒<br>语音识别<br>语音交互</th>
+        <th>语音唤醒<br>语音识别<br>语音交互<br>问答</th>
         <th>自研</th>
         <th>***</th>
     </tr>
@@ -37,7 +37,7 @@
         <th>华为</th>
         <th>YOYO</th>
         <th>2018.10.31<br>Magic2发布</th>
-        <th>语音唤醒<br>语音识别<br>语音交互</th>
+        <th>语音唤醒<br>语音识别<br>语音交互<br>问答</th>
         <th>科大讯飞</th>
         <th>***</th>
     </tr>
@@ -45,7 +45,7 @@
         <th>OPPO</th>
         <th>小欧</th>
         <th>2018.6.29<br>FindX发布</th>
-        <th>语音唤醒<br>语音识别<br>语音交互</th>
+        <th>语音唤醒<br>语音识别<br>语音交互<br>问答</th>
         <th>科大讯飞</th>
         <th>***</th>
     </tr>   
@@ -53,7 +53,7 @@
         <th>VIVO</th>
         <th>Jovi语音</th>
         <th>2018.6.29<br>X21发布</th>
-        <th>语音唤醒<br>语音识别<br>语音交互</th>
+        <th>语音唤醒<br>语音识别<br>语音交互<br>问答</th>
         <th>科大讯飞</th>
         <th>***</th>
     </tr>  
