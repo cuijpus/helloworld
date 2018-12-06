@@ -48,3 +48,9 @@ http://www.sileadinc.com/ <br>
 # 芯片封测
 
 # 业界牛儿
+
+# 概念扫描
+[什么是 GPU 加速计算？ ](https://www.nvidia.cn/object/what-is-gpu-computing-cn.html)<br>
+
+
+
