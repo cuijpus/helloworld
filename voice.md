@@ -3,6 +3,10 @@
 
 ![中国人工智能全景图](http://5b0988e595225.cdn.sohucs.com/images/20180101/633ccfaf81b347adae03489fd4807b3a.jpeg)<br>
 
+# 智能音箱
+
+# 手机智能语音助手
+
 # 国内语音明星公司
 ## 合肥 科大讯飞
 [科大讯飞](http://www.iflytek.com/)<br>
