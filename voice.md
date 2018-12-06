@@ -6,7 +6,11 @@
 # 智能音箱
 
 # 手机智能语音助手
-
+苹果2011年推出了Siri，称得上是比较早的语音助手。随后微软也加入语音助手的战场.<br>
+2014年推出Cortana。同年，亚马逊推出Alexa。<br>
+谷歌稍晚些，于2016年推出Google Assistant。<br>
+直到2017年，厚积薄发的三星追赶上了潮流，推出了Bixby。最开始率先在三星Galaxy S8及Note 8上线，当时体验后给予我的感受是“迟到半年的Bixby，用户体验赶超别家半年”。<br>
+2018年国内几家快速跟上。<br>
 
 <table>
     <tr>
@@ -66,6 +70,7 @@
         <th>****</th>
     </tr>  
 </table>
+
 
 
 [破釜沉舟才能迎来质变，vivo研发Jovi比想象的还要艰难](https://baijiahao.baidu.com/s?id=1597891418598789540&wfr=spider&for=pc)<br>
