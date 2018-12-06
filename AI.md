@@ -46,9 +46,4 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
 [这可能是人工智能、机器学习和大数据领域覆盖最全的一份速查表](http://www.raincent.com/content-10-12752-1.html)<br>
 [出处](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)<br>
 
-## python
-AttributeError: 'dict' object has no attribute 'iteritems'<br>
-Python3.5中：iteritems变为items <br>
 
-NameError:name ‘xrange’ is not defined<br>
-若你想在python 3中运行程序，将xrange( )函数全部换为range( )即可<br>
