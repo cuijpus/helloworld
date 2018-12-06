@@ -45,3 +45,7 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
 # Tools
 [这可能是人工智能、机器学习和大数据领域覆盖最全的一份速查表](http://www.raincent.com/content-10-12752-1.html)<br>
 [出处](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)<br>
+
+## python
+AttributeError: 'dict' object has no attribute 'iteritems'<br>
+Python3.5中：iteritems变为items <br>
