@@ -1,6 +1,7 @@
 
 
 # 业界最新动态
+2018.12.6 [高通骁龙855技术全解析：全方位飞跃 AI自有一套: 发布会PPT解析](https://baijiahao.baidu.com/s?id=1619070590000182040&wfr=spider&for=pc)<BR>
 2018.12.6 [骁龙855全部技术规格公布，支持8K体三维VR视频](https://new.qq.com/omn/20181206/20181206A0CYEB.html)<BR>
 2018.12.5 [高通骁龙855发布：搭载第四代AI引擎 AI性能提升3倍](https://baijiahao.baidu.com/s?id=1618958600195905271&wfr=spider&for=pc)<br>
 高通骁龙855移动平台搭载第四代多核AI引擎AI Engine，能够提供高度直观的终端侧AI体验，和上一代骁龙845相比，骁龙855 AI性能提高了3倍。
