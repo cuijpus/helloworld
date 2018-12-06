@@ -31,7 +31,7 @@
         <th></th>
         <th></th>
         <th>自研+Nuance</th>
-        <th></th>
+        <th>*</th>
     </tr>
     <tr>
         <th>华为</th>
