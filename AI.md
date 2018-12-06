@@ -40,6 +40,7 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
 [为猪脸识别而进行自己数据集的构建、训练](https://blog.csdn.net/duanshao/article/details/78797616)<br>
 
 # 学习资源
+[十大必须掌握的机器学习算法，竟然都如此有趣](https://blog.csdn.net/tkkzc3e6s4ou4/article/details/79083376)<br>
 
 # Tools
 [这可能是人工智能、机器学习和大数据领域覆盖最全的一份速查表](http://www.raincent.com/content-10-12752-1.html)<br>
