@@ -65,7 +65,10 @@
         <th>XiaoMi</th>
         <th>小爱同学</th>
         <th>2017.7.26</th>
-        <th>语音唤醒<br>语音识别<br>语音交互<br>问答</th>
+        <th>语音技术：语音唤醒、语音识别、语音合成<br>
+            自然语言理解:搜索与推荐、智能问答、闲聊<br>
+            知识图谱，内容的获取与理解
+        </th>
         <th>自研</th>
         <th>****</th>
     </tr>  
@@ -79,6 +82,7 @@
 2018.6.13 [科大讯飞助力vivo发布智慧旗舰新机NEX](http://science.china.com.cn/2018-06/13/content_40382356.htm)<br>
 2018.4.16 [破釜沉舟才能迎来质变，vivo研发Jovi比想象的还要艰难](https://baijiahao.baidu.com/s?id=1597891418598789540&wfr=spider&for=pc)<br>
 2018.4.13 [小米小爱团队负责人王刚：语音交互背后，有多少人工就有多少智能](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/79933707)<br>
+2017.11.30 [Bixby体验：全新交互掌控手机 快捷指令大赞](http://mobile.163.com/17/1130/11/D4G2GVQH0011819H.html)<br>
 
 [siri背后的技术+AI系统！这个录音机已超神！ ](http://www.sohu.com/a/128472362_346933 )<br>
 
