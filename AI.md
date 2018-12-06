@@ -49,3 +49,6 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
 ## python
 AttributeError: 'dict' object has no attribute 'iteritems'<br>
 Python3.5中：iteritems变为items <br>
+
+NameError:name ‘xrange’ is not defined<br>
+若你想在python 3中运行程序，将xrange( )函数全部换为range( )即可<br>
