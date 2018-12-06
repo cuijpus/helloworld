@@ -19,10 +19,10 @@
     </tr>
     <tr>
         <th>三星</th>
-        <th></th>
-        <th>S9<br>曲屏</th>
-        <th></th>
-        <th></th>
+        <th>Bixby</th>
+        <th>2017.11.7<br>中文发布</th>
+        <th>语音唤醒<br>语音识别<br>语音交互</th>
+        <th>自研</th>
         <th></th>
     </tr>
     <tr>
