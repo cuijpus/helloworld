@@ -56,7 +56,7 @@
     <tr>
         <th>VIVO</th>
         <th>Jovi语音</th>
-        <th>2018.6.29<br>X21发布</th>
+        <th>2018.3.9<br>X21发布</th>
         <th>语音唤醒<br>语音识别<br>语音交互<br>问答</th>
         <th>科大讯飞</th>
         <th>***</th>
