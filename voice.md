@@ -80,8 +80,10 @@
 2018.7.7 [科大讯飞：华为、vivo、OPPO等采用公司智能语音技术](https://baijiahao.baidu.com/s?id=1605257778232593650&wfr=spider&for=pc )<br>
 2018.6.13 [VIVO更智能的Jovi语音助手：和三星Bixby很相似](https://baijiahao.baidu.com/s?id=1603081784855997484&wfr=spider&for=pc )<br>
 2018.6.13 [科大讯飞助力vivo发布智慧旗舰新机NEX](http://science.china.com.cn/2018-06/13/content_40382356.htm)<br>
+2018.5.19 [小米崔宝秋出席世界智能大会：小爱同学背后有多项技术支撑](http://www.sohu.com/a/232187679_267158)<br>
 2018.4.16 [破釜沉舟才能迎来质变，vivo研发Jovi比想象的还要艰难](https://baijiahao.baidu.com/s?id=1597891418598789540&wfr=spider&for=pc)<br>
 2018.4.13 [小米小爱团队负责人王刚：语音交互背后，有多少人工就有多少智能](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/79933707)<br>
+2017.12.5 [在和「小爱同学」相处数日后，我发现语音智能把 IoT 盘活了](https://www.shenzhenware.com/articles/11950)<br>
 2017.11.30 [Bixby体验：全新交互掌控手机 快捷指令大赞](http://mobile.163.com/17/1130/11/D4G2GVQH0011819H.html)<br>
 
 [siri背后的技术+AI系统！这个录音机已超神！ ](http://www.sohu.com/a/128472362_346933 )<br>
