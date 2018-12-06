@@ -72,7 +72,7 @@
 </table>
 
 
-2018.9.13 [究竟能有什么用？OPPO Find X小欧语音助手体验](https://baijiahao.baidu.com/s?id=1611422238006295042&wfr=spider&for=pc )
+2018.9.13 [究竟能有什么用？OPPO Find X小欧语音助手体验](https://baijiahao.baidu.com/s?id=1611422238006295042&wfr=spider&for=pc )<br>
 2018.7.7 [科大讯飞：华为、vivo、OPPO等采用公司智能语音技术](https://baijiahao.baidu.com/s?id=1605257778232593650&wfr=spider&for=pc )<br>
 2018.6.13 [VIVO更智能的Jovi语音助手：和三星Bixby很相似](https://baijiahao.baidu.com/s?id=1603081784855997484&wfr=spider&for=pc )<br>
 2018.6.13 [科大讯飞助力vivo发布智慧旗舰新机NEX](http://science.china.com.cn/2018-06/13/content_40382356.htm)<br>
