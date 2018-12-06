@@ -1,4 +1,8 @@
 
+# 练习
+[计算机视觉：利用OpenCV和Python进行车辆计数详细步骤](https://github.com/creotiv/object_detection_projects)<br>
+
+
 # 业内动向
 
 
