@@ -23,7 +23,7 @@
         <th>2017.11.7<br>中文发布</th>
         <th>语音唤醒<br>语音识别<br>语音交互</th>
         <th>自研</th>
-        <th></th>
+        <th>***</th>
     </tr>
     <tr>
         <th>苹果</th>
@@ -37,7 +37,7 @@
         <th>华为</th>
         <th></th>
         <th></th>
-        <th>P20<br>刘海</th>
+        <th></th>
         <th></th>
         <th></th>
     </tr>
@@ -45,7 +45,7 @@
         <th>OPPO</th>
         <th></th>
         <th></th>
-        <th>R15<br>刘海</th>
+        <th></th>
         <th></th>
         <th></th>
     </tr>   
@@ -53,7 +53,7 @@
         <th>VIVO</th>
         <th></th>
         <th></th>
-        <th>X21<br>刘海</th>
+        <th></th>
         <th></th>
         <th></th>
     </tr>  
@@ -63,7 +63,7 @@
         <th></th>
         <th></th>
         <th></th>
-        <th>Mi8<br>刘海</th>
+        <th></th>
     </tr>  
 </table>
 
