@@ -242,7 +242,7 @@
         <th>25%</th><!研发比例>
     </tr>    
     <tr>
-        <th>航盛电子</th>
+        <th> <a href = "http://www.hangsheng.com.cn/">航盛电子</a> </th>
         <th>1993</th><!哪年成立>
         <th>车娱系统</th> <!核心产品>
         <th></th> <!语音技术>
