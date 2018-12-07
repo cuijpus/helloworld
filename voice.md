@@ -268,7 +268,7 @@
         <th></th><!研发比例>        
     </tr>     
     <tr>
-        <th>飞歌</th>
+        <th>广州飞歌</th>
         <th></th><!哪年成立>
         <th></th> <!核心产品>
         <th></th> <!语音技术>
@@ -304,17 +304,18 @@
         <th>深圳 路畅</th>
         <th>2006<br>2016上市</th><!哪年成立>
         <th></th> <!核心产品>
-        <th></th> <!语音技术>
+        <th>科大讯飞</th> <!语音技术>
         <th>东风本田<br>广汽本田<br>广汽丰田<br>Jeep...<br></th> <!客户群>
         <th></th> <!市占率>
         <th></th> <!能力级别>
         <th>1300</th> <!公司人数>
-        <th></th><!研发比例>        
+        <th>30%</th><!研发比例>        
     </tr>      
 </table>
 
+2018.3.2 [科大讯飞强势打入车载智能领域 誓做车载智能独角兽](https://chejiahao.autohome.com.cn/info/2237704)<br>
 [2018中国智能网联汽车产业链TOP100榜单发布](https://www.pateo.com.cn/zh/news_detail.html?id=656)<br>
-
+2014.8.25 [路畅发布畅云+汽车安全驾驶助手产品](http://info.xcar.com.cn/201408/news_1656452_1.html)<br>
 
 # 机器人
 
