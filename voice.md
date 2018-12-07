@@ -326,6 +326,10 @@
     </tr>    
 </table>
 
+## Nuance
+[Nuance](https://www.nuance.com/zh-cn/index.html)<br>
+提供智能的客户交互解决方案，以 AI 为技术支持。
+Nuance 为各种类型的企业提供广泛的解决方案和产品。
 
 ## 合肥 科大讯飞
 [科大讯飞](http://www.iflytek.com/)<br>
