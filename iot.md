@@ -100,6 +100,8 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
 
 2016.10.24 [阿里巴巴YunOS万物互联网战略正式发布](https://www.ithome.com/html/it/264499.htm)<br> 
 
+### 京东
+2018.12.5 [京东公布新IoT战略：推出“京鱼座”独立品牌](https://baijiahao.baidu.com/s?id=1618981312252995253&wfr=spider&for=pc)<br>
 
 ### 中移动
 2018.12.4 [中移500万NB-IoT模组招标结果出炉！最低20元以下，价格再创新低！](https://baijiahao.baidu.com/s?id=1618884517839900353&wfr=spider&for=pc)<BR>
