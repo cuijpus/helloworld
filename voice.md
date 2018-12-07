@@ -255,10 +255,10 @@
     </tr>  
     <tr>
         <th>航盛电子</th>
-        <th></th><!哪年成立>
-        <th></th> <!核心产品>
+        <th>1993</th><!哪年成立>
+        <th>导航、联网产品</th> <!核心产品>
         <th></th> <!语音技术>
-        <th></th> <!客户群>
+        <th>前装市场</th> <!客户群>
         <th></th> <!能力级别>
         <th></th> <!公司人数>
         <th></th><!研发比例>        
@@ -310,7 +310,7 @@
 2014.8.25 [路畅发布畅云+汽车安全驾驶助手产品](http://info.xcar.com.cn/201408/news_1656452_1.html)<br>
 [博泰合作车企](https://www.pateo.com.cn/zh/automotive_companies.html)<br>
 [博泰“闷声发大财”，应宜伦的让步与野心](http://auto.qq.com/a/20180521/021572.htm)<br>
-
+[航盛电子客户](http://www.hangsheng.com.cn/col.jsp?id=125)<br>
 
 # 机器人
 
