@@ -5,6 +5,21 @@
 
 # 智能音箱
 
+<table>
+    <tr>
+        <th></th>
+        <th>何时发布</th>
+        <th>主要功能</th>
+        <th>背后语音</th>
+        <th>服务扩展</th>
+        <th>生态</th>
+        <th>市占率</th>
+        <th>能力级别</th>
+    </tr>
+</table>
+
+2018.4.19 [天猫精灵/腾讯听听/小爱同学/小度在家，智能音箱哪家强？](https://baijiahao.baidu.com/s?id=1598149874756414095&wfr=spider&for=pc)<br>
+
 # 手机智能语音助手
 苹果2011年推出了Siri，称得上是比较早的语音助手。随后微软也加入语音助手的战场.<br>
 2014年推出Cortana。同年，亚马逊推出Alexa。<br>
@@ -25,7 +40,7 @@
         <th>苹果</th>
         <th>Siri</th>
         <th>2011</th>
-        <th></th>
+        <th>问答(弱）</th>
         <th>自研+Nuance</th>
         <th>*</th>
     </tr>
