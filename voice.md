@@ -247,6 +247,30 @@
         <th></th> <!市占率>
         <th></th> <!能力级别>
     </tr>  
+    <tr>
+        <th>飞歌</th>
+        <th></th> <!核心产品>
+        <th>Nuance 合作</th> <!语音技术>
+        <th></th> <!客户群>
+        <th></th> <!市占率>
+        <th></th> <!能力级别>
+    </tr>     
+    <tr>
+        <th>卡仕达</th>
+        <th></th> <!核心产品>
+        <th>Nuance 合作</th> <!语音技术>
+        <th></th> <!客户群>
+        <th></th> <!市占率>
+        <th></th> <!能力级别>
+    </tr>    
+    <tr>
+        <th>捷度</th>
+        <th></th> <!核心产品>
+        <th>Nuance 合作</th> <!语音技术>
+        <th></th> <!客户群>
+        <th></th> <!市占率>
+        <th></th> <!能力级别>
+    </tr>     
 </table>
 
 [2018中国智能网联汽车产业链TOP100榜单发布](https://www.pateo.com.cn/zh/news_detail.html?id=656)<br>
