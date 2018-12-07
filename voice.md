@@ -78,7 +78,7 @@
     </tr>      
 </table>
 
-2018.6.18 [我们“调戏”了六款智能音箱后，有了这份有趣的评测报告](https://www.sohu.com/a/236416401_116132><br>
+2018.6.18 [我们“调戏”了六款智能音箱后，有了这份有趣的评测报告](https://www.sohu.com/a/236416401_116132)<br>
 
 ![compare1](http://5b0988e595225.cdn.sohucs.com/images/20180618/d92a5dfe1b0b4a9883209652e98a68f1.jpeg)<br>
 ![compare2](http://5b0988e595225.cdn.sohucs.com/images/20180618/abe5ac20fc3f4f87aa6f61433cfc25b8.jpeg)<br>
