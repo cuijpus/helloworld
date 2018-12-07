@@ -12,7 +12,7 @@
         <th>能力级别</th>
     </tr>
     <tr>
-        <th>小爱同学</th>
+        <th><a href = "https://baike.baidu.com/item/%E5%B0%8F%E7%88%B1%E5%90%8C%E5%AD%A6/22047751?fr=aladdin">小爱同学</a> </th>
         <th></th> <!何时发布>
         <th></th> <!主要功能>
         <th></th> <!背后语音>
