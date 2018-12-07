@@ -6,6 +6,19 @@
 # 智能音箱
 
 <table>
+<tr>
+<td><a href="http://www.caska.cn/">卡仕达</a></td>
+<td><a href="http://www.kognd.cn">科骏达</a></td>
+</tr>
+</table> 
+
+<table>
+<tr>
+<td><a style="color:#F00" href="http://www.caska.cn/">超链接</a></td>
+</tr>
+</table>
+
+<table>
     <tr>
         <th></th>
         <th>何时发布</th> <!何时发布>
@@ -253,7 +266,10 @@
     <tr>
         <th>广东好帮手</th>
         <th>1998<br>2015上市</th><!哪年成立>
-        <th>车娱系统<br>卡仕达<br>科骏达</th> <!核心产品>
+        <th>车娱系统<br>
+            <a href="http://www.caska.cn/">卡仕达</a><br>
+            <a href="http://www.kognd.cn">科骏达</a>
+        </th> <!核心产品>
         <th></th> <!语音技术>
         <th>长安/江淮/一汽<br>吉利/长城、海马<br>马自达</th> <!客户群>
         <th>5000</th> <!公司人数>
