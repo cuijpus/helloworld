@@ -8,14 +8,24 @@
 <table>
     <tr>
         <th></th>
-        <th>何时发布</th> <!合适发布>
-        <th>主要功能</th>
+        <th>何时发布</th> <!何时发布>
+        <th>主要功能</th> 
         <th>背后语音</th>
         <th>服务扩展</th>
         <th>生态</th>
         <th>市占率</th>
         <th>能力级别</th>
     </tr>
+    <tr>
+        <th>小爱同学</th>
+        <th></th> <!何时发布>
+        <th></th> <!主要功能>
+        <th></th> <!背后语音>
+        <th></th> <!服务扩展>
+        <th></th> <!生态>
+        <th></th> <!市占率>
+        <th></th> <!能力级别>
+    </tr>    
 </table>
 
 2018.4.19 [天猫精灵/腾讯听听/小爱同学/小度在家，智能音箱哪家强？](https://baijiahao.baidu.com/s?id=1598149874756414095&wfr=spider&for=pc)<br>
