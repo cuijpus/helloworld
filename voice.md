@@ -22,45 +22,13 @@
         <th>能力级别</th>
     </tr>
     <tr>
-        <th>三星</th>
-        <th>Bixby</th>
-        <th>2017.11.7<br>中文发布</th>
-        <th>语音技术：语音唤醒、语音识别、语音合成</th>
-        <th>自研</th>
-        <th>***</th>
-    </tr>
-    <tr>
         <th>苹果</th>
         <th>Siri</th>
-        <th></th>
+        <th>2011</th>
         <th></th>
         <th>自研+Nuance</th>
         <th>*</th>
     </tr>
-    <tr>
-        <th>华为</th>
-        <th>YOYO</th>
-        <th>2018.10.31<br>Magic2发布</th>
-        <th>语音技术：语音唤醒、语音识别、语音合成<br>问答</th>
-        <th>科大讯飞</th>
-        <th>***</th>
-    </tr>
-    <tr>
-        <th>OPPO</th>
-        <th>小欧</th>
-        <th>2018.6.29<br>FindX发布</th>
-        <th>语音技术：语音唤醒、语音识别、语音合成</th>
-        <th>科大讯飞</th>
-        <th>***</th>
-    </tr>   
-    <tr>
-        <th>VIVO</th>
-        <th>Jovi语音</th>
-        <th>2018.3.9<br>X21发布</th>
-        <th>语音技术：语音唤醒、语音识别、语音合成</th>
-        <th>科大讯飞</th>
-        <th>***</th>
-    </tr>  
     <tr>
         <th>XiaoMi</th>
         <th>小爱同学</th>
@@ -72,7 +40,39 @@
         </th>
         <th>自研</th>
         <th>****</th>
-    </tr>  
+    </tr>      
+    <tr>
+        <th>三星</th>
+        <th>Bixby</th>
+        <th>2017.11.7<br>中文发布</th>
+        <th>语音技术：语音唤醒、语音识别、语音合成</th>
+        <th>自研</th>
+        <th>***</th>
+    </tr>
+    <tr>
+        <th>VIVO</th>
+        <th>Jovi语音</th>
+        <th>2018.3.9<br>X21发布</th>
+        <th>语音技术：语音唤醒、语音识别、语音合成</th>
+        <th>科大讯飞</th>
+        <th>***</th>
+    </tr>     
+    <tr>
+        <th>OPPO</th>
+        <th>小欧</th>
+        <th>2018.6.29<br>FindX发布</th>
+        <th>语音技术：语音唤醒、语音识别、语音合成</th>
+        <th>科大讯飞</th>
+        <th>***</th>
+    </tr>      
+    <tr>
+        <th>华为</th>
+        <th>YOYO</th>
+        <th>2018.10.31<br>Magic2发布</th>
+        <th>语音技术：语音唤醒、语音识别、语音合成<br>问答</th>
+        <th>科大讯飞</th>
+        <th>***</th>
+    </tr>
 </table>
 
 
