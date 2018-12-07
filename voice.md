@@ -284,7 +284,7 @@
         <th></th><!研发比例>        
     </tr>    
     <tr>
-        <th>捷度</th>
+        <th>捷度(后视)</th>
         <th></th><!哪年成立>
         <th></th> <!核心产品>
         <th></th> <!语音技术>
@@ -309,6 +309,8 @@
 [2018中国智能网联汽车产业链TOP100榜单发布](https://www.pateo.com.cn/zh/news_detail.html?id=656)<br>
 2014.8.25 [路畅发布畅云+汽车安全驾驶助手产品](http://info.xcar.com.cn/201408/news_1656452_1.html)<br>
 [博泰合作车企](https://www.pateo.com.cn/zh/automotive_companies.html)<br>
+[博泰“闷声发大财”，应宜伦的让步与野心](http://auto.qq.com/a/20180521/021572.htm)<br>
+
 
 # 机器人
 
