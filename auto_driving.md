@@ -41,7 +41,10 @@
         <th>
             <a href = "https://baijiahao.baidu.com/s?id=1587041227048811403&wfr=spider&for=pc">5方案</a>
         </th> <!充电方案>
-        <th></th> <!代工or自建>        
+        <th>
+            <a href = "https://baijiahao.baidu.com/s?id=1615474558058458971&wfr=spider&for=pc">江淮代工</a><br>
+            <a href = "https://www.sohu.com/a/272210564_122197">上海自建</a>
+        </th> <!代工or自建>        
         <th></th> <!交付能力>
     </tr>    
     <tr>
