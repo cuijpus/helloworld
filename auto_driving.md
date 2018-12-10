@@ -28,7 +28,7 @@
             <a href = "https://baike.baidu.com/item/EV%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6/680550">纯电动汽车(EV)<br>
             (100%电驱动)
         </th>
-        <th>Y 依赖</th> <!要充电?>
+        <th>Y 必须</th> <!要充电?>
         <th>/</th> <!要加油?>
         <th>夏天：350里<br>冬天:200公里</th> <!续航里程>
         <th>特斯拉<br>比亚迪E<br>吉利E<BR>北汽E<BR><br>蔚来<br>奇点<br>小鹏<br>威马<br>拜腾</th> <!代表车型>
@@ -40,7 +40,7 @@
             (以电为主)                
         </th>
         <th>Y 常用</th> <!要充电?>
-        <th>Y</th> <!要加油?>
+        <th>Y 偶尔</th> <!要加油?>
         <th>
             上下班通勤，纯电：50公里<br>
             回到家充电，大多时间是电动车<br><br>
@@ -51,11 +51,28 @@
     </tr>   
     <tr>
         <th>
+            <a href = "https://baijiahao.baidu.com/s?id=1616877353213635882&wfr=spider&for=pc">增程式电动汽车（EREV）<br>
+            (实质：电动车；<br>
+            电不够，油来充电)
+        </th>
+        <th>Y 常用</th> <!要充电?>
+        <th>Y 偶尔</th> <!要加油?>
+        <th>
+            上下班通勤，纯电：50公里<br>
+            回到家充电，大多时间是电动车<br><br>
+            出远门或者堵车，<br>
+            电不多了，烧油来充电；
+        </th> <!续航里程>
+        <th>宝马i3增程版<br>车和家ONE</th> <!代表车型>
+        <th>Yes</th> <!节能减排>  
+    </tr>             
+    <tr>
+        <th>
             <a href = "https://baike.baidu.com/item/%E6%B7%B7%E5%90%88%E5%8A%A8%E5%8A%9B%E6%B1%BD%E8%BD%A6/429082">油电混合动力汽车（HEV）<br>
             (以油为主,辅以节油)
         </th>
         <th>/</th> <!要充电?>
-        <th>Y 依赖</th> <!要加油?>
+        <th>Y 必须</th> <!要加油?>
         <th>
             纯电：几公里<br>
             起步或<40码，用电动机:<br>
@@ -66,23 +83,6 @@
         <th>雷克萨斯混动<br>凯美瑞双擎<br>卡罗拉双擎<BR>雷凌双擎<BR>本田雅阁锐混动</th> <!代表车型>
         <th>No</th> <!节能减排>      
     </tr> 
-    <tr>
-        <th>
-            <a href = "https://baijiahao.baidu.com/s?id=1616877353213635882&wfr=spider&for=pc">增程式电动汽车（EREV）<br>
-            (实质：电动车；<br>
-            电不够，油来充电)
-        </th>
-        <th>Y 常用</th> <!要充电?>
-        <th>Y</th> <!要加油?>
-        <th>
-            上下班通勤，纯电：50公里<br>
-            回到家充电，大多时间是电动车<br><br>
-            出远门或者堵车，<br>
-            电不多了，烧油来充电；
-        </th> <!续航里程>
-        <th>宝马i3增程版<br>车和家ONE</th> <!代表车型>
-        <th>Yes</th> <!节能减排>  
-    </tr>               
 </table>
 
 ![比较一下](https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=2968903046,2610452232&fm=173&app=49&f=JPEG?w=640&h=320&s=CAA7A90A8D624E8004516CC90300A0B2)<br>
