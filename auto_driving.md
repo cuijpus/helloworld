@@ -17,6 +17,7 @@
     <tr>
         <th>品牌</th>
         <th>创始人</th> 
+        <th>前置创业</th>
         <th>哪年成立</th>
         <th>融资</th>
         <th>产品</th>
@@ -27,6 +28,7 @@
     <tr>
         <th><a href = "https://www.nio.com/">蔚来汽车</a> </th>
         <th><a href = "https://baike.baidu.com/item/%E6%9D%8E%E6%96%8C/3910111">李斌 </a> </th> <!创始人>
+        <th></th> <!前置创业>
         <th></th> <!哪年成立>
         <th></th> <!融资>
         <th></th> <!产品>
@@ -37,6 +39,7 @@
     <tr>
         <th><a href = "https://www.xiaopeng.com/">小鹏汽车</a> </th>
         <th><a href = "https://baike.baidu.com/item/%E4%BD%95%E5%B0%8F%E9%B9%8F/5646196?fr=aladdin">何小鹏 </a> </th> <!创始人>
+        <th></th> <!前置创业>
         <th></th> <!哪年成立>
         <th></th> <!融资>
         <th></th> <!产品>
@@ -47,6 +50,7 @@
     <tr>
         <th><a href = "https://www.singulato.com/">奇点汽车</a> </th>
         <th><a href = "https://baike.baidu.com/item/%E6%B2%88%E6%B5%B7%E5%AF%85/9325341?fr=aladdin">沈海寅</a> </th> <!创始人>
+        <th></th> <!前置创业>
         <th></th> <!哪年成立>
         <th></th> <!融资>
         <th></th> <!产品>
@@ -55,8 +59,20 @@
         <th></th> <!交付能力>
     </tr>     
     <tr>
+        <th><a href = "www.chehejia.com/">车和家</a> </th>
+        <th><a href = "https://baike.baidu.com/item/%E6%9D%8E%E6%83%B3/7774?fr=aladdin">李想 </a> </th> <!创始人>
+        <th></th> <!前置创业>
+        <th></th> <!哪年成立>
+        <th></th> <!融资>
+        <th></th> <!产品>
+        <th></th> <!自动驾驶合作方>
+        <th></th> <!产品上市>
+        <th></th> <!交付能力>
+    </tr>      
+    <tr>
         <th><a href = "http://www.wm-motor.com/">威马汽车</a> </th>
         <th></th> <!创始人>
+        <th></th> <!前置创业>
         <th></th> <!哪年成立>
         <th></th> <!融资>
         <th></th> <!产品>
@@ -65,18 +81,9 @@
         <th></th> <!交付能力>
     </tr>  
     <tr>
-        <th><a href = "www.chehejia.com/">车和家</a> </th>
-        <th><a href = "https://baike.baidu.com/item/%E6%9D%8E%E6%83%B3/7774?fr=aladdin">李想 </a> </th> <!创始人>
-        <th></th> <!哪年成立>
-        <th></th> <!融资>
-        <th></th> <!产品>
-        <th></th> <!自动驾驶合作方>
-        <th></th> <!产品上市>
-        <th></th> <!交付能力>
-    </tr>    
-    <tr>
         <th><a href = "https://www.byton.cn/">拜腾汽车</a> </th>
         <th></th> <!创始人>
+        <th></th> <!前置创业>
         <th></th> <!哪年成立>
         <th></th> <!融资>
         <th></th> <!产品>
