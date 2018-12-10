@@ -35,7 +35,7 @@
             <a href = "https://baijiahao.baidu.com/s?id=1611455158533275143&wfr=spider&for=pc">IPO上市</a>
         </th> <!融资>
         <th>
-            <a href = "http://auto.sina.com.cn/j_kandian.d.html?docid=fypwzxq4138296&subch=nauto">ES8发布</a>
+            <a href = "http://auto.sina.com.cn/j_kandian.d.html?docid=fypwzxq4138296&subch=nauto">'17.12.16 ES8发布</a>
         </th> <!产品>
         <th>
             <a href = "http://www.eefocus.com/automobile-electronics/399151">MobileEye</a>
