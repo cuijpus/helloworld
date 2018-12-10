@@ -45,7 +45,9 @@
             <a href = "https://baijiahao.baidu.com/s?id=1615474558058458971&wfr=spider&for=pc">江淮代工</a><br>
             <a href = "https://www.sohu.com/a/272210564_122197">上海自建</a>
         </th> <!代工or自建>        
-        <th></th> <!交付能力>
+        <th> 
+            <a href = "https://chejiahao.autohome.com.cn/info/2997966/">万台下线</a>
+        </th> <!交付能力>
     </tr>    
     <tr>
         <th><a href = "https://www.xiaopeng.com/">小鹏汽车</a> </th>
