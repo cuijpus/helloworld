@@ -26,7 +26,7 @@
         <th>
             <a href = "https://baike.baidu.com/item/EV%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6/680550">纯电动汽车(EV)</th>
         <th>Y</th> <!要充电?>
-        <th>N</th> <!要加油?>
+        <th>/</th> <!要加油?>
         <th>夏天：350里<br>冬天:200公里</th> <!续航里程>
         <th>特斯拉<br>比亚迪E<br>吉利E<BR>北汽E<BR><br>蔚来<br>奇点<br>小鹏<br>威马<br>拜腾</th> <!代表车型>
     </tr>    
