@@ -30,7 +30,8 @@
         <th>特斯拉<br>比亚迪E<br>吉利E<BR>北汽E<BR></th> <!代表车型>
     </tr>    
     <tr>
-        <th>插电式混合动力汽车(PHEV)</th>
+        <th>
+            <a href = "https://baike.baidu.com/item/%E6%8F%92%E7%94%B5%E5%BC%8F%E6%B7%B7%E5%90%88%E5%8A%A8%E5%8A%9B%E6%B1%BD%E8%BD%A6/1401595?fr=aladdin">插电式混合动力汽车(PHEV)</th>
         <th>Y</th> <!要充电?>
         <th>Y</th> <!要加油?>
         <th></th> <!续航里程>
