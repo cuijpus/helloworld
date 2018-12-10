@@ -101,12 +101,18 @@
         <th><a href = "https://baike.baidu.com/item/%E6%B2%88%E6%99%96/6873214?fr=aladdin">沈晖</a> </th> <!创始人>
         <th>菲亚特<br>沃尔沃</th> <!前置创业>
         <th>2015.01</th> <!哪年成立>
-        <th></th> <!融资>
-        <th></th> <!产品>
+        <th>
+            <a href = "https://baijiahao.baidu.com/s?id=1596409870608684271&wfr=spider&for=pc">~200亿</a>
+        </th> <!融资>
+        <th>
+            <a href = "https://baijiahao.baidu.com/s?id=1598333565637512204&wfr=spider&for=pc">'18.10 EX5发布</a>
+        </th> <!产品>
         <th>
             <a href = "http://www.cheyun.com/content/18722">Mobileye</a>
         </th> <!自动驾驶>
-        <th></th> <!代工or自建> 
+        <th>
+            <a href = "https://baijiahao.baidu.com/s?id=1596248399615011634&wfr=spider&for=pc">温州工厂</a>
+        </th> <!代工or自建> 
         <th></th> <!交付能力>
     </tr>  
     <tr>
