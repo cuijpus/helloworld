@@ -39,14 +39,16 @@
         <th>比亚迪·秦<br>比亚迪·唐<br>上汽荣威eRX5<BR>宝马5混动<BR></th> <!代表车型>
     </tr>   
     <tr>
-        <th>油电混合动力汽车（HEV）</th>
+        <th>
+            <a href = "https://baike.baidu.com/item/%E6%B7%B7%E5%90%88%E5%8A%A8%E5%8A%9B%E6%B1%BD%E8%BD%A6/429082">油电混合动力汽车（HEV）</th>
         <th>N</th> <!要充电?>
         <th>Y</th> <!要加油?>
-        <th></th> <!续航里程>
+        <th>解决油耗问题<br>但购车成本高</th> <!续航里程>
         <th>雷克萨斯混动<br>凯美瑞双擎<br>卡罗拉双擎<BR>雷凌双擎<BR>本田雅阁锐混动</th> <!代表车型>
     </tr> 
     <tr>
-        <th>增程式电动汽车（EREV）</th>
+        <th>
+            <a href = "https://baijiahao.baidu.com/s?id=1616877353213635882&wfr=spider&for=pc">增程式电动汽车（EREV）</th>
         <th>N</th> <!要充电?>
         <th>Y</th> <!要加油?>
         <th></th> <!续航里程>
