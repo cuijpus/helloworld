@@ -51,7 +51,7 @@
         <th><a href = "https://www.singulato.com/">奇点汽车</a> </th>
         <th><a href = "https://baike.baidu.com/item/%E6%B2%88%E6%B5%B7%E5%AF%85/9325341?fr=aladdin">沈海寅</a> </th> <!创始人>
         <th>日本创业<br>金山日本<br>奇虎360</th> <!前置创业>
-        <th></th> <!哪年成立>
+        <th>2014.12</th> <!哪年成立>
         <th></th> <!融资>
         <th></th> <!产品>
         <th></th> <!自动驾驶合作方>
@@ -71,8 +71,8 @@
     </tr>      
     <tr>
         <th><a href = "http://www.wm-motor.com/">威马汽车</a> </th>
-        <th></th> <!创始人>
-        <th></th> <!前置创业>
+        <th>沈晖</th> <!创始人>
+        <th>菲亚特<br>沃尔沃</th> <!前置创业>
         <th>2015.01</th> <!哪年成立>
         <th></th> <!融资>
         <th></th> <!产品>
