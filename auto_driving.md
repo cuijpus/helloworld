@@ -70,10 +70,15 @@
         <th><a href = "https://baike.baidu.com/item/%E6%B2%88%E6%B5%B7%E5%AF%85/9325341?fr=aladdin">沈海寅</a> </th> <!创始人>
         <th>日本创业<br>金山日本<br>奇虎360</th> <!前置创业>
         <th>2014.12</th> <!哪年成立>
-        <th></th> <!融资>
+        <th>
+            <a href = "http://www.sohu.com/a/229638480_115542">~170亿</a>
+        </th> <!融资>
         <th></th> <!产品>
         <th></th> <!充电方案>
-        <th></th> <!代工or自建> 
+        <th>
+            <a href = "https://www.autohome.com.cn/news/201811/924385.html">北汽合作</a><br>
+            <a href = "http://www.maiche.com/news/detail/1360937.html">铜陵工厂</a>
+        </th> <!代工or自建> 
         <th></th> <!交付能力>
     </tr>     
     <tr>
