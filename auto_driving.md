@@ -22,7 +22,7 @@
         <th>哪年成立</th>
         <th>融资</th>
         <th>产品</th>
-        <th>自动驾驶方案</th>
+        <th>自动驾驶</th>
         <th>代工or自建</th>
         <th>交付能力</th>
     </tr>
@@ -39,8 +39,8 @@
             <a href = "http://auto.sina.com.cn/j_kandian.d.html?docid=fypwzxq4138296&subch=nauto">'17.12ES8发布</a>
         </th> <!产品>
         <th>
-            <a href = "https://baijiahao.baidu.com/s?id=1587041227048811403&wfr=spider&for=pc">5方案</a>
-        </th> <!充电方案>
+            <a href = "http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/lastest/rptid/4026388/index.phtml">Mobileye</a>
+        </th> <!自动驾驶>
         <th>
             <a href = "https://baijiahao.baidu.com/s?id=1615474558058458971&wfr=spider&for=pc">江淮合建</a><br>
             <a href = "https://www.sohu.com/a/272210564_122197">上海自建</a>
@@ -58,7 +58,7 @@
             <a href = "https://www.iyiou.com/p/78229.html">~100亿</a>
         </th> <!融资>
         <th>双12发布</th> <!产品>
-        <th></th> <!充电方案>
+        <th></th> <!自动驾驶>
         <th>
             <a href = "http://www.cheyun.com/content/17255">郑州海马</a><br>
             <a href = "http://www.sohu.com/a/233951776_571508">肇庆工厂</a>
@@ -76,7 +76,7 @@
         <th>
             <a href = "http://www.cheyun.com/content/15789">'17.4 iS6发布</a>
         </th> <!产品>
-        <th></th> <!充电方案>
+        <th></th> <!自动驾驶>
         <th>
             <a href = "https://www.autohome.com.cn/news/201811/924385.html">北汽合作</a><br>
             <a href = "http://www.maiche.com/news/detail/1360937.html">铜陵工厂</a>
@@ -90,7 +90,7 @@
         <th>2015.07</th> <!哪年成立>
         <th></th> <!融资>
         <th></th> <!产品>
-        <th></th> <!充电方案>
+        <th></th> <!自动驾驶>
         <th></th> <!代工or自建> 
         <th></th> <!交付能力>
     </tr>      
@@ -101,7 +101,7 @@
         <th>2015.01</th> <!哪年成立>
         <th></th> <!融资>
         <th></th> <!产品>
-        <th></th> <!充电方案>
+        <th></th> <!自动驾驶>
         <th></th> <!代工or自建> 
         <th></th> <!交付能力>
     </tr>  
@@ -112,7 +112,7 @@
         <th></th> <!哪年成立>
         <th>B轮5亿$</th> <!融资>
         <th></th> <!产品>
-        <th></th> <!充电方案>
+        <th></th> <!自动驾驶>
         <th></th> <!代工or自建> 
         <th></th> <!交付能力>
     </tr>     
@@ -228,3 +228,10 @@
 2018.4.4[AI芯片独角兽寒武纪新融资完成：估值逾20亿美元，国家队基金入场](https://www.sohu.com/a/227268968_610300)<br>
 [一文读懂寒武纪国内首款云端芯片,这块芯片有何用途](https://baijiahao.baidu.com/s?id=1618371531307958578&wfr=spider&for=pc)<br>
 [中国芯片界黑马的诞生：成立当年业务收入过亿，华为都找它合作](https://baijiahao.baidu.com/s?id=1617755542012568249&wfr=spider&for=pc)<br>
+
+## Mobileye
+
+# 驾驶算法
+[本土化ADAS被Mobileye甩出了一条街？突破可能还在算法公司 ](http://www.cheyun.com/content/9677)<br>
+
+
