@@ -58,7 +58,9 @@
             <a href = "https://www.iyiou.com/p/78229.html">~100亿</a>
         </th> <!融资>
         <th>双12发布</th> <!产品>
-        <th></th> <!自动驾驶>
+        <th> 
+            <a href = "http://www.realli.net/archives/11783">Mobileye</a>
+        </th> <!自动驾驶>
         <th>
             <a href = "http://www.cheyun.com/content/17255">郑州海马</a><br>
             <a href = "http://www.sohu.com/a/233951776_571508">肇庆工厂</a>
@@ -101,7 +103,9 @@
         <th>2015.01</th> <!哪年成立>
         <th></th> <!融资>
         <th></th> <!产品>
-        <th></th> <!自动驾驶>
+        <th>
+            <a href = "http://www.cheyun.com/content/18722">Mobileye</a>
+        </th> <!自动驾驶>
         <th></th> <!代工or自建> 
         <th></th> <!交付能力>
     </tr>  
