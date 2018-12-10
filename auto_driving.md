@@ -71,7 +71,7 @@
     </tr>      
     <tr>
         <th><a href = "http://www.wm-motor.com/">威马汽车</a> </th>
-        <th>沈晖</th> <!创始人>
+        <th><a href = "https://baike.baidu.com/item/%E6%B2%88%E6%99%96/6873214?fr=aladdin">沈晖</a> </th> <!创始人>
         <th>菲亚特<br>沃尔沃</th> <!前置创业>
         <th>2015.01</th> <!哪年成立>
         <th></th> <!融资>
@@ -82,10 +82,10 @@
     </tr>  
     <tr>
         <th><a href = "https://www.byton.cn/">拜腾汽车</a> </th>
-        <th></th> <!创始人>
+        <th>毕福康<br>戴雷</th> <!创始人>
         <th></th> <!前置创业>
         <th></th> <!哪年成立>
-        <th></th> <!融资>
+        <th>2018.06 B轮 5亿$</th> <!融资>
         <th></th> <!产品>
         <th></th> <!自动驾驶合作方>
         <th></th> <!产品上市>
