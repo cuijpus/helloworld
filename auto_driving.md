@@ -114,7 +114,8 @@
             <a href = "https://baijiahao.baidu.com/s?id=1596409870608684271&wfr=spider&for=pc">~200亿</a>
         </th> <!融资>
         <th>
-            <a href = "https://baijiahao.baidu.com/s?id=1598333565637512204&wfr=spider&for=pc">'18.10 EX5发布</a>
+            <a href = "https://baijiahao.baidu.com/s?id=1598333565637512204&wfr=spider&for=pc">'18.10 EX5发布</a> <br>
+            交付：9.28 
         </th> <!产品>
         <th>
             <a href = "http://www.cheyun.com/content/18722">Mobileye</a>
