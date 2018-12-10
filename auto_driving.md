@@ -40,7 +40,7 @@
         <th><a href = "https://www.xiaopeng.com/">小鹏汽车</a> </th>
         <th><a href = "https://baike.baidu.com/item/%E4%BD%95%E5%B0%8F%E9%B9%8F/5646196?fr=aladdin">何小鹏 </a> </th> <!创始人>
         <th>UC,阿里收购</th> <!前置创业>
-        <th>2014<br>2017<br>小鹏加入</th> <!哪年成立>
+        <th>2014<br>'17<br>小鹏CEO</th> <!哪年成立>
         <th></th> <!融资>
         <th></th> <!产品>
         <th></th> <!自动驾驶合作方>
