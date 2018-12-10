@@ -73,7 +73,9 @@
         <th>
             <a href = "http://www.sohu.com/a/229638480_115542">~170亿</a>
         </th> <!融资>
-        <th></th> <!产品>
+        <th>
+            <a href = "http://www.cheyun.com/content/15789">'17.4 iS6发布</a>
+        </th> <!产品>
         <th></th> <!充电方案>
         <th>
             <a href = "https://www.autohome.com.cn/news/201811/924385.html">北汽合作</a><br>
@@ -116,6 +118,7 @@
     </tr>     
 </table>
 
+2018.6 [2018年5家新造车企业“交付”规划一览 ](https://www.autohome.com.cn/news/201806/918591-2.html?pvareaid=3311700)<br>
 
 [融资规模超420亿！ 6大造车新势力“钱程似锦”](http://auto.zjol.com.cn/zjcw/xyzx/201803/t20180309_6757519.shtml)<br>
 [为什么蔚来、威马、拜腾都认为自己造电动车比传统车企有优势？ ](https://chejiahao.autohome.com.cn/info/2184105/)<br>
