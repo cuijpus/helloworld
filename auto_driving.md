@@ -12,6 +12,41 @@
 [2016年车联网及自动驾驶行业研究报告（2）](https://www.sohu.com/a/207199778_355061)<br>
 
 # 新锐造车力量
+
+<table>
+    <tr>
+        <th></th>
+        <th>品牌</th> <!注释>
+        <th>创始人</th> 
+        <th>哪年成立</th>
+        <th>融资</th>
+        <th>产品</th>
+        <th>自动驾驶合作方</th>
+        <th>工作</th>
+    </tr>
+    <tr>
+        <th><a href = "https://baike.baidu.com/item/%E5%B0%8F%E7%88%B1%E5%90%8C%E5%AD%A6/22047751?fr=aladdin">小爱同学</a> </th>
+        <th></th> <!何时发布>
+        <th></th> <!主要功能>
+        <th></th> <!背后语音>
+        <th></th> <!服务扩展>
+        <th></th> <!生态>
+        <th></th> <!市占率>
+        <th></th> <!能力级别>
+    </tr>    
+    <tr>
+        <th>天猫精灵</th>
+        <th></th> <!何时发布>
+        <th></th> <!主要功能>
+        <th></th> <!背后语音>
+        <th></th> <!服务扩展>
+        <th></th> <!生态>
+        <th></th> <!市占率>
+        <th></th> <!能力级别>
+    </tr>  
+</table>
+
+
 [融资规模超420亿！ 6大造车新势力“钱程似锦”](http://auto.zjol.com.cn/zjcw/xyzx/201803/t20180309_6757519.shtml)<br>
 [为什么蔚来、威马、拜腾都认为自己造电动车比传统车企有优势？ ](https://chejiahao.autohome.com.cn/info/2184105/)<br>
 [盘点10家新造车势力融资情况：能够活下来的只有3-4家](http://auto.qq.com/a/20180103/002307.htm)<br>
