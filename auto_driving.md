@@ -90,10 +90,18 @@
         <th><a href = "https://baike.baidu.com/item/%E6%9D%8E%E6%83%B3/7774?fr=aladdin">李想 </a> </th> <!创始人>
         <th>泡泡网<br>汽车之家<br>平安收购</th> <!前置创业>
         <th>2015.07</th> <!哪年成立>
-        <th></th> <!融资>
-        <th></th> <!产品>
-        <th></th> <!自动驾驶>
-        <th></th> <!代工or自建> 
+        <th>
+            <a href = "https://baijiahao.baidu.com/s?id=1595638136446489291&wfr=spider&for=pc">~60亿</a>
+        </th> <!融资>
+        <th>
+            <a href = "https://www.iyiou.com/t/chehejia/">'18.10发布ONE</a>
+        </th> <!产品>
+        <th>
+            <a href = "http://www.sohu.com/a/270125923_146550">Mobileye</a>
+        </th> <!自动驾驶>
+        <th>
+            <a href = "http://news.bitauto.com/hao/wenzhang/926306">力帆合作</a>
+        </th> <!代工or自建> 
         <th></th> <!交付能力>
     </tr>      
     <tr>
