@@ -15,14 +15,14 @@
 
 <table>
     <tr>
-        <th></th>
-        <th>品牌</th> <!注释>
+        <th>品牌</th>
         <th>创始人</th> 
         <th>哪年成立</th>
         <th>融资</th>
         <th>产品</th>
         <th>自动驾驶合作方</th>
-        <th>工作</th>
+        <th>产品上市</th>
+        <th>交付能力</th>
     </tr>
     <tr>
         <th><a href = "https://baike.baidu.com/item/%E5%B0%8F%E7%88%B1%E5%90%8C%E5%AD%A6/22047751?fr=aladdin">小爱同学</a> </th>
