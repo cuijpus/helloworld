@@ -31,7 +31,7 @@
         <th>易车网<br>易鑫国际<br>蔚来汽车</th> <!前置创业>
         <th>2014.11</th> <!哪年成立>
         <th>
-            <a href = "http://www.chinaz.com/start/2018/0323/866764.shtml">大于150亿</a> <br>
+            <a href = "http://www.chinaz.com/start/2018/0323/866764.shtml">~150亿,</a> <br>
             <a href = "https://baijiahao.baidu.com/s?id=1611455158533275143&wfr=spider&for=pc">IPO上市</a>
         </th> <!融资>
         <th>
