@@ -27,7 +27,7 @@
             <a href = "https://baike.baidu.com/item/EV%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6/680550">纯电动汽车(EV)<br>
             (100%电驱动)
         </th>
-        <th>Y</th> <!要充电?>
+        <th>Y 依赖</th> <!要充电?>
         <th>/</th> <!要加油?>
         <th>夏天：350里<br>冬天:200公里</th> <!续航里程>
         <th>特斯拉<br>比亚迪E<br>吉利E<BR>北汽E<BR><br>蔚来<br>奇点<br>小鹏<br>威马<br>拜腾</th> <!代表车型>
@@ -37,7 +37,7 @@
             <a href = "https://baike.baidu.com/item/%E6%8F%92%E7%94%B5%E5%BC%8F%E6%B7%B7%E5%90%88%E5%8A%A8%E5%8A%9B%E6%B1%BD%E8%BD%A6/1401595?fr=aladdin">插电式混合动力汽车(PHEV) <br>
             (以电为主)                
         </th>
-        <th>Y</th> <!要充电?>
+        <th>Y 常用</th> <!要充电?>
         <th>Y</th> <!要加油?>
         <th>
             上下班通勤，纯电：50公里<br>
@@ -52,7 +52,7 @@
             (以油为主,辅以节油)
         </th>
         <th>/</th> <!要充电?>
-        <th>Y</th> <!要加油?>
+        <th>Y 依赖</th> <!要加油?>
         <th>
             纯电：几公里<br>
             起步或<40码，用电动机:<br>
