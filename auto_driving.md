@@ -37,7 +37,7 @@
         </th> <!融资>
         <th>
             <a href = "http://auto.sina.com.cn/j_kandian.d.html?docid=fypwzxq4138296&subch=nauto">'17.12ES8发布</a><br>
-            外部交付：6.28
+            交付：6.28
         </th> <!产品>
         <th>
             <a href = "http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/lastest/rptid/4026388/index.phtml">Mobileye</a>
