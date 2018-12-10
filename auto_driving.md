@@ -61,7 +61,7 @@
     <tr>
         <th><a href = "www.chehejia.com/">车和家</a> </th>
         <th><a href = "https://baike.baidu.com/item/%E6%9D%8E%E6%83%B3/7774?fr=aladdin">李想 </a> </th> <!创始人>
-        <th></th> <!前置创业>
+        <th>泡泡网<br>汽车之家<br>平安收购</th> <!前置创业>
         <th></th> <!哪年成立>
         <th></th> <!融资>
         <th></th> <!产品>
