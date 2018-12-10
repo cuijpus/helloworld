@@ -24,7 +24,9 @@
     </tr>
     <tr>
         <th>
-            <a href = "https://baike.baidu.com/item/EV%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6/680550">纯电动汽车(EV)</th>
+            <a href = "https://baike.baidu.com/item/EV%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6/680550">纯电动汽车(EV)<br>
+            (100%电驱动)
+        </th>
         <th>Y</th> <!要充电?>
         <th>/</th> <!要加油?>
         <th>夏天：350里<br>冬天:200公里</th> <!续航里程>
@@ -32,10 +34,12 @@
     </tr>    
     <tr>
         <th>
-            <a href = "https://baike.baidu.com/item/%E6%8F%92%E7%94%B5%E5%BC%8F%E6%B7%B7%E5%90%88%E5%8A%A8%E5%8A%9B%E6%B1%BD%E8%BD%A6/1401595?fr=aladdin">插电式混合动力汽车(PHEV)</th>
+            <a href = "https://baike.baidu.com/item/%E6%8F%92%E7%94%B5%E5%BC%8F%E6%B7%B7%E5%90%88%E5%8A%A8%E5%8A%9B%E6%B1%BD%E8%BD%A6/1401595?fr=aladdin">插电式混合动力汽车(PHEV) <br>
+            (以电为主)                
+        </th>
         <th>Y</th> <!要充电?>
         <th>Y</th> <!要加油?>
-        <th>以电为主:<br>
+        <th>
             上下班通勤，纯电：50公里<br>
             回到家充电，大部分时间是电动车<br><br>
             没电时：烧油，不怕没电趴窝<br>
@@ -44,10 +48,12 @@
     </tr>   
     <tr>
         <th>
-            <a href = "https://baike.baidu.com/item/%E6%B7%B7%E5%90%88%E5%8A%A8%E5%8A%9B%E6%B1%BD%E8%BD%A6/429082">油电混合动力汽车（HEV）</th>
+            <a href = "https://baike.baidu.com/item/%E6%B7%B7%E5%90%88%E5%8A%A8%E5%8A%9B%E6%B1%BD%E8%BD%A6/429082">油电混合动力汽车（HEV）<br>
+            (以油为主,辅以节油)
+        </th>
         <th>/</th> <!要充电?>
         <th>Y</th> <!要加油?>
-        <th>以油为主,辅以节油<br>
+        <th>
             纯电：几公里<br>
             起步或<40码，用电动机:<br>
             解决起步油耗问题<br><br>
