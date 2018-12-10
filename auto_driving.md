@@ -49,7 +49,7 @@
     <tr>
         <th>
             <a href = "https://baijiahao.baidu.com/s?id=1616877353213635882&wfr=spider&for=pc">增程式电动汽车（EREV）</th>
-        <th>N</th> <!要充电?>
+        <th>Y</th> <!要充电?>
         <th>Y</th> <!要加油?>
         <th></th> <!续航里程>
         <th>宝马i3增程版<br>广汽传祺GA5增程版<br>车和家ONE</th> <!代表车型>
