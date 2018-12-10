@@ -22,8 +22,8 @@
         <th>哪年成立</th>
         <th>融资</th>
         <th>产品</th>
-        <th>自动驾驶</th>
         <th>充电方案</th>
+        <th>代工or自建</th>
         <th>交付能力</th>
     </tr>
     <tr>
@@ -39,11 +39,9 @@
             <a href = "http://auto.sina.com.cn/j_kandian.d.html?docid=fypwzxq4138296&subch=nauto">'17.12ES8发布</a>
         </th> <!产品>
         <th>
-            <a href = "http://www.eefocus.com/automobile-electronics/399151">MobileEye</a>
-        </th> <!自动驾驶合作方>
-        <th>
             <a href = "https://baijiahao.baidu.com/s?id=1587041227048811403&wfr=spider&for=pc">5方案</a>
         </th> <!充电方案>
+        <th></th> <!代工or自建>        
         <th></th> <!交付能力>
     </tr>    
     <tr>
@@ -53,8 +51,8 @@
         <th>2014<br>'17<br>小鹏CEO</th> <!哪年成立>
         <th></th> <!融资>
         <th></th> <!产品>
-        <th></th> <!自动驾驶合作方>
         <th></th> <!充电方案>
+        <th></th> <!代工or自建> 
         <th></th> <!交付能力>
     </tr>  
     <tr>
@@ -64,8 +62,8 @@
         <th>2014.12</th> <!哪年成立>
         <th></th> <!融资>
         <th></th> <!产品>
-        <th></th> <!自动驾驶合作方>
         <th></th> <!充电方案>
+        <th></th> <!代工or自建> 
         <th></th> <!交付能力>
     </tr>     
     <tr>
@@ -75,8 +73,8 @@
         <th>2015.07</th> <!哪年成立>
         <th></th> <!融资>
         <th></th> <!产品>
-        <th></th> <!自动驾驶合作方>
         <th></th> <!充电方案>
+        <th></th> <!代工or自建> 
         <th></th> <!交付能力>
     </tr>      
     <tr>
@@ -86,8 +84,8 @@
         <th>2015.01</th> <!哪年成立>
         <th></th> <!融资>
         <th></th> <!产品>
-        <th></th> <!自动驾驶合作方>
         <th></th> <!充电方案>
+        <th></th> <!代工or自建> 
         <th></th> <!交付能力>
     </tr>  
     <tr>
@@ -97,8 +95,8 @@
         <th></th> <!哪年成立>
         <th>B轮5亿$</th> <!融资>
         <th></th> <!产品>
-        <th></th> <!自动驾驶合作方>
         <th></th> <!充电方案>
+        <th></th> <!代工or自建> 
         <th></th> <!交付能力>
     </tr>     
 </table>
