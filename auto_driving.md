@@ -45,7 +45,7 @@
     <tr>
         <th>
             <a href = "https://baike.baidu.com/item/%E6%B7%B7%E5%90%88%E5%8A%A8%E5%8A%9B%E6%B1%BD%E8%BD%A6/429082">油电混合动力汽车（HEV）</th>
-        <th>N</th> <!要充电?>
+        <th>/</th> <!要充电?>
         <th>Y</th> <!要加油?>
         <th>以油为主,辅以节油<br>
             纯电：几公里<br>
