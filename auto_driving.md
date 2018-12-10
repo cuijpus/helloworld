@@ -56,6 +56,8 @@
     </tr>               
 </table>
 
+![比较一下](https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=2968903046,2610452232&fm=173&app=49&f=JPEG?w=640&h=320&s=CAA7A90A8D624E8004516CC90300A0B2)<br>
+
 
 # 新锐造车力量
 
