@@ -1,3 +1,6 @@
+# 研报
+[美国公布《2017-2045年新兴科技趋势报告》 ](http://blog.sciencenet.cn/blog-2471219-1091006.html)<br>
+
 
 # IoT Landscape (2018, W/W)
 总览图 http://mattturck.com/wp-content/uploads/2018/02/2018_Matt_Turck_IoT_Landscape_Final.png <br>
