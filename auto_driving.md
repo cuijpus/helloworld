@@ -29,7 +29,7 @@
         <th><a href = "https://www.nio.com/">蔚来汽车</a> </th>
         <th><a href = "https://baike.baidu.com/item/%E6%9D%8E%E6%96%8C/3910111">李斌 </a> </th> <!创始人>
         <th>易车网<br>易鑫国际<br>蔚来汽车</th> <!前置创业>
-        <th></th> <!哪年成立>
+        <th>2014</th> <!哪年成立>
         <th></th> <!融资>
         <th></th> <!产品>
         <th></th> <!自动驾驶合作方>
@@ -40,7 +40,7 @@
         <th><a href = "https://www.xiaopeng.com/">小鹏汽车</a> </th>
         <th><a href = "https://baike.baidu.com/item/%E4%BD%95%E5%B0%8F%E9%B9%8F/5646196?fr=aladdin">何小鹏 </a> </th> <!创始人>
         <th>UC,阿里收购</th> <!前置创业>
-        <th></th> <!哪年成立>
+        <th>2017</th> <!哪年成立>
         <th></th> <!融资>
         <th></th> <!产品>
         <th></th> <!自动驾驶合作方>
@@ -62,7 +62,7 @@
         <th><a href = "www.chehejia.com/">车和家</a> </th>
         <th><a href = "https://baike.baidu.com/item/%E6%9D%8E%E6%83%B3/7774?fr=aladdin">李想 </a> </th> <!创始人>
         <th>泡泡网<br>汽车之家<br>平安收购</th> <!前置创业>
-        <th></th> <!哪年成立>
+        <th>2015.07</th> <!哪年成立>
         <th></th> <!融资>
         <th></th> <!产品>
         <th></th> <!自动驾驶合作方>
@@ -73,7 +73,7 @@
         <th><a href = "http://www.wm-motor.com/">威马汽车</a> </th>
         <th></th> <!创始人>
         <th></th> <!前置创业>
-        <th></th> <!哪年成立>
+        <th>2015.01</th> <!哪年成立>
         <th></th> <!融资>
         <th></th> <!产品>
         <th></th> <!自动驾驶合作方>
