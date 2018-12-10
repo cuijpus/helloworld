@@ -46,7 +46,7 @@
     </tr>  
     <tr>
         <th><a href = "https://www.singulato.com/">奇点汽车</a> </th>
-        <th></th> <!创始人>
+        <th><a href = "https://baike.baidu.com/item/%E6%B2%88%E6%B5%B7%E5%AF%85/9325341?fr=aladdin">沈海寅</a> </th> <!创始人>
         <th></th> <!哪年成立>
         <th></th> <!融资>
         <th></th> <!产品>
