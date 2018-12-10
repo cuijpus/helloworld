@@ -29,7 +29,7 @@
         <th><a href = "https://www.nio.com/">蔚来汽车</a> </th>
         <th><a href = "https://baike.baidu.com/item/%E6%9D%8E%E6%96%8C/3910111">李斌 </a> </th> <!创始人>
         <th>易车网<br>易鑫国际<br>蔚来汽车</th> <!前置创业>
-        <th>2014</th> <!哪年成立>
+        <th>2014.11</th> <!哪年成立>
         <th></th> <!融资>
         <th></th> <!产品>
         <th></th> <!自动驾驶合作方>
