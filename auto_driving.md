@@ -35,8 +35,12 @@
             <a href = "http://www.chinaz.com/start/2018/0323/866764.shtml">大于150亿</a> <br>
             <a href = "https://baijiahao.baidu.com/s?id=1611455158533275143&wfr=spider&for=pc">IPO上市</a>
         </th> <!融资>
-        <th></th> <!产品>
-        <th></th> <!自动驾驶合作方>
+        <th>
+            <a href = "http://auto.sina.com.cn/j_kandian.d.html?docid=fypwzxq4138296&subch=nauto">ES8发布</a>
+        </th> <!产品>
+        <th>
+            <a href = "http://www.eefocus.com/automobile-electronics/399151">MobileEye</a>
+        </th> <!自动驾驶合作方>
         <th></th> <!产品上市>
         <th></th> <!交付能力>
     </tr>    
