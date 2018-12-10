@@ -44,6 +44,46 @@
         <th></th> <!产品上市>
         <th></th> <!交付能力>
     </tr>  
+    <tr>
+        <th><a href = "https://www.singulato.com/">奇点汽车</a> </th>
+        <th></th> <!创始人>
+        <th></th> <!哪年成立>
+        <th></th> <!融资>
+        <th></th> <!产品>
+        <th></th> <!自动驾驶合作方>
+        <th></th> <!产品上市>
+        <th></th> <!交付能力>
+    </tr>     
+    <tr>
+        <th><a href = "http://www.wm-motor.com/">威马汽车</a> </th>
+        <th></th> <!创始人>
+        <th></th> <!哪年成立>
+        <th></th> <!融资>
+        <th></th> <!产品>
+        <th></th> <!自动驾驶合作方>
+        <th></th> <!产品上市>
+        <th></th> <!交付能力>
+    </tr>  
+    <tr>
+        <th><a href = "www.chehejia.com/">车和家</a> </th>
+        <th></th> <!创始人>
+        <th></th> <!哪年成立>
+        <th></th> <!融资>
+        <th></th> <!产品>
+        <th></th> <!自动驾驶合作方>
+        <th></th> <!产品上市>
+        <th></th> <!交付能力>
+    </tr>    
+    <tr>
+        <th><a href = "https://www.byton.cn/">拜腾汽车</a> </th>
+        <th></th> <!创始人>
+        <th></th> <!哪年成立>
+        <th></th> <!融资>
+        <th></th> <!产品>
+        <th></th> <!自动驾驶合作方>
+        <th></th> <!产品上市>
+        <th></th> <!交付能力>
+    </tr>     
 </table>
 
 
