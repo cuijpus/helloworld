@@ -41,7 +41,9 @@
         <th>
             <a href = "http://www.eefocus.com/automobile-electronics/399151">MobileEye</a>
         </th> <!自动驾驶合作方>
-        <th></th> <!充电方案>
+        <th>
+            <a href = "https://baijiahao.baidu.com/s?id=1587041227048811403&wfr=spider&for=pc">5方案</a>
+        </th> <!充电方案>
         <th></th> <!交付能力>
     </tr>    
     <tr>
