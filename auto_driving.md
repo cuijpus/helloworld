@@ -54,10 +54,15 @@
         <th><a href = "https://baike.baidu.com/item/%E4%BD%95%E5%B0%8F%E9%B9%8F/5646196?fr=aladdin">何小鹏 </a> </th> <!创始人>
         <th>UC,阿里收购</th> <!前置创业>
         <th>2014<br>'17<br>小鹏CEO</th> <!哪年成立>
-        <th></th> <!融资>
-        <th></th> <!产品>
+        <th>
+            <a href = "https://www.iyiou.com/p/78229.html">~100亿</a>
+        </th> <!融资>
+        <th>双12发布</th> <!产品>
         <th></th> <!充电方案>
-        <th></th> <!代工or自建> 
+        <th>
+            <a href = "http://www.cheyun.com/content/17255">郑州海马</a><br>
+            <a href = "http://www.sohu.com/a/233951776_571508">肇庆工厂</a>
+        </th> <!代工or自建> 
         <th></th> <!交付能力>
     </tr>  
     <tr>
