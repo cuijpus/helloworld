@@ -103,7 +103,7 @@ HEV:<BR>
 ![HEV](https://n.sinaimg.cn/sinacn17/152/w640h312/20180520/cbd3-haturft3011094.jpg)<BR>
     
 
-# 传统车企_新能源（EV）
+# 传统车企_新能源（EV/PHEV）
 <table>
     <tr>
         <th>品牌</th>
