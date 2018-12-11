@@ -103,7 +103,7 @@ HEV:<BR>
 ![HEV](https://n.sinaimg.cn/sinacn17/152/w640h312/20180520/cbd3-haturft3011094.jpg)<BR>
     
 
-# 传统车企（EV）
+# 传统车企_新能源（EV）
 <table>
     <tr>
         <th>品牌</th>
@@ -114,7 +114,36 @@ HEV:<BR>
         <th>自动驾驶</th>
         <th>驾驶质感</th>
     </tr>
+    <tr>
+        <th>北汽</th>
+        <th></th> <!车型>
+        <th></th> <!价格>
+        <th></th> <!续航里程>
+        <th></th> <!车载系统>
+        <th></th> <!自动驾驶>
+        <th></th> <!驾驶质感>
+    </tr>     
+    <tr>
+        <th>比亚迪</th>
+        <th></th> <!车型>
+        <th></th> <!价格>
+        <th></th> <!续航里程>
+        <th></th> <!车载系统>
+        <th></th> <!自动驾驶>
+        <th></th> <!驾驶质感>
+    </tr>  
+    <tr>
+        <th>吉利</th>
+        <th></th> <!车型>
+        <th></th> <!价格>
+        <th></th> <!续航里程>
+        <th></th> <!车载系统>
+        <th></th> <!自动驾驶>
+        <th></th> <!驾驶质感>
+    </tr>      
 </table>
+
+![新能源销量](https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=1826594447,2024090572&fm=173&app=25&f=JPEG?w=640&h=391&s=8DA25D329787794B587869D30000C0B2)<br>
 
 # 新锐造车力量(EV)
 <table>
