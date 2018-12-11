@@ -319,7 +319,7 @@
         <th>客户/行业</th>
     </tr>
     <tr>
-        <th>小爱同学</th>
+        <th><a href = "http://www.syd3.com/">三易达科技</a> </th>
         <th></th> <!何时发布>
         <th></th> <!主要功能>
         <th></th> <!背后语音>
