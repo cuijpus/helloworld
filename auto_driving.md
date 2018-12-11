@@ -272,6 +272,64 @@ HEV:<BR>
 ![1](https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=369096523,2075307846&fm=173&app=25&f=JPEG?w=640&h=480&s=969AA363F0ADD8AE99FD84DA030080B0)<br>
 ![2](https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=2464810404,212490908&fm=173&app=25&f=JPEG?w=640&h=459&s=D69AA361F42DD0AEC3F50DDA0300C0B0)<br>
 
+# 传统车企_新能源（HEV）
+<table>
+    <tr>
+        <th>品牌</th>
+        <th>车型</th> 
+        <th>价格</th>
+        <th>续航里程</th>
+        <th>电池质保</th>
+        <th>车载系统</th>
+        <th>驾驶质感</th>
+    </tr>
+    <tr>
+        <th>丰田</th>
+        <th>雷克萨斯混动</th> <!车型>
+        <th></th> <!价格>
+        <th></th> <!续航里程>
+        <th></th> <!电池质保>
+        <th></th> <!车载系统>
+        <th></th> <!驾驶质感>
+    </tr>     
+    <tr>
+        <th>丰田</th>
+        <th>凯美瑞双擎</th> <!车型>
+        <th></th> <!价格>
+        <th></th> <!续航里程>
+        <th></th> <!电池质保>
+        <th></th> <!车载系统>
+        <th></th> <!驾驶质感>
+    </tr>   
+    <tr>
+        <th>丰田</th>
+        <th>卡罗拉双擎</th> <!车型>
+        <th></th> <!价格>
+        <th></th> <!续航里程>
+        <th></th> <!电池质保>
+        <th></th> <!车载系统>
+        <th></th> <!驾驶质感>
+    </tr>     
+    <tr>
+        <th>丰田</th>
+        <th>雷凌双擎</th> <!车型>
+        <th></th> <!价格>
+        <th></th> <!续航里程>
+        <th></th> <!电池质保>
+        <th></th> <!车载系统>
+        <th></th> <!驾驶质感>
+    </tr>  
+    <tr>
+        <th>本田</th>
+        <th>本田雅阁锐混动</th> <!车型>
+        <th></th> <!价格>
+        <th></th> <!续航里程>
+        <th></th> <!电池质保>
+        <th></th> <!车载系统>
+        <th></th> <!驾驶质感>
+    </tr>     
+</table>
+
 # 新锐造车力量(EV)
 <table>
     <tr>
