@@ -539,15 +539,13 @@ HEV:<BR>
 >>[一文读懂特斯拉的发展历程 ](http://www.eefocus.com/automobile-electronics/413938/r0)<br>
 
 
-# 传统车企（PHEV）
-
-# 传统车企（HEV）
-
 
 
 # 驾驶芯片
 
+2018.12.10 比亚迪<br>
 2018.8.6[自动驾驶芯片：GPU 的现在和 ASIC 的未来](https://baijiahao.baidu.com/s?id=1608059303010189478&wfr=spider&for=pc)<br>
+
 
 
 [地平线](http://www.horizon.ai/)<br>
