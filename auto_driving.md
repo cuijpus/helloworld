@@ -224,7 +224,17 @@ HEV:<BR>
         <th></th> <!电池质保>
         <th></th> <!车载系统>
         <th></th> <!驾驶质感>
-    </tr>       
+    </tr>    
+    <tr>
+        <th>吉利</th>
+        <th>领克01 PHEV</th> <!车型>
+        <th>23~26</th> <!价格>
+        <th>20~23</th> <!补贴后价格>
+        <th>50KM</th> <!续航里程>
+        <th></th> <!电池质保>
+        <th></th> <!车载系统>
+        <th></th> <!驾驶质感>
+    </tr>      
     <tr>
         <th>荣威</th>
         <th>Ei6 PHEV</th> <!车型>
@@ -455,6 +465,7 @@ HEV:<BR>
     </tr>     
 </table>
 
+2018.7.27 [领克01 PHEV正式上市 售19.98-22.98万元](https://www.pcauto.com.cn/nation/1247/12477976.html)<br>
 2018.6 [2018年5家新造车企业“交付”规划一览 ](https://www.autohome.com.cn/news/201806/918591-2.html?pvareaid=3311700)<br>
 
 [融资规模超420亿！ 6大造车新势力“钱程似锦”](http://auto.zjol.com.cn/zjcw/xyzx/201803/t20180309_6757519.shtml)<br>
