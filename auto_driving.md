@@ -95,14 +95,13 @@
 EV/HEV/PHEV/EREV：<br>
 EV:<BR>
 ![EV](https://n.sinaimg.cn/sinacn17/81/w640h241/20180520/c173-haturft3011028.jpg)<br>
-HEV:<BR>
-![HEV](https://n.sinaimg.cn/sinacn17/152/w640h312/20180520/cbd3-haturft3011094.jpg)<BR>
 PHEV:<BR>
 ![PHEV](https://n.sinaimg.cn/sinacn17/155/w640h315/20180520/c3a3-haturft3011156.jpg)<BR>
 EREV:<BR>
 ![EREV](https://n.sinaimg.cn/sinacn17/156/w640h316/20180520/0702-haturft3011208.jpg)<BR>    
-
-
+HEV:<BR>
+![HEV](https://n.sinaimg.cn/sinacn17/152/w640h312/20180520/cbd3-haturft3011094.jpg)<BR>
+    
 
 # 新锐造车力量
 
