@@ -176,6 +176,7 @@
 
 2018.12.10 [华为荣耀在香港召开的是一场发布三项新技术的发布会](https://baijiahao.baidu.com/s?id=1619495896511490984&wfr=spider&for=pc)<br>
 荣耀不但亮出了包括Link Turbo全网络局和技术、魅眼全视屏技术(即之前习惯所称的屏幕挖孔)以及首发4800W像素的索尼IMX586传感器的三项技术<br>
+[荣耀连发三大革命技术 V20真机提前现身](https://baijiahao.baidu.com/s?id=1619453059649668691&wfr=spider&for=pc)<br>
 
 2018.12.10 [三星Galaxy A8s发布：黑瞳全视屏，三摄， Bixby，女性版本，张艺兴代言](https://baijiahao.baidu.com/s?id=1619475311584974073&wfr=spider&for=pc)<BR>
 2018.12.5 [外形震撼！vivo NEX双屏版正式官宣：正面完美 前后镜头合体 ](http://www.sohu.com/a/279729442_163726)<br>
