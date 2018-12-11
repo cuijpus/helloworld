@@ -310,6 +310,13 @@
 
 # 机器人
 
+http://www.imee.ai/ <br>
+小笨电话机器人 http://www.ibenrobot.com/robot.html <br>
+小笨服务机器人 （酒店，商场，机场，图书馆，电信场馆，)<br>
+https://www.ubtrobot.com/ <br>
+服务机器人联盟：http://www.csria.cn/ <br>
+[服务机器人成员](http://www.csria.cn/unionnew.aspx?name=%27%E8%81%94%E7%9B%9F%E6%88%90%E5%91%98%27)<br>
+
 # 语音融合通信(2B)
 [参考报告](http://www.caict.ac.cn/kxyj/qwfb/ztbg/201808/P020180810311330233167.pdf)<br>
 
