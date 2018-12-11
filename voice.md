@@ -333,28 +333,28 @@
         <th></th> <!服务扩展>
     </tr>  
     <tr>
-        <th>小度在家</th>
+        <th><a href = "http://www.dhztrobot.com/">大华中天科技有限公司</a> </th>
         <th></th> <!何时发布>
         <th></th> <!主要功能>
         <th></th> <!背后语音>
         <th></th> <!服务扩展>
     </tr>  
     <tr>
-        <th>腾讯听听</th>
+        <th><a href = "http://www.sxycrb.com/">东方金钰</a> </th>
         <th></th> <!何时发布>
         <th></th> <!主要功能>
         <th></th> <!背后语音>
         <th></th> <!服务扩展>
     </tr>
     <tr>
-        <th>京东叮咚</th>
+        <th><a href = "http://www.3lbot.com/">安徽三联机器人科技有限公司</a> </th>
         <th></th> <!何时发布>
         <th></th> <!主要功能>
         <th></th> <!背后语音>
         <th></th> <!服务扩展>
     </tr>    
     <tr>
-        <th>华为AI音箱</th>
+        <th><a href = "http://www.launchdigital.net/index.php">朗驰欣创</a></th>
         <th></th> <!何时发布>
         <th></th> <!主要功能>
         <th></th> <!背后语音>
