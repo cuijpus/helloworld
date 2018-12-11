@@ -103,7 +103,7 @@ HEV:<BR>
 ![HEV](https://n.sinaimg.cn/sinacn17/152/w640h312/20180520/cbd3-haturft3011094.jpg)<BR>
     
 
-# 新锐造车力量
+# 新锐造车力量(EV)
 
 <table>
     <tr>
