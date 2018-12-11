@@ -326,7 +326,7 @@
         <th></th> <!服务扩展>
     </tr>    
     <tr>
-        <th>天猫精灵</th>
+        <th><a href = "http://www.dfxh.com.cn">东方兴华</a> </th>
         <th></th> <!何时发布>
         <th></th> <!主要功能>
         <th></th> <!背后语音>
