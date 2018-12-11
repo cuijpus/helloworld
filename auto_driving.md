@@ -144,6 +144,9 @@ HEV:<BR>
 </table>
 
 ![新能源销量](https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=1826594447,2024090572&fm=173&app=25&f=JPEG?w=640&h=391&s=8DA25D329787794B587869D30000C0B2)<br>
+[1-8月全球电动车销量榜前20，其中国产车占了五成](https://baijiahao.baidu.com/s?id=1613041699574234295&wfr=spider&for=pc)<br>
+![1](https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=369096523,2075307846&fm=173&app=25&f=JPEG?w=640&h=480&s=969AA363F0ADD8AE99FD84DA030080B0)<br>
+![2](https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=2464810404,212490908&fm=173&app=25&f=JPEG?w=640&h=459&s=D69AA361F42DD0AEC3F50DDA0300C0B0)<br>
 
 # 新锐造车力量(EV)
 <table>
