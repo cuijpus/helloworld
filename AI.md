@@ -39,7 +39,7 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
         <th>zzz</th>
     </tr>
     <tr>
-        <th>动驾驶</th>
+        <th>自动驾驶</th>
         <th>百度</th> <!注释>
         <th> </th> 
         <th> </th>
