@@ -41,7 +41,9 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
     <tr>
         <th>自动驾驶</th>
         <th>百度</th> <!注释>
-        <th>Apollo自动驾驶平台</th> 
+        <th>
+            <a href = "http://apollo.auto/index_cn.html">Apollo自动驾驶平台</a> 
+        </th> 
         <th> </th>
         <th> </th>
     </tr>    
