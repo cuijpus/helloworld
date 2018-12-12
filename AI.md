@@ -50,7 +50,9 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
     <tr>
         <th>城市大脑</th>
         <th>阿里云</th> <!注释>
-        <th>ET城市大脑 </th> 
+        <th>
+            <a href = "https://et.aliyun.com/brain/city">ET城市大脑</a>
+        </th> 
         <th> </th>
         <th> </th>
     </tr>  
@@ -78,6 +80,8 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
 </table>
 
 2017.11.15 [科技部宣布四大新一代人工智能开放创新平台：BAT+科大讯飞](https://www.sohu.com/a/205189703_498760)<br>
+[阿里ET城市大脑（交通）白皮书](https://baijiahao.baidu.com/s?id=1605115951626995618&wfr=spider&for=pc)<br>
+
 
 # W/W巨头的AI战略
 
