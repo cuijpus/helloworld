@@ -28,6 +28,35 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
 2018.5.10 [《2018中国人工智能创新成长企业50强》榜单发布](http://www.ctoutiao.com/674770.html)<br>
 2016.10.18 [全球最值得关注的100家人工智能公司（中国27家）](http://www.cbdio.com/BigData/2016-10/18/content_5340504.htm)<br>
 
+# 科技部：国家新一代人工智能开放创新平台
+
+<table>
+    <tr>
+        <th>主题方向</th>
+        <th>依托公司</th> <!注释>
+        <th>xxx</th> 
+        <th>yyy</th>
+        <th>zzz</th>
+    </tr>
+    <tr>
+        <th>主题方向</th>
+        <th>依托公司</th> <!注释>
+        <th> </th> 
+        <th> </th>
+        <th> </th>
+    </tr>    
+    <tr>
+        <th>主题方向</th>
+        <th>依托公司</th> <!注释>
+        <th> </th> 
+        <th> </th>
+        <th> </th>
+    </tr>  
+</table>
+
+
+
+
 # 开源项目
 [Mobile AI Compute Engine (MACE) 是一个专为移动端异构计算平台优化的神经网络计算框架 ](https://github.com/xiaomi/mace)<br>
 [15 个开源的顶级人工智能工具](http://www.iteye.com/news/31877)<br>
