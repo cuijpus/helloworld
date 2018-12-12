@@ -174,6 +174,7 @@
     </tr>    
 </table>
 
+2018.12.11 [一环双屏三摄定江山 vivo NEX 双屏版评测](https://baijiahao.baidu.com/s?id=1619560876045546677&wfr=spider&for=pc)<br>
 短兵相接的PK：<BR>
 2018.12.10 [华为荣耀在香港召开的是一场发布三项新技术的发布会](https://baijiahao.baidu.com/s?id=1619495896511490984&wfr=spider&for=pc)<br>
 荣耀不但亮出了包括Link Turbo全网络局和技术、魅眼全视屏技术(即之前习惯所称的屏幕挖孔)以及首发4800W像素的索尼IMX586传感器的三项技术<br>
