@@ -28,7 +28,7 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
 2018.5.10 [《2018中国人工智能创新成长企业50强》榜单发布](http://www.ctoutiao.com/674770.html)<br>
 2016.10.18 [全球最值得关注的100家人工智能公司（中国27家）](http://www.cbdio.com/BigData/2016-10/18/content_5340504.htm)<br>
 
-# 科技部：国家新一代人工智能开放创新平台
+# 科技部：[国家新一代人工智能开放创新平台](https://baike.baidu.com/item/%E6%96%B0%E4%B8%80%E4%BB%A3%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BC%80%E6%94%BE%E5%88%9B%E6%96%B0%E5%B9%B3%E5%8F%B0/22245802?fr=aladdin)<br>
 
 <table>
     <tr>
@@ -39,29 +39,29 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
         <th>zzz</th>
     </tr>
     <tr>
-        <th>主题方向</th>
-        <th>依托公司</th> <!注释>
+        <th>动驾驶</th>
+        <th>百度</th> <!注释>
         <th> </th> 
         <th> </th>
         <th> </th>
     </tr>    
     <tr>
-        <th>主题方向</th>
-        <th>依托公司</th> <!注释>
+        <th>城市大脑</th>
+        <th>阿里云</th> <!注释>
         <th> </th> 
         <th> </th>
         <th> </th>
     </tr>  
     <tr>
-        <th>主题方向</th>
-        <th>依托公司</th> <!注释>
+        <th>医疗影像</th>
+        <th>腾讯</th> <!注释>
         <th> </th> 
         <th> </th>
         <th> </th>
     </tr>  
     <tr>
-        <th>主题方向</th>
-        <th>依托公司</th> <!注释>
+        <th>智能语音</th>
+        <th>科大讯飞</th> <!注释>
         <th> </th> 
         <th> </th>
         <th> </th>
