@@ -52,6 +52,27 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
         <th> </th>
         <th> </th>
     </tr>  
+    <tr>
+        <th>主题方向</th>
+        <th>依托公司</th> <!注释>
+        <th> </th> 
+        <th> </th>
+        <th> </th>
+    </tr>  
+    <tr>
+        <th>主题方向</th>
+        <th>依托公司</th> <!注释>
+        <th> </th> 
+        <th> </th>
+        <th> </th>
+    </tr>  
+    <tr>
+        <th>智能视觉</th>
+        <th>商汤集团</th> <!注释>
+        <th> </th> 
+        <th> </th>
+        <th> </th>
+    </tr>      
 </table>
 
 
