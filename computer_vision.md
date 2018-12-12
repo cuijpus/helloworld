@@ -184,6 +184,11 @@ https://www.youtube.com/watch?v=UYieT8tZnKU <br>
 [Towards Photography Through Realistic Fog](http://web.media.mit.edu/~guysatat/fog/)<br>
 [Video and image enhancement using rain, haze and fog removal techniques](http://ste-ntulab.ntu.edu.sg/Research/Pages/Video-and-Image-Enhancement-using-rain%2C-haze-and-fog-removal-techniques.aspx)<br>
 
+[ECCV 2018 | Pixel2Mesh：从单帧RGB图像生成三维网格模型 ]()<br>
+
+## OpenCV
+[OpenCV学习笔记系列28个](https://www.cnblogs.com/zyly/p/8809831.html)<br>
+
 # 数据集
 [深度学习图像标注工具汇总](https://yq.aliyun.com/wenji/252379)<br>
 [NLP+VS︱深度学习数据集标注工具、图像语料数据库、实验室搜索ing...](https://blog.csdn.net/mengfanzhong/article/details/80638226)<br>
