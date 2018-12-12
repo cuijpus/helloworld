@@ -75,6 +75,7 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
     </tr>      
 </table>
 
+2017.11.15 [科技部宣布四大新一代人工智能开放创新平台：BAT+科大讯飞](https://www.sohu.com/a/205189703_498760)<br>
 
 # W/W巨头的AI战略
 
