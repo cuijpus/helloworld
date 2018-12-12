@@ -183,3 +183,8 @@ https://www.youtube.com/watch?v=UYieT8tZnKU <br>
 # 数据集
 [深度学习图像标注工具汇总](https://yq.aliyun.com/wenji/252379)<br>
 [NLP+VS︱深度学习数据集标注工具、图像语料数据库、实验室搜索ing...](https://blog.csdn.net/mengfanzhong/article/details/80638226)<br>
+
+# 比赛
+
+# 开源
+[Openface](https://github.com/cmusatyalab/openface)<br>
