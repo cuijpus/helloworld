@@ -15,6 +15,8 @@
 [2018中国计算机视觉AI公司TOP15排行榜](http://www.acnews.cn/xinwen/20180720333.html)<br>
 [中国在计算机视觉领域的人工智能公司](https://baijiahao.baidu.com/s?id=1606777221165935790&wfr=spider&for=pc)<br>
 
+
+
 # 几家独角兽
 <table>
     <tr>
@@ -63,6 +65,8 @@
         <th></th> <!C端客户>
     </tr>    
 </table>
+
+[人脸识别独角兽之战：商汤、依图、 旷视、云从实力对比](https://www.iyiou.com/p/54764.html)<br> 
 
 
 [商汤科技](https://www.sensetime.com/)<br>
