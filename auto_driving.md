@@ -670,8 +670,8 @@ HEV:<BR>
     <tr>
         <th>L2</th> 
         <th>部分自动</th> 
-        <th></th>
-        <th></th>
+        <th>Yes</th>
+        <th>预警干预<br>自适应巡航（ACC）<br>紧急自动刹车（AEB）<br>车道保持辅助（LKA）</th>
         <th></th>        
     </tr>     
     <tr>
