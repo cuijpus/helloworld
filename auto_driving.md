@@ -643,3 +643,58 @@ HEV:<BR>
 
 # 基础知识
 [史上最全自动驾驶系统解析 ](http://www.sohu.com/a/150516048_372601)<br>
+
+## 自动驾驶分级
+<table>
+    <tr>
+        <th></th>
+        <th>名称</th> 
+        <th>人干预</th>
+        <th>传感器</th>
+        <th>车型</th>
+    </tr>
+    <tr>
+        <th>L0</th> 
+        <th>完全人驾驶</th> 
+        <th>Yes</th>
+        <th>/</th>
+        <th>/</th>
+    </tr>     
+    <tr>
+        <th>L1</th> 
+        <th>教师辅助</th> 
+        <th>Yes</th>
+        <th>Sensor, 摄像头</th>
+        <th>/</th>
+    </tr>   
+    <tr>
+        <th>L2</th> 
+        <th>部分自动</th> 
+        <th></th>
+        <th></th>
+        <th></th>        
+    </tr>     
+    <tr>
+        <th>L3</th> 
+        <th>条件自动</th> 
+        <th>Yes</th>
+        <th></th>
+        <th></th> 
+    </tr>  
+    <tr>
+        <th>L4</th> 
+        <th>条件自动</th> 
+        <th>Yes</th>
+        <th></th>
+        <th></th> 
+    </tr>   
+    <tr>
+        <th>L5</th> 
+        <th>条件自动</th> 
+        <th>Yes</th>
+        <th></th>
+        <th></th> 
+    </tr>  
+</table>
+
+
