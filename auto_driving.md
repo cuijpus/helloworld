@@ -550,6 +550,62 @@ HEV:<BR>
 >>[一文读懂特斯拉的发展历程 ](http://www.eefocus.com/automobile-electronics/413938/r0)<br>
 
 
+# 主流自动驾驶系统
+
+# 传统车企_混动（HEV）
+<table>
+    <tr>
+        <th>方案</th>
+        <th>所属公司</th> 
+        <th>目前能力</th>
+        <th>合作公司</th>
+    </tr>
+    <tr>
+        <th>waymo</th> 
+        <th>Google</th> 
+        <th>L2</th>
+        <th></th>
+    </tr>     
+    <tr>
+        <th>NVIDIA DRIVE AV</th> 
+        <th>英伟达</th> 
+        <th>L3</th>
+        <th>博世<BR>奥迪<BR>沃尔沃<BR>丰田</th>
+    </tr>   
+    <tr>
+        <th>Mobileye</th> 
+        <th>Intel</th> 
+        <th></th>
+        <th></th>
+    </tr>     
+    <tr>
+        <th>Apollo</th> 
+        <th>百度</th> 
+        <th>L2</th>
+        <th>生态链</th>
+    </tr>  
+    <tr>
+        <th>DriveCore</th> 
+        <th>伟世通</th> 
+        <th></th>
+        <th></th>
+    </tr>   
+    <tr>
+        <th>Bluebox</th> 
+        <th>恩智浦</th> 
+        <th></th>
+        <th></th>
+    </tr>  
+    <tr>
+        <th>DRVLINE</th> 
+        <th>三星</th> 
+        <th></th>
+        <th></th>
+    </tr>              
+</table>
+
+
+主流自动驾驶系统解析
 
 
 # 驾驶芯片
