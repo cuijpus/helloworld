@@ -683,15 +683,15 @@ HEV:<BR>
     </tr>  
     <tr>
         <th>L4</th> 
-        <th>条件自动</th> 
-        <th>Yes</th>
+        <th>高度自动</th> 
+        <th>No</th>
         <th></th>
         <th></th> 
     </tr>   
     <tr>
         <th>L5</th> 
-        <th>条件自动</th> 
-        <th>Yes</th>
+        <th>完全自动</th> 
+        <th>No</th>
         <th></th>
         <th></th> 
     </tr>  
