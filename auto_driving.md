@@ -662,9 +662,9 @@ HEV:<BR>
     </tr>     
     <tr>
         <th>L1</th> 
-        <th>教师辅助</th> 
+        <th>驾驶辅助</th> 
         <th>Yes</th>
-        <th>Sensor, 摄像头</th>
+        <th>预警提示<br>车道偏离预警（LDW）<br>前撞预警（FCW）<br>盲点检测（BSD）</th>
         <th>/</th>
     </tr>   
     <tr>
