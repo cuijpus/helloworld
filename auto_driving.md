@@ -602,7 +602,7 @@ HEV:<BR>
     </tr>              
 </table>
 
-
+2018.1.10 [三星推出自己的自动驾驶平台 DRVLINE](https://baijiahao.baidu.com/s?id=1589195185599565848&wfr=spider&for=pc)<br>
 主流自动驾驶系统解析
 
 
