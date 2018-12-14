@@ -640,3 +640,6 @@ HEV:<BR>
 [本土化ADAS被Mobileye甩出了一条街？突破可能还在算法公司 ](http://www.cheyun.com/content/9677)<br>
 
 [史上最详细的自动驾驶汽车技术介绍【硬件+软件】](http://www.360doc.com/content/18/0724/16/55209520_772890692.shtml)<br>
+
+# 基础知识
+[史上最全自动驾驶系统解析 ](http://www.sohu.com/a/150516048_372601)<br>
