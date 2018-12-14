@@ -664,21 +664,21 @@ HEV:<BR>
         <th>L1</th> 
         <th>驾驶辅助</th> 
         <th>Yes</th>
-        <th>预警提示<br>车道偏离预警（LDW）<br>前撞预警（FCW）<br>盲点检测（BSD）</th>
+        <th>预警提示ADAS功能<br>车道偏离预警（LDW）<br>前撞预警（FCW）<br>盲点检测（BSD）</th>
         <th>/</th>
     </tr>   
     <tr>
         <th>L2</th> 
         <th>部分自动</th> 
         <th>Yes</th>
-        <th>预警干预<br>自适应巡航（ACC）<br>紧急自动刹车（AEB）<br>车道保持辅助（LKA）</th>
+        <th>预警干预ADAS功能<br>自适应巡航（ACC）<br>紧急自动刹车（AEB）<br>车道保持辅助（LKA）</th>
         <th></th>        
     </tr>     
     <tr>
         <th>L3</th> 
         <th>条件自动</th> 
         <th>Yes</th>
-        <th></th>
+        <th>干预辅助<br>自动加速<br>自动刹车<br>自动转向等</th>
         <th></th> 
     </tr>  
     <tr>
