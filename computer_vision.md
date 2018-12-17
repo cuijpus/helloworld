@@ -62,7 +62,7 @@
         <th>
             <a href = "https://tech.sina.com.cn/roll/2018-10-13/doc-ifxeuwws3643574.shtml">CEO周曦</a>
         </th> <!创始人>
-        <th></th> <!哪年创立>
+        <th>2015</th> <!哪年创立>
         <th></th> <!融资情况>
         <th>人脸识别</th> <!核心技术>
         <th></th> <!核心产品>
@@ -79,12 +79,13 @@
         </th> <!创始人>
         <th>2012</th> <!哪年创立>
         <th></th> <!融资情况>
+        <th>人脸识别
+        </th> <!核心技术>
         <th>
             <a href = "http://www.yitutech.com/corebusiness/4.html">智能安防</a><br>
             <a href = "http://www.yitutech.com/corebusiness/2.html">医疗</a><br>
-            <a href = "http://www.yitutech.com/corebusiness/9.html">智慧金融</a><br>
-        </th> <!核心技术>
-        <th></th> <!核心产品>
+            <a href = "http://www.yitutech.com/corebusiness/9.html">智慧金融</a><br>        
+        </th> <!核心产品>
         <th>
             <a href = "http://www.yitutech.com/case/">银行等</a><br>
         </th> <!B端客户>
