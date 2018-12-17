@@ -137,7 +137,9 @@ HEV:<BR>
     </tr>       
     <tr>
         <th>比亚迪</th>
-        <th>秦PHEV</th> <!车型>
+        <th>
+            <a href = "https://mall.bydauto.com.cn/activity/landingPageCN/D035QG18EG01.htm?sectesp=yebbdpc04">秦PHEV</a>
+        </th> <!车型>
         <th>17-26万</th> <!价格>
         <th></th> <!补贴后价格>
         <th></th> <!续航里程>
@@ -147,7 +149,9 @@ HEV:<BR>
     </tr> 
     <tr>
         <th>比亚迪</th>
-        <th>唐PHEV</th> <!车型>
+        <th>
+            <a href = "https://mall.bydauto.com.cn/activity/landingPageCN/D013QG18DPEG99.htm?sectesp=yebbdpc91&bd_vid=10239174461577943488">唐PHEV</a>
+        </th> <!车型>
         <th></th> <!价格>
         <th></th> <!补贴后价格>
         <th></th> <!续航里程>
@@ -157,7 +161,9 @@ HEV:<BR>
     </tr>    
     <tr>
         <th>比亚迪</th>
-        <th>宋PHEV</th> <!车型>
+        <th>
+            <a href = "https://mall.bydauto.com.cn/activity/landingPageCN/D032QG18DPEG01.htm?sectesp=yebbdpc04">宋PHEV</a>
+        </th> <!车型>
         <th>20万</th> <!价格>
         <th></th> <!补贴后价格>
         <th></th> <!续航里程>
@@ -167,7 +173,9 @@ HEV:<BR>
     </tr>    
     <tr>
         <th>比亚迪</th>
-        <th>E5</th> <!车型>
+        <th>
+            <a href = "https://mall.bydauto.com.cn/item/A033">E5</a>
+        </th> <!车型>
         <th>22万</th> <!价格>
         <th>13</th> <!补贴后价格>
         <th>300公里</th> <!续航里程>
