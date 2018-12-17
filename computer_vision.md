@@ -38,9 +38,16 @@
         </th> <!创始人>
         <th>2014</th> <!哪年创立>
         <th></th> <!融资情况>
-        <th>人脸识别</th> <!核心技术>
-        <th></th> <!核心产品>
-        <th></th> <!B端客户>
+        <th>
+            <a href = "https://www.sensetime.com/core">人脸识别</a>
+        </th> <!核心技术>
+        <th>
+            <a href = "https://www.sensetime.com/intelligentVideo/84">智能安防</a><br>
+            <a href = "https://www.sensetime.com/authentication/87">身份验证</a><br>
+            <a href = "https://www.sensetime.com/internet/89">移动互联网</a><br>
+            <a href = "https://www.sensetime.com/cases#3">智能金融</a><br>
+        </th> <!核心产品>
+        <th>公安、</th> <!B端客户>
     </tr>    
     <tr>
         <th>
