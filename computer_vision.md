@@ -70,7 +70,9 @@
             <a href = "https://www.megvii.com/Intelligent_Retail/">零售行业</a><br>
             <a href = "https://www.megvii.com/Intelligent_warehousing/">仓储物流</a><br>
         </th> <!核心产品>
-        <th></th> <!B端客户>
+        <th> 
+            <a href = "https://img3.iyiou.com/Editor/image/20170908/1504839896829810.jpg">部分客户</a>
+        </th> <!B端客户>
     </tr>  
     <tr>
         <th>
@@ -85,8 +87,8 @@
         <th>
             <a href = "http://www.cloudwalk.cn/financial.html">金融风控</a>
         </th> <!核心产品>
-        <th>
-            <a href = "http://www.cloudwalk.cn/caseList.html">银行，公安等</a>
+        <th> 
+            <a href = "https://img3.iyiou.com/Editor/image/20170908/1504839896829810.jpg">部分客户</a>
         </th> <!B端客户>
     </tr>    
     <tr>
@@ -105,8 +107,8 @@
             <a href = "http://www.yitutech.com/corebusiness/2.html">医疗</a><br>
             <a href = "http://www.yitutech.com/corebusiness/9.html">智慧金融</a><br>        
         </th> <!核心产品>
-        <th>
-            <a href = "http://www.yitutech.com/case/">银行等</a><br>
+        <th> 
+            <a href = "https://img3.iyiou.com/Editor/image/20170908/1504839896829810.jpg">部分客户</a>
         </th> <!B端客户>
     </tr>    
 </table>
