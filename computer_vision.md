@@ -89,7 +89,9 @@
         </th> <!创始人>
         <th>2015</th> <!哪年创立>
         <th></th> <!融资情况>
-        <th>人脸识别</th> <!核心技术>
+        <th>
+            <a href = "https://ai.cloudwalk.cn/cloudwalk/#/face/detect">人脸识别</a>
+        </th> <!核心技术>
         <th>
             <a href = "http://www.cloudwalk.cn/financial.html">金融风控</a>
         </th> <!核心产品>
@@ -109,7 +111,8 @@
         </th> <!创始人>
         <th>2012</th> <!哪年创立>
         <th></th> <!融资情况>
-        <th>人脸识别
+        <th>
+            <a href = "http://www.yitutech.com/corebusiness/4.html">人脸识别</a>
         </th> <!核心技术>
         <th>
             <a href = "http://www.yitutech.com/corebusiness/4.html">智能安防</a><br>
