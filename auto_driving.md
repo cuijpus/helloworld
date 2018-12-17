@@ -117,7 +117,9 @@ HEV:<BR>
     </tr>
     <tr>
         <th>北汽</th>
-        <th>北汽EC系列</th> <!车型>
+        <th>
+            <a href = "http://www.bjev.com.cn/">北汽EC系列</a>
+        </th> <!车型>
         <th>12-17万</th> <!价格>
         <th></th> <!补贴后价格>
         <th></th> <!续航里程>
@@ -127,7 +129,9 @@ HEV:<BR>
     </tr>     
     <tr>
         <th>北汽</th>
-        <th>北汽EX系列</th> <!车型>
+        <th>
+            <a href = "http://www.bjev.com.cn/">北汽EX系列</a>
+        </th> <!车型>
         <th></th> <!价格>
         <th></th> <!补贴后价格>
         <th></th> <!续航里程>
