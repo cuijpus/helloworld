@@ -65,7 +65,9 @@
         <th>2015</th> <!哪年创立>
         <th></th> <!融资情况>
         <th>人脸识别</th> <!核心技术>
-        <th></th> <!核心产品>
+        <th>
+            <a href = "http://www.cloudwalk.cn/financial.html">金融风控</a>
+        </th> <!核心产品>
         <th>
             <a href = "http://www.cloudwalk.cn/caseList.html">银行，公安等</a>
         </th> <!B端客户>
