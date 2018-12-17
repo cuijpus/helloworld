@@ -290,6 +290,8 @@ HEV:<BR>
 [1-8月全球电动车销量榜前20，其中国产车占了五成](https://baijiahao.baidu.com/s?id=1613041699574234295&wfr=spider&for=pc)<br>
 ![1](https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=369096523,2075307846&fm=173&app=25&f=JPEG?w=640&h=480&s=969AA363F0ADD8AE99FD84DA030080B0)<br>
 ![2](https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=2464810404,212490908&fm=173&app=25&f=JPEG?w=640&h=459&s=D69AA361F42DD0AEC3F50DDA0300C0B0)<br>
+[比亚迪唐DM缺电怎么开？10%电量的时候发动机最尴尬……](https://baijiahao.baidu.com/s?id=1612014357667881403&wfr=spider&for=pc)<BR>
+
 
 # 传统车企_混动（HEV）
 <table>
