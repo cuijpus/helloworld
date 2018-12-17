@@ -30,7 +30,9 @@
     </tr>
     <tr>
         <th><a href = "https://www.sensetime.com/">商汤科技</a></th>
-        <th></th> <!创始人>
+        <th>
+            <a href = "https://baike.baidu.com/item/%E6%B1%A4%E6%99%93%E9%B8%A5/7200225?fr=kg_qa">汤晓鸥：商汤科技创始人、董事长</a>
+        </th> <!创始人>
         <th></th> <!哪年创立>
         <th></th> <!融资情况>
         <th></th> <!核心技术>
