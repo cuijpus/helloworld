@@ -51,7 +51,8 @@
         <th> 
             <a href = "https://img3.iyiou.com/Editor/image/20170908/1504839896829810.jpg">部分客户</a>
         </th> <!B端客户>
-        <th></th> <!开放平台>
+        <th>
+        </th> <!开放平台>
     </tr>    
     <tr>
         <th>
@@ -75,7 +76,9 @@
         <th> 
             <a href = "https://img3.iyiou.com/Editor/image/20170908/1504839896829810.jpg">部分客户</a>
         </th> <!B端客户>
-        <th></th> <!开放平台>
+        <th>
+            <a href = "https://www.faceplusplus.com.cn/">AI平台</a>
+        </th> <!开放平台>
     </tr>  
     <tr>
         <th>
@@ -93,7 +96,9 @@
         <th> 
             <a href = "https://img3.iyiou.com/Editor/image/20170908/1504839896829810.jpg">部分客户</a>
         </th> <!B端客户>
-        <th></th> <!开放平台>
+        <th>
+            <a href = "https://ai.cloudwalk.cn/cloudwalk/#/face/detect">AI平台</a>
+        </th> <!开放平台>
     </tr>    
     <tr>
         <th>
@@ -114,7 +119,8 @@
         <th> 
             <a href = "https://img3.iyiou.com/Editor/image/20170908/1504839896829810.jpg">部分客户</a>
         </th> <!B端客户>
-        <th></th> <!开放平台>
+        <th>
+        </th> <!开放平台>
     </tr>    
 </table>
 
