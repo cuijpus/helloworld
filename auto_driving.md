@@ -277,6 +277,7 @@ HEV:<BR>
     </tr>     
 </table>
 
+2018.7.27 [领克01 PHEV正式上市 售19.98-22.98万元](https://www.pcauto.com.cn/nation/1247/12477976.html)<br>
 ![新能源销量](https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=1826594447,2024090572&fm=173&app=25&f=JPEG?w=640&h=391&s=8DA25D329787794B587869D30000C0B2)<br>
 [1-8月全球电动车销量榜前20，其中国产车占了五成](https://baijiahao.baidu.com/s?id=1613041699574234295&wfr=spider&for=pc)<br>
 ![1](https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=369096523,2075307846&fm=173&app=25&f=JPEG?w=640&h=480&s=969AA363F0ADD8AE99FD84DA030080B0)<br>
@@ -365,6 +366,7 @@ HEV:<BR>
         <th>
             <a href = "http://auto.sina.com.cn/j_kandian.d.html?docid=fypwzxq4138296&subch=nauto">'17.12ES8发布</a><br>
             交付：6.28
+            <a href = "http://news.bitauto.com/hao/wenzhang/1065853">12.15 ES6</a>
         </th> <!产品>
         <th>
             <a href = "http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/lastest/rptid/4026388/index.phtml">Mobileye</a>
@@ -385,7 +387,9 @@ HEV:<BR>
         <th>
             <a href = "https://www.iyiou.com/p/78229.html">~100亿</a>
         </th> <!融资>
-        <th>双12发布</th> <!产品>
+        <th>
+            <a href = "https://baijiahao.baidu.com/s?id=1619745804764220423&wfr=spider&for=pc">双12发布</a>
+        </th> <!产品>
         <th> 
             <a href = "http://www.realli.net/archives/11783">Mobileye</a>
         </th> <!自动驾驶>
@@ -465,13 +469,18 @@ HEV:<BR>
     </tr>     
 </table>
 
-2018.7.27 [领克01 PHEV正式上市 售19.98-22.98万元](https://www.pcauto.com.cn/nation/1247/12477976.html)<br>
+
 2018.6 [2018年5家新造车企业“交付”规划一览 ](https://www.autohome.com.cn/news/201806/918591-2.html?pvareaid=3311700)<br>
 
 [融资规模超420亿！ 6大造车新势力“钱程似锦”](http://auto.zjol.com.cn/zjcw/xyzx/201803/t20180309_6757519.shtml)<br>
 [为什么蔚来、威马、拜腾都认为自己造电动车比传统车企有优势？ ](https://chejiahao.autohome.com.cn/info/2184105/)<br>
 [盘点10家新造车势力融资情况：能够活下来的只有3-4家](http://auto.qq.com/a/20180103/002307.htm)<br>
 
+## 新能源汽车问题List
+[蔚来ES8的频繁死机还未彻底解决？ES6就要上了](https://baijiahao.baidu.com/s?id=1619909647384098032&wfr=spider&for=pc)<br>
+提车3个多月的ES8频繁出现车机系统混乱，并导致系统死机蓝屏。车主提出退车要求。<br>
+[蔚来ES8恐怕要凉！实际续航仅200公里，持续出现各种问题](https://baijiahao.baidu.com/s?id=1613139237856016218&wfr=spider&for=pc)<br>
+[快评：关于蔚来ES8大家关注的八个问题 ](https://www.autohome.com.cn/news/201712/910939.html)<br>
 
 ## 蔚来汽车
 >>[蔚来汽车](https://baike.baidu.com/item/%E8%94%9A%E6%9D%A5/22099728?fromtitle=%E8%94%9A%E6%9D%A5%E6%B1%BD%E8%BD%A6&fromid=18585288&fr=aladdin)<br>
