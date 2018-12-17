@@ -365,7 +365,7 @@ HEV:<BR>
         </th> <!融资>
         <th>
             <a href = "http://auto.sina.com.cn/j_kandian.d.html?docid=fypwzxq4138296&subch=nauto">'17.12ES8发布</a><br>
-            交付：6.28
+            交付：6.28 <br>
             <a href = "http://news.bitauto.com/hao/wenzhang/1065853">12.15 ES6</a>
         </th> <!产品>
         <th>
