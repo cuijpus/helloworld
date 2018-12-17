@@ -80,7 +80,7 @@
         <th>
             <a href = "http://www.yitutech.com/corebusiness/4.html">智能安防</a><br>
             <a href = "http://www.yitutech.com/corebusiness/2.html">医疗</a><br>
-            <a href = "http://www.yitutech.com/corebusiness/9.html"<智慧金融></a><br>
+            <a href = "http://www.yitutech.com/corebusiness/9.html">智慧金融</a><br>
         </th> <!核心技术>
         <th></th> <!B端客户>
         <th></th> <!C端客户>
