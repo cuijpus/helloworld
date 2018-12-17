@@ -31,7 +31,7 @@
     <tr>
         <th><a href = "https://www.sensetime.com/">商汤科技</a></th>
         <th>
-            <a href = "https://baike.baidu.com/item/%E6%B1%A4%E6%99%93%E9%B8%A5/7200225?fr=kg_qa">汤晓鸥：创始人、董事长</a>
+            <a href = "https://baike.baidu.com/item/%E6%B1%A4%E6%99%93%E9%B8%A5/7200225?fr=kg_qa">汤晓鸥：创始人、董事长</a><br>
             <a href = "https://baike.baidu.com/item/%E5%BE%90%E7%AB%8B/22031892?fr=aladdin">徐立:联合创始人、CEO</a>
         </th> <!创始人>
         <th></th> <!哪年创立>
