@@ -38,22 +38,6 @@
     </tr>    
     <tr>
         <th>
-            <a href = "https://baike.baidu.com/item/%E6%8F%92%E7%94%B5%E5%BC%8F%E6%B7%B7%E5%90%88%E5%8A%A8%E5%8A%9B%E6%B1%BD%E8%BD%A6/1401595?fr=aladdin">插电式混合动力汽车(PHEV) <br>
-            (以电为主)                
-        </th>
-        <th>Y 常用</th> <!要充电?>
-        <th>Y 偶尔</th> <!要加油?>
-        <th>无</th> <!里程焦虑>
-        <th>
-            纯电通勤50公里<br>
-            回家充电<br><br>
-            没电烧油不趴窝<br>
-        </th> <!续航里程>
-        <th>比亚迪·秦<br>比亚迪·唐<br>上汽荣威eRX5<BR>博瑞GE混动<br>宝马5混动<BR></th> <!代表车型>
-        <th>Yes</th> <!节能减排>  
-    </tr>   
-    <tr>
-        <th>
             <a href = "https://baijiahao.baidu.com/s?id=1616877353213635882&wfr=spider&for=pc">增程式电动汽车（EREV）<br>
             (实质：电动车；<br>
             电不够，油来充电)
@@ -69,7 +53,23 @@
         </th> <!续航里程>
         <th>宝马i3增程版<br>车和家ONE</th> <!代表车型>
         <th>Yes</th> <!节能减排>  
-    </tr>             
+    </tr>            
+    <tr>
+        <th>
+            <a href = "https://baike.baidu.com/item/%E6%8F%92%E7%94%B5%E5%BC%8F%E6%B7%B7%E5%90%88%E5%8A%A8%E5%8A%9B%E6%B1%BD%E8%BD%A6/1401595?fr=aladdin">插电式混合动力汽车(PHEV) <br>
+            (以电为主)                
+        </th>
+        <th>Y 常用</th> <!要充电?>
+        <th>Y 偶尔</th> <!要加油?>
+        <th>无</th> <!里程焦虑>
+        <th>
+            纯电通勤50公里<br>
+            回家充电<br><br>
+            没电烧油不趴窝<br>
+        </th> <!续航里程>
+        <th>比亚迪·秦<br>比亚迪·唐<br>上汽荣威eRX5<BR>博瑞GE混动<br>宝马5混动<BR></th> <!代表车型>
+        <th>Yes</th> <!节能减排>  
+    </tr>   
     <tr>
         <th>
             <a href = "https://baike.baidu.com/item/%E6%B7%B7%E5%90%88%E5%8A%A8%E5%8A%9B%E6%B1%BD%E8%BD%A6/429082">油电混合动力汽车（HEV）<br>
