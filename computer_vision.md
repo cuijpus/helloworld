@@ -25,8 +25,8 @@
         <th>哪年创立</th> 
         <th>融资情况</th>
         <th>核心技术</th>
+        <th>核心产品</th>
         <th>B端客户</th>
-        <th>C端客户</th>
     </tr>
     <tr>
         <th>
@@ -39,8 +39,8 @@
         <th>2014</th> <!哪年创立>
         <th></th> <!融资情况>
         <th>人脸识别</th> <!核心技术>
+        <th></th> <!核心产品>
         <th></th> <!B端客户>
-        <th></th> <!C端客户>
     </tr>    
     <tr>
         <th>
@@ -52,8 +52,8 @@
         <th>2011</th> <!哪年创立>
         <th></th> <!融资情况>
         <th>人脸识别</th> <!核心技术>
+        <th></th> <!核心产品>
         <th></th> <!B端客户>
-        <th></th> <!C端客户>
     </tr>  
     <tr>
         <th>
@@ -65,10 +65,10 @@
         <th></th> <!哪年创立>
         <th></th> <!融资情况>
         <th>人脸识别</th> <!核心技术>
+        <th></th> <!核心产品>
         <th>
             <a href = "http://www.cloudwalk.cn/caseList.html">银行，公安等</a>
         </th> <!B端客户>
-        <th></th> <!C端客户>
     </tr>    
     <tr>
         <th>
@@ -84,10 +84,10 @@
             <a href = "http://www.yitutech.com/corebusiness/2.html">医疗</a><br>
             <a href = "http://www.yitutech.com/corebusiness/9.html">智慧金融</a><br>
         </th> <!核心技术>
+        <th></th> <!核心产品>
         <th>
             <a href = "http://www.yitutech.com/case/">银行等</a><br>
         </th> <!B端客户>
-        <th></th> <!C端客户>
     </tr>    
 </table>
 
