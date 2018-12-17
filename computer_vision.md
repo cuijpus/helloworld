@@ -29,47 +29,59 @@
         <th>C端客户</th>
     </tr>
     <tr>
-        <th><a href = "https://www.sensetime.com/">商汤科技</a></th>
+        <th>
+            <a href = "https://www.sensetime.com/">商汤科技</a>
+        </th>
         <th>
             <a href = "https://baike.baidu.com/item/%E6%B1%A4%E6%99%93%E9%B8%A5/7200225?fr=kg_qa">汤晓鸥：创始人、董事长</a><br>
             <a href = "https://baike.baidu.com/item/%E5%BE%90%E7%AB%8B/22031892?fr=aladdin">徐立:联合创始人、CEO</a>
         </th> <!创始人>
-        <th></th> <!哪年创立>
+        <th>2014</th> <!哪年创立>
         <th></th> <!融资情况>
-        <th></th> <!核心技术>
+        <th>人脸识别</th> <!核心技术>
         <th></th> <!B端客户>
         <th></th> <!C端客户>
     </tr>    
     <tr>
-        <th>旷视科技</th>
+        <th>
+            <a href = "https://www.megvii.com/">旷视科技</a>
+        </th>
         <th>
             <a href = "http://m.elecfans.com/article/667325.html">创始人印奇</a>
         </th> <!创始人>
-        <th></th> <!哪年创立>
+        <th>2011</th> <!哪年创立>
         <th></th> <!融资情况>
-        <th></th> <!核心技术>
+        <th>人脸识别</th> <!核心技术>
         <th></th> <!B端客户>
         <th></th> <!C端客户>
     </tr>  
     <tr>
-        <th>云从科技</th>
+        <th>
+            <a href = "http://www.cloudwalk.cn/index.html">云从科技</a>
+        </th>
         <th>
             <a href = "https://tech.sina.com.cn/roll/2018-10-13/doc-ifxeuwws3643574.shtml">CEO周曦</a>
         </th> <!创始人>
         <th></th> <!哪年创立>
         <th></th> <!融资情况>
-        <th></th> <!核心技术>
-        <th></th> <!B端客户>
+        <th>人脸识别</th> <!核心技术>
+        <th>银行，公安等</th> <!B端客户>
         <th></th> <!C端客户>
     </tr>    
     <tr>
-        <th>依图科技</th>
+        <th>
+            <a href = "http://www.yitutech.com/">依图科技</a>
+        </th>
         <th>
             <a href = "https://baike.baidu.com/item/%E6%9C%B1%E7%8F%91/16528672">朱珑,创始人CEO</a>
         </th> <!创始人>
         <th></th> <!哪年创立>
         <th></th> <!融资情况>
-        <th></th> <!核心技术>
+        <th>
+            <a href = "http://www.yitutech.com/corebusiness/4.html">智能安防</a><br>
+            <a href = "http://www.yitutech.com/corebusiness/2.html">医疗</a><br>
+            <a href = "http://www.yitutech.com/corebusiness/9.html"<智慧金融></a><br>
+        </th> <!核心技术>
         <th></th> <!B端客户>
         <th></th> <!C端客户>
     </tr>    
@@ -96,9 +108,7 @@
 人脸与人体分析技术， 通用与专业图像识别，海量视频理解与挖掘， 图像视频处理增强，SLAM与3D视觉，机器人传感与控制，无人驾驶，深度学习平台<br>
 
 
-
-
-[旷视科技](https://www.megvii.com/)<br>
+## 旷视科技
 
 >>[唐文斌,旷视科技联合创始人兼CTO](https://baike.baidu.com/item/%E5%94%90%E6%96%87%E6%96%8C/14692119)<br>
 >>[孙剑,旷视科技首席科学家](https://baike.baidu.com/item/%E5%AD%99%E5%89%91/19814032?fr=aladdin)<br>
@@ -113,7 +123,7 @@
 [核心技术](https://www.faceplusplus.com.cn/)：<br>
 动态人脸识别,在线/离线活体检测,超大人像库实时检索,证件识别,行人检测、轨迹分析
 
-[云从科技](http://www.cloudwalk.cn/index.html)<br>
+## 云从科技
 云从科技是一家孵化于中国科学院重庆研究院 的高科技企业，专注于计算机视觉与人工智能，是中国银行业人脸识别第一大供应商，包括农行、建行、中行、交行等超过100家 金融机构已采用公司产品;在安防领域推动中科院与公安部全面合作，通 过公安部重大课题研发火眼人脸大数据平台等智能化系统，公司产品已在 24 个省上线实战，引领了公安行业战法变革;在民航领域，已经与中科院重庆院合作覆盖80%的枢纽机场。<br>
 云从科技（广州）拥有自主知识产权核心算法，是人脸识别国家标准起草与制定企业。<br>
 专注：银行，公安，民航 <br>
@@ -132,7 +142,7 @@
 >>[云从科技与中国工商银行达成战略合作 共建金融科技创新平台](https://baijiahao.baidu.com/s?id=1617100006375540717&wfr=spider&for=pc)<br>
 
 
-[依图科技](http://www.yitutech.com/)<br>
+## 依图科技
 
 上海依图网络科技有限公司成立于2012年9月，由朱珑、林晨曦共同创立。 
 依图科技人工智能技术的应用领域包括：智能安防、依图医疗、智慧金融、智慧城市、智能硬件等。<br>
