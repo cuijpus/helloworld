@@ -266,6 +266,7 @@
 # 供应链
 
 [手机全面屏/人脸识别/无线充电/3D玻璃等17大功能产业图(超全面 必收藏) ](https://mp.weixin.qq.com/s?__biz=MzA5NDQ2NzQyMg==&mid=2662578889&idx=6&sn=144cc1c9ea123c3c7801eaaeba0de538&chksm=8b093ef8bc7eb7ee995efbbcc4d651a2b793110456927a48ba89679ab18f04f5d75f0b03e383&scene=0#rd)<br>
+[手机产业链全景图](http://www.xincailiao.com/news/news_detail.aspx?id=4961)<br>
 
 # 营销
 
