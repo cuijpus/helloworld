@@ -285,12 +285,15 @@ HEV:<BR>
     </tr>     
 </table>
 
+2018.12.11 [吉利嘉际VS比亚迪宋MAX，谁能成为中国首个上市的混动MVP？](https://baijiahao.baidu.com/s?id=1619544095352389004&wfr=spider&for=pc)<br>
 2018.7.27 [领克01 PHEV正式上市 售19.98-22.98万元](https://www.pcauto.com.cn/nation/1247/12477976.html)<br>
+[比亚迪唐DM缺电怎么开？10%电量的时候发动机最尴尬……](https://baijiahao.baidu.com/s?id=1612014357667881403&wfr=spider&for=pc)<BR>
+    
 ![新能源销量](https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=1826594447,2024090572&fm=173&app=25&f=JPEG?w=640&h=391&s=8DA25D329787794B587869D30000C0B2)<br>
 [1-8月全球电动车销量榜前20，其中国产车占了五成](https://baijiahao.baidu.com/s?id=1613041699574234295&wfr=spider&for=pc)<br>
 ![1](https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=369096523,2075307846&fm=173&app=25&f=JPEG?w=640&h=480&s=969AA363F0ADD8AE99FD84DA030080B0)<br>
 ![2](https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=2464810404,212490908&fm=173&app=25&f=JPEG?w=640&h=459&s=D69AA361F42DD0AEC3F50DDA0300C0B0)<br>
-[比亚迪唐DM缺电怎么开？10%电量的时候发动机最尴尬……](https://baijiahao.baidu.com/s?id=1612014357667881403&wfr=spider&for=pc)<BR>
+
 
 
 # 传统车企_混动（HEV）
