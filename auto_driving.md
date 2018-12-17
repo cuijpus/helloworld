@@ -1,3 +1,6 @@
+# 业界动态 
+2018.12.17 [这8家车企2018冰雪两重天 销量第一你绝对猜不到](https://baijiahao.baidu.com/s?id=1620051202791030750&wfr=spider&for=pc)<br>
+
 
 # 中国自动驾驶生态
 [Breakdown of self-driving car industry in China](https://medium.com/@fisher.jianyu.shi/breakdown-of-chinese-self-driving-car-industry-dd20deea7e73)<br>
