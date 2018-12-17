@@ -31,7 +31,8 @@
     <tr>
         <th><a href = "https://www.sensetime.com/">商汤科技</a></th>
         <th>
-            <a href = "https://baike.baidu.com/item/%E6%B1%A4%E6%99%93%E9%B8%A5/7200225?fr=kg_qa">汤晓鸥：商汤科技创始人、董事长</a>
+            <a href = "https://baike.baidu.com/item/%E6%B1%A4%E6%99%93%E9%B8%A5/7200225?fr=kg_qa">汤晓鸥：创始人、董事长</a>
+            <a href = "https://baike.baidu.com/item/%E5%BE%90%E7%AB%8B/22031892?fr=aladdin">徐立:联合创始人、CEO</a>
         </th> <!创始人>
         <th></th> <!哪年创立>
         <th></th> <!融资情况>
@@ -41,7 +42,9 @@
     </tr>    
     <tr>
         <th>旷视科技</th>
-        <th></th> <!创始人>
+        <th>
+            <a href = "http://m.elecfans.com/article/667325.html">创始人印奇</a>
+        </th> <!创始人>
         <th></th> <!哪年创立>
         <th></th> <!融资情况>
         <th></th> <!核心技术>
@@ -50,7 +53,9 @@
     </tr>  
     <tr>
         <th>云从科技</th>
-        <th></th> <!创始人>
+        <th>
+            <a href = "https://tech.sina.com.cn/roll/2018-10-13/doc-ifxeuwws3643574.shtml">CEO周曦</a>
+        </th> <!创始人>
         <th></th> <!哪年创立>
         <th></th> <!融资情况>
         <th></th> <!核心技术>
@@ -59,7 +64,9 @@
     </tr>    
     <tr>
         <th>依图科技</th>
-        <th></th> <!创始人>
+        <th>
+            <a href = "https://baike.baidu.com/item/%E6%9C%B1%E7%8F%91/16528672">朱珑,创始人CEO</a>
+        </th> <!创始人>
         <th></th> <!哪年创立>
         <th></th> <!融资情况>
         <th></th> <!核心技术>
@@ -77,8 +84,6 @@
 
 强调“让AI引领人类进步”，是因为人工智能是人类智能的延伸，研究人工智能的最终目的是造福人类，我们希望通过对人工智能技术——特别是对计算机视觉和深度学习技术的研究和应用，增强人类视觉，提高生产效率，为人们带来便捷；激发人类的创造力，为人们带来快乐、鼓舞和激励。
 
->>[汤晓鸥：商汤科技创始人、董事长](https://baike.baidu.com/item/%E6%B1%A4%E6%99%93%E9%B8%A5/7200225?fr=kg_qa)<br>
->>[徐立:商汤科技联合创始人、CEO](https://baike.baidu.com/item/%E5%BE%90%E7%AB%8B/22031892?fr=aladdin)<br>
 >>[商汤科技创始人汤晓鸥：商汤不是烧钱的公司，做第一个吃“苹果”的人](https://baijiahao.baidu.com/s?id=1598696266312231564&wfr=spider&for=pc)<br>
 >>[商汤科技，这些年做了哪些布局？](http://tech.qq.com/a/20180409/019200.htm)<br>
 >>[估值70亿美元的商汤科技 到底哪些技术？](https://baijiahao.baidu.com/s?id=1611922863264650273&wfr=spider&for=pc)<br>
@@ -95,7 +100,6 @@
 
 [旷视科技](https://www.megvii.com/)<br>
 
->>[旷视科技创始人印奇个人简历及背景](http://m.elecfans.com/article/667325.html)<br>
 >>[唐文斌,旷视科技联合创始人兼CTO](https://baike.baidu.com/item/%E5%94%90%E6%96%87%E6%96%8C/14692119)<br>
 >>[孙剑,旷视科技首席科学家](https://baike.baidu.com/item/%E5%AD%99%E5%89%91/19814032?fr=aladdin)<br>
 >>[姚期智院士加盟旷视科技Face++学术委员会并担任首席顾问，共同探讨AI的本质创新（上） ](https://www.leiphone.com/news/201711/DJxw36UFyMhQHAeQ.html)<br>
@@ -116,7 +120,6 @@
 
 >>[广州云从信息科技有限公司](https://baike.baidu.com/item/%E5%B9%BF%E5%B7%9E%E4%BA%91%E4%BB%8E%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/17382284)<br>
 >>[云从科技创始人周曦：刷分的人脸识别没有任何意义](https://www.sohu.com/a/121666798_465975)<br>
->>[云从科技CEO周曦：AI，不止人脸识别这么简单](https://tech.sina.com.cn/roll/2018-10-13/doc-ifxeuwws3643574.shtml)<br>
 >>[云从科技周曦：AI落地关键要解决问题](https://tech.sina.com.cn/roll/2018-10-13/doc-ifxeuwws3643574.shtml)<br>
 >>[云从科技——短短三年 中国AI领域“独角兽”是怎样炼成的？](http://www.qianjia.com/html/2018-04/23_290035.html)<br>
 >>[云从科技获超过10亿元B轮融资，“AI四小龙”竞争进入下半场](https://baijiahao.baidu.com/s?id=1613902851558220738&wfr=spider&for=pc)<br>
@@ -136,7 +139,6 @@
 聚焦：安防，金融，医疗。<br>
 
 >>[上海依图网络科技有限公司](https://baike.baidu.com/item/%E4%B8%8A%E6%B5%B7%E4%BE%9D%E5%9B%BE%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/20057496?fr=aladdin)<br>
->>[朱珑,依图科技联合创始人兼CEO](https://baike.baidu.com/item/%E6%9C%B1%E7%8F%91/16528672)<br>
 >>[依图科技联合创始人、CEO朱珑：“凝聚一些人，做世界级的创新工作](https://baike.baidu.com/item/%E6%9C%B1%E7%8F%91/16528672)<br>
 >>[追赶商汤，依图科技再宣布完成2亿美元C+轮融资！](https://www.iyiou.com/p/66651.html)<br>
 >>[“逃犯克星”一举成名 依图科技估值已超150亿](http://finance.sina.com.cn/stock/newstock/2018-06-14/doc-ihcyszrz2722912.shtml)<br>
