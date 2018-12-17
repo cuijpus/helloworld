@@ -65,7 +65,9 @@
         <th></th> <!哪年创立>
         <th></th> <!融资情况>
         <th>人脸识别</th> <!核心技术>
-        <th>银行，公安等</th> <!B端客户>
+        <th>
+            <a href = "http://www.cloudwalk.cn/caseList.html">银行，公安等</a>
+        </th> <!B端客户>
         <th></th> <!C端客户>
     </tr>    
     <tr>
