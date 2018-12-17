@@ -47,7 +47,7 @@
             <a href = "https://www.sensetime.com/internet/89">移动互联网</a><br>
             <a href = "https://www.sensetime.com/cases#3">智能金融</a><br>
         </th> <!核心产品>
-        <th>公安、</th> <!B端客户>
+        <th>公安、商业</th> <!B端客户>
     </tr>    
     <tr>
         <th>
