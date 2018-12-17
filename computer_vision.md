@@ -75,7 +75,7 @@
         <th>
             <a href = "https://baike.baidu.com/item/%E6%9C%B1%E7%8F%91/16528672">朱珑,创始人CEO</a>
         </th> <!创始人>
-        <th></th> <!哪年创立>
+        <th>2012</th> <!哪年创立>
         <th></th> <!融资情况>
         <th>
             <a href = "http://www.yitutech.com/corebusiness/4.html">智能安防</a><br>
