@@ -47,7 +47,9 @@
             <a href = "https://www.sensetime.com/internet/89">移动互联网</a><br>
             <a href = "https://www.sensetime.com/cases#3">智能金融</a><br>
         </th> <!核心产品>
-        <th>京东<br>招商银行<br>建设银行<br>徽商银行<br>银联<br>融360<br>拉卡拉<br>华为<br>OPPO<br>VIVO等</th> <!B端客户>
+        <th> 
+            <a href = "https://img3.iyiou.com/Editor/image/20170908/1504839896829810.jpg">部分客户</a>
+        </th> <!B端客户>
     </tr>    
     <tr>
         <th>
