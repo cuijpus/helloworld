@@ -27,6 +27,7 @@
         <th>核心技术</th>
         <th>核心产品</th>
         <th>B端客户</th>
+        <th>开放平台</th>
     </tr>
     <tr>
         <th>
@@ -50,6 +51,7 @@
         <th> 
             <a href = "https://img3.iyiou.com/Editor/image/20170908/1504839896829810.jpg">部分客户</a>
         </th> <!B端客户>
+        <th></th> <!开放平台>
     </tr>    
     <tr>
         <th>
@@ -73,6 +75,7 @@
         <th> 
             <a href = "https://img3.iyiou.com/Editor/image/20170908/1504839896829810.jpg">部分客户</a>
         </th> <!B端客户>
+        <th></th> <!开放平台>
     </tr>  
     <tr>
         <th>
@@ -90,6 +93,7 @@
         <th> 
             <a href = "https://img3.iyiou.com/Editor/image/20170908/1504839896829810.jpg">部分客户</a>
         </th> <!B端客户>
+        <th></th> <!开放平台>
     </tr>    
     <tr>
         <th>
@@ -110,6 +114,7 @@
         <th> 
             <a href = "https://img3.iyiou.com/Editor/image/20170908/1504839896829810.jpg">部分客户</a>
         </th> <!B端客户>
+        <th></th> <!开放平台>
     </tr>    
 </table>
 
