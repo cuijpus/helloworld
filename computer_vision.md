@@ -51,8 +51,16 @@
         </th> <!创始人>
         <th>2011</th> <!哪年创立>
         <th></th> <!融资情况>
-        <th>人脸识别</th> <!核心技术>
-        <th></th> <!核心产品>
+        <th>
+            <a href = "https://www.megvii.com/Research/#Technologies">人脸识别</a>
+        </th><!核心技术>
+        <th>
+            <a href = "https://www.megvii.com/Intelligent_Security/">智能安防</a><br>
+            <a href = "https://www.megvii.com/Industry_Network/">行业物联</a><br>
+            <a href = "https://www.megvii.com/Mobile_IoT/">移动端AI</a><br>
+            <a href = "https://www.megvii.com/Intelligent_Retail/">零售行业</a><br>
+            <a href = "https://www.megvii.com/Intelligent_warehousing/">仓储物流</a><br>
+        </th> <!核心产品>
         <th></th> <!B端客户>
     </tr>  
     <tr>
