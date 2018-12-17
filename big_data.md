@@ -4,6 +4,7 @@
 # 行业报告
 
 [大数据白皮书（2018年）](http://www.caict.ac.cn/kxyj/qwfb/bps/201804/P020180418587931723585.pdf)<br>
+2018.9.2 [大数据平台技术栈](https://www.jianshu.com/p/c688e47dae1d)<br>
 2017.09.20 [哪些黑科技正在改变金融？深度解剖知识图谱的四大应用](https://people.pedaily.cn/u/18881/420194.shtml)<br>
 
 
