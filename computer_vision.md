@@ -112,7 +112,8 @@
         <th>2012</th> <!哪年创立>
         <th></th> <!融资情况>
         <th>
-            <a href = "http://www.yitutech.com/corebusiness/4.html">人脸识别</a>
+            <a href = "http://www.yitutech.com/corebusiness/4.html">人脸识别</a><br>
+            车辆识别
         </th> <!核心技术>
         <th>
             <a href = "http://www.yitutech.com/corebusiness/4.html">智能安防</a><br>
@@ -128,7 +129,7 @@
 </table>
 
 [人脸识别独角兽之战：商汤、依图、 旷视、云从实力对比](https://www.iyiou.com/p/54764.html)<br> 
-
+[旷视、商汤、云从、依图，人脸识别四大独角兽的“落地大战”](https://baijiahao.baidu.com/s?id=1616451601286015492&wfr=spider&for=pc)<br>
 
 ## 商汤科技
 
