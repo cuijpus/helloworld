@@ -136,7 +136,71 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
         <th>
             <a href = "http://di.baidu.com/?castk=LTE%3D#products">数据智能平台</a><br>
         </th> <!数据智能>
-    </tr>   
+    </tr>  
+    <tr>
+        <th>
+            <a href = "http://ai.baidu.com/">百度AI开放平台</a>
+        </th>        
+        <th>
+            <a href = "http://ai.baidu.com/tech/speech">语音识别</a><br>
+            <a href = "http://ai.baidu.com/tech/speech/tts">语音合成</a><br>
+            <a href = "http://ai.baidu.com/tech/speech/wake">语音唤醒 </a><br>
+            <a href = "http://ai.baidu.com/tech/bicc">智能呼叫中心 </a><br>            
+        </th> <!语音能力>
+        <th>
+            <a href = "http://ai.baidu.com/tech/ocr">文字识别</a><br>
+            <a href = "http://ai.baidu.com/tech/imagerecognition">图像识别</a><br>
+            <a href = "http://ai.baidu.com/tech/imagecensoring">图像审核</a><br>  
+            <a href = "http://ai.baidu.com/tech/video/vca">视频内容分析</a><br>
+            <a href = "http://ai.baidu.com/tech/video/vca">视频封面选取</a><br>
+            <a href = "http://ai.baidu.com/tech/video/vcr">视频内容审核 </a><br>
+        </th> <!图像、视频能力>
+        <th>
+            <a href = "http://ai.baidu.com/tech/face">人脸识别</a><br>
+            <a href = "http://ai.baidu.com/tech/body">人体分析</a><br>            
+        </th> <!人脸>
+        <th>
+            <a href = "http://ai.baidu.com/tech/nlp">自然语言处理技术</a><br>
+            <a href = "http://ai.baidu.com/tech/textcensoring">文本审核</a><br> 
+            <a href = "http://fanyi-api.baidu.com/api/trans/product/index">翻译开放平台</a><br> 
+            <a href = "http://ai.baidu.com/tech/unit">理解与交互技术</a><br> 
+            <a href = "http://ai.baidu.com/solution/servicerobot">服务机器人</a><br>             
+        </th> <!自然语言处理>
+        <th>
+            <a href = "http://di.baidu.com/?castk=LTE%3D#products">数据智能平台</a><br>
+        </th> <!数据智能>
+    </tr>  
+    <tr>
+        <th>
+            <a href = "https://ai.qq.com/">腾讯AI开放平台</a>
+        </th>        
+        <th>
+            <a href = "https://ai.qq.com/product/aaiasr.shtml">语音识别</a><br>
+            <a href = "https://ai.qq.com/product/aaitts.shtml">语音合成</a><br>
+        </th> <!语音能力>
+        <th>
+            <a href = "https://ai.qq.com/product/ocr.shtml#identify">优图OCR</a><br>
+            <a href = "https://ai.qq.com/product/visionimgidy.shtml#express">图像识别</a><br>
+            <a href = "http://ai.baidu.com/tech/imagecensoring">图像审核</a><br>  
+            <a href = "http://ai.baidu.com/tech/video/vca">视频内容分析</a><br>
+            <a href = "http://ai.baidu.com/tech/video/vca">视频封面选取</a><br>
+            <a href = "http://ai.baidu.com/tech/video/vcr">视频内容审核 </a><br>
+        </th> <!图像、视频能力>
+        <th>
+            <a href = "http://ai.baidu.com/tech/face">人脸识别</a><br>
+            <a href = "http://ai.baidu.com/tech/body">人体分析</a><br>            
+        </th> <!人脸>
+        <th>
+            <a href = "http://ai.baidu.com/tech/nlp">自然语言处理技术</a><br>
+            <a href = "http://ai.baidu.com/tech/textcensoring">文本审核</a><br> 
+            <a href = "http://fanyi-api.baidu.com/api/trans/product/index">翻译开放平台</a><br> 
+            <a href = "http://ai.baidu.com/tech/unit">理解与交互技术</a><br> 
+            <a href = "http://ai.baidu.com/solution/servicerobot">服务机器人</a><br>             
+        </th> <!自然语言处理>
+        <th>
+            <a href = "http://di.baidu.com/?castk=LTE%3D#products">数据智能平台</a><br>
+        </th> <!数据智能>
+    </tr>      
 </table>
 
 
