@@ -708,7 +708,8 @@ HEV:<BR>
         <th>Yes</th>
         <th>干预辅助<br>自动加速<br>自动刹车<br>自动转向等</th>
         <th>
-            <a href = "https://baijiahao.baidu.com/s?id=1611189610149588914&wfr=spider&for=pc">沃尔沃S90</a><br>
+            <a href = "https://baijiahao.baidu.com/s?id=1611189610149588914&wfr=spider&for=pc">沃尔沃S90(<130KM)</a><br>
+            <a href = "https://baijiahao.baidu.com/s?id=1591181655432799510&wfr=spider&for=pc">A8L(<60KM)</a><br>    
         </th> 
     </tr>  
     <tr>
