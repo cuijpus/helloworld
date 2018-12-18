@@ -452,7 +452,7 @@ HEV:<BR>
             <a href = "http://www.sohu.com/a/270125923_146550">Mobileye</a>
         </th> <!自动驾驶>
         <th>
-            <a href = "http://news.bitauto.com/hao/wenzhang/926306">力帆合作</a>
+            <a href = "https://baijiahao.baidu.com/s?id=1620147226815372291&wfr=spider&for=pc">收购力帆</a>
         </th> <!代工or自建> 
         <th></th> <!交付能力>
     </tr>      
@@ -556,6 +556,7 @@ HEV:<BR>
 >>[李想造车，特斯拉的非典型信徒](https://baijiahao.baidu.com/s?id=1617798908863985006&wfr=spider&for=pc)<br>
 >>[北京车和家信息技术有限公司](https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%92%8C%E5%AE%B6%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/22448219?fromtitle=%E8%BD%A6%E5%92%8C%E5%AE%B6&fromid=19488411&fr=aladdin)<br>
 >>[车和家聚合动态](https://www.iyiou.com/t/chehejia/)<br>
+2018.12.17 [力帆“联姻”车和家，究竟是无奈之举还是合作共赢？](https://baijiahao.baidu.com/s?id=1620147226815372291&wfr=spider&for=pc)<br>
 2018.11.28 [车和家、金山云在AIoT上是如何与小米合作的？](https://baijiahao.baidu.com/s?id=1618349679635917230&wfr=spider&for=pc)<br>
 2018.11.27 [车和家江苏工厂停建 或将借力帆资质造车？](https://baijiahao.baidu.com/s?id=1618297876980444853&wfr=spider&for=pc)<br>
 >>[30多万就能买顶配！理想智造ONE完全解析！ ](http://news.bitauto.com/hao/wenzhang/980446)<br>
