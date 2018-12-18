@@ -139,35 +139,23 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
     </tr>  
     <tr>
         <th>
-            <a href = "http://ai.baidu.com/">百度AI开放平台</a>
+            <a href = "https://ai.aliyun.com/?spm=5176.8142029.388261.327.7fa96d3eyuGcCQ">阿里AI开放平台</a>
         </th>        
         <th>
-            <a href = "http://ai.baidu.com/tech/speech">语音识别</a><br>
-            <a href = "http://ai.baidu.com/tech/speech/tts">语音合成</a><br>
-            <a href = "http://ai.baidu.com/tech/speech/wake">语音唤醒 </a><br>
-            <a href = "http://ai.baidu.com/tech/bicc">智能呼叫中心 </a><br>            
+            <a href = "https://ai.aliyun.com/nls">智能语音交互</a><br>
         </th> <!语音能力>
         <th>
-            <a href = "http://ai.baidu.com/tech/ocr">文字识别</a><br>
-            <a href = "http://ai.baidu.com/tech/imagerecognition">图像识别</a><br>
-            <a href = "http://ai.baidu.com/tech/imagecensoring">图像审核</a><br>  
-            <a href = "http://ai.baidu.com/tech/video/vca">视频内容分析</a><br>
-            <a href = "http://ai.baidu.com/tech/video/vca">视频封面选取</a><br>
-            <a href = "http://ai.baidu.com/tech/video/vcr">视频内容审核 </a><br>
+            <a href = "https://ai.aliyun.com/image?spm=5176.233916.artificialIntelligence.30.767621fd7RhAKW">图像识别</a><br>
+            <a href = "https://ai.aliyun.com/vi?spm=5176.11907134.artificialIntelligence.32.1f1047057Gd1bH">视频智能</a><br>
         </th> <!图像、视频能力>
         <th>
-            <a href = "http://ai.baidu.com/tech/face">人脸识别</a><br>
-            <a href = "http://ai.baidu.com/tech/body">人体分析</a><br>            
+            <a href = "https://ai.aliyun.com/face?spm=5176.12061031.artificialIntelligence.10.44886cefSGC15b">人脸识别</a><br>
         </th> <!人脸>
         <th>
-            <a href = "http://ai.baidu.com/tech/nlp">自然语言处理技术</a><br>
-            <a href = "http://ai.baidu.com/tech/textcensoring">文本审核</a><br> 
-            <a href = "http://fanyi-api.baidu.com/api/trans/product/index">翻译开放平台</a><br> 
-            <a href = "http://ai.baidu.com/tech/unit">理解与交互技术</a><br> 
-            <a href = "http://ai.baidu.com/solution/servicerobot">服务机器人</a><br>             
+            <a href = "https://ai.aliyun.com/nlp?spm=5176.12127906.artificialIntelligence.11.66332c8fwDHA7Q">自然语言处理技术</a><br>
         </th> <!自然语言处理>
         <th>
-            <a href = "http://di.baidu.com/?castk=LTE%3D#products">数据智能平台</a><br>
+            <a href = "https://data.aliyun.com/?spm=5176.12127922.1146454.326.59f66c06C3vpbj">数据智能平台</a><br>
         </th> <!数据智能>
     </tr>  
     <tr>
