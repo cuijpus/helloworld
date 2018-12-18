@@ -35,8 +35,8 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
         <th>主题方向</th>
         <th>依托公司</th> <!注释>
         <th>平台</th> 
-        <th>yyy</th>
-        <th>zzz</th>
+        <th>核心团队</th>
+        <th>多方合作</th>
     </tr>
     <tr>
         <th>自动驾驶</th>
@@ -62,7 +62,10 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
         <th>
             <a href = "https://miying.qq.com/official/">腾讯觅影</a>
         </th> 
-        <th> </th>
+        <th>
+            <a href = "https://miying.qq.com/official/">医学专家</a><br>
+            AI专业团队
+        </th>
         <th> </th>
     </tr>  
     <tr>
