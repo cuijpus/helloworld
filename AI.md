@@ -112,9 +112,20 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
             <a href = "http://ai.baidu.com/tech/speech">语音识别</a><br>
             <a href = "http://ai.baidu.com/tech/speech/tts">语音合成</a><br>
             <a href = "http://ai.baidu.com/tech/speech/wake">语音唤醒 </a><br>
+            <a href = "http://ai.baidu.com/tech/bicc">智能呼叫中心 </a><br>            
         </th> <!语音能力>
-        <th>图像、视频能力</th> 
-        <th>人脸</th>
+        <th>
+            <a href = "http://ai.baidu.com/tech/ocr">文字识别</a><br>
+            <a href = "http://ai.baidu.com/tech/imagerecognition">图像识别</a><br>
+            <a href = "http://ai.baidu.com/tech/imagecensoring">图像审核</a><br>  
+            <a href = "http://ai.baidu.com/tech/video/vca">视频内容分析</a><br>
+            <a href = "http://ai.baidu.com/tech/video/vca">视频封面选取</a><br>
+            <a href = "http://ai.baidu.com/tech/video/vcr">视频内容审核 </a><br>
+        </th> <!图像、视频能力>
+        <th>
+            <a href = "http://ai.baidu.com/tech/face">人脸识别</a><br>
+            <a href = "http://ai.baidu.com/tech/body">人体分析</a><br>            
+        </th> <!人脸>
         <th>自然语言处理</th>
         <th>知识图谱</th>
     </tr>   
