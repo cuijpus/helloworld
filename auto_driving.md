@@ -707,7 +707,9 @@ HEV:<BR>
         <th>条件自动</th> 
         <th>Yes</th>
         <th>干预辅助<br>自动加速<br>自动刹车<br>自动转向等</th>
-        <th></th> 
+        <th>
+            <a href = "https://baijiahao.baidu.com/s?id=1611189610149588914&wfr=spider&for=pc">沃尔沃S90</a><br>
+        </th> 
     </tr>  
     <tr>
         <th>L2</th> 
