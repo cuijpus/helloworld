@@ -292,6 +292,7 @@ HEV:<BR>
     </tr>     
 </table>
 
+2018.12.13 [11月最畅销的新能源车型排名 看看你的车排第几名? ](http://auto.gasgoo.com/News/2018/12/13090434434I70077970C501.shtml)<br>
 2018.12.11 [吉利嘉际VS比亚迪宋MAX，谁能成为中国首个上市的混动MVP？](https://baijiahao.baidu.com/s?id=1619544095352389004&wfr=spider&for=pc)<br>
 2018.7.27 [领克01 PHEV正式上市 售19.98-22.98万元](https://www.pcauto.com.cn/nation/1247/12477976.html)<br>
 [比亚迪唐DM缺电怎么开？10%电量的时候发动机最尴尬……](https://baijiahao.baidu.com/s?id=1612014357667881403&wfr=spider&for=pc)<BR>
