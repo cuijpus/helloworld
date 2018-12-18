@@ -126,7 +126,13 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
             <a href = "http://ai.baidu.com/tech/face">人脸识别</a><br>
             <a href = "http://ai.baidu.com/tech/body">人体分析</a><br>            
         </th> <!人脸>
-        <th>自然语言处理</th>
+        <th>
+            <a href = "http://ai.baidu.com/tech/nlp">自然语言处理技术</a><br>
+            <a href = "http://ai.baidu.com/tech/textcensoring">文本审核</a><br> 
+            <a href = "http://fanyi-api.baidu.com/api/trans/product/index">翻译开放平台</a><br> 
+            <a href = "http://ai.baidu.com/tech/unit">理解与交互技术</a><br> 
+            <a href = "http://ai.baidu.com/solution/servicerobot">服务机器人</a><br>             
+        </th> <!自然语言处理>
         <th>知识图谱</th>
     </tr>   
 </table>
