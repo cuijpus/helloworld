@@ -81,6 +81,7 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
     </tr>      
 </table>
 
+2018.6.21 [腾讯正式发布首个AI医学辅助诊疗开放平台](https://baike.baidu.com/item/%E8%85%BE%E8%AE%AF%E8%A7%85%E5%BD%B1/22063101?fr=aladdin)<br>
 2017.11.15 [科技部宣布四大新一代人工智能开放创新平台：BAT+科大讯飞](https://www.sohu.com/a/205189703_498760)<br>
 [阿里ET城市大脑（交通）白皮书](https://baijiahao.baidu.com/s?id=1605115951626995618&wfr=spider&for=pc)<br>
 
