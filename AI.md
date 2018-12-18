@@ -28,6 +28,8 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
 2018.5.10 [《2018中国人工智能创新成长企业50强》榜单发布](http://www.ctoutiao.com/674770.html)<br>
 2016.10.18 [全球最值得关注的100家人工智能公司（中国27家）](http://www.cbdio.com/BigData/2016-10/18/content_5340504.htm)<br>
 
+
+
 # 科技部：[国家新一代人工智能开放创新平台](https://baike.baidu.com/item/%E6%96%B0%E4%B8%80%E4%BB%A3%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BC%80%E6%94%BE%E5%88%9B%E6%96%B0%E5%B9%B3%E5%8F%B0/22245802?fr=aladdin)<br>
 
 <table>
@@ -88,6 +90,29 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
 2018.6.19 [四大平台、八大领域，阿里云ET城市大脑全面开放平台AI能力](https://baijiahao.baidu.com/s?id=1603689004087573938&wfr=spider&for=pc)<br>
 2017.11.15 [科技部宣布四大新一代人工智能开放创新平台：BAT+科大讯飞](https://www.sohu.com/a/205189703_498760)<br>
 [阿里ET城市大脑（交通）白皮书](https://baijiahao.baidu.com/s?id=1605115951626995618&wfr=spider&for=pc)<br>
+
+
+# 开放平台
+http://ai.baidu.com/
+
+<table>
+    <tr>
+        <th>开放平台</th>
+        <th>语音能力</th> <!注释>
+        <th>图像、视频能力</th> 
+        <th>人脸</th>
+        <th>自然语言处理</th>
+        <th>知识图谱</th>
+    </tr>
+    <tr>
+        <th>百度AI开放平台</th>
+        <th>语音能力</th> <!注释>
+        <th>图像、视频能力</th> 
+        <th>人脸</th>
+        <th>自然语言处理</th>
+        <th>知识图谱</th>
+    </tr>   
+</table>
 
 
 # W/W巨头的AI战略
