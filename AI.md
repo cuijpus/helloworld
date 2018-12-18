@@ -181,21 +181,13 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
         <th>
             <a href = "https://ai.qq.com/product/ocr.shtml#identify">优图OCR</a><br>
             <a href = "https://ai.qq.com/product/visionimgidy.shtml#express">图像识别</a><br>
-            <a href = "http://ai.baidu.com/tech/imagecensoring">图像审核</a><br>  
-            <a href = "http://ai.baidu.com/tech/video/vca">视频内容分析</a><br>
-            <a href = "http://ai.baidu.com/tech/video/vca">视频封面选取</a><br>
-            <a href = "http://ai.baidu.com/tech/video/vcr">视频内容审核 </a><br>
+            <a href = "https://ai.qq.com/product/yellow.shtml">图片鉴黄</a><br>  
         </th> <!图像、视频能力>
         <th>
-            <a href = "http://ai.baidu.com/tech/face">人脸识别</a><br>
-            <a href = "http://ai.baidu.com/tech/body">人体分析</a><br>            
+            <a href = "https://ai.qq.com/product/face.shtml#detect">人脸识别</a><br>
         </th> <!人脸>
         <th>
-            <a href = "http://ai.baidu.com/tech/nlp">自然语言处理技术</a><br>
-            <a href = "http://ai.baidu.com/tech/textcensoring">文本审核</a><br> 
-            <a href = "http://fanyi-api.baidu.com/api/trans/product/index">翻译开放平台</a><br> 
-            <a href = "http://ai.baidu.com/tech/unit">理解与交互技术</a><br> 
-            <a href = "http://ai.baidu.com/solution/servicerobot">服务机器人</a><br>             
+            <a href = "https://ai.qq.com/product/nlptrans.shtml#audio">机器翻译</a><br>
         </th> <!自然语言处理>
         <th>
             <a href = "http://di.baidu.com/?castk=LTE%3D#products">数据智能平台</a><br>
