@@ -102,7 +102,7 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
         <th>图像、视频能力</th> 
         <th>人脸</th>
         <th>自然语言处理</th>
-        <th>知识图谱</th>
+        <th>数据智能</th>
     </tr>
     <tr>
         <th>
@@ -133,7 +133,9 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
             <a href = "http://ai.baidu.com/tech/unit">理解与交互技术</a><br> 
             <a href = "http://ai.baidu.com/solution/servicerobot">服务机器人</a><br>             
         </th> <!自然语言处理>
-        <th>知识图谱</th>
+        <th>
+            <a href = "http://di.baidu.com/?castk=LTE%3D#products">数据智能平台</a><br>
+        </th> <!数据智能>
     </tr>   
 </table>
 
