@@ -178,9 +178,30 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
             <a href = "https://ai.qq.com/product/nlptrans.shtml#audio">机器翻译</a><br>
         </th> <!自然语言处理>
         <th>
-            <a href = "http://di.baidu.com/?castk=LTE%3D#products">数据智能平台</a><br>
         </th> <!数据智能>
     </tr>      
+    <tr>
+        <th>
+            <a href = "https://www.xfyun.cn/">讯飞开放平台</a>
+        </th>        
+        <th>
+            <a href = "https://www.xfyun.cn/services/voicedictation">语音识别</a><br>
+            <a href = "https://www.xfyun.cn/services/online_tts">语音合成</a><br>
+        </th> <!语音能力>
+        <th>
+            <a href = "https://www.xfyun.cn/services/pornContentFilterRecg">内容审查</a><br>
+            <a href = "https://www.xfyun.cn/services/object-recg">物体识别</a><br>
+            <a href = "https://www.xfyun.cn/services/scene-recg">场景识别</a><br>  
+        </th> <!图像、视频能力>
+        <th>
+            <a href = "https://www.xfyun.cn/services/face?type=face">人脸识别</a><br>
+        </th> <!人脸>
+        <th>
+            <a href = "https://www.xfyun.cn/services/lexicalAnalysis">机器翻译</a><br>
+        </th> <!自然语言处理>
+        <th>
+        </th> <!数据智能>
+    </tr>        
 </table>
 
 
@@ -201,6 +222,7 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
 # 学习资源
 [十大必须掌握的机器学习算法，竟然都如此有趣](https://blog.csdn.net/tkkzc3e6s4ou4/article/details/79083376)<br>
 [机器学习的13种算法和4种学习方法，推荐给大家](https://blog.csdn.net/duozhishidai/article/details/82764044)<br>
+[深度学习 501](https://software.intel.com/zh-cn/ai-academy/students/kits/deep-learning-501)<br>
 
 # Tools
 [这可能是人工智能、机器学习和大数据领域覆盖最全的一份速查表](http://www.raincent.com/content-10-12752-1.html)<br>
