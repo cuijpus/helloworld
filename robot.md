@@ -11,6 +11,8 @@
 ![big4](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1545199487910&di=22f0babf09a0e6c31f2174cb63209490&imgtype=0&src=http%3A%2F%2Fdata.useit.com.cn%2Fuseitdata%2Fforum%2F201507%2F10%2F175035d2s90ug00c6zpc3t.jpg)<br>
 
 ## 国内品牌
+![国内品牌](http://5b0988e595225.cdn.sohucs.com/images/20180131/48c9dbd1dc1249eea4c6f16cd6d58c33.jpeg)<br>
+[智匠严选 今天你该知道的机器人热点资讯](http://www.sohu.com/a/220121756_100090232)<br>
 [国产工业机器人为何赶不上“四大家族”？](http://www.gongkong.com/news/201806/381682.html)<br>
 [国内工业与服务机器人产业研究报告（下）](http://blog.sina.com.cn/s/blog_be62e9a90102wj9d.html)<br>
 [权威报告：中国工业机器人四大瓶颈与突破点](http://www.gymf.com.cn/robot/cn/news/2017-5-12/2765.html)<BR>
