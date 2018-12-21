@@ -6,7 +6,7 @@
 总览图 http://mattturck.com/wp-content/uploads/2018/02/2018_Matt_Turck_IoT_Landscape_Final.png <br>
 
 
-
+站在巨人的肩膀上，搞垂直IoT服务：<br>
 1. 百度“天工”物联网平台
 2. 阿里Link物联网平台
 3. 腾讯QQ物联智能硬件开放平台
@@ -18,6 +18,7 @@
 
 # 练手
 [看物联网开发实战：20分钟搭建简易环境监测站](http://www.dashunet.cn/archives/2592)<br>
+[AliOS Things+阿里云 10分钟搭建智慧农业解决方案](http://blog.itpub.net/31545802/viewspace-2213462)<br>
 
 # 政策导航
 2018.12.6 [工信部：加速推进人工智能、物联网和智慧城市国际标准](http://www.sohu.com/a/279937844_468632)<br>
@@ -119,7 +120,9 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
 
 ## 垂直供应商的补充
 
+# 开放平台
 
+http://www.alios.cn/things
 
 # 概念扫描
 [LoRa与NB-IoT主要对比分析](https://jingyan.baidu.com/article/597a06432caf35312b5243b6.html)<br>
