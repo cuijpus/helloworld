@@ -8,6 +8,7 @@
 
 # 行业报告
 2018.12 [车联网白皮书（2018年）](http://www.caict.ac.cn/kxyj/qwfb/bps/201812/P020181218510826089278.pdf)<br>
+[ 《车联网白皮书》解读｜PPT](http://www.caict.ac.cn/kxyj/caictgd/201812/t20181219_190988.htm)<br>
 
 2018.12.10 [《智能网联汽车自动驾驶功能测试规范》正式发布](http://www.qianjia.com/html/2018-12/10_314393.html)<br>
 [中国智能网联汽车产业2018](http://www.fourin.cn/img/report/CHINA_IT_INDUSTRY_2017/dm.pdf)<br>
