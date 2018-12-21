@@ -19,6 +19,7 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
 
 
 # 业内动态
+2018.12.20 [百度成立AI产业研究中心 与IDC联合发布《百度大脑领导力白皮书》](https://ai.bdstatic.com/file/37FB772329554EAFAE798FE0E11D1001)<br>
 2018.10.18 [2018年人工智能八大趋势](http://www.sohu.com/a/259765973_99916129)<br>
 2018.9.17 [2018世界人工智能蓝皮书](http://www.caict.ac.cn/kxyj/qwfb/bps/201809/P020180918696199759142.pdf)<br>
 2018.9 [人工智能发展白皮书-技术架构篇（2018年）](http://www.caict.ac.cn/kxyj/qwfb/bps/201809/P020180906443463663989.pdf)<br>
