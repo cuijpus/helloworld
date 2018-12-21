@@ -596,7 +596,9 @@ HEV:<BR>
         <th>合作公司</th>
     </tr>
     <tr>
-        <th>waymo</th> 
+        <th>
+            <a href = "https://waymo.com/">waymo</a>
+        </th> 
         <th>Google</th> 
         <th>L2</th>
         <th></th>
@@ -647,6 +649,10 @@ HEV:<BR>
 
 # 驾驶芯片
 
+
+
+
+
 2018.12.10 比亚迪<br>
 2018.8.6[自动驾驶芯片：GPU 的现在和 ASIC 的未来](https://baijiahao.baidu.com/s?id=1608059303010189478&wfr=spider&for=pc)<br>
 
@@ -674,6 +680,10 @@ HEV:<BR>
 [中国芯片界黑马的诞生：成立当年业务收入过亿，华为都找它合作](https://baijiahao.baidu.com/s?id=1617755542012568249&wfr=spider&for=pc)<br>
 
 ## Mobileye
+
+## Xilinx
+[赛灵思合作比亚迪 为驾驶员辅助系统提供芯片 ](http://www.sohu.com/a/283109333_180520)<br>
+https://www.xilinx.com/ 
 
 # 驾驶算法
 [本土化ADAS被Mobileye甩出了一条街？突破可能还在算法公司 ](http://www.cheyun.com/content/9677)<br>
