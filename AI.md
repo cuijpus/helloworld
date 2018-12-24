@@ -205,6 +205,7 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
     </tr>        
 </table>
 
+[百度在NLP领域都做了什么？](https://www.2cto.com/news/201702/597401.html)<br>
 
 # W/W巨头的AI战略
 
