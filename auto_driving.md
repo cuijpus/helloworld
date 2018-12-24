@@ -692,7 +692,7 @@ HEV:<BR>
 
 <table>
     <tr>
-        <th>预警类</th>
+        <th>预警告警类</th>
         <th>子功能名称</th>
         <th>英文名称</th>
         <th>供应商</th>
@@ -726,20 +726,6 @@ HEV:<BR>
         <th></th>
         <th></th>
     </tr> 
-    <tr>
-        <th></th>
-        <th align="left">行人检测系统</th>
-        <th align="left"> Pedestrian Detection System (PDS)</th>
-        <th></th>
-        <th></th>
-    </tr>     
-    <tr>
-        <th></th>
-        <th align="left">交通信号及标志牌识别</th>
-        <th align="left">Road Sign Recognition (RSR)</th>
-        <th></th>
-        <th></th>
-    </tr>    
 </table>
 
 <table>
@@ -751,42 +737,49 @@ HEV:<BR>
         <th>搭载的车型</th>
     </tr>
     <tr>
-        <th>3</th>
+        <th></th>
         <th align="left">智能大灯控制</th>
         <th align="left">Adaptive Front Lights (AFL)</th>
         <th></th>
         <th></th>
     </tr>
     <tr>
-        <th>7</th>
+        <th></th>
         <th align="left">抬头显示器</th>
         <th align="left">Heads-Up Display (HUD)</th>
         <th></th>
         <th></th>
     </tr>   
     <tr>
-        <th>8</th>
+        <th></th>
         <th align="left">智能车速控制</th>
         <th align="left">Intelligent Speed Adaptation (ISA)</th>
         <th></th>
         <th></th>
     </tr>    
     <tr>
-        <th>10</th>
+        <th></th>
         <th align="left">汽车夜视系统</th>
         <th align="left">Night Vision System（NVS）</th>
         <th></th>
         <th></th>
     </tr>  
     <tr>
-        <th>12</th>
+        <th></th>
         <th align="left">行人检测系统</th>
         <th align="left"> Pedestrian Detection System (PDS)</th>
         <th></th>
         <th></th>
+    </tr>  
+    <tr>
+        <th></th>
+        <th align="left">交通信号及标志牌识别</th>
+        <th align="left">Road Sign Recognition (RSR)</th>
+        <th></th>
+        <th></th>
     </tr>     
     <tr>
-        <th>14</th>
+        <th></th>
         <th align="left">全景泊车停车辅助系统</th>
         <th align="left">Surround View Cameras (SVC)</th>
         <th></th>
