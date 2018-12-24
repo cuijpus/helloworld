@@ -1,8 +1,13 @@
 # Overview
+国外整理的一个图：<br>
 ![总览图](http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png)
 
-# 行业报告
+国内的一个图:<br>
+![大数据产业图](http://5b0988e595225.cdn.sohucs.com/images/20181221/0c835fcfd4834e21b57f7aad42a42636.jpeg)<br>
 
+
+# 行业报告
+2018.12.21 [大数据下半场：巨头的制高点与新星的破局术 | 华兴报告](http://www.sohu.com/a/283474869_339689)<br>
 [大数据白皮书（2018年）](http://www.caict.ac.cn/kxyj/qwfb/bps/201804/P020180418587931723585.pdf)<br>
 2018.9.2 [大数据平台技术栈](https://www.jianshu.com/p/c688e47dae1d)<br>
 2017.09.20 [哪些黑科技正在改变金融？深度解剖知识图谱的四大应用](https://people.pedaily.cn/u/18881/420194.shtml)<br>
