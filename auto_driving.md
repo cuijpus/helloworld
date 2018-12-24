@@ -650,6 +650,47 @@ HEV:<BR>
 
 # ADAS [高级驾驶员辅助系统]
 
+
+<table>
+    <tr>
+        <th>主动控制类</th>
+        <th>子功能名称</th>
+        <th>英文名称</th>
+        <th>供应商</th>
+        <th>搭载的车型</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th align="left">自适应巡航控制系统</th>
+        <th align="left">Adaptive Cruise Control（ACC）</th>
+        <th></th>
+        <th></th>
+    </tr>  
+    <tr>
+        <th></th>
+        <th align="left">车道保持辅助</th>
+        <th align="left">Lane Keeping Assist (LKA)</th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th align="left">自动紧急制动</th>
+        <th align="left">Autonomous Emergency Braking（AEB）</th>
+        <th></th>
+        <th></th>
+    </tr>     
+    <tr>
+        <th></th>
+        <th align="left">泊车辅助</th>
+        <th align="left">Parking Assistance (PA)</th>
+        <th></th>
+        <th></th>
+    </tr> 
+</table>
+
+
+
 <table>
     <tr>
         <th>ID</th>
