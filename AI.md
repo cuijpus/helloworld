@@ -8,7 +8,10 @@
 [Israel's AI landscape](https://cdn-images-1.medium.com/max/2000/1*4k2bACH0ZNBy6CKwbSpxQA.png)<br>
 
 [Machine Learning and AI Market Landscape, 2016](https://i1.wp.com/analyticsweek.com/wp-content/uploads/2017/01/4e1d80ad-c007-4baa-99a9-915c936a5ef6-original.png?ssl=1)<br>
-Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, but overall a good list for looking through holistic Data Analytics Artificial Intelligence and Machine Learning landscape.<br>
+Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, but overall a good list for looking through 
+holistic Data Analytics Artificial Intelligence and Machine Learning landscape.<br>
+
+[关于人工智能的定义 我国AI产业链现状](http://www.elecfans.com/rengongzhineng/664886.html)<br>
 
 # 政策导航 
 2018.5.11 [安徽出台新一代人工智能产业发展规划(2018—2030年)](http://ah.sina.com.cn/news/2018-05-29/detail-ihcffhsu7092405.shtml?from=ah_cnxh)<br>
