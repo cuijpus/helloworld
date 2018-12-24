@@ -706,8 +706,66 @@ HEV:<BR>
         <th align="left">Heads-Up Display (HUD)</th>
         <th></th>
         <th></th>
+    </tr>   
+    <tr>
+        <th>8</th>
+        <th align="left">智能车速控制</th>
+        <th align="left">Intelligent Speed Adaptation (ISA)</th>
+        <th></th>
+        <th></th>
     </tr>    
+    <tr>
+        <th>9</th>
+        <th align="left">车道偏离告警</th>
+        <th align="left">Lane Departure Warning (LDW)</th>
+        <th></th>
+        <th></th>
+    </tr>   
+    <tr>
+        <th>10</th>
+        <th align="left">汽车夜视系统</th>
+        <th align="left">Night Vision System（NVS）</th>
+        <th></th>
+        <th></th>
+    </tr>  
+    <tr>
+        <th>11</th>
+        <th align="left">泊车辅助</th>
+        <th align="left">Parking Assistance (PA)</th>
+        <th></th>
+        <th></th>
+    </tr> 
+    <tr>
+        <th>11</th>
+        <th align="left">泊车辅助</th>
+        <th align="left">Parking Assistance (PA)</th>
+        <th></th>
+        <th></th>
+    </tr>    
+    <tr>
+        <th>12</th>
+        <th align="left">行人检测系统</th>
+        <th align="left"> Pedestrian Detection System (PDS)</th>
+        <th></th>
+        <th></th>
+    </tr>     
+    <tr>
+        <th>13</th>
+        <th align="left">交通信号及标志牌识别</th>
+        <th align="left">Road Sign Recognition (RSR)</th>
+        <th></th>
+        <th></th>
+    </tr>    
+    <tr>
+        <th>14</th>
+        <th align="left">全景泊车停车辅助系统</th>
+        <th align="left">Surround View Cameras (SVC)</th>
+        <th></th>
+        <th></th>
+    </tr>     
 </table>
+
+
 
 [从此知道激光雷达怎么用--无人驾驶功能和供应商全解析](http://www.laserfair.com/yingyong/201607/21/64598.html)<BR>
 
