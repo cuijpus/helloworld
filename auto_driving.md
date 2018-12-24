@@ -649,7 +649,7 @@ HEV:<BR>
 
 
 # ADAS [高级驾驶员辅助系统]
-[从此知道激光雷达怎么用--无人驾驶功能和供应商全解析](http://www.laserfair.com/yingyong/201607/21/64598.html)<BR>
+
 <table>
     <tr>
         <th>ID</th>
@@ -660,8 +660,8 @@ HEV:<BR>
     </tr>
     <tr>
         <th>1</th>
-        <th>自适应巡航控制系统</th>
-        <th>Adaptive Cruise Control（ACC）</th>
+        <th aligh="left">自适应巡航控制系统</th>
+        <th aligh="left">Adaptive Cruise Control（ACC）</th>
         <th></th>
         <th></th>
     </tr>   
@@ -708,6 +708,9 @@ HEV:<BR>
         <th></th>
     </tr>    
 </table>
+
+[从此知道激光雷达怎么用--无人驾驶功能和供应商全解析](http://www.laserfair.com/yingyong/201607/21/64598.html)<BR>
+
 
 # 驾驶芯片
 
