@@ -218,6 +218,8 @@ holistic Data Analytics Artificial Intelligence and Machine Learning landscape.<
 [15 个开源的顶级人工智能工具](http://www.iteye.com/news/31877)<br>
 [那些有趣又实用的开源人工智能项目Top 10](http://ai.51cto.com/art/201809/582996.htm)<br>
 
+[互联网、音频、视频、图形、游戏、生产力、组织、通讯、教育、科学、CMS、ERP、静态站点、开发和其他。](https://github.com/mahmoud/awesome-python-applications)<br>
+
 ## TensorFlow
 [TensorFlow](https://www.tensorflow.org)<br>
 
@@ -228,6 +230,8 @@ holistic Data Analytics Artificial Intelligence and Machine Learning landscape.<
 [十大必须掌握的机器学习算法，竟然都如此有趣](https://blog.csdn.net/tkkzc3e6s4ou4/article/details/79083376)<br>
 [机器学习的13种算法和4种学习方法，推荐给大家](https://blog.csdn.net/duozhishidai/article/details/82764044)<br>
 [深度学习 501](https://software.intel.com/zh-cn/ai-academy/students/kits/deep-learning-501)<br>
+
+
 
 # Tools
 [这可能是人工智能、机器学习和大数据领域覆盖最全的一份速查表](http://www.raincent.com/content-10-12752-1.html)<br>
