@@ -660,50 +660,50 @@ HEV:<BR>
     </tr>
     <tr>
         <th>1</th>
-        <th aligh="left">自适应巡航控制系统</th>
-        <th aligh="left">Adaptive Cruise Control（ACC）</th>
+        <th align="left">自适应巡航控制系统</th>
+        <th align="left">Adaptive Cruise Control（ACC）</th>
         <th></th>
         <th></th>
     </tr>   
     <tr>
         <th>2</th>
-        <th>自动紧急制动</th>
-        <th>Autonomous Emergency Braking（AEB）</th>
+        <th align="left">自动紧急制动</th>
+        <th align="left">Autonomous Emergency Braking（AEB）</th>
         <th></th>
         <th></th>
     </tr>    
     <tr>
         <th>3</th>
-        <th>智能大灯控制</th>
-        <th>Adaptive Front Lights (AFL)</th>
+        <th align="left">智能大灯控制</th>
+        <th align="left">Adaptive Front Lights (AFL)</th>
         <th></th>
         <th></th>
     </tr>
     <tr>
         <th>4</th>
-        <th>盲点检测</th>
-        <th>Blind Spot Monitoring (BSM)</th>
+        <th align="left">盲点检测</th>
+        <th align="left">Blind Spot Monitoring (BSM)</th>
         <th></th>
         <th></th>
     </tr> 
     <tr>
         <th>5</th>
-        <th>注意力检测系统</th>
-        <th>Driver Monitoring Systems (DMS)</th>
+        <th align="left">注意力检测系统</th>
+        <th align="left">Driver Monitoring Systems (DMS)</th>
         <th></th>
         <th></th>
     </tr> 
     <tr>
         <th>6</th>
-        <th>前方碰撞预警系统</th>
-        <th>Forward Collision Warning (FCW)</th>
+        <th align="left">前方碰撞预警系统</th>
+        <th align="left">Forward Collision Warning (FCW)</th>
         <th></th>
         <th></th>
     </tr>
     <tr>
         <th>7</th>
-        <th>抬头显示器</th>
-        <th>Heads-Up Display (HUD)</th>
+        <th align="left">抬头显示器</th>
+        <th align="left">Heads-Up Display (HUD)</th>
         <th></th>
         <th></th>
     </tr>    
