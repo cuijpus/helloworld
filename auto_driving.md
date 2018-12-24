@@ -690,6 +690,57 @@ HEV:<BR>
 </table>
 
 
+<table>
+    <tr>
+        <th>预警类</th>
+        <th>子功能名称</th>
+        <th>英文名称</th>
+        <th>供应商</th>
+        <th>搭载的车型</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th align="left">车道偏离告警</th>
+        <th align="left">Lane Departure Warning (LDW)</th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th align="left">前方碰撞预警系统</th>
+        <th align="left">Forward Collision Warning (FCW)</th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th align="left">盲点检测</th>
+        <th align="left">Blind Spot Monitoring (BSM)</th>
+        <th></th>
+        <th></th>
+    </tr> 
+    <tr>
+        <th></th>
+        <th align="left">注意力检测系统</th>
+        <th align="left">Driver Monitoring Systems (DMS)</th>
+        <th></th>
+        <th></th>
+    </tr> 
+    <tr>
+        <th></th>
+        <th align="left">行人检测系统</th>
+        <th align="left"> Pedestrian Detection System (PDS)</th>
+        <th></th>
+        <th></th>
+    </tr>     
+    <tr>
+        <th></th>
+        <th align="left">交通信号及标志牌识别</th>
+        <th align="left">Road Sign Recognition (RSR)</th>
+        <th></th>
+        <th></th>
+    </tr>    
+</table>
 
 <table>
     <tr>
