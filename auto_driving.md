@@ -744,47 +744,12 @@ HEV:<BR>
 
 <table>
     <tr>
-        <th>ID</th>
+        <th>其它辅助性</th>
         <th>子功能名称</th>
         <th>英文名称</th>
         <th>供应商</th>
         <th>搭载的车型</th>
     </tr>
-    <tr>
-        <th>9</th>
-        <th align="left">车道偏离告警</th>
-        <th align="left">Lane Departure Warning (LDW)</th>
-        <th></th>
-        <th></th>
-    </tr>
-    <tr>
-        <th>9</th>
-        <th align="left">车道保持辅助</th>
-        <th align="left">Lane Keeping Assist (LKA)</th>
-        <th></th>
-        <th></th>
-    </tr>
-    <tr>
-        <th>6</th>
-        <th align="left">前方碰撞预警系统</th>
-        <th align="left">Forward Collision Warning (FCW)</th>
-        <th></th>
-        <th></th>
-    </tr>
-    <tr>
-        <th>2</th>
-        <th align="left">自动紧急制动</th>
-        <th align="left">Autonomous Emergency Braking（AEB）</th>
-        <th></th>
-        <th></th>
-    </tr>     
-    <tr>
-        <th>1</th>
-        <th align="left">自适应巡航控制系统</th>
-        <th align="left">Adaptive Cruise Control（ACC）</th>
-        <th></th>
-        <th></th>
-    </tr>   
     <tr>
         <th>3</th>
         <th align="left">智能大灯控制</th>
@@ -792,20 +757,6 @@ HEV:<BR>
         <th></th>
         <th></th>
     </tr>
-    <tr>
-        <th>4</th>
-        <th align="left">盲点检测</th>
-        <th align="left">Blind Spot Monitoring (BSM)</th>
-        <th></th>
-        <th></th>
-    </tr> 
-    <tr>
-        <th>5</th>
-        <th align="left">注意力检测系统</th>
-        <th align="left">Driver Monitoring Systems (DMS)</th>
-        <th></th>
-        <th></th>
-    </tr> 
     <tr>
         <th>7</th>
         <th align="left">抬头显示器</th>
@@ -828,26 +779,12 @@ HEV:<BR>
         <th></th>
     </tr>  
     <tr>
-        <th>11</th>
-        <th align="left">泊车辅助</th>
-        <th align="left">Parking Assistance (PA)</th>
-        <th></th>
-        <th></th>
-    </tr> 
-    <tr>
         <th>12</th>
         <th align="left">行人检测系统</th>
         <th align="left"> Pedestrian Detection System (PDS)</th>
         <th></th>
         <th></th>
     </tr>     
-    <tr>
-        <th>13</th>
-        <th align="left">交通信号及标志牌识别</th>
-        <th align="left">Road Sign Recognition (RSR)</th>
-        <th></th>
-        <th></th>
-    </tr>    
     <tr>
         <th>14</th>
         <th align="left">全景泊车停车辅助系统</th>
