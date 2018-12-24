@@ -661,21 +661,27 @@ HEV:<BR>
     </tr>
     <tr>
         <th></th>
-        <th align="left">自适应巡航控制系统</th>
+        <th align="left">
+            <a href = "https://baike.baidu.com/item/%E8%87%AA%E9%80%82%E5%BA%94%E5%B7%A1%E8%88%AA%E6%8E%A7%E5%88%B6/21431098?fr=aladdin">自适应巡航控制系统</a>
+        </th>
         <th align="left">Adaptive Cruise Control（ACC）</th>
         <th></th>
         <th></th>
     </tr>  
     <tr>
         <th></th>
-        <th align="left">车道保持辅助</th>
+        <th align="left">
+            <a href = "https://baijiahao.baidu.com/s?id=1587311793496794315&wfr=spider&for=pc">车道保持辅助</a>
+        </th>
         <th align="left">Lane Keeping Assist (LKA)</th>
         <th></th>
         <th></th>
     </tr>
     <tr>
         <th></th>
-        <th align="left">自动紧急制动</th>
+        <th align="left">
+            <a href = "https://baike.baidu.com/item/%E7%B4%A7%E6%80%A5%E5%88%B6%E5%8A%A8/6839887?fr=aladdin">自动紧急制动</a>
+        </th>
         <th align="left">Autonomous Emergency Braking（AEB）</th>
         <th></th>
         <th></th>
@@ -700,7 +706,9 @@ HEV:<BR>
     </tr>
     <tr>
         <th></th>
-        <th align="left">车道偏离告警</th>
+        <th align="left">
+            <a href = "https://baike.baidu.com/item/%E8%BD%A6%E9%81%93%E5%81%8F%E7%A6%BB%E9%A2%84%E8%AD%A6%E7%B3%BB%E7%BB%9F/258165">车道偏离告警</a>
+        </th>
         <th align="left">Lane Departure Warning (LDW)</th>
         <th></th>
         <th></th>
