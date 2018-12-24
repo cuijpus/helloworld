@@ -647,11 +647,12 @@ HEV:<BR>
 主流自动驾驶系统解析
 
 
+
+# ADAS
+[从此知道激光雷达怎么用--无人驾驶功能和供应商全解析](http://www.laserfair.com/yingyong/201607/21/64598.html)<BR>
+
+
 # 驾驶芯片
-
-
-
-
 
 2018.12.10 比亚迪<br>
 2018.8.6[自动驾驶芯片：GPU 的现在和 ASIC 的未来](https://baijiahao.baidu.com/s?id=1608059303010189478&wfr=spider&for=pc)<br>
@@ -753,3 +754,4 @@ https://www.xilinx.com/
 [激光雷达加持 解读全新奥迪A6L驾驶辅助](https://baijiahao.baidu.com/s?id=1617712381586419588&wfr=spider&for=pc)<br>
 [摆脱你的固有认知 测试全新奥迪A6L](https://baijiahao.baidu.com/s?id=1617548475538661726&wfr=spider&for=pc)<br>
 ![auto drive levels](https://www.autocodes.com/news/images/47.png)<br>
+![auto drive levels2](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1545621990286&di=d28fbb5e9823ea5d57d7f73f782a7913&imgtype=0&src=http%3A%2F%2Fwww.libnet.sh.cn%3A82%2Fgate%2Fbig5%2Fwww.istis.sh.cn%2Fupdata%2Feditor%2Fuploadfile%2F20171208134544684001.png)<BR>
