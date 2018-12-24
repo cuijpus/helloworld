@@ -736,13 +736,6 @@ HEV:<BR>
         <th></th>
     </tr> 
     <tr>
-        <th>11</th>
-        <th align="left">泊车辅助</th>
-        <th align="left">Parking Assistance (PA)</th>
-        <th></th>
-        <th></th>
-    </tr>    
-    <tr>
         <th>12</th>
         <th align="left">行人检测系统</th>
         <th align="left"> Pedestrian Detection System (PDS)</th>
