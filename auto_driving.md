@@ -658,6 +658,13 @@ HEV:<BR>
         <th>供应商</th>
         <th>搭载的车型</th>
     </tr>
+    <tr>
+        <th>1</th>
+        <th>自适应巡航控制系统</th>
+        <th>Adaptive Cruise Control（ACC）</th>
+        <th></th>
+        <th></th>
+    </tr>    
 </table>
 
 # 驾驶芯片
