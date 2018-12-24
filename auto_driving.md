@@ -720,7 +720,14 @@ HEV:<BR>
         <th align="left">Lane Departure Warning (LDW)</th>
         <th></th>
         <th></th>
-    </tr>   
+    </tr>
+    <tr>
+        <th>9</th>
+        <th align="left">车道保持辅助</th>
+        <th align="left">Lane Keeping Assist (LKA)</th>
+        <th></th>
+        <th></th>
+    </tr>    
     <tr>
         <th>10</th>
         <th align="left">汽车夜视系统</th>
