@@ -194,6 +194,48 @@
         <th>时尚旗舰</th>
         <th>主要面对女性</th>
         <th></th>
+    </tr>   
+    <tr>
+        <th>nova系列</th>
+        <th>鲜肉系列</th>
+        <th>主要面向年轻女性用户</th>
+        <th></th>
+    </tr>   
+    <tr>
+        <th>畅想系列</th>
+        <th>入门级</th>
+        <th></th>
+        <th></th>
+    </tr>    
+    <tr>
+        <th>麦芒系列</th>
+        <th>运营商合作</th>
+        <th></th>
+        <th></th>
+    </tr>      
+    <tr>
+        <th>荣耀系列</th>
+        <th>荣耀旗舰</th>
+        <th></th>
+        <th></th>
+    </tr>     
+    <tr>
+        <th>荣耀V系列</th>
+        <th>荣耀旗舰,对标Mate系列</th>
+        <th></th>
+        <th></th>
+    </tr>   
+    <tr>
+        <th>荣耀畅玩系列</th>
+        <th>中低端</th>
+        <th></th>
+        <th></th>
+    </tr>     
+    <tr>
+        <th>Note系列</th>
+        <th>主打大屏</th>
+        <th></th>
+        <th></th>
     </tr>     
 </table>
 
