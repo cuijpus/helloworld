@@ -218,7 +218,7 @@
         <th>荣耀V系列</th>
         <th>荣耀旗舰,对标Mate系列</th>
         <th></th>
-        <th></th>
+        <th>胡歌</th>
     </tr>     
     <tr>
         <th>荣耀系列</th>
