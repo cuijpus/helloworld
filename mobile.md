@@ -1,5 +1,10 @@
 
 # 19年新品预测
+
+2018.12.25, 华为出货量2亿只， 准备2020做到世界第一！<br>
+华为 正式 准备把三星拉下马 ！<br>
+三星会坐以待毙吗？！<br>
+
 >>打孔屏<br>
 2018.11.28 [三星侧目！华为首发打孔全面屏：消息称nova12月发布](https://baijiahao.baidu.com/s?id=1618360624282748340&wfr=spider&for=pc)<br>
 2018.11.28 [三星A8s更多细节曝光 Infinity-O打孔屏](https://baijiahao.baidu.com/s?id=1618329090033675986&wfr=spider&for=pc)<br>
