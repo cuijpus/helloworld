@@ -197,13 +197,14 @@
     </tr>   
     <tr>
         <th>nova系列</th>
-        <th>鲜肉系列</th>
+        <th>鲜肉系列，定位中端主流，主打线下市场<br>
+            类似OPPO/vivo策略，主打注重颜值、拍照的年轻消费群体。</th>
         <th>主要面向年轻女性用户</th>
-        <th></th>
+        <th>关晓彤</th>
     </tr>   
     <tr>
         <th>畅想系列</th>
-        <th>入门级</th>
+        <th>入门级，主打千元机市场</th>
         <th></th>
         <th></th>
     </tr>    
@@ -212,19 +213,19 @@
         <th>运营商合作</th>
         <th></th>
         <th></th>
-    </tr>      
-    <tr>
-        <th>荣耀系列</th>
-        <th>荣耀旗舰</th>
-        <th></th>
-        <th></th>
     </tr>     
     <tr>
         <th>荣耀V系列</th>
         <th>荣耀旗舰,对标Mate系列</th>
         <th></th>
         <th></th>
-    </tr>   
+    </tr>     
+    <tr>
+        <th>荣耀系列</th>
+        <th>荣耀旗舰</th>
+        <th></th>
+        <th></th>
+    </tr>    
     <tr>
         <th>荣耀畅玩系列</th>
         <th>中低端</th>
