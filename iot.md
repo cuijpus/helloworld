@@ -55,7 +55,7 @@
     <th></th> <!大数据量级>
     <th>
       百度合作<br>
-      崔宝秋负责的AI团队
+      <a href = "http://www.ctoutiao.com/232510.html">崔宝秋</a>负责的AI团队
     </th> <!AI赋能>
     <th></th> <!市占率>
   </tr>  
@@ -152,6 +152,7 @@
 </table>
 
 
+[](https://baijiahao.baidu.com/s?id=1608806606887937272&wfr=spider&for=pc)<br>
 
 
 
