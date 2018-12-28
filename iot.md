@@ -52,9 +52,10 @@
       2000款<br>
       1.32亿台
     </th> <!接入多少设备>
-    <th></th> <!重量级合作>
     <th>
-      百度合作<br>
+      <a href ="http://news.mydrivers.com/1/557/557491.htm">百度合作</a>
+    </th> <!重量级合作>
+    <th>
       <a href = "http://www.ctoutiao.com/232510.html">崔宝秋</a>负责的AI团队
     </th> <!AI赋能>
     <th></th> <!市占率>
@@ -152,8 +153,8 @@
 </table>
 
 
-[](https://baijiahao.baidu.com/s?id=1608806606887937272&wfr=spider&for=pc)<br>
-
+[一盘堪比漫威十年影史的大棋——小米IoT开发者平台](https://baijiahao.baidu.com/s?id=1608806606887937272&wfr=spider&for=pc)<br>
+[小米为何跟百度在一起？真相大揭秘](http://news.mydrivers.com/1/557/557491.htm)<br>
 
 
 ### 小米
