@@ -44,11 +44,19 @@
     <th>
       <a href = "https://new.qq.com/omn/20181128/20181128A0JWTH.html">范典</a>
     </th> <!平台负责人>
-    <th></th> <!2C/2B>
-    <th></th> <!开放？>
-    <th></th> <!接入多少设备>
+    <th>2C为主</th> <!2C/2B>
+    <th>
+      <a href = "https://iot.mi.com">开发者平台</a>
+    </th> <!开放？>
+    <th>
+      2000款<br>
+      1.32亿台
+    </th> <!接入多少设备>
     <th></th> <!大数据量级>
-    <th></th> <!AI赋能>
+    <th>
+      百度合作<br>
+      崔宝秋负责的AI团队
+    </th> <!AI赋能>
     <th></th> <!市占率>
   </tr>  
   <tr>
