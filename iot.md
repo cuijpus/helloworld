@@ -27,6 +27,23 @@
 做个表格todo<br>
 ## 巨头们的生态构筑
 
+
+<table>
+  <tr>
+    <th>平台</th>
+    <th>平台负责人</th>
+    <th>开放？</th>
+    <th>接入多少设备</th>
+    <th>大数据量级</th>
+    <th>AI赋能</th>
+    <th>市占率</th>
+  </tr>
+</table>
+
+
+
+
+
 ### 小米
 2018.12.29 [小米宜家牵手，为何如此高调](https://baijiahao.baidu.com/s?id=1618370694462261771&wfr=spider&for=pc)<br>
 2018.11.28 [「小米AIoT开发者大会」雷军宣布小爱同学激活破亿，和宜家开启](https://baijiahao.baidu.com/s?id=1618352092306146940&wfr=spider&for=pc)<br>
