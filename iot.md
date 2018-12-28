@@ -75,6 +75,7 @@
     <th></th> <!接入多少设备>
     <th>
       <a href = "http://www.iot101.com/news/2017-08-04/13482.html">NB-IOT生态</a> <br>
+      <a href = "http://carrier.huawei.com/~/media/CNBG/Downloads/trends-and-insights/iotecosystempartnerscn21.pdf">华为IoT生态伙伴手册2.1</a> <br> 
     </th> <!重量级合作>
     <th></th> <!AI赋能>
     <th></th> <!市占率>
