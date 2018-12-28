@@ -49,6 +49,7 @@
       <a href = "https://iot.mi.com">开发者平台</a>
     </th> <!开放？>
     <th>
+      2018.9.30：<br>
       2000款<br>
       1.32亿台
     </th> <!接入多少设备>
@@ -58,7 +59,7 @@
       <a href ="https://baijiahao.baidu.com/s?id=1618370694462261771&wfr=spider&for=pc">牵手宜家</a><br>
     </th> <!重量级合作>
     <th>
-      <a href = "http://www.ctoutiao.com/232510.html">崔宝秋</a>负责的AI团队
+      <a href = "http://www.ctoutiao.com/232510.html">崔宝秋</a>AI团队
     </th> <!AI赋能>
     <th></th> <!市占率>
   </tr>  
