@@ -41,7 +41,9 @@
   </tr>
   <tr>
     <th>小米</th> <!平台>
-    <th></th> <!平台负责人>
+    <th>
+      <a href = "https://new.qq.com/omn/20181128/20181128A0JWTH.html">范典</a>
+    </th> <!平台负责人>
     <th></th> <!2C/2B>
     <th></th> <!开放？>
     <th></th> <!接入多少设备>
