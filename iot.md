@@ -64,16 +64,34 @@
     <th></th> <!市占率>
   </tr>  
   <tr>
-    <th>华为(2B)</th> <!平台>
-    <th></th> <!平台负责人>
+    <th>华为(标准)</th> <!平台>
+    <th>蒋旺成</th> <!平台负责人>
     <th>
       IOT标准<br>
+    </th> <!2C/2B>
+    <th>
+      <a href = "https://e.huawei.com/cn/material/onLineView?materialid=546c46944bb64682a4ed799e188362f2">白皮书1</a><br>
+    </th> <!开放？>
+    <th></th> <!接入多少设备>
+    <th>
+      <a href = "http://www.iot101.com/news/2017-08-04/13482.html">NB-IOT生态</a> <br>
+    </th> <!重量级合作>
+    <th></th> <!AI赋能>
+    <th></th> <!市占率>
+  </tr>  
+  <tr>
+    <th>华为(2B)</th> <!平台>
+    <th>蒋旺成</th> <!平台负责人>
+    <th>
       IOT方案 <br>
       面向企业
     </th> <!2C/2B>
-    <th></th> <!开放？>
+    <th>
+      <a href = "https://e.huawei.com/cn/material/onLineView?materialid=546c46944bb64682a4ed799e188362f2">白皮书1</a><br>
+    </th> <!开放？>
     <th></th> <!接入多少设备>
-    <th>京东合作</th> <!重量级合作>
+    <th>
+    </th> <!重量级合作>
     <th></th> <!AI赋能>
     <th></th> <!市占率>
   </tr>
@@ -172,7 +190,7 @@
 
 [一盘堪比漫威十年影史的大棋——小米IoT开发者平台](https://baijiahao.baidu.com/s?id=1608806606887937272&wfr=spider&for=pc)<br>
 [小米为何跟百度在一起？真相大揭秘](http://news.mydrivers.com/1/557/557491.htm)<br>
-
+[华为和他小伙伴们的九大物联网解决方案](http://www.iot101.com/news/2017-08-04/13482.html)<br>
 
 ### 小米
 2018.12.29 [小米宜家牵手，为何如此高调](https://baijiahao.baidu.com/s?id=1618370694462261771&wfr=spider&for=pc)<br>
