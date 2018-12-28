@@ -53,7 +53,9 @@
       1.32亿台
     </th> <!接入多少设备>
     <th>
-      <a href ="http://news.mydrivers.com/1/557/557491.htm">百度合作</a>
+      <a href ="https://www.jianshu.com/p/add77eae3549">小米生态链</a><br>
+      <a href ="http://news.mydrivers.com/1/557/557491.htm">百度合作</a><br>
+      <a href ="https://baijiahao.baidu.com/s?id=1618370694462261771&wfr=spider&for=pc">牵手宜家</a><br>
     </th> <!重量级合作>
     <th>
       <a href = "http://www.ctoutiao.com/232510.html">崔宝秋</a>负责的AI团队
