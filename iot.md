@@ -91,9 +91,8 @@
     </th> <!开放？>
     <th></th> <!接入多少设备>
     <th>
-    </th>
-          <a href = "http://carrier.huawei.com/~/media/CNBG/Downloads/trends-and-insights/iotecosystempartnerscn21.pdf">生态伙伴手册2.1</a> <br> 
-    <!重量级合作>
+      <a href = "http://carrier.huawei.com/~/media/CNBG/Downloads/trends-and-insights/iotecosystempartnerscn21.pdf">生态伙伴手册2.1</a> <br> 
+    </th><!重量级合作>
     <th></th> <!AI赋能>
     <th></th> <!市占率>
   </tr>
