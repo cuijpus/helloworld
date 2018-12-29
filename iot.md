@@ -284,7 +284,10 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
   </tr>     
   <tr align="left">
     <th>操作系统</th> <!层>
-    <th>轻量级开源物联网操作系统（Huawei LiteOS）</th> <!具体措施>
+    <th>
+      轻量级开源物联网操作系统（
+      <a href = "https://github.com/LiteOS/LiteOS">Huawei LiteOS</a>）
+    </th> <!具体措施>
     <th></th> <!例子>
   </tr>    
   <tr align="left">
