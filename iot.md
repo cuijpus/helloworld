@@ -256,6 +256,7 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
     <th >
       2G合作 <br>
       2B合作 <br>
+      (<a href="https://e.huawei.com/zh/material/onLineView?materialid=b04d2ed14a624c559ed50ccc4af2f3b6">NB-IoT智慧消防</a>)<br>
       2C合作 <br>
     </th> <!具体措施>
     <th></th> <!例子>
