@@ -292,7 +292,9 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
   </tr>    
   <tr align="left">
     <th>芯片、传感</th> <!层>
-    <th>物联网芯片（Boudica）</th> <!具体措施>
+    <th>物联网芯片（
+      <a href = "http://www.iot-online.com/pro/m2m/2017090375772.html">Boudica</a>）
+    </th> <!具体措施>
     <th></th> <!例子>
   </tr>  
 </table>
