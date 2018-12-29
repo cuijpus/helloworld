@@ -240,7 +240,7 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
   <tr align="left">
     <th>层</th>
     <th>具体措施</th>
-    <th>例子</th>
+    <th>合作伙伴</th>
   </tr>
   <tr align="left">
     <th>应用</th> <!层>
@@ -249,7 +249,7 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
       智慧车联网 <br>
       智慧城市等等 <br>
     </th> <!具体措施>
-    <th></th> <!例子>
+    <th></th> <!合作伙伴>
   </tr>     
   <tr align="left">
     <th>生态合作</th> <!层>
@@ -261,7 +261,7 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
       )<br>
       2C合作 <br>
     </th> <!具体措施>
-    <th></th> <!例子>
+    <th></th> <!合作伙伴>
   </tr>    
   <tr align="left">
     <th>管理平台</th> <!层>
@@ -269,7 +269,7 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
       开放、云化的物联网联接管理平台 <br>
       （Huawei OceanConnect IoT Platform）
     </th> <!具体措施>
-    <th></th> <!例子>
+    <th></th> <!合作伙伴>
   </tr>   
   <tr align="left">
     <th>安全解决方案</th> <!层>
@@ -283,7 +283,7 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
       <a href = "https://e.huawei.com/cn/material/onLineView?MaterialID=cc55c4b9c33e4603875a9234d29bd54c">边缘计算物联网</a>）<br>
       无线联接（NB-IoT、5G、eLTE等）
     </th> <!具体措施>
-    <th></th> <!例子>
+    <th></th> <!合作伙伴>
   </tr>     
   <tr align="left">
     <th>操作系统</th> <!层>
@@ -291,14 +291,14 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
       轻量级开源物联网操作系统（
       <a href = "https://developer.huawei.com/ict/cn/site-iot-liteos">Huawei LiteOS</a>）
     </th> <!具体措施>
-    <th></th> <!例子>
+    <th></th> <!合作伙伴>
   </tr>    
   <tr align="left">
     <th>芯片、传感</th> <!层>
     <th>物联网芯片（
       <a href = "http://www.iot-online.com/pro/m2m/2017090375772.html">Boudica</a>）
     </th> <!具体措施>
-    <th></th> <!例子>
+    <th></th> <!合作伙伴>
   </tr>  
 </table>
 
