@@ -88,7 +88,7 @@
     </th> <!2C/2B>
     <th>
       <a href = "https://e.huawei.com/cn/material/onLineView?materialid=546c46944bb64682a4ed799e188362f2">白皮书1</a><br>
-      <a href = "https://www.huawei.com/cn/industry-insights/outlook/mobile-broadband/insights-reports/nb-iot-commercial-premier-use-case">NB-IoT商用用例</a><br>
+      <a href = "https://www.huawei.com/cn/industry-insights/outlook/mobile-broadband/insights-reports/nb-iot-commercial-premier-use-case">商用用例</a><br>
     </th> <!开放？>
     <th></th> <!接入多少设备>
     <th>
