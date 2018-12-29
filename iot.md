@@ -168,7 +168,9 @@
     <th>中移动</th> <!平台>
     <th></th> <!平台负责人>
     <th></th> <!2C/2B>
-    <th></th> <!开放？>
+    <th>
+      <a href = "https://open.iot.10086.cn/">OneNet平台</a><br>
+    </th> <!开放？>
     <th></th> <!接入多少设备>
     <th></th> <!重量级合作>
     <th></th> <!AI赋能>
