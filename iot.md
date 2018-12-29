@@ -243,12 +243,26 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
     <th>例子</th>
   </tr>
   <tr>
+    <th>管理平台</th> <!层>
+    <th align="left">
+      开放、云化的物联网联接管理平台 <br>
+      （Huawei OceanConnect IoT Platform）
+    </th> <!具体措施>
+    <th></th> <!例子>
+  </tr>   
+  <tr>
+    <th>安全解决方案</th> <!层>
+    <th>
+    </th> <!具体措施>
+    <th></th> <!例子>
+  </tr>  
+  <tr>
     <th>多种联接</th> <!层>
     <th>有线联接（敏捷物联网关、家庭物联网关、边缘计算物联网）<br>
       无线联接（NB-IoT、5G、eLTE等）
     </th> <!具体措施>
     <th></th> <!例子>
-  </tr>  
+  </tr>     
   <tr>
     <th>操作系统</th> <!层>
     <th>轻量级开源物联网操作系统（Huawei LiteOS）</th> <!具体措施>
