@@ -118,6 +118,8 @@
     </tr>     
 </table>
 
+2018.12.13 [智能音箱销量再创新高，物联网逐步进入成长期](http://www.sohu.com/a/281568158_169306)<br>
+
 Marketing share:<br>
 ![marketing share](https://img.colabug.com/2018/08/1fe2e97a986041745f269ca5fe99a6f6.jpg)<br>
 2018.6.18 [我们“调戏”了六款智能音箱后，有了这份有趣的评测报告](https://www.sohu.com/a/236416401_116132)<br>
