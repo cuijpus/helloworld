@@ -88,6 +88,7 @@
     </th> <!2C/2B>
     <th>
       <a href = "https://e.huawei.com/cn/material/onLineView?materialid=546c46944bb64682a4ed799e188362f2">白皮书1</a><br>
+      <a href = "https://baijiahao.baidu.com/s?id=1620997778061948676&wfr=spider&for=pc">方舟实验室</a><br>
     </th> <!开放？>
     <th></th> <!接入多少设备>
     <th>
