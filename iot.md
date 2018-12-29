@@ -276,7 +276,8 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
   </tr>  
   <tr align="left">
     <th>多种联接</th> <!层>
-    <th>有线联接（敏捷物联网关、家庭物联网关、边缘计算物联网）<br>
+    <th>有线联接（敏捷物联网关、家庭物联网关、
+      <a href = "https://e.huawei.com/cn/material/onLineView?MaterialID=cc55c4b9c33e4603875a9234d29bd54c">边缘计算物联网</a>）<br>
       无线联接（NB-IoT、5G、eLTE等）
     </th> <!具体措施>
     <th></th> <!例子>
