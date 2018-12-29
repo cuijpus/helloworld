@@ -31,7 +31,7 @@
 <table>
   <tr>
     <th>平台</th>
-    <th>平台负责人</th>
+    <th>负责人</th>
     <th>2C/2B</th>
     <th>开放？</th>
     <th>接入设备</th>
