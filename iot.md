@@ -108,7 +108,7 @@
     <th></th> <!接入多少设备>
     <th>
       京东合作<br>
-      <a href = "https://m.vmall.com/product/ord-3102150055601">豪恩智能家庭套装</a><br>
+      <a href = "https://m.vmall.com/product/ord-3102150055601">豪恩家庭套装</a><br>
     </th> <!重量级合作>
     <th></th> <!AI赋能>
     <th></th> <!市占率>
