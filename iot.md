@@ -108,7 +108,7 @@
     </th> <!开放？>
     <th></th> <!接入多少设备>
     <th>
-      <a href = "http://www.sohu.com/a/279717699_100136555">京东合作</a><br>
+      <a href = "http://www.sohu.com/a/279717699_100136555">京东互联互通</a><br>
       <a href = "https://m.vmall.com/product/ord-3102150055601">豪恩家庭套装</a><br>
     </th> <!重量级合作>
     <th></th> <!AI赋能>
