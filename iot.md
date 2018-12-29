@@ -243,6 +243,24 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
     <th>例子</th>
   </tr>
   <tr align="left">
+    <th>应用</th> <!层>
+    <th >
+      智慧家庭 <br>
+      智慧车联网 <br>
+      智慧城市等等 <br>
+    </th> <!具体措施>
+    <th></th> <!例子>
+  </tr>     
+  <tr align="left">
+    <th>生态合作</th> <!层>
+    <th >
+      2G合作 <br>
+      2B合作 <br>
+      2C合作 <br>
+    </th> <!具体措施>
+    <th></th> <!例子>
+  </tr>    
+  <tr align="left">
     <th>管理平台</th> <!层>
     <th >
       开放、云化的物联网联接管理平台 <br>
