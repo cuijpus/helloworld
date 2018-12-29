@@ -259,7 +259,6 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
       (<a href="https://e.huawei.com/zh/material/onLineView?materialid=b04d2ed14a624c559ed50ccc4af2f3b6">NB-IoT智慧消防解决方案</a> <br>
        <a href="https://e.huawei.com/zh/material/onLineView?materialid=46dc8f45d39a4d6b9007d77bda9ff318">NB-IoT智慧照明解决方案</a>  <br>    
       )<br>
-      
       2C合作 <br>
     </th> <!具体措施>
     <th></th> <!例子>
