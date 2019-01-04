@@ -46,6 +46,8 @@
 # GPS芯片
 
 # 汽车芯片
+
+2019.1.3 [三星首款自动驾驶汽车芯片Exynos Auto V9发布](https://baijiahao.baidu.com/s?id=1621627120816750823&wfr=spider&for=pc)<br>
 [一文看透汽车芯片！巨头布局技术路线全解密【附下载】| 智东西内参 ](http://zhidx.com/p/138408.html)<br>
 
 # 存储芯片
