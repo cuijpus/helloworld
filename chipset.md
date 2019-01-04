@@ -48,6 +48,7 @@
 # 汽车芯片
 
 2019.1.3 [三星首款自动驾驶汽车芯片Exynos Auto V9发布](https://baijiahao.baidu.com/s?id=1621627120816750823&wfr=spider&for=pc)<br>
+![Auto Chipset](https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=2882260578,2479816426&fm=173&app=49&f=JPEG?w=617&h=412&s=DA223E63CAFA1E8C1E3519070100E0E2)<br>
 [一文看透汽车芯片！巨头布局技术路线全解密【附下载】| 智东西内参 ](http://zhidx.com/p/138408.html)<br>
 
 # 存储芯片
