@@ -1,13 +1,27 @@
 
-# AI是什么？
-# AI能干什么？
-# AI行业应用
-# AI垂直落地
-# 政策导航
-# 巨头AI斩落
-# 开放平台
+1. <a href="#tag-AI是什么？">AI是什么？</a> 
+1. <a href="#tag-AI能干什么？">AI能干什么？</a>
+1. <a href="#tag-IoT政策">IoT政策</a>
+1. <a href="#tag-IoT产业布局">IoT产业布局</a>
+1. <a href="#tag-IoT研究报告">IoT研究报告</a>
+1. <a href="#tag-IoT开放平台">IoT开放平台</a>
+1. <a href="#tag-IoT垂直落地练习">IoT垂直落地练习</a>
 
-一文看懂人工智能，漫画版
+# <a id="tag-AI是什么？" href="#tag-AI是什么？">AI是什么？</a>
+[一文看懂人工智能，漫画版](http://www.sohu.com/a/221170784_821100)<br>
+
+# <a id="tag-AI能干什么？" href="#tag-AI能干什么？">AI能干什么？</a>
+# <a id="tag-AI行业应用" href="#tag-AI行业应用">AI行业应用</a>
+# <a id="tag-AI垂直落地" href="#tag-AI垂直落地">AI垂直落地</a>
+# <a id="tag-政策导航" href="#tag-政策导航">政策导航</a>
+# <a id="tag-巨头AI战略" href="#tag-巨头AI战略">巨头AI战略</a>
+# <a id="tag-开放平台" href="#tag-开放平台">开放平台</a>
+
+ 
+
+ 
+
+
 
 # 全景图
 
