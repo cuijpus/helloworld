@@ -6,9 +6,9 @@
 1. <a href="#tag-IoT开放平台">IoT开放平台</a>
 1. <a href="#tag-IoT垂直落地练习">IoT垂直落地练习</a>
 
-# <a id="tag-业界动态 " href="#tag-业界动态 ">业界动态</a>
-# <a id="tag-业界动态 " href="#tag-业界动态 ">业界动态</a>
-# <a id="tag-业界动态 " href="#tag-业界动态 ">业界动态</a>
+# <a id="tag-IoT是什么?" href="#tag-IoT是什么?">IoT是什么?</a>
+# <a id="tag-IoT落地场景" href="#tag-IoT落地场景">IoT落地场景</a>
+# <a id="tag-IoT政策" href="#tag-IoT政策">IoT政策</a>
 
 
 # windows markdown 
