@@ -21,6 +21,9 @@ holistic Data Analytics Artificial Intelligence and Machine Learning landscape.<
 ## （预测和响应）
 
 # AI 垂直落地
+## 参考big data部分行业应用
+https://github.com/cuijpus/helloworld/blob/master/big_data.md
+
 [智慧校园 ](http://www.360doc.com/content/19/0105/14/52580869_806692803.shtml)<br>
 ## 自动驾驶（需要5G和IoT的助推）
 
