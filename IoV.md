@@ -19,7 +19,10 @@
 1. <a href="#tag-驾驶芯片">驾驶芯片</a>
     1. <a href="#tag-Mobileye">Mobileye</a>
     1. <a href="#tag-Xilinx">Xilinx</a>
-
+    1. <a href="#tag-地平线">地平线</a>
+    1. <a href="#tag-寒武纪">寒武纪</a>
+1. <a href="#tag-驾驶算法">驾驶算法</a>    
+1. <a href="#tag-自动驾驶分级">自动驾驶分级</a> 
 
 # <a id="tag-业界动态 " href="#tag-业界动态 ">业界动态</a>
 2018.12.27 [工业和信息化部关于印发《车联网（智能网联汽车）产业发展行动计划》的通知](http://www.miit.gov.cn/n1146285/n1146352/n3054355/n3057497/n3057498/c6564019/content.html)<br>
@@ -817,17 +820,19 @@ HEV:<BR>
 [从此知道激光雷达怎么用--无人驾驶功能和供应商全解析](http://www.laserfair.com/yingyong/201607/21/64598.html)<BR>
 
 # <a id="tag-驾驶芯片" href="#tag-驾驶芯片]">驾驶芯片</a>
+2018.8.6[自动驾驶芯片：GPU 的现在和 ASIC 的未来](https://baijiahao.baidu.com/s?id=1608059303010189478&wfr=spider&for=pc)<br>
 
 ## <a id="tag-Mobileye" href="#tag-Mobileye">Mobileye</a>
 
 ## <a id="tag-Xilinx" href="#tag-Xilinx">Xilinx</a>
 [赛灵思合作比亚迪 为驾驶员辅助系统提供芯片 ](http://www.sohu.com/a/283109333_180520)<br>
 https://www.xilinx.com/ 
-
-
 2018.12.10 比亚迪<br>
-2018.8.6[自动驾驶芯片：GPU 的现在和 ASIC 的未来](https://baijiahao.baidu.com/s?id=1608059303010189478&wfr=spider&for=pc)<br>
 
+
+## <a id="tag-Xilinx" href="#tag-Xilinx">Xilinx</a>
+
+## <a id="tag-地平线" href="#tag-地平线">地平线</a>
 [地平线](http://www.horizon.ai/)<br>
 聚焦：智能驾驶 · 智慧城市 · 智慧零售<br>
 地平线基于自主研发的人工智能芯片和算法软件，以智能驾驶，智慧城市和智慧零售为主要应用场景， 提供给客户开放的软硬件平台和应用解决方案。为多种终端设备装上人工智能“大脑”，让它们具有从感知、交互、理解到决策的智能。
@@ -839,6 +844,7 @@ https://www.xilinx.com/
 2018.11.27 [地平线将获10亿美元B轮融资，估值40亿美元](https://baijiahao.baidu.com/s?id=1618269959673952951&wfr=spider&for=pc)<br>
 2018.3 [为无人车造芯这三年 地平线都干了什么？](https://www.d1ev.com/news/qiye/64203)<br>
 
+## <a id="tag-寒武纪" href="#tag-寒武纪">寒武纪</a>
 [寒武纪](http://www.cambricon.com/)<br>
 
 2018.11.12 [寒武纪官宣：麒麟980是我的IP，和华为没有分手](https://baijiahao.baidu.com/s?id=1616891686250532577&wfr=spider&for=pc)<br>
@@ -849,15 +855,14 @@ https://www.xilinx.com/
 [一文读懂寒武纪国内首款云端芯片,这块芯片有何用途](https://baijiahao.baidu.com/s?id=1618371531307958578&wfr=spider&for=pc)<br>
 [中国芯片界黑马的诞生：成立当年业务收入过亿，华为都找它合作](https://baijiahao.baidu.com/s?id=1617755542012568249&wfr=spider&for=pc)<br>
 
-# 驾驶算法
+# <a id="tag-驾驶算法" href="#tag-驾驶算法">驾驶算法</a>
 [本土化ADAS被Mobileye甩出了一条街？突破可能还在算法公司 ](http://www.cheyun.com/content/9677)<br>
-
 [史上最详细的自动驾驶汽车技术介绍【硬件+软件】](http://www.360doc.com/content/18/0724/16/55209520_772890692.shtml)<br>
 
-# 基础知识
+# <a id="tag-基础知识" href="#tag-基础知识">基础知识</a>
 [史上最全自动驾驶系统解析 ](http://www.sohu.com/a/150516048_372601)<br>
 
-## 自动驾驶分级
+# <a id="tag-自动驾驶分级" href="#tag-自动驾驶分级">自动驾驶分级</a>
 <table>
     <tr>
         <th></th>
