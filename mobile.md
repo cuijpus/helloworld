@@ -21,6 +21,7 @@
 # 利润趋势
 
 # 销量趋势
+[智能手机2018成绩单：苹果失意，OPPO继续领先，华为进步神速](https://www.toutiao.com/a6642571357273981448/)<br>
 [18年Q3全球手机出货排行：三星下滑依旧第一，华为爆发甩开苹果](https://baijiahao.baidu.com/s?id=1616199865343528907&wfr=spider&for=pc)<br>
 [Gartner: Global smartphone shipments grew 1.4% in Q3 2018](https://venturebeat.com/2018/12/03/gartner-global-smartphone-shipments-grew-1-4-in-q3-2018/)<br>
 ![2018 Q3](https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=2479854287,3931982226&fm=173&app=49&f=JPEG?w=640&h=302&s=0A0A7C2297D861CA585D80DB0000C0B1)<br>
