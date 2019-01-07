@@ -6,6 +6,7 @@
 1. <a href="#tag-传统车企_新能源（EV/PHEV）">传统车企_新能源（EV/PHEV）</a>
 1. <a href="#tag-传统车企_混动（HEV）">传统车企_混动（HEV）</a>
 1. <a href="#tag-新锐造车力量(EV)">新锐造车力量(EV)</a>
+    1. <a href="#tag-蔚来汽车">蔚来汽车</a>
 
 # <a id="tag-业界动态 " href="#tag-业界动态 ">业界动态</a>
 2018.12.27 [工业和信息化部关于印发《车联网（智能网联汽车）产业发展行动计划》的通知](http://www.miit.gov.cn/n1146285/n1146352/n3054355/n3057497/n3057498/c6564019/content.html)<br>
@@ -507,13 +508,8 @@ HEV:<BR>
 [为什么蔚来、威马、拜腾都认为自己造电动车比传统车企有优势？ ](https://chejiahao.autohome.com.cn/info/2184105/)<br>
 [盘点10家新造车势力融资情况：能够活下来的只有3-4家](http://auto.qq.com/a/20180103/002307.htm)<br>
 
-## 新能源汽车问题List
-[蔚来ES8的频繁死机还未彻底解决？ES6就要上了](https://baijiahao.baidu.com/s?id=1619909647384098032&wfr=spider&for=pc)<br>
-提车3个多月的ES8频繁出现车机系统混乱，并导致系统死机蓝屏。车主提出退车要求。<br>
-[蔚来ES8恐怕要凉！实际续航仅200公里，持续出现各种问题](https://baijiahao.baidu.com/s?id=1613139237856016218&wfr=spider&for=pc)<br>
-[快评：关于蔚来ES8大家关注的八个问题 ](https://www.autohome.com.cn/news/201712/910939.html)<br>
 
-## 蔚来汽车
+# <a id="tag-蔚来汽车" href="#tag-蔚来汽车">蔚来汽车</a>
 >>[蔚来汽车](https://baike.baidu.com/item/%E8%94%9A%E6%9D%A5/22099728?fromtitle=%E8%94%9A%E6%9D%A5%E6%B1%BD%E8%BD%A6&fromid=18585288&fr=aladdin)<br>
 >>[门徒李斌](https://www.lieyunwang.com/archives/446314)<br>
 >>[李斌：向未来奔袭](http://www.baidu.com/link?url=cEozR5Ei3kvjRrll0DmsDfzu_6fTmGiA6i3kB6Yhc13WBS6SfXSMaQiw9NjinWkWxzuqWAfa09U5nrPKj76u9md1itGqMYkrvF27UfCZC6e&wd=&eqid=c5be236900000458000000065bfe7232)<br>
@@ -532,7 +528,7 @@ HEV:<BR>
 2016.11 发布车型 <br>
 2014.11 成立：李斌，刘强东，李想等人发起<br>
 
-## 小鹏汽车
+# <a id="tag-小鹏汽车" href="#tag-小鹏汽车">小鹏汽车</a>
 >>[小鹏高智能互联网汽车](https://baike.baidu.com/item/%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6/18716093?fr=aladdin)<br>
 >>[何小鹏 （UC公司的创始人、小鹏汽车董事长）](https://baike.baidu.com/item/%E4%BD%95%E5%B0%8F%E9%B9%8F/5646196?fr=aladdin)<br>
 >>[何小鹏,雷军，阿里](http://www.sohu.com/a/240375124_115207)<br>
@@ -547,7 +543,7 @@ HEV:<BR>
 [融资时间轴](https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=190524471,2081380592&fm=173&app=25&f=JPEG?w=640&h=1532&s=283D851AF78840EA1EFDE7C2030080B4)<br>
 2018.8.2 [小鹏汽车宣布完成超过40亿元的B+轮融资，何小鹏本人参与领投, 目前100亿融资](https://www.iyiou.com/p/78229.html)<br>
 
-## 威马汽车 
+# <a id="tag-威马汽车" href="#tag-威马汽车">威马汽车</a>
 >>[威马汽车技术有限公司](https://baike.baidu.com/item/%E5%A8%81%E9%A9%AC%E6%B1%BD%E8%BD%A6%E7%A7%91%E6%8A%80%E9%9B%86%E5%9B%A2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/23126000?fromtitle=%E5%A8%81%E9%A9%AC%E6%B1%BD%E8%BD%A6%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&fromid=19868982)<br>
 >>[沈晖 （威马创始人、董事长兼CEO）](https://baike.baidu.com/item/%E6%B2%88%E6%99%96/6873214?fr=aladdin)<br>
 >>[威马CEO沈晖](https://www.iyiou.com/p/82909.html)<br>
@@ -560,8 +556,7 @@ HEV:<BR>
 2017.12.26 [专访威马汽车创始人沈晖：互联网巨头为何重金投资我们](http://baijiahao.baidu.com/s?id=1587828716286213052&wfr=spider&for=pc)<br>
 2017.12.12 [沈晖和威马汽车的七个问题 ](http://www.sohu.com/a/209952195_100044558)<br>
 
-
-## 车和家
+# <a id="tag-车和家" href="#tag-车和家">车和家</a>
 >>[李想 （车和家创始人及CEO）](https://baike.baidu.com/item/%E6%9D%8E%E6%83%B3/7774?fr=aladdin)<br>
 >>[深度专访丨淡定者李想](https://www.iyiou.com/p/60962.html)<br>
 >>[李想造车，特斯拉的非典型信徒](https://baijiahao.baidu.com/s?id=1617798908863985006&wfr=spider&for=pc)<br>
@@ -575,21 +570,26 @@ HEV:<BR>
 2018.10.10 [发布：“李想”走进现实 解析理想智造ONE](https://www.pcauto.com.cn/teach/1330/13300503_all.html?ad=4222#content_page_2)<br>
 2018.8.25 [车和家将在重庆建设投资110亿的制造基地](https://www.pcauto.com.cn/news/1274/12744355.html)<br>
 
-
-## 拜腾汽车
+# <a id="tag-拜腾汽车" href="#tag-拜腾汽车">拜腾汽车</a>
 >>[继6月融资后 拜腾与一汽再签合作协议](https://www.pcauto.com.cn/news/1230/12308241.html)<br>
 2018.8.29 [拜腾首台工程样车正式下线 2019年上市](https://baijiahao.baidu.com/s?id=1610082578675839785&wfr=spider&for=pc)<br>
 2018.7.9 [【企业报告】拜腾汽车业务研究](http://auto.gasgoo.com/institute/2038.html?area=d&idx=2)<br>
 2018.6.20 [对话拜腾B轮投资人：我们为什么要投资拜腾汽车？](http://baijiahao.baidu.com/s?id=1603758396478681483&wfr=spider&for=pc)<br>
 2018.1.26 [关于拜腾汽车，你想了解的都在这里](https://chejiahao.autohome.com.cn/info/2184105/)<br>
 
-## 特斯拉
+# <a id="tag-特斯拉" href="#tag-特斯拉">特斯拉</a>
 >>[特斯拉，用硅谷的概念造汽车](http://xueshu.baidu.com/usercenter/paper/show?paperid=9e7f87ea21335585f465410edc424840&site=xueshu_se)<br>
 >>[特斯拉：生于硅谷的汽车搅局者](http://xueshu.baidu.com/usercenter/paper/show?paperid=fcb23d336bfd5a47042f2b562c786fe8&site=xueshu_se)<br>
 >>[特斯拉](https://baike.baidu.com/item/%E7%89%B9%E6%96%AF%E6%8B%89/2984315)<br>
 >>[风光背后历尽磨难 回顾特斯拉的硅谷发展历程](http://www.eeworld.com.cn/xfdz/2014/0223/article_30781.html)<br>
 >>[一文读懂特斯拉的发展历程 ](http://www.eefocus.com/automobile-electronics/413938/r0)<br>
 
+
+## 新能源汽车问题List
+[蔚来ES8的频繁死机还未彻底解决？ES6就要上了](https://baijiahao.baidu.com/s?id=1619909647384098032&wfr=spider&for=pc)<br>
+提车3个多月的ES8频繁出现车机系统混乱，并导致系统死机蓝屏。车主提出退车要求。<br>
+[蔚来ES8恐怕要凉！实际续航仅200公里，持续出现各种问题](https://baijiahao.baidu.com/s?id=1613139237856016218&wfr=spider&for=pc)<br>
+[快评：关于蔚来ES8大家关注的八个问题 ](https://www.autohome.com.cn/news/201712/910939.html)<br>
 
 # 充电桩问题
 
