@@ -37,6 +37,9 @@ https://github.com/cuijpus/helloworld/blob/master/big_data.md
 
 ## 智能城市
 
+## 智慧工厂
+[人工智能｜人工智能检测设备实现手机外观缺陷全自动检测](https://www.toutiao.com/a6642216398074413582/)<br>
+
 # 政策导航 
 2018.5.11 [安徽出台新一代人工智能产业发展规划(2018—2030年)](http://ah.sina.com.cn/news/2018-05-29/detail-ihcffhsu7092405.shtml?from=ah_cnxh)<br>
 2017.12.20 [浙江省人民政府印发《浙江省新一代人工智能发展规划》](https://baijiahao.baidu.com/s?id=1587313689131375325&wfr=spider&for=pc)<br>
