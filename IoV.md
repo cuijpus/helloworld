@@ -1,17 +1,13 @@
 
 1. <a href="#tag-业界动态">业界动态</a> 
 1. <a href="#tag-中国自动驾驶生态">中国自动驾驶生态</a> 
+1. <a href="#tag-行业报告">行业报告</a> 
 
 # <a id="tag-业界动态 " href="#tag-业界动态 ">业界动态</a>
 2018.12.27 [工业和信息化部关于印发《车联网（智能网联汽车）产业发展行动计划》的通知](http://www.miit.gov.cn/n1146285/n1146352/n3054355/n3057497/n3057498/c6564019/content.html)<br>
 2018.12.17 [这8家车企2018冰雪两重天 销量第一你绝对猜不到](https://baijiahao.baidu.com/s?id=1620051202791030750&wfr=spider&for=pc)<br>
 
-
-# <a id="tag-中国自动驾驶生态" href="#tag-中国自动驾驶生态">中国自动驾驶生态</a>
-[Breakdown of self-driving car industry in China](https://medium.com/@fisher.jianyu.shi/breakdown-of-chinese-self-driving-car-industry-dd20deea7e73)<br>
-![Overview](https://cdn-images-1.medium.com/max/800/1*YtowBkNiAJs0xnSSOOgCwg.png)<br>
-
-# 行业报告
+# <a id="tag-行业报告" href="#tag-行业报告">行业报告</a>
 2018.12 [车联网白皮书（2018年）](http://www.caict.ac.cn/kxyj/qwfb/bps/201812/P020181218510826089278.pdf)<br>
 [ 《车联网白皮书》解读｜PPT](http://www.caict.ac.cn/kxyj/caictgd/201812/t20181219_190988.htm)<br>
 
@@ -22,6 +18,12 @@
 
 [2016年车联网及自动驾驶行业研究报告（1）](http://www.sohu.com/a/207199864_355061)<br>
 [2016年车联网及自动驾驶行业研究报告（2）](https://www.sohu.com/a/207199778_355061)<br>
+
+# <a id="tag-中国自动驾驶生态" href="#tag-中国自动驾驶生态">中国自动驾驶生态</a>
+[Breakdown of self-driving car industry in China](https://medium.com/@fisher.jianyu.shi/breakdown-of-chinese-self-driving-car-industry-dd20deea7e73)<br>
+![Overview](https://cdn-images-1.medium.com/max/800/1*YtowBkNiAJs0xnSSOOgCwg.png)<br>
+
+
 
 
 # 电动汽车类型
