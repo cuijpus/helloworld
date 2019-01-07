@@ -14,8 +14,8 @@
 
 [2018中国计算机视觉AI公司TOP15排行榜](http://www.acnews.cn/xinwen/20180720333.html)<br>
 [中国在计算机视觉领域的人工智能公司](https://baijiahao.baidu.com/s?id=1606777221165935790&wfr=spider&for=pc)<br>
-
-
+[人脸识别技术企业 TOP25](https://www.toutiao.com/a6617275813597282824/)<br>
+[人脸识别最全综述：详解人脸识别技术、人才、趋势](https://www.toutiao.com/a6630198657381564942/)<br>
 
 # 几家独角兽
 <table>
