@@ -22,6 +22,7 @@ holistic Data Analytics Artificial Intelligence and Machine Learning landscape.<
 
 # AI 垂直落地
 [智慧校园 ](http://www.360doc.com/content/19/0105/14/52580869_806692803.shtml)<br>
+## 自动驾驶（需要5G和IoT的助推）
 
 # 政策导航 
 2018.5.11 [安徽出台新一代人工智能产业发展规划(2018—2030年)](http://ah.sina.com.cn/news/2018-05-29/detail-ihcffhsu7092405.shtml?from=ah_cnxh)<br>
