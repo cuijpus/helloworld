@@ -12,6 +12,10 @@
     1. <a href="#tag-威马汽车">威马汽车</a>
     1. <a href="#tag-车和家">车和家</a>
     1. <a href="#tag-拜腾汽车">拜腾汽车</a>
+1. <a href="#tag-新能源汽车问题List">新能源汽车问题List</a>
+1. <a href="#tag-充电桩问题">充电桩问题</a>
+1. <a href="#tag-主流自动驾驶系统">主流自动驾驶系统</a>
+1. <a href="#tag-ADAS [高级驾驶员辅助系统]">ADAS [高级驾驶员辅助系统]</a>
 
 # <a id="tag-业界动态 " href="#tag-业界动态 ">业界动态</a>
 2018.12.27 [工业和信息化部关于印发《车联网（智能网联汽车）产业发展行动计划》的通知](http://www.miit.gov.cn/n1146285/n1146352/n3054355/n3057497/n3057498/c6564019/content.html)<br>
@@ -590,16 +594,16 @@ HEV:<BR>
 >>[一文读懂特斯拉的发展历程 ](http://www.eefocus.com/automobile-electronics/413938/r0)<br>
 
 
-## 新能源汽车问题List
+# <a id="tag-新能源汽车问题List" href="#tag-新能源汽车问题List">新能源汽车问题List</a>
 [蔚来ES8的频繁死机还未彻底解决？ES6就要上了](https://baijiahao.baidu.com/s?id=1619909647384098032&wfr=spider&for=pc)<br>
 提车3个多月的ES8频繁出现车机系统混乱，并导致系统死机蓝屏。车主提出退车要求。<br>
 [蔚来ES8恐怕要凉！实际续航仅200公里，持续出现各种问题](https://baijiahao.baidu.com/s?id=1613139237856016218&wfr=spider&for=pc)<br>
 [快评：关于蔚来ES8大家关注的八个问题 ](https://www.autohome.com.cn/news/201712/910939.html)<br>
 
-# 充电桩问题
+# <a id="tag-充电桩问题" href="#tag-充电桩问题">充电桩问题</a>
 
 
-# 主流自动驾驶系统
+# <a id="tag-主流自动驾驶系统" href="#tag-主流自动驾驶系统">主流自动驾驶系统</a>
 <table>
     <tr>
         <th>方案</th>
@@ -660,9 +664,7 @@ HEV:<BR>
 
 
 
-# ADAS [高级驾驶员辅助系统]
-
-
+# <a id="tag-ADAS [高级驾驶员辅助系统]" href="#tag-ADAS [高级驾驶员辅助系统]">ADAS [高级驾驶员辅助系统]</a>
 <table>
     <tr>
         <th>主动控制类</th>
