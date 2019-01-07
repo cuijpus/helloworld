@@ -13,6 +13,10 @@ holistic Data Analytics Artificial Intelligence and Machine Learning landscape.<
 
 [关于人工智能的定义 我国AI产业链现状](http://www.elecfans.com/rengongzhineng/664886.html)<br>
 
+
+# AI 行业应用 
+[智慧校园 ](http://www.360doc.com/content/19/0105/14/52580869_806692803.shtml)<br>
+
 # 政策导航 
 2018.5.11 [安徽出台新一代人工智能产业发展规划(2018—2030年)](http://ah.sina.com.cn/news/2018-05-29/detail-ihcffhsu7092405.shtml?from=ah_cnxh)<br>
 2017.12.20 [浙江省人民政府印发《浙江省新一代人工智能发展规划》](https://baijiahao.baidu.com/s?id=1587313689131375325&wfr=spider&for=pc)<br>
@@ -212,6 +216,8 @@ holistic Data Analytics Artificial Intelligence and Machine Learning landscape.<
 
 # W/W巨头的AI战略
 
+# AI 相关创企
+[2018最新ToB独角兽企业名单](https://www.toutiao.com/a6642121344941031944/)<br>
 
 # 开源项目
 [Mobile AI Compute Engine (MACE) 是一个专为移动端异构计算平台优化的神经网络计算框架 ](https://github.com/xiaomi/mace)<br>
