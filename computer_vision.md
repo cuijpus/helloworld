@@ -229,6 +229,7 @@ https://www.faceplusplus.com.cn/face-detection/
 [入门计算机视觉](http://baijiahao.baidu.com/s?id=1585312897491142760&wfr=spider&for=pc)<br>
 [计算机图像（视觉）处理培训](http://www.zpedu.com/JQActives298.html)<br>
 
+[计算机视觉入门教程系列—125页带你回顾CV发展脉络（可下载）](https://file.ai100.com.cn/files/file-code/original/e7e4cf6c-8071-4826-9119-85fbd1f41528/compvis1.pdf)<br>
 
 [实时视频浓雾消除论文](http://xuewen.cnki.net/CMFD-1015569367.nh.html)<br>
 https://www.youtube.com/watch?v=UYieT8tZnKU <br>
