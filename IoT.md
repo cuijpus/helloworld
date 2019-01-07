@@ -1,14 +1,20 @@
 
 
 1. <a href="#tag-IoT是什么?">IoT是什么?</a> 
-1. IoT是什么?
-2. IoT落地场景 
-3. IoT政策 
-4. IoT产业布局 
-5. IoT研究报告
-6. IoT开放平台 
-7. IoT垂直落地练习
+1. <a href="#tag-IoT落地场景">IoT落地场景</a>
+1. <a href="#tag-IoT政策">IoT政策</a>
+1. <a href="#tag-IoT产业布局">IoT产业布局</a>
+1. <a href="#tag-IoT研究报告">IoT研究报告</a>
+1. <a href="#tag-IoT开放平台">IoT开放平台</a>
+1. <a href="#tag-IoT垂直落地练习">IoT垂直落地练习</a>
 
+# <a id="tag-IoT是什么?" href="#tag-IoT是什么?">IoT是什么?</a>
+# <a id="tag-IoT落地场景" href="#tag-IoT落地场景">IoT落地场景</a>
+# <a id="tag-IoT政策" href="#tag-IoT政策">IoT政策</a>
+# <a id="tag-IoT产业布局" href="#tag-IoT产业布局">IoT产业布局</a>
+# <a id="tag-IoT研究报告" href="#tag-IoT研究报告">IoT研究报告</a>
+# <a id="tag-IoT开放平台" href="#tag-IoT开放平台">IoT开放平台</a>
+# <a id="tag-IoT垂直落地练习" href="#tag-IoT垂直落地练习">IoT垂直落地练习</a>
 
 # 练手
 [看物联网开发实战：20分钟搭建简易环境监测站](http://www.dashunet.cn/archives/2592)<br>
