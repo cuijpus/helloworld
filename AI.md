@@ -15,8 +15,8 @@ holistic Data Analytics Artificial Intelligence and Machine Learning landscape.<
 
 
 # AI 行业应用 
-## 自然语言处理（听得懂）
-## 计算机视觉 （看得懂）
+## 智能语音（听得懂）
+## 智能视觉 （看得懂）
 ## 知识图谱（理解）
 ## （预测和响应）
 
