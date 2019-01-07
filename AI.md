@@ -11,7 +11,12 @@
 [一文看懂人工智能，漫画版](http://www.sohu.com/a/221170784_821100)<br>
 
 # <a id="tag-AI能干什么？" href="#tag-AI能干什么？">AI能干什么？</a>
+
+
 # <a id="tag-AI行业应用" href="#tag-AI行业应用">AI行业应用</a>
+[2018世界人工智能蓝皮书：看中国到底有多强！](https://www.toutiao.com/a6628181012595622408/)<br>
+[2018世界人工智能蓝皮书](http://www.caict.ac.cn/kxyj/qwfb/bps/201809/P020180918696199759142.pdf)<br>
+
 # <a id="tag-AI垂直落地" href="#tag-AI垂直落地">AI垂直落地</a>
 # <a id="tag-政策导航" href="#tag-政策导航">政策导航</a>
 # <a id="tag-巨头AI战略" href="#tag-巨头AI战略">巨头AI战略</a>
