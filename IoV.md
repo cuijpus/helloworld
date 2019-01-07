@@ -16,6 +16,10 @@
 1. <a href="#tag-充电桩问题">充电桩问题</a>
 1. <a href="#tag-主流自动驾驶系统">主流自动驾驶系统</a>
 1. <a href="#tag-ADAS [高级驾驶员辅助系统]">ADAS [高级驾驶员辅助系统]</a>
+1. <a href="#tag-驾驶芯片">驾驶芯片</a>
+    1. <a href="#tag-Mobileye">Mobileye</a>
+    1. <a href="#tag-Xilinx">Xilinx</a>
+
 
 # <a id="tag-业界动态 " href="#tag-业界动态 ">业界动态</a>
 2018.12.27 [工业和信息化部关于印发《车联网（智能网联汽车）产业发展行动计划》的通知](http://www.miit.gov.cn/n1146285/n1146352/n3054355/n3057497/n3057498/c6564019/content.html)<br>
@@ -812,13 +816,17 @@ HEV:<BR>
 [ADAS最全整理，除了ACC/AEB/LKS还有很多](https://baijiahao.baidu.com/s?id=1589667379549887688&wfr=spider&for=pc)<br>
 [从此知道激光雷达怎么用--无人驾驶功能和供应商全解析](http://www.laserfair.com/yingyong/201607/21/64598.html)<BR>
 
+# <a id="tag-驾驶芯片" href="#tag-驾驶芯片]">驾驶芯片</a>
 
-# 驾驶芯片
+## <a id="tag-Mobileye" href="#tag-Mobileye">Mobileye</a>
+
+## <a id="tag-Xilinx" href="#tag-Xilinx">Xilinx</a>
+[赛灵思合作比亚迪 为驾驶员辅助系统提供芯片 ](http://www.sohu.com/a/283109333_180520)<br>
+https://www.xilinx.com/ 
+
 
 2018.12.10 比亚迪<br>
 2018.8.6[自动驾驶芯片：GPU 的现在和 ASIC 的未来](https://baijiahao.baidu.com/s?id=1608059303010189478&wfr=spider&for=pc)<br>
-
-
 
 [地平线](http://www.horizon.ai/)<br>
 聚焦：智能驾驶 · 智慧城市 · 智慧零售<br>
@@ -840,12 +848,6 @@ HEV:<BR>
 2018.4.4[AI芯片独角兽寒武纪新融资完成：估值逾20亿美元，国家队基金入场](https://www.sohu.com/a/227268968_610300)<br>
 [一文读懂寒武纪国内首款云端芯片,这块芯片有何用途](https://baijiahao.baidu.com/s?id=1618371531307958578&wfr=spider&for=pc)<br>
 [中国芯片界黑马的诞生：成立当年业务收入过亿，华为都找它合作](https://baijiahao.baidu.com/s?id=1617755542012568249&wfr=spider&for=pc)<br>
-
-## Mobileye
-
-## Xilinx
-[赛灵思合作比亚迪 为驾驶员辅助系统提供芯片 ](http://www.sohu.com/a/283109333_180520)<br>
-https://www.xilinx.com/ 
 
 # 驾驶算法
 [本土化ADAS被Mobileye甩出了一条街？突破可能还在算法公司 ](http://www.cheyun.com/content/9677)<br>
