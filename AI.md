@@ -15,8 +15,10 @@ holistic Data Analytics Artificial Intelligence and Machine Learning landscape.<
 
 
 # AI 行业应用 
-## 自然语言处理
-## 计算机视觉
+## 自然语言处理（听得懂）
+## 计算机视觉 （看得懂）
+## （理解）
+## （预测和响应）
 
 # AI 垂直落地
 [智慧校园 ](http://www.360doc.com/content/19/0105/14/52580869_806692803.shtml)<br>
