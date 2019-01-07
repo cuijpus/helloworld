@@ -4,6 +4,8 @@
 1. <a href="#tag-中国自动驾驶生态">中国自动驾驶生态</a> 
 1. <a href="#tag-电动汽车类型">电动汽车类型</a> 
 1. <a href="#tag-传统车企_新能源（EV/PHEV）">传统车企_新能源（EV/PHEV）</a>
+传统车企_混动（HEV）
+新锐造车力量(EV)
 
 # <a id="tag-业界动态 " href="#tag-业界动态 ">业界动态</a>
 2018.12.27 [工业和信息化部关于印发《车联网（智能网联汽车）产业发展行动计划》的通知](http://www.miit.gov.cn/n1146285/n1146352/n3054355/n3057497/n3057498/c6564019/content.html)<br>
@@ -312,8 +314,7 @@ HEV:<BR>
 ![2](https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=2464810404,212490908&fm=173&app=25&f=JPEG?w=640&h=459&s=D69AA361F42DD0AEC3F50DDA0300C0B0)<br>
 
 
-
-# 传统车企_混动（HEV）
+# <a id="tag-传统车企_混动（HEV）" href="#tag-传统车企_混动（HEV）">传统车企_混动（HEV）</a>
 <table>
     <tr>
         <th>品牌</th>
@@ -371,7 +372,7 @@ HEV:<BR>
     </tr>     
 </table>
 
-# 新锐造车力量(EV)
+# <a id="tag-新锐造车力量(EV)" href="#tag-新锐造车力量(EV)">新锐造车力量(EV)</a>
 <table>
     <tr>
         <th>品牌</th>
