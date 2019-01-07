@@ -253,3 +253,6 @@ https://www.youtube.com/watch?v=UYieT8tZnKU <br>
 
 # 开源
 [Openface](https://github.com/cmusatyalab/openface)<br>
+[OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)<br>
+
+
