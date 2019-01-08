@@ -4,6 +4,12 @@
 1. <a href="#tag-行业应用">行业应用</a>
 1. <a href="#tag-政策">政策</a>
 1. <a href="#tag-巨头IoT战略">巨头IoT战略</a>
+   1. <a href="#tag-生态">生态</a>
+   1. <a href="#tag-小米">小米</a>
+   1. <a href="#tag-华为">华为</a>
+   1. <a href="#tag-阿里巴巴">阿里巴巴</a>
+   1. <a href="#tag-京东">京东</a>
+   1. <a href="#tag-中移动">中移动</a>
 1. <a href="#tag-创企">创企</a>
 1. <a href="#tag-开放平台">开放平台</a>
 1. <a href="#tag-开源">开源</a>
@@ -25,50 +31,10 @@
 # <a id="tag-行业应用" href="#tag-行业应用">行业应用</a>
 
 # <a id="tag-政策" href="#tag-政策">政策</a>
-
-# <a id="tag-巨头IoT战略" href="#tag-巨头IoT战略">巨头IoT战略</a>
-
-# <a id="tag-创企" href="#tag-创企">创企</a>
-
-# <a id="tag-开放平台" href="#tag-开放平台">开放平台</a>
-
-# <a id="tag-开源" href="#tag-开源">开源</a>
-
-# <a id="tag-学习资源" href="#tag-学习资源">学习资源</a>
-
-# <a id="tag-Tools" href="#tag-Tools">Tools</a>
-
-# <a id="tag-实际操作" href="#tag-实际操作">实际操作</a>
-[看物联网开发实战：20分钟搭建简易环境监测站](http://www.dashunet.cn/archives/2592)<br>
-[AliOS Things+阿里云 10分钟搭建智慧农业解决方案](http://blog.itpub.net/31545802/viewspace-2213462)<br>
-
-# <a id="tag-业界动态" href="#tag-业界动态">业界动态</a>
-[美国公布《2017-2045年新兴科技趋势报告》 ](http://blog.sciencenet.cn/blog-2471219-1091006.html)<br>
-[物联网白皮书（2018年）](http://www.caict.ac.cn/kxyj/qwfb/bps/201812/P020181212431907171535.pdf)<br>
-
-
-
-# IoT Landscape (2018, W/W)
-
-
-站在巨人的肩膀上，搞垂直IoT服务：<br>
-1. 百度“天工”物联网平台
-2. 阿里Link物联网平台
-3. 腾讯QQ物联智能硬件开放平台
-4. 中国移动OneNET物联网开放平台
-5. 中国电信NB-IOT
-6. 华为HiLink平台
-7. 科大讯飞IoT平台
-8. 小米IoT生态链
-
-
-# 政策导航
 2018.12.6 [工信部：加速推进人工智能、物联网和智慧城市国际标准](http://www.sohu.com/a/279937844_468632)<br>
 
-# 生态
-做个表格todo<br>
-## 巨头们的IoT生态构筑
-
+# <a id="tag-巨头IoT战略" href="#tag-巨头IoT战略">巨头IoT战略</a>
+## <a id="tag-生态" href="#tag-生态">生态</a>
 <table>
   <tr>
     <th>平台</th>
@@ -240,12 +206,11 @@
   </tr>    
 </table>
 
-
 [一盘堪比漫威十年影史的大棋——小米IoT开发者平台](https://baijiahao.baidu.com/s?id=1608806606887937272&wfr=spider&for=pc)<br>
 [小米为何跟百度在一起？真相大揭秘](http://news.mydrivers.com/1/557/557491.htm)<br>
 [华为和他小伙伴们的九大物联网解决方案](http://www.iot101.com/news/2017-08-04/13482.html)<br>
 
-### 小米
+## <a id="tag-小米" href="#tag-小米">小米</a>
 2018.12.29 [小米宜家牵手，为何如此高调](https://baijiahao.baidu.com/s?id=1618370694462261771&wfr=spider&for=pc)<br>
 2018.11.28 [「小米AIoT开发者大会」雷军宣布小爱同学激活破亿，和宜家开启](https://baijiahao.baidu.com/s?id=1618352092306146940&wfr=spider&for=pc)<br>
 [视频直播](http://video.sina.com.cn/l/p/1725227.html)<br>
@@ -273,10 +238,8 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
 
 2013.11 发布小米路由器 <br>
 
-### 华为
-
+## <a id="tag-华为" href="#tag-华为">华为</a>
 # 华为物联网全栈
-
 <table>
   <tr align="left">
     <th>层</th>
@@ -343,7 +306,6 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
   </tr>  
 </table>
 
-
 2018.12.4 [华为与京东达成战略合作 IoT产品实现互联互通](https://baijiahao.baidu.com/s?id=1618923588201408066&wfr=spider&for=pc)<br>
 ![合作启动](https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=662790603,3713309390&fm=173&app=49&f=JPEG?w=554&h=369&s=300368B40322ACED08631E890300A089)<br>
 2018.11 [IoT联接管理平台彩页](https://e.huawei.com/cn/material/onLineView?MaterialID=8d922d32711144399be5fcda3d64b3a3)<br>
@@ -361,8 +323,7 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
 2015.5.21 [华为“1+2+1”物联网IoT战略全新深度解读](http://www.yopai.com/show-2-158796-1.html)<br>
 2011.7.18 [华为物联网专题汇报](https://wenku.baidu.com/view/8077f34169eae009581bec87.html?sxts=1543280314482)<br>
 
-
-### 阿里巴巴
+## <a id="tag-阿里巴巴" href="#tag-阿里巴巴">阿里巴巴</a>
 阿里云从云管边端全生态布局物联网。<br>
 ![云、管、边、端](https://articles.csdn.net/uploads/allimg/180923/41_180923151332_1.jpg)<br>
 >>在云上，阿里云推出了物联网云平台Link Platform、应用开发平台Link Develop、物联网市场Link Market，包括配套的物联网安全和物联网标准体系；<br>
@@ -392,10 +353,10 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
 
 2016.10.24 [阿里巴巴YunOS万物互联网战略正式发布](https://www.ithome.com/html/it/264499.htm)<br> 
 
-### 京东
+## <a id="tag-京东" href="#tag-京东">京东</a>
 2018.12.5 [京东公布新IoT战略：推出“京鱼座”独立品牌](https://baijiahao.baidu.com/s?id=1618981312252995253&wfr=spider&for=pc)<br>
 
-### 中移动
+## <a id="tag-中移动" href="#tag-中移动">中移动</a>
 2018.12.4 [中移500万NB-IoT模组招标结果出炉！最低20元以下，价格再创新低！](https://baijiahao.baidu.com/s?id=1618884517839900353&wfr=spider&for=pc)<BR>
 目前NB-IoT已经广泛运用到远程抄表、消防烟感、智慧停车、智慧路灯、物流跟踪等领域，上半年中国移动物联网只能连接数量净增1.55亿，规模达到3.84亿元，物联网同比收入增长47.6%。此次中国移动限购单模NB模组，意味着移动未来将逐步开启NB代替2G的趋势。<br>
 2018.11.29 [中国移动智慧城市NB-IoT业务推介会在苏州召开](https://baijiahao.baidu.com/s?id=1618884517839900353&wfr=spider&for=pc)<br>
@@ -403,7 +364,42 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
 2017.12.22 [中国移动新一代物联网NB-LOT在山东全面商用](http://www.dzwww.com/shandong/sdnews/201712/t20171222_16813912.htm)<br>
 2017.3.27 [中移窄带物联网简介](https://wenku.baidu.com/view/d6630e1e6fdb6f1aff00bed5b9f3f90f76c64d0c.html)<br>
 
-### 中电信
+## <a id="tag-中电信" href="#tag-中电信">中电信</a>
+### 
+
+
+# <a id="tag-创企" href="#tag-创企">创企</a>
+
+# <a id="tag-开放平台" href="#tag-开放平台">开放平台</a>
+
+# <a id="tag-开源" href="#tag-开源">开源</a>
+
+# <a id="tag-学习资源" href="#tag-学习资源">学习资源</a>
+
+# <a id="tag-Tools" href="#tag-Tools">Tools</a>
+
+# <a id="tag-实际操作" href="#tag-实际操作">实际操作</a>
+[看物联网开发实战：20分钟搭建简易环境监测站](http://www.dashunet.cn/archives/2592)<br>
+[AliOS Things+阿里云 10分钟搭建智慧农业解决方案](http://blog.itpub.net/31545802/viewspace-2213462)<br>
+
+站在巨人的肩膀上，搞垂直IoT服务：<br>
+1. 百度“天工”物联网平台
+2. 阿里Link物联网平台
+3. 腾讯QQ物联智能硬件开放平台
+4. 中国移动OneNET物联网开放平台
+5. 中国电信NB-IOT
+6. 华为HiLink平台
+7. 科大讯飞IoT平台
+8. 小米IoT生态链
+
+# <a id="tag-业界动态" href="#tag-业界动态">业界动态</a>
+[美国公布《2017-2045年新兴科技趋势报告》 ](http://blog.sciencenet.cn/blog-2471219-1091006.html)<br>
+[物联网白皮书（2018年）](http://www.caict.ac.cn/kxyj/qwfb/bps/201812/P020181212431907171535.pdf)<br>
+
+
+
+
+
 
 
 ## 垂直供应商的补充
