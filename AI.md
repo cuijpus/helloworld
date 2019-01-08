@@ -7,7 +7,13 @@
    1. <a href="#tag-知识图谱（理解的透）">知识图谱（理解的透）</a>
    1. <a href="#tag-赋能（预测和响应）">赋能（预测和响应）</a>
 1. <a href="#tag-AI行业应用">AI行业应用</a>
-1. <a href="#tag-AI垂直落地">AI垂直落地</a>
+   1. <a id="tag-智慧安防" href="#tag-智慧安防">智慧安防</a>
+   1. <a id="tag-智慧金融" href="#tag-智慧金融">智慧金融</a>
+   1. <a id="tag-智慧工厂" href="#tag-智慧工厂">智慧工厂</a>
+   1. <a id="tag-智能城市" href="#tag-智能城市">智能城市</a>
+   1. <a id="tag-智慧医疗" href="#tag-智慧医疗">智慧医疗</a>
+   1. <a id="tag-动驾驶（需要5G和IoT的助推）" href="#tag-动驾驶（需要5G和IoT的助推）">动驾驶（需要5G和IoT的助推）</a>
+   1. <a id="tag-智慧教育" href="#tag-智慧教育">智慧教育</a>
 1. <a href="#tag-政策导航">政策导航</a>
 1. <a href="#tag-巨头AI战略">巨头AI战略</a>
 1. <a href="#tag-开放平台">开放平台</a>
@@ -28,13 +34,27 @@
 ## <a id="tag-知识图谱（理解的透）" href="#tag-知识图谱（理解的透）">知识图谱（理解的透）</a>
 ## <a id="tag-赋能（预测和响应）" href="#tag-赋能（预测和响应）">赋能（预测和响应）</a>
 
-[【HC2018 Session】人工智能对车联网的影响pdf](https://e.huawei.com/zh/material/onLineView?materialid=febb151c6220474f8a72b9d0436e36a9)<br>
-
 
 # <a id="tag-AI行业应用" href="#tag-AI行业应用">AI行业应用</a>
 [2018世界人工智能蓝皮书：看中国到底有多强！](https://www.toutiao.com/a6628181012595622408/)<br>
 [2018世界人工智能蓝皮书](http://www.caict.ac.cn/kxyj/qwfb/bps/201809/P020180918696199759142.pdf)<br>
+[【HC2018 Session】人工智能对车联网的影响pdf](https://e.huawei.com/zh/material/onLineView?materialid=febb151c6220474f8a72b9d0436e36a9)<br>
 
+# <a id="tag-参考big data部分行业应用" href="#tag-参考big data部分行业应用">参考big data部分行业应用</a>
+## 
+https://github.com/cuijpus/helloworld/blob/master/big_data.md
+[智慧校园 ](http://www.360doc.com/content/19/0105/14/52580869_806692803.shtml)<br>
+
+# <a id="tag-智慧安防" href="#tag-智慧安防">智慧安防</a>
+# <a id="tag-智慧金融" href="#tag-智慧金融">智慧金融</a>
+# <a id="tag-智慧工厂" href="#tag-智慧工厂">智慧工厂</a>
+# <a id="tag-智能城市" href="#tag-智能城市">智能城市</a>
+# <a id="tag-智慧医疗" href="#tag-智慧医疗">智慧医疗</a>
+# <a id="tag-动驾驶（需要5G和IoT的助推）" href="#tag-动驾驶（需要5G和IoT的助推）">动驾驶（需要5G和IoT的助推）</a>
+# <a id="tag-智慧教育" href="#tag-智慧教育">智慧教育</a>
+
+[华为携手石化盈科打造智能工厂2.0 ](https://e.huawei.com/cn/case-studies/cn/2017/201708011429)<br>
+[人工智能｜人工智能检测设备实现手机外观缺陷全自动检测](https://www.toutiao.com/a6642216398074413582/)<br>
 
 # <a id="tag-AI垂直落地" href="#tag-AI垂直落地">AI垂直落地</a>
 # <a id="tag-政策导航" href="#tag-政策导航">政策导航</a>
@@ -55,25 +75,8 @@
 
 
 
-# AI 垂直落地
-## 参考big data部分行业应用
-https://github.com/cuijpus/helloworld/blob/master/big_data.md
 
-[智慧校园 ](http://www.360doc.com/content/19/0105/14/52580869_806692803.shtml)<br>
-## 自动驾驶（需要5G和IoT的助推）
 
-## 智慧医疗
-
-## 智慧安防
-
-## 智慧教育
-
-## 智慧社区
-
-## 智能城市
-
-## 智慧工厂
-[人工智能｜人工智能检测设备实现手机外观缺陷全自动检测](https://www.toutiao.com/a6642216398074413582/)<br>
 
 # 政策导航 
 2018.5.11 [安徽出台新一代人工智能产业发展规划(2018—2030年)](http://ah.sina.com.cn/news/2018-05-29/detail-ihcffhsu7092405.shtml?from=ah_cnxh)<br>
