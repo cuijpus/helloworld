@@ -19,6 +19,11 @@
 1. <a href="#tag-业界动态">业界动态</a>
 
 # <a id="tag-IoT是什么?" href="#tag-IoT是什么?">IoT是什么?</a>
+![人-->物](http://p3.pstatp.com/large/615d00041021d7880282)<br>
+物联网（IoT，Internet of Things）
+人与人之间进行通信的网络，叫做人联网。
+物与物之间进行通信的网络，叫做物联网。
+![](http://p3.pstatp.com/large/615e000327d7bcc5921c)<br>
 [LoRa与NB-IoT主要对比分析](https://jingyan.baidu.com/article/597a06432caf35312b5243b6.html)<br>
 [NB-IoT与LoRa技术详解及发展趋势分析](https://wenku.baidu.com/view/c1adc6a803d276a20029bd64783e0912a2167c96.html?rec_flag=default&sxts=1544083268972)<br>
 
