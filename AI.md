@@ -2,6 +2,10 @@
 1. <a href="#tag-AI是什么？">AI是什么？</a>
 1. <a href="#tag-全景图">全景图</a>
 1. <a href="#tag-AI能干什么？">AI能干什么？</a>
+## <a href="#tag-智能语音（听得懂）">智能语音（听得懂）</a>
+## <a href="#tag-智能视觉 （看得懂）">智能视觉 （看得懂）</a>
+## <a href="#tag-知识图谱（理解的透）">知识图谱（理解的透）</a>
+## <a href="#tag-赋能（预测和响应）">赋能（预测和响应）</a>
 1. <a href="#tag-AI行业应用">AI行业应用</a>
 1. <a href="#tag-AI垂直落地">AI垂直落地</a>
 1. <a href="#tag-政策导航">政策导航</a>
@@ -19,12 +23,18 @@
 
 
 # <a id="tag-AI能干什么？" href="#tag-AI能干什么？">AI能干什么？</a>
+## <a id="tag-智能语音（听得懂）" href="#tag-智能语音（听得懂）">智能语音（听得懂）</a>
+## <a id="tag-智能视觉 （看得懂）" href="#tag-智能视觉 （看得懂）">智能视觉 （看得懂）</a>
+## <a id="tag-知识图谱（理解的透）" href="#tag-知识图谱（理解的透）">知识图谱（理解的透）</a>
+## <a id="tag-赋能（预测和响应）" href="#tag-赋能（预测和响应）">赋能（预测和响应）</a>
+
 [【HC2018 Session】人工智能对车联网的影响pdf](https://e.huawei.com/zh/material/onLineView?materialid=febb151c6220474f8a72b9d0436e36a9)<br>
 
 
 # <a id="tag-AI行业应用" href="#tag-AI行业应用">AI行业应用</a>
 [2018世界人工智能蓝皮书：看中国到底有多强！](https://www.toutiao.com/a6628181012595622408/)<br>
 [2018世界人工智能蓝皮书](http://www.caict.ac.cn/kxyj/qwfb/bps/201809/P020180918696199759142.pdf)<br>
+
 
 # <a id="tag-AI垂直落地" href="#tag-AI垂直落地">AI垂直落地</a>
 # <a id="tag-政策导航" href="#tag-政策导航">政策导航</a>
@@ -43,11 +53,7 @@
 
 
 
-# AI 行业应用 
-## 智能语音（听得懂）
-## 智能视觉 （看得懂）
-## 知识图谱（理解）
-## （预测和响应）
+
 
 # AI 垂直落地
 ## 参考big data部分行业应用
