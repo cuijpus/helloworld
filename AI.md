@@ -1,5 +1,6 @@
 
-1. <a href="#tag-AI是什么？">AI是什么？</a> 
+1. <a href="#tag-AI是什么？">AI是什么？</a>
+1. <a href="#tag-全景图">全景图</a>
 1. <a href="#tag-AI能干什么？">AI能干什么？</a>
 1. <a href="#tag-AI行业应用">AI行业应用</a>
 1. <a href="#tag-AI垂直落地">AI垂直落地</a>
@@ -9,6 +10,13 @@
 
 # <a id="tag-AI是什么？" href="#tag-AI是什么？">AI是什么？</a>
 [一文看懂人工智能，漫画版](http://www.sohu.com/a/221170784_821100)<br>
+[关于人工智能的定义 我国AI产业链现状](http://www.elecfans.com/rengongzhineng/664886.html)<br>
+
+# <a id="tag-全景图" href="#tag-全景图">全景图</a>
+[全球人工智能产业地图](http://www.caict.ac.cn/kxyj/qwfb/ztbg/201804/P020180413313451066778.pdf#page=1&zoom=70,410,1529)<br>
+[European AI Landscape](http://projectjuno.ai/content/ProjectJunoAI_EuropeanMachineIntelligenceLandscape.pdf) <br>
+[Israel's AI landscape](https://cdn-images-1.medium.com/max/2000/1*4k2bACH0ZNBy6CKwbSpxQA.png)<br>
+
 
 # <a id="tag-AI能干什么？" href="#tag-AI能干什么？">AI能干什么？</a>
 [【HC2018 Session】人工智能对车联网的影响pdf](https://e.huawei.com/zh/material/onLineView?materialid=febb151c6220474f8a72b9d0436e36a9)<br>
@@ -32,19 +40,7 @@
 
 
 
-# 全景图
 
-[全球人工智能产业地图](http://www.caict.ac.cn/kxyj/qwfb/ztbg/201804/P020180413313451066778.pdf#page=1&zoom=70,410,1529)<br>
-
-[European AI Landscape](http://projectjuno.ai/content/ProjectJunoAI_EuropeanMachineIntelligenceLandscape.pdf) <br>
-
-[Israel's AI landscape](https://cdn-images-1.medium.com/max/2000/1*4k2bACH0ZNBy6CKwbSpxQA.png)<br>
-
-[Machine Learning and AI Market Landscape, 2016](https://i1.wp.com/analyticsweek.com/wp-content/uploads/2017/01/4e1d80ad-c007-4baa-99a9-915c936a5ef6-original.png?ssl=1)<br>
-Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, but overall a good list for looking through 
-holistic Data Analytics Artificial Intelligence and Machine Learning landscape.<br>
-
-[关于人工智能的定义 我国AI产业链现状](http://www.elecfans.com/rengongzhineng/664886.html)<br>
 
 
 # AI 行业应用 
