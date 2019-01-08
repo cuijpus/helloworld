@@ -20,7 +20,11 @@
 1. <a href="#tag-开放平台">开放平台</a>
    1. <a href="#tag-国家新一代人工智能开放创新平台">国家新一代人工智能开放创新平台</a>
    1. <a href="#tag-开放平台">开放平台</a>
-
+1. <a href="#tag-开源项目">开源项目</a>
+1. <a href="#tag-学习资源">学习资源</a>
+1. <a href="#tag-Tools">Tools</a>
+1. <a href="#tag-实操">实操</a>
+1. <a href="#tag-业内动态">业内动态</a>
 
 # <a id="tag-AI是什么？" href="#tag-AI是什么？">AI是什么？</a>
 [一文看懂人工智能，漫画版](http://www.sohu.com/a/221170784_821100)<br>
@@ -249,8 +253,7 @@ https://github.com/cuijpus/helloworld/blob/master/big_data.md
 </table>
 
 
-
-# 开源项目
+# <a id="tag-开源项目" href="#tag-开源项目">开源项目</a>
 [Mobile AI Compute Engine (MACE) 是一个专为移动端异构计算平台优化的神经网络计算框架 ](https://github.com/xiaomi/mace)<br>
 [15 个开源的顶级人工智能工具](http://www.iteye.com/news/31877)<br>
 [那些有趣又实用的开源人工智能项目Top 10](http://ai.51cto.com/art/201809/582996.htm)<br>
@@ -258,19 +261,19 @@ https://github.com/cuijpus/helloworld/blob/master/big_data.md
 [互联网、音频、视频、图形、游戏、生产力、组织、通讯、教育、科学、CMS、ERP、静态站点、开发和其他。](https://github.com/mahmoud/awesome-python-applications)<br>
 [TensorFlow](https://www.tensorflow.org)<br>
 
-# 学习资源
+# <a id="tag-学习资源" href="#tag-学习资源">学习资源</a>
 [十大必须掌握的机器学习算法，竟然都如此有趣](https://blog.csdn.net/tkkzc3e6s4ou4/article/details/79083376)<br>
 [机器学习的13种算法和4种学习方法，推荐给大家](https://blog.csdn.net/duozhishidai/article/details/82764044)<br>
 [深度学习 501](https://software.intel.com/zh-cn/ai-academy/students/kits/deep-learning-501)<br>
 
-# Tools
+# <a id="tag-Tools" href="#tag-Tools">Tools</a>
 [这可能是人工智能、机器学习和大数据领域覆盖最全的一份速查表](http://www.raincent.com/content-10-12752-1.html)<br>
 [出处](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)<br>
 
-# 实操
+# <a id="tag-实操" href="#tag-实操">实操</a>
 [为猪脸识别而进行自己数据集的构建、训练](https://blog.csdn.net/duanshao/article/details/78797616)<br>
 
-# 业内动态
+# <a id="tag-业内动态" href="#tag-业内动态">业内动态</a>
 2018.12.20 [百度成立AI产业研究中心 与IDC联合发布《百度大脑领导力白皮书》](https://ai.bdstatic.com/file/37FB772329554EAFAE798FE0E11D1001)<br>
 2018.10.18 [2018年人工智能八大趋势](http://www.sohu.com/a/259765973_99916129)<br>
 2018.9.17 [2018世界人工智能蓝皮书](http://www.caict.ac.cn/kxyj/qwfb/bps/201809/P020180918696199759142.pdf)<br>
