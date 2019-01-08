@@ -11,6 +11,7 @@
 [一文看懂人工智能，漫画版](http://www.sohu.com/a/221170784_821100)<br>
 
 # <a id="tag-AI能干什么？" href="#tag-AI能干什么？">AI能干什么？</a>
+[【HC2018 Session】人工智能对车联网的影响pdf](https://e.huawei.com/zh/material/onLineView?materialid=febb151c6220474f8a72b9d0436e36a9)<br>
 
 
 # <a id="tag-AI行业应用" href="#tag-AI行业应用">AI行业应用</a>
