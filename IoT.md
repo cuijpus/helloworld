@@ -1,20 +1,34 @@
 
-
 1. <a href="#tag-IoT是什么?">IoT是什么?</a> 
-1. <a href="#tag-IoT落地场景">IoT落地场景</a>
-1. <a href="#tag-IoT政策">IoT政策</a>
-1. <a href="#tag-IoT产业布局">IoT产业布局</a>
-1. <a href="#tag-IoT研究报告">IoT研究报告</a>
-1. <a href="#tag-IoT开放平台">IoT开放平台</a>
-1. <a href="#tag-IoT垂直落地练习">IoT垂直落地练习</a>
+1. <a href="#tag-IoT能干什么">IoT能干什么</a>
+1. <a href="#tag-行业应用">行业应用</a>
+1. <a href="#tag-政策">政策</a>
+1. <a href="#tag-巨头IoT战略">巨头IoT战略</a>
+1. <a href="#tag-创企">创企</a>
+1. <a href="#tag-开放平台">开放平台</a>
+1. <a href="#tag-开源">开源</a>
+1. <a href="#tag-学习资源">学习资源</a>
+1. <a href="#tag-Tools">Tools</a>
+1. <a href="#tag-实际操作">实际操作</a>
+1. <a href="#tag-业界动态">业界动态</a>
 
 # <a id="tag-IoT是什么?" href="#tag-IoT是什么?">IoT是什么?</a>
-# <a id="tag-IoT落地场景" href="#tag-IoT落地场景">IoT落地场景</a>
-# <a id="tag-IoT政策" href="#tag-IoT政策">IoT政策</a>
-# <a id="tag-IoT产业布局" href="#tag-IoT产业布局">IoT产业布局</a>
-# <a id="tag-IoT研究报告" href="#tag-IoT研究报告">IoT研究报告</a>
-# <a id="tag-IoT开放平台" href="#tag-IoT开放平台">IoT开放平台</a>
-# <a id="tag-IoT垂直落地练习" href="#tag-IoT垂直落地练习">IoT垂直落地练习</a>
+[LoRa与NB-IoT主要对比分析](https://jingyan.baidu.com/article/597a06432caf35312b5243b6.html)<br>
+[NB-IoT与LoRa技术详解及发展趋势分析](https://wenku.baidu.com/view/c1adc6a803d276a20029bd64783e0912a2167c96.html?rec_flag=default&sxts=1544083268972)<br>
+
+# <a id="tag-IoT能干什么" href="#tag-IoT能干什么">IoT能干什么</a>
+# <a id="tag-行业应用" href="#tag-行业应用">行业应用</a>
+# <a id="tag-政策" href="#tag-政策">政策</a>
+# <a id="tag-巨头IoT战略" href="#tag-巨头IoT战略">巨头IoT战略</a>
+# <a id="tag-创企" href="#tag-创企">创企</a>
+# <a id="tag-开放平台" href="#tag-开放平台">开放平台</a>
+# <a id="tag-开源" href="#tag-开源">开源</a>
+# <a id="tag-学习资源" href="#tag-学习资源">学习资源</a>
+# <a id="tag-Tools" href="#tag-Tools">Tools</a>
+# <a id="tag-实际操作" href="#tag-实际操作">实际操作</a>
+# <a id="tag-业界动态" href="#tag-业界动态">业界动态</a>
+
+
 
 # 练手
 [看物联网开发实战：20分钟搭建简易环境监测站](http://www.dashunet.cn/archives/2592)<br>
@@ -399,7 +413,4 @@ http://www.alios.cn/things
 [物联网操作系统华为超轻量LiteOS解读](https://www.toutiao.com/a6606828921516196356/)<br>
 
 
-# 概念扫描
-[LoRa与NB-IoT主要对比分析](https://jingyan.baidu.com/article/597a06432caf35312b5243b6.html)<br>
-[NB-IoT与LoRa技术详解及发展趋势分析](https://wenku.baidu.com/view/c1adc6a803d276a20029bd64783e0912a2167c96.html?rec_flag=default&sxts=1544083268972)<br>
 
