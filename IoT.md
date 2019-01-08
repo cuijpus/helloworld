@@ -371,8 +371,12 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
 # <a id="tag-创企" href="#tag-创企">创企</a>
 
 # <a id="tag-开放平台" href="#tag-开放平台">开放平台</a>
+todo 做个表格<br>
+http://www.alios.cn/things
 
 # <a id="tag-开源" href="#tag-开源">开源</a>
+[物联网的十大开源操作系统](https://www.toutiao.com/a6642481193176531464/)<br>
+[物联网操作系统华为超轻量LiteOS解读](https://www.toutiao.com/a6606828921516196356/)<br>
 
 # <a id="tag-学习资源" href="#tag-学习资源">学习资源</a>
 
@@ -395,24 +399,4 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
 # <a id="tag-业界动态" href="#tag-业界动态">业界动态</a>
 [美国公布《2017-2045年新兴科技趋势报告》 ](http://blog.sciencenet.cn/blog-2471219-1091006.html)<br>
 [物联网白皮书（2018年）](http://www.caict.ac.cn/kxyj/qwfb/bps/201812/P020181212431907171535.pdf)<br>
-
-
-
-
-
-
-
-## 垂直供应商的补充
-
-# 开放平台
-todo 做个表格<br>
-
-http://www.alios.cn/things
-
-
-# 开源
-[物联网的十大开源操作系统](https://www.toutiao.com/a6642481193176531464/)<br>
-[物联网操作系统华为超轻量LiteOS解读](https://www.toutiao.com/a6606828921516196356/)<br>
-
-
 
