@@ -24,6 +24,15 @@
 人与人之间进行通信的网络，叫做人联网。
 物与物之间进行通信的网络，叫做物联网。
 ![](http://p3.pstatp.com/large/615e000327d7bcc5921c)<br>
+
+But，你说连就连，连起来有什么好处呢？
+这个好处，真的大了去了。
+试想一下这些场景：
+如果所有的汽车都联网了，自动驾驶是不是就实现了？车与车之间会协调路径、距离、速度，车祸就再也不会发生了。
+![IoV](http://p3.pstatp.com/large/615f00031b4a1e26fa78)<br>
+
+
+
 [LoRa与NB-IoT主要对比分析](https://jingyan.baidu.com/article/597a06432caf35312b5243b6.html)<br>
 [NB-IoT与LoRa技术详解及发展趋势分析](https://wenku.baidu.com/view/c1adc6a803d276a20029bd64783e0912a2167c96.html?rec_flag=default&sxts=1544083268972)<br>
 
