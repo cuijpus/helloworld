@@ -3,6 +3,7 @@
 1. <a href="#tag-IoT能干什么">IoT能干什么</a>
 1. <a href="#tag-行业应用">行业应用</a>
 1. <a href="#tag-政策">政策</a>
+1. <a href="#tag-IoT标准">IoT标准</a>
 1. <a href="#tag-巨头IoT战略">巨头IoT战略</a>
    1. <a href="#tag-生态">生态</a>
    1. <a href="#tag-小米">小米</a>
@@ -31,10 +32,11 @@ But，你说连就连，连起来有什么好处呢？
 如果所有的汽车都联网了，自动驾驶是不是就实现了？车与车之间会协调路径、距离、速度，车祸就再也不会发生了。
 ![IoV](http://p3.pstatp.com/large/615f00031b4a1e26fa78)<br>
 
+如果所有的家电都联网了，实现了随时控制，还没到家，就先开启空调和热水器，出门在外忘记关灯，可以远程关灯，还能远程监控，是不是更方便和安全？
+![Home](http://p1.pstatp.com/large/615e000327d97a5fb406)<br>
+甚至动物，如果保护区里所有的珍稀野生动物都联网了，科学家是不是可以更方便地检测它们的生命状态，更好地进行保护和研究？
 
 
-[LoRa与NB-IoT主要对比分析](https://jingyan.baidu.com/article/597a06432caf35312b5243b6.html)<br>
-[NB-IoT与LoRa技术详解及发展趋势分析](https://wenku.baidu.com/view/c1adc6a803d276a20029bd64783e0912a2167c96.html?rec_flag=default&sxts=1544083268972)<br>
 
 # <a id="tag-IoT总览图" href="#tag-IoT总览图">IoT总览图</a>
 总览图 http://mattturck.com/wp-content/uploads/2018/02/2018_Matt_Turck_IoT_Landscape_Final.png <br>
@@ -46,6 +48,11 @@ But，你说连就连，连起来有什么好处呢？
 
 # <a id="tag-政策" href="#tag-政策">政策</a>
 2018.12.6 [工信部：加速推进人工智能、物联网和智慧城市国际标准](http://www.sohu.com/a/279937844_468632)<br>
+
+
+# <a id="tag-IoT标准" href="#tag-IoT标准">IoT标准</a>
+[LoRa与NB-IoT主要对比分析](https://jingyan.baidu.com/article/597a06432caf35312b5243b6.html)<br>
+[NB-IoT与LoRa技术详解及发展趋势分析](https://wenku.baidu.com/view/c1adc6a803d276a20029bd64783e0912a2167c96.html?rec_flag=default&sxts=1544083268972)<br>
 
 # <a id="tag-巨头IoT战略" href="#tag-巨头IoT战略">巨头IoT战略</a>
 ## <a id="tag-生态" href="#tag-生态">生态</a>
