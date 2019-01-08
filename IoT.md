@@ -67,6 +67,7 @@ But，你说连就连，连起来有什么好处呢？<BR>
 
 
 # <a id="tag-IoT标准" href="#tag-IoT标准">IoT标准</a>
+[关于NB-IoT，没有比这篇更通俗易懂的啦！](https://www.toutiao.com/a6519840233599533576/)<br>
 [LoRa与NB-IoT主要对比分析](https://jingyan.baidu.com/article/597a06432caf35312b5243b6.html)<br>
 [NB-IoT与LoRa技术详解及发展趋势分析](https://wenku.baidu.com/view/c1adc6a803d276a20029bd64783e0912a2167c96.html?rec_flag=default&sxts=1544083268972)<br>
 
