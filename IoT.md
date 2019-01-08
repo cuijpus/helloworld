@@ -16,34 +16,40 @@
 [LoRa与NB-IoT主要对比分析](https://jingyan.baidu.com/article/597a06432caf35312b5243b6.html)<br>
 [NB-IoT与LoRa技术详解及发展趋势分析](https://wenku.baidu.com/view/c1adc6a803d276a20029bd64783e0912a2167c96.html?rec_flag=default&sxts=1544083268972)<br>
 
+# <a id="tag-IoT总览图" href="#tag-IoT总览图">IoT总览图</a>
+总览图 http://mattturck.com/wp-content/uploads/2018/02/2018_Matt_Turck_IoT_Landscape_Final.png <br>
+
 # <a id="tag-IoT能干什么" href="#tag-IoT能干什么">IoT能干什么</a>
+[国家战略中提到了9个物联网的重点示范工程](https://www.toutiao.com/a6642162419395199492/)<br>
+
 # <a id="tag-行业应用" href="#tag-行业应用">行业应用</a>
+
 # <a id="tag-政策" href="#tag-政策">政策</a>
+
 # <a id="tag-巨头IoT战略" href="#tag-巨头IoT战略">巨头IoT战略</a>
+
 # <a id="tag-创企" href="#tag-创企">创企</a>
+
 # <a id="tag-开放平台" href="#tag-开放平台">开放平台</a>
+
 # <a id="tag-开源" href="#tag-开源">开源</a>
+
 # <a id="tag-学习资源" href="#tag-学习资源">学习资源</a>
+
 # <a id="tag-Tools" href="#tag-Tools">Tools</a>
+
 # <a id="tag-实际操作" href="#tag-实际操作">实际操作</a>
-# <a id="tag-业界动态" href="#tag-业界动态">业界动态</a>
-
-
-
-# 练手
 [看物联网开发实战：20分钟搭建简易环境监测站](http://www.dashunet.cn/archives/2592)<br>
 [AliOS Things+阿里云 10分钟搭建智慧农业解决方案](http://blog.itpub.net/31545802/viewspace-2213462)<br>
 
-# 研报
+# <a id="tag-业界动态" href="#tag-业界动态">业界动态</a>
 [美国公布《2017-2045年新兴科技趋势报告》 ](http://blog.sciencenet.cn/blog-2471219-1091006.html)<br>
 [物联网白皮书（2018年）](http://www.caict.ac.cn/kxyj/qwfb/bps/201812/P020181212431907171535.pdf)<br>
 
 
-# IoT落地场景
-[国家战略中提到了9个物联网的重点示范工程](https://www.toutiao.com/a6642162419395199492/)<br>
 
 # IoT Landscape (2018, W/W)
-总览图 http://mattturck.com/wp-content/uploads/2018/02/2018_Matt_Turck_IoT_Landscape_Final.png <br>
+
 
 站在巨人的肩膀上，搞垂直IoT服务：<br>
 1. 百度“天工”物联网平台
