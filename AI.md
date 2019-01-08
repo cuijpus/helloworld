@@ -12,7 +12,7 @@
    1. <a href="#tag-智慧工厂">智慧工厂</a>
    1. <a href="#tag-智能城市">智能城市</a>
    1. <a href="#tag-智慧医疗">智慧医疗</a>
-   1. <a href="#tag-动驾驶（需要5G和IoT的助推）">动驾驶（需要5G和IoT的助推）</a>
+   1. <a href="#tag-自动驾驶（需要5G和IoT的助推）">自动驾驶（需要5G和IoT的助推）</a>
    1. <a href="#tag-智慧教育">智慧教育</a>
 1. <a href="#tag-政策导航">政策导航</a>
 1. <a href="#tag-巨头AI战略">巨头AI战略</a>
@@ -50,7 +50,7 @@ https://github.com/cuijpus/helloworld/blob/master/big_data.md
 # <a id="tag-智慧工厂" href="#tag-智慧工厂">智慧工厂</a>
 # <a id="tag-智能城市" href="#tag-智能城市">智能城市</a>
 # <a id="tag-智慧医疗" href="#tag-智慧医疗">智慧医疗</a>
-# <a id="tag-动驾驶（需要5G和IoT的助推）" href="#tag-动驾驶（需要5G和IoT的助推）">动驾驶（需要5G和IoT的助推）</a>
+# <a id="tag-自动驾驶（需要5G和IoT的助推）" href="#tag-自动驾驶（需要5G和IoT的助推）">自动驾驶（需要5G和IoT的助推）</a>
 # <a id="tag-智慧教育" href="#tag-智慧教育">智慧教育</a>
 
 [华为携手石化盈科打造智能工厂2.0 ](https://e.huawei.com/cn/case-studies/cn/2017/201708011429)<br>
