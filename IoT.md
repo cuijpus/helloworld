@@ -97,6 +97,38 @@ WLAN物联网，以Wi-Fi、蓝牙、Zigbee、Z-wave等技术为代表。
 
 ![水表](http://p1.pstatp.com/large/615f00031b4b9fa09680)<br>
 
+物联网对功耗、覆盖、连接数量这几个指标，非常非常敏感。而对于速率，大部分物联网应用反而并不敏感。（你想啊，抄个电表读数，上报个位置经纬度，能有几个字节？需要多大带宽？）
+
+回到话题，WLAN物联网，主要就受限于覆盖范围和功耗上。
+
+于是，LPWAN这个概念被提出来。
+
+LPWAN，Low Power Wide Area Network，低功耗广域网。名字里就有它的两个最重要的特点：低功耗、广覆盖。
+
+至于速度嘛，要求不高，够用就行。
+
+相比其它网络类型（WLAN、2/3/4G），LPWAN的定位是完全不同的，如下图所示。
+![LPWAN强调的是覆盖，牺牲的是速率](http://p1.pstatp.com/large/615c0004e043b1b576c9)<br>
+也有一种叫法，把LPWAN叫做蜂窝物联网。这个名字也体现了它和2/3/4G这种蜂窝通信技术之间的共性，都是通过基站或类似设备提供信号的。
+![蜂窝物联网](http://p1.pstatp.com/large/615e000327d827c5f616)<br>
+
+蜂窝通信网络
+
+LPWAN物联网，也是包括很多技术标准。目前比较主流的有：NB-IoT、LoRa、Sigfox、eMTC。
+
+嗯，没错，我们的NB-IoT，就是其中的一种。全名是Narrow Band IoT，也就是窄带物联网（带宽窄，速度慢）。
+![比较](http://p3.pstatp.com/large/615c0004e04487ae28b4)<br>
+
+LPWAN整体上还处于混战状态
+
+在不断的博弈和竞争过程中，NB-IoT脱颖而出，处于暂时领先的地位。
+
+可以和NB-IoT势均力敌的，是eMTC，英文全称有点长，是enhanced machine type of communication，增强型机器类型通信。但是eMTC和NB-IoT的应用场景不同，eMTC适合对速度和带宽有要求的物联网应用。因为篇幅原因，先不深入介绍。
+
+而LoRa和Sigfox的话，因为频谱的原因，所以竞争上比较吃亏：
+![4 protocols](http://p3.pstatp.com/large/615900058f89a83c6069)<br>
+
+
 
 [LoRa与NB-IoT主要对比分析](https://jingyan.baidu.com/article/597a06432caf35312b5243b6.html)<br>
 [NB-IoT与LoRa技术详解及发展趋势分析](https://wenku.baidu.com/view/c1adc6a803d276a20029bd64783e0912a2167c96.html?rec_flag=default&sxts=1544083268972)<br>
