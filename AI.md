@@ -7,13 +7,13 @@
    1. <a href="#tag-知识图谱（理解的透）">知识图谱（理解的透）</a>
    1. <a href="#tag-赋能（预测和响应）">赋能（预测和响应）</a>
 1. <a href="#tag-AI行业应用">AI行业应用</a>
-   1. <a id="tag-智慧安防" href="#tag-智慧安防">智慧安防</a>
-   1. <a id="tag-智慧金融" href="#tag-智慧金融">智慧金融</a>
-   1. <a id="tag-智慧工厂" href="#tag-智慧工厂">智慧工厂</a>
-   1. <a id="tag-智能城市" href="#tag-智能城市">智能城市</a>
-   1. <a id="tag-智慧医疗" href="#tag-智慧医疗">智慧医疗</a>
-   1. <a id="tag-动驾驶（需要5G和IoT的助推）" href="#tag-动驾驶（需要5G和IoT的助推）">动驾驶（需要5G和IoT的助推）</a>
-   1. <a id="tag-智慧教育" href="#tag-智慧教育">智慧教育</a>
+   1. <a href="#tag-智慧安防">智慧安防</a>
+   1. <a href="#tag-智慧金融">智慧金融</a>
+   1. <a href="#tag-智慧工厂">智慧工厂</a>
+   1. <a href="#tag-智能城市">智能城市</a>
+   1. <a href="#tag-智慧医疗">智慧医疗</a>
+   1. <a href="#tag-动驾驶（需要5G和IoT的助推）">动驾驶（需要5G和IoT的助推）</a>
+   1. <a href="#tag-智慧教育">智慧教育</a>
 1. <a href="#tag-政策导航">政策导航</a>
 1. <a href="#tag-巨头AI战略">巨头AI战略</a>
 1. <a href="#tag-开放平台">开放平台</a>
