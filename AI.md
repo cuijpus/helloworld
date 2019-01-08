@@ -20,6 +20,9 @@
 # <a id="tag-AI垂直落地" href="#tag-AI垂直落地">AI垂直落地</a>
 # <a id="tag-政策导航" href="#tag-政策导航">政策导航</a>
 # <a id="tag-巨头AI战略" href="#tag-巨头AI战略">巨头AI战略</a>
+
+[【HC2018-Keynote-DAY1-徐直军 Eric Xu】华为人工智能发展战略](https://e.huawei.com/zh/material/onLineView?materialid=17f6dec7a32a473788a1da88d8ac50c8)<br>
+
 # <a id="tag-开放平台" href="#tag-开放平台">开放平台</a>
 
  
