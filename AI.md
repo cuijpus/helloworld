@@ -272,6 +272,7 @@ https://github.com/cuijpus/helloworld/blob/master/big_data.md
 
 # <a id="tag-实操" href="#tag-实操">实操</a>
 [为猪脸识别而进行自己数据集的构建、训练](https://blog.csdn.net/duanshao/article/details/78797616)<br>
+[百度Paddle深度学习平台](https://github.com/PaddlePaddle/Paddle)<BR>
 
 # <a id="tag-业内动态" href="#tag-业内动态">业内动态</a>
 2019.1.10 [有这么一群人，他们通过AI撬动世界！](http://blog.itpub.net/29829936/viewspace-2375328/)<br>
