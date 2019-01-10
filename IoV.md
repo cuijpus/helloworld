@@ -666,6 +666,8 @@ HEV:<BR>
     </tr>              
 </table>
 
+2019.1.10 [Apollo3.5 与企业定制版，百度自动驾驶的开放与落地](https://baijiahao.baidu.com/s?id=1622176955177933608&wfr=spider&for=pc)<br>
+
 2018.1.10 [三星推出自己的自动驾驶平台 DRVLINE](https://baijiahao.baidu.com/s?id=1589195185599565848&wfr=spider&for=pc)<br>
 主流自动驾驶系统解析
 
