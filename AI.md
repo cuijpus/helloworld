@@ -274,6 +274,7 @@ https://github.com/cuijpus/helloworld/blob/master/big_data.md
 [为猪脸识别而进行自己数据集的构建、训练](https://blog.csdn.net/duanshao/article/details/78797616)<br>
 
 # <a id="tag-业内动态" href="#tag-业内动态">业内动态</a>
+2019.1.10 [有这么一群人，他们通过AI撬动世界！](http://blog.itpub.net/29829936/viewspace-2375328/)<br>
 2018.12.20 [百度成立AI产业研究中心 与IDC联合发布《百度大脑领导力白皮书》](https://ai.bdstatic.com/file/37FB772329554EAFAE798FE0E11D1001)<br>
 2018.10.18 [2018年人工智能八大趋势](http://www.sohu.com/a/259765973_99916129)<br>
 2018.9.17 [2018世界人工智能蓝皮书](http://www.caict.ac.cn/kxyj/qwfb/bps/201809/P020180918696199759142.pdf)<br>
