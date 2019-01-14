@@ -57,8 +57,10 @@
         <th></th> <!能力级别>
     </tr>  
     <tr>
-        <th>小度在家</th>
-        <th></th> <!何时发布>
+        <th>
+            <a href = "https://baike.baidu.com/item/%E5%B0%8F%E5%BA%A6%E5%9C%A8%E5%AE%B6/22447923?fr=aladdin">小度在家</a>
+        </th>
+        <th>2018.3.26</th> <!何时发布>
         <th></th> <!主要功能>
         <th aligh="left">
             <a href="https://dueros.baidu.com/didp/product/voice">DuerOS</a>
