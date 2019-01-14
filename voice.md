@@ -86,8 +86,8 @@
     </tr>
     <tr>
         <th>京东叮咚</th>
-        <th></th> <!何时发布>
-        <th>2015.5.25</th>
+        <th>2015.5.25</th> <!何时发布>
+        <th>299</th>
         <th></th> <!主要功能>
         <th aligh="left">
             <a href="https://www.xfyun.cn/">科大讯飞</a>
