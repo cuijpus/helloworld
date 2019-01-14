@@ -21,10 +21,13 @@
         <th></th> <!何时发布>
         <th></th> <!主要功能>
         <th aligh="left">
-            <a href = "http://bbs.xiaomi.cn/t-13674895">小爱的ASR用了nuance，<BR>
-                搜狗和思必弛<BR>
-                NLP用了自己的小米大脑<br></a>
-            <a href = "https://voiceos.ainirobot.com/">猎户语音OS ASR/TTS</a>
+            <a href = "http://bbs.xiaomi.cn/t-13674895">
+                以小米大脑为核心，<br>
+                并与 Nuance、搜狗知音、<br>
+                思必驰、猎户星空、<br>
+                声智科技、海知智能、<br>
+                三角兽等公司合作，
+                </a>
         </th> <!背后语音>
         <th></th> <!服务扩展>
         <th></th> <!生态>
