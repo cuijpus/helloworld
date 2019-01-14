@@ -26,6 +26,7 @@
 1. <a href="#tag-自动驾驶分级">自动驾驶分级</a> 
 
 # <a id="tag-业界动态 " href="#tag-业界动态 ">业界动态</a>
+2019.1.11 [前瞻2019：车联网发展或将呈现这五大趋势](https://baijiahao.baidu.com/s?id=1622352289235749132&wfr=spider&for=pc)<br>
 2019.1.10  [刚刚，史上最强Apollo3.5在CES发布！暗藏百度无人驾驶7大黑科技武器](http://tech.ifeng.com/a/20190109/45285120_0.shtml)<br>
 2018.12.27 [工业和信息化部关于印发《车联网（智能网联汽车）产业发展行动计划》的通知](http://www.miit.gov.cn/n1146285/n1146352/n3054355/n3057497/n3057498/c6564019/content.html)<br>
 2018.12.17 [这8家车企2018冰雪两重天 销量第一你绝对猜不到](https://baijiahao.baidu.com/s?id=1620051202791030750&wfr=spider&for=pc)<br>
