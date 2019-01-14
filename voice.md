@@ -9,18 +9,19 @@
     <tr>
         <th></th>
         <th>何时发布</th> <!何时发布>
+        <th>价格</th>
         <th>主要功能</th> 
         <th>背后语音</th>
         <th>服务扩展</th>
         <th>生态</th>
         <th>市占率</th>
-        <th>能力级别</th>
     </tr>
     <tr>
         <th>
             <a href="https://baike.baidu.com/item/%E5%B0%8F%E7%88%B1%E5%90%8C%E5%AD%A6/22047751?fr=aladdin">小爱同学</a>
         </th>
         <th>2017.7.26</th> <!何时发布>
+        <th>价格</th>
         <th>
             语音交互<br>
             知识问答<br>
@@ -39,13 +40,13 @@
         <th></th> <!服务扩展>
         <th></th> <!生态>
         <th></th> <!市占率>
-        <th></th> <!能力级别>
     </tr>    
     <tr>
         <th>
             <a href = "https://baike.baidu.com/item/%E5%A4%A9%E7%8C%AB%E7%B2%BE%E7%81%B5X1/21524509?fr=aladdin">天猫精灵</a>
         </th>
         <th>2017.7.5</th> <!何时发布>
+        <th>价格</th>
         <th></th> <!主要功能>
         <th aligh="left">
             <a href = "https://voiceos.ainirobot.com/">思必驰的语音识别、<br>语音合成、<br>算法降噪、<br>环麦阵列<br></a><br>
@@ -54,13 +55,13 @@
         <th></th> <!服务扩展>
         <th></th> <!生态>
         <th></th> <!市占率>
-        <th></th> <!能力级别>
     </tr>  
     <tr>
         <th>
             <a href = "https://baike.baidu.com/item/%E5%B0%8F%E5%BA%A6%E5%9C%A8%E5%AE%B6/22447923?fr=aladdin">小度在家</a>
         </th>
         <th>2018.3.26</th> <!何时发布>
+        <th>价格</th>
         <th></th> <!主要功能>
         <th aligh="left">
             <a href="https://dueros.baidu.com/didp/product/voice">DuerOS</a>
@@ -68,11 +69,13 @@
         <th></th> <!服务扩展>
         <th></th> <!生态>
         <th></th> <!市占率>
-        <th></th> <!能力级别>
     </tr>  
     <tr>
-        <th>腾讯听听</th>
-        <th></th> <!何时发布>
+        <th>
+            <a href="https://tingting.qq.com/">腾讯听听</a>
+        </th>
+        <th>2018.4.17</th> <!何时发布>
+        <th>价格</th>
         <th></th> <!主要功能>
         <th aligh="left">
             <a href = "http://zhisheng.xunfei.cn/">语音合成 讯飞智声</a>
@@ -80,11 +83,11 @@
         <th></th> <!服务扩展>
         <th></th> <!生态>
         <th></th> <!市占率>
-        <th></th> <!能力级别>
     </tr>
     <tr>
         <th>京东叮咚</th>
         <th></th> <!何时发布>
+        <th>价格</th>
         <th></th> <!主要功能>
         <th aligh="left">
             <a href="https://www.xfyun.cn/">科大讯飞</a>
@@ -92,11 +95,11 @@
         <th></th> <!服务扩展>
         <th></th> <!生态>
         <th></th> <!市占率>
-        <th></th> <!能力级别>
     </tr>    
     <tr>
         <th>华为AI音箱</th>
         <th></th> <!何时发布>
+        <th>价格</th>
         <th></th> <!主要功能>
         <th aligh="left">
             <a href = "https://voiceos.ainirobot.com/">思必驰的语音识别ASR、<br>自然语言处理NLP、<br>语音合成TTS技术<br></a><br>
@@ -105,47 +108,46 @@
         <th></th> <!服务扩展>
         <th></th> <!生态>
         <th></th> <!市占率>
-        <th></th> <!能力级别>
     </tr>  
     <tr>
         <th>苹果Homepad</th>
         <th></th> <!何时发布>
+        <th>价格</th>
         <th></th> <!主要功能>
         <th></th> <!背后语音>
         <th></th> <!服务扩展>
         <th></th> <!生态>
         <th></th> <!市占率>
-        <th></th> <!能力级别>
     </tr>   
     <tr>
         <th>谷歌Home</th>
         <th></th> <!何时发布>
+        <th>价格</th>
         <th></th> <!主要功能>
         <th></th> <!背后语音>
         <th></th> <!服务扩展>
         <th></th> <!生态>
         <th></th> <!市占率>
-        <th></th> <!能力级别>
     </tr>     
     <tr>
         <th>亚马逊Eco</th>
         <th></th> <!何时发布>
+        <th>价格</th>
         <th></th> <!主要功能>
         <th></th> <!背后语音>
         <th></th> <!服务扩展>
         <th></th> <!生态>
         <th></th> <!市占率>
-        <th></th> <!能力级别>
     </tr>  
     <tr>
         <th>三星GalaxyHome</th>
         <th></th> <!何时发布>
+        <th>价格</th>
         <th></th> <!主要功能>
         <th></th> <!背后语音>
         <th></th> <!服务扩展>
         <th></th> <!生态>
         <th></th> <!市占率>
-        <th></th> <!能力级别>
     </tr>     
 </table>
 
