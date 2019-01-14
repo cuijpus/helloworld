@@ -21,6 +21,11 @@
 2018.10.31 [柔宇科技抢先三星带来了一款可折叠屏手机](http://www.sohu.com/a/272433965_485557)<br>
 2018.10 [华为发力折叠屏 真机2019年上半年见](http://www.zdwang.com/show-238-50287-1.html)<br>
 
+# 全机智能化
+2018.12.26 [OPPO推出智能助理Breeno：让人工智能覆盖所有场景](https://baijiahao.baidu.com/s?id=1621072053519378224&wfr=spider&for=pc)<br>
+[ColorOS智能助理Breeno惊艳亮相，功能强大更为实用](https://baijiahao.baidu.com/s?id=1620989707650815041&wfr=spider&for=pc)<br>
+[OPPO发布智能助理Breeno 推出“引力计划”赋能开发者](https://baijiahao.baidu.com/s?id=1620976774049292476&wfr=spider&for=pc)<br>
+
 # 利润趋势
 
 # 销量趋势
