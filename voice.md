@@ -20,7 +20,9 @@
         <th>小爱同学</th>
         <th></th> <!何时发布>
         <th></th> <!主要功能>
-        <th></th> <!背后语音>
+        <th>
+            <a href = "https://voiceos.ainirobot.com/">猎户语音OS</a>
+        </th> <!背后语音>
         <th></th> <!服务扩展>
         <th></th> <!生态>
         <th></th> <!市占率>
@@ -30,7 +32,9 @@
         <th>天猫精灵</th>
         <th></th> <!何时发布>
         <th></th> <!主要功能>
-        <th></th> <!背后语音>
+        <th>
+            <a href = "https://open.bot.tmall.com/">阿里Genie</a>
+        </th> <!背后语音>
         <th></th> <!服务扩展>
         <th></th> <!生态>
         <th></th> <!市占率>
