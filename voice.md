@@ -87,7 +87,7 @@
     <tr>
         <th>京东叮咚</th>
         <th></th> <!何时发布>
-        <th>价格</th>
+        <th>2015.5.25</th>
         <th></th> <!主要功能>
         <th aligh="left">
             <a href="https://www.xfyun.cn/">科大讯飞</a>
@@ -97,9 +97,10 @@
         <th></th> <!市占率>
     </tr>    
     <tr>
-        <th>华为AI音箱</th>
-        <th></th> <!何时发布>
-        <th>价格</th>
+        <th>
+            <a href = "https://baike.baidu.com/item/%E5%8D%8E%E4%B8%BAAI%E9%9F%B3%E7%AE%B1/23111234?fr=aladdin">华为AI音箱</a></th>
+        <th>2018.10.26</th> <!何时发布>
+        <th>399</th>
         <th></th> <!主要功能>
         <th aligh="left">
             <a href = "https://voiceos.ainirobot.com/">思必驰的语音识别ASR、<br>自然语言处理NLP、<br>语音合成TTS技术<br></a><br>
