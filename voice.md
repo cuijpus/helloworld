@@ -20,7 +20,7 @@
         <th>小爱同学</th>
         <th></th> <!何时发布>
         <th></th> <!主要功能>
-        <th>
+        <th aligh="left">
             <a href = "https://voiceos.ainirobot.com/">猎户语音OS</a>
         </th> <!背后语音>
         <th></th> <!服务扩展>
