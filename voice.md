@@ -56,7 +56,9 @@
         <th>腾讯听听</th>
         <th></th> <!何时发布>
         <th></th> <!主要功能>
-        <th></th> <!背后语音>
+        <th>
+            <a href = "http://zhisheng.xunfei.cn/">语音合成 讯飞智声</a>
+        </th> <!背后语音>
         <th></th> <!服务扩展>
         <th></th> <!生态>
         <th></th> <!市占率>
@@ -66,7 +68,9 @@
         <th>京东叮咚</th>
         <th></th> <!何时发布>
         <th></th> <!主要功能>
-        <th></th> <!背后语音>
+        <th>
+            <a href="https://www.xfyun.cn/">科大讯飞</a>
+        </th> <!背后语音>
         <th></th> <!服务扩展>
         <th></th> <!生态>
         <th></th> <!市占率>
