@@ -23,7 +23,7 @@
         <th aligh="left">
             <a href = "http://bbs.xiaomi.cn/t-13674895">小爱的ASR用了nuance，<BR>
                 搜狗和思必弛<BR>
-                NLP用了自己的小米大脑</a>
+                NLP用了自己的小米大脑<br></a>
             <a href = "https://voiceos.ainirobot.com/">猎户语音OS ASR/TTS</a>
         </th> <!背后语音>
         <th></th> <!服务扩展>
