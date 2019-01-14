@@ -867,6 +867,11 @@ https://www.xilinx.com/
 [一文读懂寒武纪国内首款云端芯片,这块芯片有何用途](https://baijiahao.baidu.com/s?id=1618371531307958578&wfr=spider&for=pc)<br>
 [中国芯片界黑马的诞生：成立当年业务收入过亿，华为都找它合作](https://baijiahao.baidu.com/s?id=1617755542012568249&wfr=spider&for=pc)<br>
 
+# <a id="tag-激光雷达" href="#tag-激光雷达">激光雷达</a>
+[国内外激光雷达厂商 你知道几家？](http://mp.ofweek.com/ai/a945673327616)<br>
+![国外的](http://mp.ofweek.com/Upload/News/Img/member675/201901/08152024113800.png)<br>
+![国内的](http://mp.ofweek.com/Upload/News/Img/member675/201901/08152050689628.png)<br>
+
 # <a id="tag-驾驶算法" href="#tag-驾驶算法">驾驶算法</a>
 [本土化ADAS被Mobileye甩出了一条街？突破可能还在算法公司 ](http://www.cheyun.com/content/9677)<br>
 [史上最详细的自动驾驶汽车技术介绍【硬件+软件】](http://www.360doc.com/content/18/0724/16/55209520_772890692.shtml)<br>
