@@ -32,8 +32,9 @@
         <th>天猫精灵</th>
         <th></th> <!何时发布>
         <th></th> <!主要功能>
-        <th>
-            <a href = "https://open.bot.tmall.com/">阿里Genie</a>
+        <th aligh="left">
+            <a href = "https://voiceos.ainirobot.com/">思必驰的语音识别、<br>语音合成、<br>算法降噪、<br>环麦阵列<br></a><br>
+            <a href = "https://open.bot.tmall.com/">阿里Genie</a> 
         </th> <!背后语音>
         <th></th> <!服务扩展>
         <th></th> <!生态>
@@ -44,7 +45,7 @@
         <th>小度在家</th>
         <th></th> <!何时发布>
         <th></th> <!主要功能>
-        <th>
+        <th aligh="left">
             <a href="https://dueros.baidu.com/didp/product/voice">DuerOS</a>
         </th> <!背后语音>
         <th></th> <!服务扩展>
@@ -56,7 +57,7 @@
         <th>腾讯听听</th>
         <th></th> <!何时发布>
         <th></th> <!主要功能>
-        <th>
+        <th aligh="left">
             <a href = "http://zhisheng.xunfei.cn/">语音合成 讯飞智声</a>
         </th> <!背后语音>
         <th></th> <!服务扩展>
@@ -68,7 +69,7 @@
         <th>京东叮咚</th>
         <th></th> <!何时发布>
         <th></th> <!主要功能>
-        <th>
+        <th aligh="left">
             <a href="https://www.xfyun.cn/">科大讯飞</a>
         </th> <!背后语音>
         <th></th> <!服务扩展>
@@ -80,7 +81,7 @@
         <th>华为AI音箱</th>
         <th></th> <!何时发布>
         <th></th> <!主要功能>
-        <th>
+        <th aligh="left">
             <a href = "https://voiceos.ainirobot.com/">思必驰的语音识别ASR、<br>自然语言处理NLP、<br>语音合成TTS技术<br></a><br>
             <a href = "https://voiceos.ainirobot.com/">猎户语音OS</a>
         </th> <!背后语音>
