@@ -21,7 +21,8 @@
     1. <a href="#tag-Xilinx">Xilinx</a>
     1. <a href="#tag-地平线">地平线</a>
     1. <a href="#tag-寒武纪">寒武纪</a>
-1. <a href="#tag-驾驶算法">驾驶算法</a>    
+1. <a href="#tag-激光雷达">激光雷达</a>   
+1. <a href="#tag-驾驶算法">驾驶算法</a>   
 1. <a href="#tag-自动驾驶分级">自动驾驶分级</a> 
 
 # <a id="tag-业界动态 " href="#tag-业界动态 ">业界动态</a>
