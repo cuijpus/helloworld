@@ -445,7 +445,18 @@ https://www.ubtrobot.com/ <br>
         <th></th> <!客户群>
         <th></th> <!市占率>
         <th></th> <!能力级别>
-    </tr>    
+    </tr>   
+    <tr>
+        <th>
+            <a href = "https://voiceos.ainirobot.com/">猎户os</a>
+        </th>
+        <th></th> <!核心技术>
+        <th></th> <!核心产品>
+        <th></th> <!开放平台>
+        <th>小米</th> <!客户群>
+        <th></th> <!市占率>
+        <th></th> <!能力级别>
+    </tr>      
 </table>
 
 ## Nuance
