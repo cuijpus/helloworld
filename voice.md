@@ -17,7 +17,9 @@
         <th>能力级别</th>
     </tr>
     <tr>
-        <th>小爱同学</th>
+        <th>
+            <a href="https://baike.baidu.com/item/%E5%B0%8F%E7%88%B1%E5%90%8C%E5%AD%A6/22047751?fr=aladdin">小爱同学</a>
+        </th>
         <th>2017.7.26</th> <!何时发布>
         <th>
             语音交互<br>
@@ -40,8 +42,10 @@
         <th></th> <!能力级别>
     </tr>    
     <tr>
-        <th>天猫精灵</th>
-        <th></th> <!何时发布>
+        <th>
+            <a href = "https://baike.baidu.com/item/%E5%A4%A9%E7%8C%AB%E7%B2%BE%E7%81%B5X1/21524509?fr=aladdin">天猫精灵</a>
+        </th>
+        <th>2017.7.5</th> <!何时发布>
         <th></th> <!主要功能>
         <th aligh="left">
             <a href = "https://voiceos.ainirobot.com/">思必驰的语音识别、<br>语音合成、<br>算法降噪、<br>环麦阵列<br></a><br>
