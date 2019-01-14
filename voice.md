@@ -118,6 +118,7 @@
     </tr>     
 </table>
 
+![4款智能音箱产品](http://img1.mydrivers.com/img/20180607/d512acb0b4b74a4aa957ef6e02ff0eeb.png)<BR>
 2018.12.13 [智能音箱销量再创新高，物联网逐步进入成长期](http://www.sohu.com/a/281568158_169306)<br>
 
 Marketing share:<br>
