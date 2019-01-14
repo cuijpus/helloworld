@@ -56,13 +56,14 @@ https://github.com/cuijpus/helloworld/blob/master/big_data.md
 # <a id="tag-智慧安防" href="#tag-智慧安防">智慧安防</a>
 # <a id="tag-智慧金融" href="#tag-智慧金融">智慧金融</a>
 # <a id="tag-智慧工厂" href="#tag-智慧工厂">智慧工厂</a>
+[华为携手石化盈科打造智能工厂2.0 ](https://e.huawei.com/cn/case-studies/cn/2017/201708011429)<br>
+[人工智能｜人工智能检测设备实现手机外观缺陷全自动检测](https://www.toutiao.com/a6642216398074413582/)<br>
 # <a id="tag-智能城市" href="#tag-智能城市">智能城市</a>
 # <a id="tag-智慧医疗" href="#tag-智慧医疗">智慧医疗</a>
 # <a id="tag-自动驾驶（需要5G和IoT的助推）" href="#tag-自动驾驶（需要5G和IoT的助推）">自动驾驶（需要5G和IoT的助推）</a>
 # <a id="tag-智慧教育" href="#tag-智慧教育">智慧教育</a>
+[南师附中江宁分校推广“智慧课堂”](http://www.njdaily.cn/2019/0111/1747455.shtml)<br>
 
-[华为携手石化盈科打造智能工厂2.0 ](https://e.huawei.com/cn/case-studies/cn/2017/201708011429)<br>
-[人工智能｜人工智能检测设备实现手机外观缺陷全自动检测](https://www.toutiao.com/a6642216398074413582/)<br>
 
 # <a id="tag-AI垂直落地" href="#tag-AI垂直落地">AI垂直落地</a>
 
