@@ -1,6 +1,15 @@
 
 1. <a href="#tag-IoT是什么?">IoT是什么?</a> 
 1. <a href="#tag-IoT能干什么">IoT能干什么</a>
+   1. <a href="#tag-智能工业">智能工业</a>
+   1. <a href="#tag-智能农业">智能农业</a>
+   1. <a href="#tag-智能物流">智能物流</a>
+   1. <a href="#tag-智能交通">智能交通</a>
+   1. <a href="#tag-智能电网">智能电网</a>
+   1. <a href="#tag-智能环保">智能环保</a>
+   1. <a href="#tag-智能安防">智能安防</a>
+   1. <a href="#tag-智能医疗">智能医疗</a>
+   1. <a href="#tag-智能家居">智能家居</a>
 1. <a href="#tag-行业应用">行业应用</a>
 1. <a href="#tag-政策">政策</a>
 1. <a href="#tag-IoT标准">IoT标准</a>
@@ -59,6 +68,20 @@ But，你说连就连，连起来有什么好处呢？<BR>
 
 # <a id="tag-IoT能干什么" href="#tag-IoT能干什么">IoT能干什么</a>
 [国家战略中提到了9个物联网的重点示范工程](https://www.toutiao.com/a6642162419395199492/)<br>
+
+# <a id="tag-智能工业" href="#tag-智能工业">智能工业</a>
+# <a id="tag-智能农业" href="#tag-智能农业">智能农业</a>
+# <a id="tag-智能物流" href="#tag-智能物流">智能物流</a>
+
+# <a id="tag-智能交通" href="#tag-智能交通">智能交通</a>
+# <a id="tag-智能电网" href="#tag-智能电网">智能电网</a>
+# <a id="tag-智能环保" href="#tag-智能环保">智能环保</a>
+
+# <a id="tag-智能安防" href="#tag-智能安防">智能安防</a>
+# <a id="tag-智能医疗" href="#tag-智能医疗">智能医疗</a>
+# <a id="tag-智能家居" href="#tag-智能家居">智能家居</a>
+# 智能家居
+[智能家居四大派系各不相同 谁更有发展？](http://www.zijin.net/news/tech/262304.html)<br>
 
 # <a id="tag-行业应用" href="#tag-行业应用">行业应用</a>
 
