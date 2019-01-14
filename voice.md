@@ -111,6 +111,18 @@
         <th></th> <!市占率>
     </tr>  
     <tr>
+        <th>
+            <a href = "https://en.wikipedia.org/wiki/Amazon_Echo">亚马逊Eco</a>
+        </th>
+        <th>2014.11.7</th> <!何时发布>
+        <th>179.9$</th>
+        <th></th> <!主要功能>
+        <th></th> <!背后语音>
+        <th></th> <!服务扩展>
+        <th></th> <!生态>
+        <th></th> <!市占率>
+    </tr>  
+    <tr>
         <th>苹果Homepad</th>
         <th></th> <!何时发布>
         <th>价格</th>
@@ -122,7 +134,7 @@
     </tr>   
     <tr>
         <th>谷歌Home</th>
-        <th></th> <!何时发布>
+        <th>2017.10</th> <!何时发布>
         <th>价格</th>
         <th></th> <!主要功能>
         <th></th> <!背后语音>
@@ -130,16 +142,6 @@
         <th></th> <!生态>
         <th></th> <!市占率>
     </tr>     
-    <tr>
-        <th>亚马逊Eco</th>
-        <th></th> <!何时发布>
-        <th>价格</th>
-        <th></th> <!主要功能>
-        <th></th> <!背后语音>
-        <th></th> <!服务扩展>
-        <th></th> <!生态>
-        <th></th> <!市占率>
-    </tr>  
     <tr>
         <th>三星GalaxyHome</th>
         <th></th> <!何时发布>
