@@ -39,7 +39,17 @@
         <th></th> <!服务扩展>
         <th></th> <!生态>
         <th></th> <!市占率>
-    </tr>  
+    </tr>
+    <tr>
+        <th>苹果Homepad</th>
+        <th>2017.6.6</th> <!何时发布>
+        <th>349$</th>
+        <th></th> <!主要功能>
+        <th></th> <!背后语音>
+        <th></th> <!服务扩展>
+        <th></th> <!生态>
+        <th></th> <!市占率>
+    </tr>     
     <tr>
         <th>
             <a href = "https://baike.baidu.com/item/%E5%A4%A9%E7%8C%AB%E7%B2%BE%E7%81%B5X1/21524509?fr=aladdin">天猫精灵</a>
@@ -132,16 +142,6 @@
         <th></th> <!生态>
         <th></th> <!市占率>
     </tr>  
-    <tr>
-        <th>苹果Homepad</th>
-        <th></th> <!何时发布>
-        <th>价格</th>
-        <th></th> <!主要功能>
-        <th></th> <!背后语音>
-        <th></th> <!服务扩展>
-        <th></th> <!生态>
-        <th></th> <!市占率>
-    </tr>   
     <tr>
         <th>三星GalaxyHome</th>
         <th></th> <!何时发布>
