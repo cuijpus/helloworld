@@ -25,6 +25,7 @@
 2018.12.26 [OPPO推出智能助理Breeno：让人工智能覆盖所有场景](https://baijiahao.baidu.com/s?id=1621072053519378224&wfr=spider&for=pc)<br>
 [ColorOS智能助理Breeno惊艳亮相，功能强大更为实用](https://baijiahao.baidu.com/s?id=1620989707650815041&wfr=spider&for=pc)<br>
 [OPPO发布智能助理Breeno 推出“引力计划”赋能开发者](https://baijiahao.baidu.com/s?id=1620976774049292476&wfr=spider&for=pc)<br>
+[科技理想主义+智慧生命体YOYO，荣耀这次放大招了 ](http://www.sohu.com/a/272619026_116157)<br>
 
 # 利润趋势
 
