@@ -18,6 +18,45 @@
     </tr>
     <tr>
         <th>
+            <a href = "https://en.wikipedia.org/wiki/Amazon_Echo">亚马逊Eco</a>
+        </th>
+        <th>2014.11.7</th> <!何时发布>
+        <th>179.9$</th>
+        <th></th> <!主要功能>
+        <th></th> <!背后语音>
+        <th></th> <!服务扩展>
+        <th></th> <!生态>
+        <th></th> <!市占率>
+    </tr>
+    <tr>
+        <th>京东叮咚</th>
+        <th>2015.5.25</th> <!何时发布>
+        <th>299</th>
+        <th></th> <!主要功能>
+        <th aligh="left">
+            <a href="https://www.xfyun.cn/">科大讯飞</a>
+        </th> <!背后语音>
+        <th></th> <!服务扩展>
+        <th></th> <!生态>
+        <th></th> <!市占率>
+    </tr>  
+    <tr>
+        <th>
+            <a href = "https://baike.baidu.com/item/%E5%A4%A9%E7%8C%AB%E7%B2%BE%E7%81%B5X1/21524509?fr=aladdin">天猫精灵</a>
+        </th>
+        <th>2017.7.5</th> <!何时发布>
+        <th>499</th>
+        <th></th> <!主要功能>
+        <th aligh="left">
+            <a href = "https://voiceos.ainirobot.com/">思必驰的语音识别、<br>语音合成、<br>算法降噪、<br>环麦阵列<br></a><br>
+            <a href = "https://open.bot.tmall.com/">阿里Genie</a> 
+        </th> <!背后语音>
+        <th></th> <!服务扩展>
+        <th></th> <!生态>
+        <th></th> <!市占率>
+    </tr>     
+    <tr>
+        <th>
             <a href="https://baike.baidu.com/item/%E5%B0%8F%E7%88%B1%E5%90%8C%E5%AD%A6/22047751?fr=aladdin">小米AI音箱</a>
         </th>
         <th>2017.7.26</th> <!何时发布>
@@ -42,20 +81,15 @@
         <th></th> <!市占率>
     </tr>    
     <tr>
-        <th>
-            <a href = "https://baike.baidu.com/item/%E5%A4%A9%E7%8C%AB%E7%B2%BE%E7%81%B5X1/21524509?fr=aladdin">天猫精灵</a>
-        </th>
-        <th>2017.7.5</th> <!何时发布>
-        <th>499</th>
+        <th>谷歌Home</th>
+        <th>2017.10</th> <!何时发布>
+        <th>价格</th>
         <th></th> <!主要功能>
-        <th aligh="left">
-            <a href = "https://voiceos.ainirobot.com/">思必驰的语音识别、<br>语音合成、<br>算法降噪、<br>环麦阵列<br></a><br>
-            <a href = "https://open.bot.tmall.com/">阿里Genie</a> 
-        </th> <!背后语音>
+        <th></th> <!背后语音>
         <th></th> <!服务扩展>
         <th></th> <!生态>
         <th></th> <!市占率>
-    </tr>  
+    </tr>     
     <tr>
         <th>
             <a href = "https://baike.baidu.com/item/%E5%B0%8F%E5%BA%A6%E5%9C%A8%E5%AE%B6/22447923?fr=aladdin">小度在家</a>
@@ -85,18 +119,6 @@
         <th></th> <!市占率>
     </tr>
     <tr>
-        <th>京东叮咚</th>
-        <th>2015.5.25</th> <!何时发布>
-        <th>299</th>
-        <th></th> <!主要功能>
-        <th aligh="left">
-            <a href="https://www.xfyun.cn/">科大讯飞</a>
-        </th> <!背后语音>
-        <th></th> <!服务扩展>
-        <th></th> <!生态>
-        <th></th> <!市占率>
-    </tr>    
-    <tr>
         <th>
             <a href = "https://baike.baidu.com/item/%E5%8D%8E%E4%B8%BAAI%E9%9F%B3%E7%AE%B1/23111234?fr=aladdin">华为AI音箱</a></th>
         <th>2018.10.26</th> <!何时发布>
@@ -111,18 +133,6 @@
         <th></th> <!市占率>
     </tr>  
     <tr>
-        <th>
-            <a href = "https://en.wikipedia.org/wiki/Amazon_Echo">亚马逊Eco</a>
-        </th>
-        <th>2014.11.7</th> <!何时发布>
-        <th>179.9$</th>
-        <th></th> <!主要功能>
-        <th></th> <!背后语音>
-        <th></th> <!服务扩展>
-        <th></th> <!生态>
-        <th></th> <!市占率>
-    </tr>  
-    <tr>
         <th>苹果Homepad</th>
         <th></th> <!何时发布>
         <th>价格</th>
@@ -132,16 +142,6 @@
         <th></th> <!生态>
         <th></th> <!市占率>
     </tr>   
-    <tr>
-        <th>谷歌Home</th>
-        <th>2017.10</th> <!何时发布>
-        <th>价格</th>
-        <th></th> <!主要功能>
-        <th></th> <!背后语音>
-        <th></th> <!服务扩展>
-        <th></th> <!生态>
-        <th></th> <!市占率>
-    </tr>     
     <tr>
         <th>三星GalaxyHome</th>
         <th></th> <!何时发布>
