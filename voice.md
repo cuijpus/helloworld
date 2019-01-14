@@ -81,6 +81,7 @@
         <th></th> <!何时发布>
         <th></th> <!主要功能>
         <th>
+            <a href = "https://voiceos.ainirobot.com/">思必驰的语音识别ASR、<br>自然语言处理NLP、<br>语音合成TTS技术<br></a><br>
             <a href = "https://voiceos.ainirobot.com/">猎户语音OS</a>
         </th> <!背后语音>
         <th></th> <!服务扩展>
