@@ -447,7 +447,7 @@ https://www.ubtrobot.com/ <br>
 [参考报告](http://www.caict.ac.cn/kxyj/qwfb/ztbg/201808/P020180810311330233167.pdf)<br>
 
 # <a id="tag-语音明星公司" href="#tag-语音明星公司">语音明星公司</a>
-<table>
+<table align="left">
     <tr>
         <th></th>
         <th>核心技术</th> 
@@ -534,7 +534,7 @@ https://www.ubtrobot.com/ <br>
     </tr>   
     <tr>
         <th>
-            <a href = "https://voiceos.ainirobot.com/">猎户os</a>
+            <a href = "https://voiceos.ainirobot.com/">北京 猎户星空</a>
         </th>
         <th></th> <!核心技术>
         <th></th> <!核心产品>
