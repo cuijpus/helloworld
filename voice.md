@@ -576,8 +576,8 @@ https://www.ubtrobot.com/ <br>
             <a href = "https://voiceos.ainirobot.com/">北京 猎户星空</a>
         </th>
        <th></th> <!创始人>
-       <th></th> <!哪年成立>
-       <th></th> <!背后> 
+       <th>2016.9</th> <!哪年成立>
+       <th>猎豹移动</th> <!背后> 
         <th></th> <!核心技术>
         <th></th> <!核心产品>
         <th></th> <!开放平台>
