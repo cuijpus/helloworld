@@ -458,7 +458,6 @@ https://www.ubtrobot.com/ <br>
         <th>开放平台</th>
         <th>AI芯片</th>
         <th>客户群</th>
-        <th>市占率</th>
     </tr>
     <tr>
         <th>
@@ -472,7 +471,6 @@ https://www.ubtrobot.com/ <br>
         <th></th> <!开放平台>
        <th></th> <!AI芯片>
         <th></th> <!客户群>
-        <th></th> <!市占率>
     </tr>     
     <tr>
         <th>
@@ -488,7 +486,6 @@ https://www.ubtrobot.com/ <br>
         <th></th> <!开放平台>
        <th></th> <!AI芯片>
         <th></th> <!客户群>
-        <th></th> <!市占率>
     </tr>    
     <tr>
         <th>百度语音</th>
@@ -500,7 +497,6 @@ https://www.ubtrobot.com/ <br>
         <th></th> <!开放平台>
        <th></th> <!AI芯片>
         <th></th> <!客户群>
-        <th></th> <!市占率>
     </tr>  
     <tr>
         <th>
@@ -522,7 +518,6 @@ https://www.ubtrobot.com/ <br>
           <a href = "https://baijiahao.baidu.com/s?id=1621991747261074272&wfr=spider&for=pc">语音芯片</a>
        </th> <!AI芯片>
         <th></th> <!客户群>
-        <th></th> <!市占率>
     </tr>  
     <tr>
         <th>
@@ -533,12 +528,13 @@ https://www.ubtrobot.com/ <br>
        <th></th> <!背后>        
         <th></th> <!核心技术>
         <th></th> <!核心产品>
-        <th></th> <!开放平台>
+        <th>
+           <a href="http://dev.hivoice.cn/">开放</a>
+       </th> <!开放平台>
        <th>
           <a href="https://www.iyiou.com/p/89090.html">芯片战略</a>
        </th> <!AI芯片>
         <th></th> <!客户群>
-        <th></th> <!市占率>
     </tr>
     <tr>
         <th>
@@ -554,7 +550,6 @@ https://www.ubtrobot.com/ <br>
        </th> <!开放平台>
        <th></th> <!AI芯片>
         <th></th> <!客户群>
-        <th></th> <!市占率>
     </tr>   
     <tr>
         <th>
@@ -568,7 +563,6 @@ https://www.ubtrobot.com/ <br>
         <th></th> <!开放平台>
        <th></th> <!AI芯片>
         <th>小米</th> <!客户群>
-        <th></th> <!市占率>
     </tr>      
 </table>
 
