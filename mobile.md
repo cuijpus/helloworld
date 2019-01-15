@@ -23,7 +23,7 @@
         <th>三星</th>
         <th>
             M系列<br>
-            (1.20)<br>
+            (1.28)<br>
         </th>
         <th>
             S10<br>
@@ -104,7 +104,8 @@
         <th>VIVO</th>
         <th>
             APEX<br>
-            液态?
+            液态?<br>
+            (1.24)
         </th>
         <th></th>
         <th></th>
@@ -135,7 +136,10 @@
     </tr>  
     <tr>
         <th>RedMi</th>
-        <th>Note7</th>
+        <th>
+            Note7<br>
+            (1.10)<br>
+        </th>
         <th></th>
         <th></th>
         <th></th>
