@@ -13,7 +13,7 @@
 
 
 
-# <a id="tag-行业应用" href="#tag-行业应用">行业应用</a>
+
 # <a id="tag-政策" href="#tag-政策">政策</a>
 # <a id="tag-巨头战略" href="#tag-巨头战略">巨头战略</a>
 # <a id="tag-创企" href="#tag-创企">创企</a>
@@ -297,10 +297,10 @@ Marketing share:<br>
 
 [siri背后的技术+AI系统！这个录音机已超神！ ](http://www.sohu.com/a/128472362_346933 )<br>
 
-# 智能电视
+# <a id="tag-智能电视" href="#tag-智能电视">智能电视</a>
 
-# 车载设备(大屏机，后视镜)
 
+# <a id="tag-车载设备(大屏机，后视镜)" href="#tag-车载设备(大屏机，后视镜)">车载设备(大屏机，后视镜)</a>
 <table>
     <tr>
         <th></th>
@@ -387,8 +387,7 @@ Marketing share:<br>
 [博泰“闷声发大财”，应宜伦的让步与野心](http://auto.qq.com/a/20180521/021572.htm)<br>
 [航盛电子客户](http://www.hangsheng.com.cn/col.jsp?id=125)<br>
 
-# 机器人
-
+# <a id="tag-机器人" href="#tag-机器人">机器人</a>
 ## 服务机器人
 <table>
     <tr>
@@ -450,12 +449,10 @@ https://www.ubtrobot.com/ <br>
 服务机器人联盟：http://www.csria.cn/ <br>
 [服务机器人成员](http://www.csria.cn/unionnew.aspx?name=%27%E8%81%94%E7%9B%9F%E6%88%90%E5%91%98%27)<br>
 
-# 语音融合通信(2B)
+# <a id="tag-语音融合通信(2B)" href="#tag-语音融合通信(2B)">语音融合通信(2B)</a>
 [参考报告](http://www.caict.ac.cn/kxyj/qwfb/ztbg/201808/P020180810311330233167.pdf)<br>
 
-# 语音明星公司
-
-
+# <a id="tag-语音明星公司" href="#tag-语音明星公司">语音明星公司</a>
 <table>
     <tr>
         <th></th>
@@ -533,12 +530,12 @@ https://www.ubtrobot.com/ <br>
     </tr>      
 </table>
 
-## Nuance
+# <a id="tag-Nuance" href="#tag-Nuance">Nuance</a>
 [Nuance](https://www.nuance.com/zh-cn/index.html)<br>
 提供智能的客户交互解决方案，以 AI 为技术支持。
 Nuance 为各种类型的企业提供广泛的解决方案和产品。
 
-## 合肥 科大讯飞
+# <a id="tag-科大讯飞" href="#tag-科大讯飞">科大讯飞</a>
 [科大讯飞](http://www.iflytek.com/)<br>
 科大讯飞股份有限公司，成立于1999年，在语音合成、语音识别、口语评测、语言翻译、声纹识别、人脸识别、自然语言处理等智能语音与人工智能核心技术上代表国际先进水平。2008年在深圳证券交易所挂牌上市.
 
@@ -550,7 +547,7 @@ Nuance 为各种类型的企业提供广泛的解决方案和产品。
 >>更多产品:文字识别|图像识别|人脸识别|声纹识别|更多产品|更多》<br>
 2015.4 [讯飞VS Nuance](https://xueqiu.com/2475490203/41499017)<br>
 
-## 苏州 思必驰
+# <a id="tag-思必驰" href="#tag-思必驰">思必驰</a>
 [思必驰|专注人性化的智能语音交互技术](http://www.aispeech.com/)<br>
 专注智能硬件的自然语言交互.<br>
 近两年思必驰市场领域拓展较快，其中车载后装市场占有率第一，在智能车载后装市场占有率约达60%，智能后视镜领域达70%，智能HUD领域达80%。同时，在智能家居和机器人领域已经取得了比较广泛的合作。数亿用户通过思必驰自然语言交互，实现与智能家居、车载、智能机器人等终端的互动交流。 <br>
@@ -567,7 +564,7 @@ Nuance 为各种类型的企业提供广泛的解决方案和产品。
 2017年9月7日，DUI平台在北京正式发布。<br>
 2017.8.27 [思必驰-上海交大人工智能研究院在苏揭牌](http://www.aispeech.com/index.php?m=content&c=index&a=show&catid=22&id=263)<br>
 
-## 北京 云知声
+# <a id="tag-云知声" href="#tag-云知声">云知声</a>
 [云知声](http://www.unisound.com/)<br>
 专注于物联网人工智能：智能家居，智能车载，智慧医疗，智能教育, 行业机器人，智能电话机器人<br>
 云知声融资情况：<br>
@@ -582,7 +579,8 @@ Nuance 为各种类型的企业提供广泛的解决方案和产品。
 >>[开放平台](http://dev.hivoice.cn/)<br>
 >>[「云知声」官方宣布完成6亿元C+轮融资，预计2019年营收过5亿](https://baijiahao.baidu.com/s?id=1606371399245615212&wfr=spider&for=pc)<br>
 
-## 北京 捷通华声
+# <a id="tag-北京 捷通华声" href="#tag-北京 捷通华声">北京 捷通华声</a>
+## 
 [捷通华声](http://www.sinovoice.com/)<br>
 捷通华声成立于2000年， 是一家专注于智能语音、智能图像、生物特征识别、智能语义等全方位人工智能技术研究与应用， 致力于让机器“能说会听、能写会看、能辨音会认人、能思考会判断” 的高新技术企业。 <br>
 
@@ -590,14 +588,13 @@ Nuance 为各种类型的企业提供广泛的解决方案和产品。
 >>[开放平台](https://www.aicloud.com/dev/index/index)<br>
 >>[让AI更普惠，捷通华声获深创投等亿元投资](https://www.iyiou.com/p/82034.html)<br>
 
-## 北京 百度
+# <a id="tag-北京 百度" href="#tag-北京 百度">北京 百度</a>
 [百度语音开放平台](http://ai.baidu.com/tech/speech)<br>
 语音识别Android SDK 功能 主要分为语音识别 及 语义理解 <br>
     语音识别： 将录音转为文字。目前在线识别支持普通话、英文、粤语和四川话。<br>
     语义理解： 将语音识别出的文字，进行分词及找出意图。<br>
 
-# 学术大牛
+# <a id="tag-学术大牛" href="#tag-学术大牛">学术大牛</a>
 
-# 基础技术
+# <a id="tag-基础技术" href="#tag-基础技术">基础技术</a>
 
-# 数据集
