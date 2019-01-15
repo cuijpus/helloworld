@@ -1,10 +1,35 @@
+1. <a href="#tag-业内动向">业内动向</a> 
+1. <a href="#tag-智能音箱">智能音箱</a>
+1. <a href="#tag-手机智能语音助手">手机智能语音助手</a>
+1. <a href="#tag-政策">政策</a>
+1. <a href="#tag-巨头战略">巨头战略</a>
+1. <a href="#tag-创企">创企</a>
+1. <a href="#tag-开放平台">开放平台</a>
+1. <a href="#tag-开源">开源</a>
+1. <a href="#tag-学习资源">学习资源</a>
+1. <a href="#tag-Tools">Tools</a>
+1. <a href="#tag-实际操作">实际操作</a>
+1. <a href="#tag-业界动态">业界动态</a>
 
-# 业内动向
+
+
+# <a id="tag-行业应用" href="#tag-行业应用">行业应用</a>
+# <a id="tag-政策" href="#tag-政策">政策</a>
+# <a id="tag-巨头战略" href="#tag-巨头战略">巨头战略</a>
+# <a id="tag-创企" href="#tag-创企">创企</a>
+# <a id="tag-开放平台" href="#tag-开放平台">开放平台</a>
+# <a id="tag-开源" href="#tag-开源">开源</a>
+# <a id="tag-学习资源" href="#tag-学习资源">学习资源</a>
+# <a id="tag-Tools" href="#tag-Tools">Tools</a>
+# <a id="tag-实际操作" href="#tag-实际操作">实际操作</a>
+# <a id="tag-业界动态" href="#tag-业界动态">业界动态</a>
+
+
+# <a id="tag-业内动向" href="#tag-业内动向">业内动向</a>
 
 ![中国人工智能全景图](http://5b0988e595225.cdn.sohucs.com/images/20180101/633ccfaf81b347adae03489fd4807b3a.jpeg)<br>
 
-# 智能音箱
-
+# <a id="tag-智能音箱" href="#tag-智能音箱">智能音箱</a>
 <table>
     <tr>
         <th></th>
@@ -180,7 +205,7 @@ Marketing share:<br>
 2018.4.19 [天猫精灵/腾讯听听/小爱同学/小度在家，智能音箱哪家强？](https://baijiahao.baidu.com/s?id=1598149874756414095&wfr=spider&for=pc)<br>
 2018.2.15 [谷歌智能音箱Home 它可以做这17件很酷的事情](https://baijiahao.baidu.com/s?id=1592390025295291628&wfr=spider&for=pc)<br>
 
-# 手机智能语音助手
+# <a id="tag-手机智能语音助手" href="#tag-手机智能语音助手">手机智能语音助手</a>
 苹果2011年推出了Siri，称得上是比较早的语音助手。随后微软也加入语音助手的战场.<br>
 2014年推出Cortana。同年，亚马逊推出Alexa。<br>
 谷歌稍晚些，于2016年推出Google Assistant。<br>
