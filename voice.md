@@ -129,6 +129,16 @@
         <th></th> <!市占率>
     </tr>
     <tr>
+        <th>三星GalaxyHome</th>
+        <th>2018.8.10</th> <!何时发布>
+        <th>价格</th>
+        <th></th> <!主要功能>
+        <th></th> <!背后语音>
+        <th></th> <!服务扩展>
+        <th></th> <!生态>
+        <th></th> <!市占率>
+    </tr> 
+    <tr>
         <th>
             <a href = "https://baike.baidu.com/item/%E5%8D%8E%E4%B8%BAAI%E9%9F%B3%E7%AE%B1/23111234?fr=aladdin">华为AI音箱</a></th>
         <th>2018.10.26</th> <!何时发布>
@@ -142,16 +152,6 @@
         <th></th> <!生态>
         <th></th> <!市占率>
     </tr>  
-    <tr>
-        <th>三星GalaxyHome</th>
-        <th></th> <!何时发布>
-        <th>价格</th>
-        <th></th> <!主要功能>
-        <th></th> <!背后语音>
-        <th></th> <!服务扩展>
-        <th></th> <!生态>
-        <th></th> <!市占率>
-    </tr>     
 </table>
 
 ![4款智能音箱产品](http://img1.mydrivers.com/img/20180607/d512acb0b4b74a4aa957ef6e02ff0eeb.png)<BR>
