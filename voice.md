@@ -510,7 +510,7 @@ https://www.ubtrobot.com/ <br>
         <th></th> <!核心技术>
         <th> 智能车载 <br>
            智能家居 <br>
-           智能机器人<br>
+           机器人<br>
            对话定制
        </th> <!核心产品>
         <th>
