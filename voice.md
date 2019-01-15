@@ -6,12 +6,13 @@
 1. <a href="#tag-机器人">机器人</a>
 1. <a href="#tag-语音融合通信(2B)">语音融合通信(2B)</a>
 1. <a href="#tag-语音明星公司">语音明星公司</a>
-   1. <a href="#tag-Nuance">Nuance</a>
-   1. <a id="tag-科大讯飞" href="#tag-科大讯飞">科大讯飞</a>
-   1. <a id="tag-思必驰" href="#tag-思必驰">思必驰</a>
-   1. <a id="tag-云知声" href="#tag-云知声">云知声</a>
+   1. <a href="#tag-美国 Nuance">美国 Nuance</a>
+   1. <a id="tag-合肥 科大讯飞" href="#tag-合肥 科大讯飞">合肥 科大讯飞</a>
+   1. <a id="tag-苏州 思必驰" href="#tag-苏州 思必驰">苏州 思必驰</a>
+   1. <a id="tag-北京 云知声" href="#tag-北京 云知声">北京 云知声</a>
    1. <a id="tag-北京 捷通华声" href="#tag-北京 捷通华声">北京 捷通华声</a>
    1. <a id="tag-北京 百度" href="#tag-北京 百度">北京 百度</a>
+   1. <a id="tag-北京 猎户星空度" href="#tag-北京 猎户星空">北京 猎户星空</a>
 1. <a id="tag-学术大牛" href="#tag-学术大牛">学术大牛</a>
 1. <a id="tag-基础技术" href="#tag-基础技术">基础技术</a>
 
@@ -523,12 +524,12 @@ https://www.ubtrobot.com/ <br>
     </tr>      
 </table>
 
-# <a id="tag-Nuance" href="#tag-Nuance">Nuance</a>
+# <a id="tag-美国 Nuance" href="#tag-美国 Nuance">美国 Nuance</a>
 [Nuance](https://www.nuance.com/zh-cn/index.html)<br>
 提供智能的客户交互解决方案，以 AI 为技术支持。
 Nuance 为各种类型的企业提供广泛的解决方案和产品。
 
-# <a id="tag-科大讯飞" href="#tag-科大讯飞">科大讯飞</a>
+# <a id="tag-合肥 科大讯飞" href="#tag-合肥 科大讯飞">合肥 科大讯飞</a>
 [科大讯飞](http://www.iflytek.com/)<br>
 科大讯飞股份有限公司，成立于1999年，在语音合成、语音识别、口语评测、语言翻译、声纹识别、人脸识别、自然语言处理等智能语音与人工智能核心技术上代表国际先进水平。2008年在深圳证券交易所挂牌上市.
 
@@ -540,7 +541,7 @@ Nuance 为各种类型的企业提供广泛的解决方案和产品。
 >>更多产品:文字识别|图像识别|人脸识别|声纹识别|更多产品|更多》<br>
 2015.4 [讯飞VS Nuance](https://xueqiu.com/2475490203/41499017)<br>
 
-# <a id="tag-思必驰" href="#tag-思必驰">思必驰</a>
+# <a id="tag-苏州 思必驰" href="#tag-苏州 思必驰">苏州 思必驰</a>
 [思必驰|专注人性化的智能语音交互技术](http://www.aispeech.com/)<br>
 专注智能硬件的自然语言交互.<br>
 近两年思必驰市场领域拓展较快，其中车载后装市场占有率第一，在智能车载后装市场占有率约达60%，智能后视镜领域达70%，智能HUD领域达80%。同时，在智能家居和机器人领域已经取得了比较广泛的合作。数亿用户通过思必驰自然语言交互，实现与智能家居、车载、智能机器人等终端的互动交流。 <br>
@@ -557,7 +558,7 @@ Nuance 为各种类型的企业提供广泛的解决方案和产品。
 2017年9月7日，DUI平台在北京正式发布。<br>
 2017.8.27 [思必驰-上海交大人工智能研究院在苏揭牌](http://www.aispeech.com/index.php?m=content&c=index&a=show&catid=22&id=263)<br>
 
-# <a id="tag-云知声" href="#tag-云知声">云知声</a>
+# <a id="tag-北京 云知声" href="#tag-北京 云知声">北京 云知声</a>
 [云知声](http://www.unisound.com/)<br>
 专注于物联网人工智能：智能家居，智能车载，智慧医疗，智能教育, 行业机器人，智能电话机器人<br>
 云知声融资情况：<br>
@@ -585,6 +586,10 @@ Nuance 为各种类型的企业提供广泛的解决方案和产品。
 语音识别Android SDK 功能 主要分为语音识别 及 语义理解 <br>
     语音识别： 将录音转为文字。目前在线识别支持普通话、英文、粤语和四川话。<br>
     语义理解： 将语音识别出的文字，进行分词及找出意图。<br>
+    
+# <a id="tag-北京 猎户星空" href="#tag-北京 猎户星空">北京 猎户星空</a>    
+https://www.ainirobot.com/#firstPage
+
 
 # <a id="tag-学术大牛" href="#tag-学术大牛">学术大牛</a>
 
