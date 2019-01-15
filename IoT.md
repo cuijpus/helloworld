@@ -1,7 +1,7 @@
 
 1. <a href="#tag-IoT是什么?">IoT是什么?</a> 
 1. <a href="#tag-IoT能干什么">IoT能干什么</a>
-   1. <a href="#tag-智能工业">智能工业</a>
+   1. <a href="#tag-智能工业（工业互联网IIoT)">智能工业（工业互联网IIoT)</a>
    1. <a href="#tag-智能农业">智能农业</a>
    1. <a href="#tag-智能物流">智能物流</a>
    1. <a href="#tag-智能交通">智能交通</a>
@@ -69,7 +69,7 @@ But，你说连就连，连起来有什么好处呢？<BR>
 # <a id="tag-IoT能干什么" href="#tag-IoT能干什么">IoT能干什么</a>
 [国家战略中提到了9个物联网的重点示范工程](https://www.toutiao.com/a6642162419395199492/)<br>
 
-# <a id="tag-智能工业" href="#tag-智能工业">智能工业</a>
+# <a id="tag-智能工业（工业互联网IIoT)" href="#tag-智能工业（工业互联网IIoT)">智能工业（工业互联网IIoT)</a>
 # <a id="tag-智能农业" href="#tag-智能农业">智能农业</a>
 # <a id="tag-智能物流" href="#tag-智能物流">智能物流</a>
 
