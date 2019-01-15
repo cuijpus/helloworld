@@ -568,7 +568,7 @@ https://www.ubtrobot.com/ <br>
         <th>
            <a href="https://www.aicloud.com/dev/index/index">灵云</a>
        </th> <!开放平台>
-       <th></th> <!AI芯片>
+       <th>/</th> <!AI芯片>
         <th></th> <!客户群>
     </tr>   
     <tr>
@@ -589,7 +589,7 @@ https://www.ubtrobot.com/ <br>
         <th>
            <a href= "https://voiceos.ainirobot.com/">猎户OS</a>
         </th> <!开放平台>
-       <th></th> <!AI芯片>
+       <th>/</th> <!AI芯片>
         <th>小米</th> <!客户群>
     </tr>      
 </table>
