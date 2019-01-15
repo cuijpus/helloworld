@@ -490,8 +490,10 @@ https://www.ubtrobot.com/ <br>
            互联网解决方案<br>
            行业解决方案 <br>
        </th> <!核心产品>
-        <th></th> <!开放平台>
-       <th></th> <!AI芯片>
+        <th>
+           <a href="https://www.xfyun.cn/">平台</a>
+       </th> <!开放平台>
+       <th>/</th> <!AI芯片>
         <th></th> <!客户群>
     </tr>    
     <tr>
