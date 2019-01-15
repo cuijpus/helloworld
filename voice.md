@@ -492,12 +492,14 @@ https://www.ubtrobot.com/ <br>
        </th> <!核心产品>
         <th>
            <a href="https://www.xfyun.cn/">平台</a>
-       </th> <!开放平台>
-       <th>/</th> <!AI芯片>
+        </th> <!开放平台>
+        <th>/</th> <!AI芯片>
         <th></th> <!客户群>
     </tr>    
     <tr>
-        <th>百度语音</th>
+        <th>
+           <a href = "http://yuyin.baidu.com/">百度语音</a>
+       </th>
        <th></th> <!创始人>
        <th></th> <!哪年成立>
        <th></th> <!背后>        
