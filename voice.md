@@ -478,11 +478,13 @@ https://www.ubtrobot.com/ <br>
         <th>
            <a href = "http://www.iflytek.com/">科大讯飞</a>
        </th>
-       <th></th> <!创始人>
+       <th>刘庆峰</th> <!创始人>
        <th>1999</th> <!哪年成立>
        <th>中科大</th> <!背后>        
-        <th></th> <!核心技术>
-        <th></th> <!核心产品>
+        <th>
+           <a href = "http://www.iflytek.com/audioengine/index.html">语音引擎</a>
+       </th> <!核心技术>
+        <th>方案供应</th> <!核心产品>
         <th></th> <!开放平台>
        <th></th> <!AI芯片>
         <th></th> <!客户群>
