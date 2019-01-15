@@ -554,7 +554,7 @@ https://www.ubtrobot.com/ <br>
        <th>
           <a href="https://www.iyiou.com/p/89090.html">芯片战略</a>
        </th> <!AI芯片>
-        <th>家电客户</th> <!客户群>
+        <th>家电</th> <!客户群>
     </tr>
     <tr>
         <th>
