@@ -534,8 +534,8 @@ https://www.ubtrobot.com/ <br>
         <th>
            <a href = "http://www.unisound.com/">北京 云知声</a>
        </th>
-       <th></th> <!创始人>
-       <th></th> <!哪年成立>
+       <th>黄伟</th> <!创始人>
+       <th>2012.6</th> <!哪年成立>
        <th></th> <!背后>        
         <th></th> <!核心技术>
         <th> 
@@ -554,7 +554,7 @@ https://www.ubtrobot.com/ <br>
        <th>
           <a href="https://www.iyiou.com/p/89090.html">芯片战略</a>
        </th> <!AI芯片>
-        <th></th> <!客户群>
+        <th>家电客户</th> <!客户群>
     </tr>
     <tr>
         <th>
