@@ -2,6 +2,250 @@
 # 19年手机
 [2019年手机八大趋势：挖孔、折叠、5G, 10GB内存等](https://www.toutiao.com/a6640864960106725895/)<br>
 
+
+<table>
+    <tr>
+        <th>2019</th>
+        <th>1月</th>
+        <th>2月</th>
+        <th>3月</th>
+        <th>4月</th>
+        <th>5月</th>
+        <th>6月</th>
+        <th>7月</th>
+        <th>8月</th>
+        <th>9月</th>
+        <th>10月</th>
+        <th>11月</th>
+        <th>12月</th>
+    </tr>
+    <tr>
+        <th>三星</th>
+        <th>M系列</th>
+        <th>S10</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>苹果</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>华为</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>荣耀</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>     
+    <tr>
+        <th>OPPO</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>   
+    <tr>
+        <th>VIVO</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>  
+    <tr>
+        <th>XiaoMi</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>  
+    <tr>
+        <th>RedMi</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>      
+    <tr>
+        <th>Others</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>    
+</table>
+
+
+## 华为手机系列
+<table>
+    <tr>
+        <th>系列</th>
+        <th>对标</th>
+        <th>USP</th>
+        <th>客户群</th>
+        <th>代言人</th>
+    </tr>
+    <tr>
+        <th>Mate系列</th>
+        <th>
+            Samsung Note系列<br>
+            iPhone Plus
+        </th>
+        <th>商务旗舰</th>
+        <th>商务人士</th>
+        <th>/</th>
+    </tr>    
+    <tr>
+        <th>P系列</th>
+        <th>
+            Samsung S系列<br>
+            iPhone
+        </th>
+        <th>时尚旗舰</th>
+        <th>主要面对女性</th>
+        <th>/</th>
+    </tr>   
+    <tr>
+        <th>nova系列</th>
+        <th>OPPO/VIVO</th>
+        <th>鲜肉系列，定位中端主流，主打线下市场<br>
+            类似OPPO/vivo策略，<br>
+            主打注重颜值、拍照的年轻消费群体。</th>
+        <th>主要面向年轻用户</th>
+        <th>
+            关晓彤<br>
+            易烊千玺
+        </th>
+    </tr>   
+    <tr>
+        <th>畅想系列</th>
+        <th></th>
+        <th>入门级，主打千元机市场</th>
+        <th></th>
+        <th></th>
+    </tr>    
+    <tr>
+        <th>麦芒系列</th>
+        <th></th>
+        <th>运营商合作</th>
+        <th></th>
+        <th></th>
+    </tr>     
+    <tr>
+        <th>荣耀V系列</th>
+        <th>XiaoMi</th>
+        <th>荣耀旗舰,对标Mate系列</th>
+        <th></th>
+        <th>胡歌</th>
+    </tr>     
+    <tr>
+        <th>荣耀系列</th>
+        <th>XiaoMi</th>
+        <th>主打大屏，适合爱好大屏影音娱乐的用户。</th>
+        <th></th>
+        <th></th>
+    </tr>    
+    <tr>
+        <th>荣耀畅玩系列</th>
+        <th>XiaoMi</th>
+        <th>中低端</th>
+        <th></th>
+        <th></th>
+    </tr>     
+    <tr>
+        <th>Note系列</th>
+        <th>XiaoMi</th>
+        <th>主打大屏</th>
+        <th></th>
+        <th></th>
+    </tr>     
+</table>
+
+2019.2.20 [三星Galaxy S10系列将于2月20日发布 同时将公开全功能折叠手机](https://m.zol.com.cn/toutiao/9660266.html)<br>
+2019.1.28 [三星M系列上线印度官网，1月28日正式发布](https://baijiahao.baidu.com/s?id=1622635726425463509&wfr=spider&for=pc)<br>
+M10--> J; M20 --> On; M30 --> C? <br>
+
 2019.1.24 VIVO 未来手机 <br>
 2019.1.16 [OPPO将会在1月16日举行技术沟通会，主题为“十所为见”](https://baijiahao.baidu.com/s?id=1622604097681387578&wfr=spider&for=pc)<br>
 2019.1.14 [OPPO架构人事再调整 成立新兴移动终端事业部 布局5G+时代新入口](https://baijiahao.baidu.com/s?id=1622601587164680286&wfr=spider&for=pc)<br>
@@ -19,6 +263,8 @@ redmi单独运营死磕到底！雷军更用8个字放话，意味着什么呢�
 老实人雷军也是被逼无奈，可能是因为昨天荣耀某高管在网上的过激言论确实十分惹人生气。该荣耀高管曾在网上发表言论，称与小米的竞争早已结束，荣耀遥遥领先。预计长久以来对小米标榜的高性价比表示不屑，认为其是廉价低质产品的标签。
 
 作为旁观者看来，这些言论确实会使人很恼火。所以此次雷军的过激表现也是可以理解的，雷军这次在发布会上也表示他曾经是华为的铁杆粉丝。但是其旗下的子品牌荣耀系列，整整怼了小米五年时间。穿孔屏作为华为首发的全面屏设计方案，雷军表示，如果哪天被日机了就说说穿孔明的n个缺点。生死看淡，不服就干这句话，算是雷军在这场发布会上的正式表态了。
+
+2019.1.1 [三星Galaxy M10/M20/M30智能手机全部曝光](http://www.yidianzixun.com/article/O_00sB1cJF)<br>
 
 
 # 19年新品预测
