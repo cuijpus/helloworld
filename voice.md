@@ -7,10 +7,19 @@
 1. <a href="#tag-语音融合通信(2B)">语音融合通信(2B)</a>
 1. <a href="#tag-语音明星公司">语音明星公司</a>
    1. <a href="#tag-Nuance">Nuance</a>
+   1. <a id="tag-科大讯飞" href="#tag-科大讯飞">科大讯飞</a>
+   1. <a id="tag-思必驰" href="#tag-思必驰">思必驰</a>
+   1. <a id="tag-云知声" href="#tag-云知声">云知声</a>
+   1. <a id="tag-北京 捷通华声" href="#tag-北京 捷通华声">北京 捷通华声</a>
+   1. <a id="tag-北京 百度" href="#tag-北京 百度">北京 百度</a>
+1. <a id="tag-学术大牛" href="#tag-学术大牛">学术大牛</a>
+1. <a id="tag-基础技术" href="#tag-基础技术">基础技术</a>
+
+
+
 
 
 # <a id="tag-业内动向" href="#tag-业内动向">业内动向</a>
-
 ![中国人工智能全景图](http://5b0988e595225.cdn.sohucs.com/images/20180101/633ccfaf81b347adae03489fd4807b3a.jpeg)<br>
 
 # <a id="tag-智能音箱" href="#tag-智能音箱">智能音箱</a>
@@ -564,7 +573,6 @@ Nuance 为各种类型的企业提供广泛的解决方案和产品。
 >>[「云知声」官方宣布完成6亿元C+轮融资，预计2019年营收过5亿](https://baijiahao.baidu.com/s?id=1606371399245615212&wfr=spider&for=pc)<br>
 
 # <a id="tag-北京 捷通华声" href="#tag-北京 捷通华声">北京 捷通华声</a>
-## 
 [捷通华声](http://www.sinovoice.com/)<br>
 捷通华声成立于2000年， 是一家专注于智能语音、智能图像、生物特征识别、智能语义等全方位人工智能技术研究与应用， 致力于让机器“能说会听、能写会看、能辨音会认人、能思考会判断” 的高新技术企业。 <br>
 
