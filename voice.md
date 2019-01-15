@@ -1,28 +1,12 @@
 1. <a href="#tag-业内动向">业内动向</a> 
 1. <a href="#tag-智能音箱">智能音箱</a>
 1. <a href="#tag-手机智能语音助手">手机智能语音助手</a>
-1. <a href="#tag-政策">政策</a>
-1. <a href="#tag-巨头战略">巨头战略</a>
-1. <a href="#tag-创企">创企</a>
-1. <a href="#tag-开放平台">开放平台</a>
-1. <a href="#tag-开源">开源</a>
-1. <a href="#tag-学习资源">学习资源</a>
-1. <a href="#tag-Tools">Tools</a>
-1. <a href="#tag-实际操作">实际操作</a>
-1. <a href="#tag-业界动态">业界动态</a>
-
-
-
-
-# <a id="tag-政策" href="#tag-政策">政策</a>
-# <a id="tag-巨头战略" href="#tag-巨头战略">巨头战略</a>
-# <a id="tag-创企" href="#tag-创企">创企</a>
-# <a id="tag-开放平台" href="#tag-开放平台">开放平台</a>
-# <a id="tag-开源" href="#tag-开源">开源</a>
-# <a id="tag-学习资源" href="#tag-学习资源">学习资源</a>
-# <a id="tag-Tools" href="#tag-Tools">Tools</a>
-# <a id="tag-实际操作" href="#tag-实际操作">实际操作</a>
-# <a id="tag-业界动态" href="#tag-业界动态">业界动态</a>
+1. <a href="#tag-智能电视">智能电视</a>
+1. <a href="#tag-车载设备(大屏机，后视镜)">车载设备(大屏机，后视镜)</a>
+1. <a href="#tag-机器人">机器人</a>
+1. <a href="#tag-语音融合通信(2B)">语音融合通信(2B)</a>
+1. <a href="#tag-语音明星公司">语音明星公司</a>
+   1. <a href="#tag-Nuance">Nuance</a>
 
 
 # <a id="tag-业内动向" href="#tag-业内动向">业内动向</a>
