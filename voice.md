@@ -450,52 +450,58 @@ https://www.ubtrobot.com/ <br>
 <table align="left">
     <tr>
         <th></th>
+       <th>哪年成立</th>
+       <th>背后</th>
         <th>核心技术</th> 
         <th>核心产品</th>
         <th>开放平台</th>
         <th>AI芯片</th>
         <th>客户群</th>
         <th>市占率</th>
-        <th>能力级别</th>
     </tr>
     <tr>
         <th>
            <a href = "https://www.nuance.com/zh-cn/index.html">Nuance</a>
        </th>
+       <th></th> <!哪年成立>
+       <th></th> <!背后>      
         <th></th> <!核心技术>
         <th></th> <!核心产品>
         <th></th> <!开放平台>
        <th></th> <!AI芯片>
         <th></th> <!客户群>
         <th></th> <!市占率>
-        <th></th> <!能力级别>
     </tr>     
     <tr>
         <th>
            <a href = "http://www.iflytek.com/">科大讯飞</a>
        </th>
+       <th></th> <!哪年成立>
+       <th></th> <!背后>        
         <th></th> <!核心技术>
         <th></th> <!核心产品>
         <th></th> <!开放平台>
        <th></th> <!AI芯片>
         <th></th> <!客户群>
         <th></th> <!市占率>
-        <th></th> <!能力级别>
     </tr>    
     <tr>
         <th>百度语音</th>
+       <th></th> <!哪年成立>
+       <th></th> <!背后>        
         <th></th> <!核心技术>
         <th></th> <!核心产品>
         <th></th> <!开放平台>
        <th></th> <!AI芯片>
         <th></th> <!客户群>
         <th></th> <!市占率>
-        <th></th> <!能力级别>
     </tr>  
     <tr>
         <th>
            <a href = "http://www.aispeech.com/">苏州 思必驰</a>
        </th>
+       <th></th> <!哪年成立>
+       <th></th> <!背后>        
         <th></th> <!核心技术>
         <th></th> <!核心产品>
         <th></th> <!开放平台>
@@ -504,12 +510,13 @@ https://www.ubtrobot.com/ <br>
        </th> <!AI芯片>
         <th></th> <!客户群>
         <th></th> <!市占率>
-        <th></th> <!能力级别>
     </tr>  
     <tr>
         <th>
            <a href = "http://www.unisound.com/">北京 云知声</a>
        </th>
+       <th></th> <!哪年成立>
+       <th></th> <!背后>        
         <th></th> <!核心技术>
         <th></th> <!核心产品>
         <th></th> <!开放平台>
@@ -518,31 +525,34 @@ https://www.ubtrobot.com/ <br>
        </th> <!AI芯片>
         <th></th> <!客户群>
         <th></th> <!市占率>
-        <th></th> <!能力级别>
     </tr>
     <tr>
         <th>
            <a href = "http://www.sinovoice.com/">北京 华通捷声</a>
        </th>
+       <th></th> <!哪年成立>
+       <th></th> <!背后>        
         <th></th> <!核心技术>
         <th></th> <!核心产品>
-        <th></th> <!开放平台>
+        <th>
+           <a href="https://www.aicloud.com/dev/index/index">灵云</a>
+       </th> <!开放平台>
        <th></th> <!AI芯片>
         <th></th> <!客户群>
         <th></th> <!市占率>
-        <th></th> <!能力级别>
     </tr>   
     <tr>
         <th>
             <a href = "https://voiceos.ainirobot.com/">北京 猎户星空</a>
         </th>
+       <th></th> <!哪年成立>
+       <th></th> <!背后> 
         <th></th> <!核心技术>
         <th></th> <!核心产品>
         <th></th> <!开放平台>
        <th></th> <!AI芯片>
         <th>小米</th> <!客户群>
         <th></th> <!市占率>
-        <th></th> <!能力级别>
     </tr>      
 </table>
 
