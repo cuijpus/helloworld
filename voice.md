@@ -579,8 +579,16 @@ https://www.ubtrobot.com/ <br>
        <th>2016.9</th> <!哪年成立>
        <th>猎豹</th> <!背后> 
         <th></th> <!核心技术>
-        <th></th> <!核心产品>
-        <th></th> <!开放平台>
+        <th> 
+           服务机器人<br>
+           咖啡智能<br>
+           智能音箱<br>
+           自动贩卖机<br>
+           儿童机器人<br>
+        </th> <!核心产品>
+        <th>
+           <a href= "https://voiceos.ainirobot.com/">猎户OS</a>
+        </th> <!开放平台>
        <th></th> <!AI芯片>
         <th>小米</th> <!客户群>
     </tr>      
