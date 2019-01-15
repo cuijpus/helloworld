@@ -459,7 +459,9 @@ https://www.ubtrobot.com/ <br>
         <th>能力级别</th>
     </tr>
     <tr>
-        <th>Nuance</th>
+        <th>
+           <a href = "https://www.nuance.com/zh-cn/index.html">Nuance</a>
+       </th>
         <th></th> <!核心技术>
         <th></th> <!核心产品>
         <th></th> <!开放平台>
@@ -469,7 +471,9 @@ https://www.ubtrobot.com/ <br>
         <th></th> <!能力级别>
     </tr>     
     <tr>
-        <th>科大讯飞</th>
+        <th>
+           <a href = "http://www.iflytek.com/">科大讯飞</a>
+       </th>
         <th></th> <!核心技术>
         <th></th> <!核心产品>
         <th></th> <!开放平台>
@@ -489,7 +493,9 @@ https://www.ubtrobot.com/ <br>
         <th></th> <!能力级别>
     </tr>  
     <tr>
-        <th>苏州 思必驰</th>
+        <th>
+           <a href = "http://www.aispeech.com/">苏州 思必驰</a>
+       </th>
         <th></th> <!核心技术>
         <th></th> <!核心产品>
         <th></th> <!开放平台>
@@ -501,17 +507,23 @@ https://www.ubtrobot.com/ <br>
         <th></th> <!能力级别>
     </tr>  
     <tr>
-        <th>北京 云知声</th>
+        <th>
+           <a href = "http://www.unisound.com/">北京 云知声</a>
+       </th>
         <th></th> <!核心技术>
         <th></th> <!核心产品>
         <th></th> <!开放平台>
-       <th></th> <!AI芯片>
+       <th>
+          <a href="https://www.iyiou.com/p/89090.html">芯片战略</a>
+       </th> <!AI芯片>
         <th></th> <!客户群>
         <th></th> <!市占率>
         <th></th> <!能力级别>
     </tr>
     <tr>
-        <th>北京 华通捷声</th>
+        <th>
+           <a href = "http://www.sinovoice.com/">北京 华通捷声</a>
+       </th>
         <th></th> <!核心技术>
         <th></th> <!核心产品>
         <th></th> <!开放平台>
