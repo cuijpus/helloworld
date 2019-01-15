@@ -43,7 +43,9 @@
         <th></th> <!市占率>
     </tr>
     <tr>
-        <th>苹果Homepod</th>
+        <th>
+            <a href="https://www.apple.com/homepod/">苹果Homepod</a>
+        </th>
         <th>
             2017.6.6 <br>
             2019.1.18 <br>
