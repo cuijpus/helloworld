@@ -126,7 +126,7 @@
     </tr>  
     <tr>
         <th>RedMi</th>
-        <th></th>
+        <th>Note7</th>
         <th></th>
         <th></th>
         <th></th>
