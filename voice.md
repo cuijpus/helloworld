@@ -29,7 +29,9 @@
         <th></th> <!市占率>
     </tr>
     <tr>
-        <th>京东叮咚</th>
+        <th>
+            <a href="https://baike.baidu.com/item/%E5%8F%AE%E5%92%9A%E6%99%BA%E8%83%BD%E9%9F%B3%E7%AE%B1/17641532?fr=aladdin">京东叮咚</a>
+        </th>
         <th>2015.5.25</th> <!何时发布>
         <th>299</th>
         <th></th> <!主要功能>
