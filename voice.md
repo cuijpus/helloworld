@@ -482,7 +482,14 @@ https://www.ubtrobot.com/ <br>
         <th>
            <a href = "http://www.iflytek.com/audioengine/index.html">语音引擎</a>
        </th> <!核心技术>
-        <th>方案供应</th> <!核心产品>
+        <th>
+           方案供应：<br>
+           智能硬件解决方案<br>
+           娱乐媒体解决方案<br>
+           通用解决方案<br>
+           互联网解决方案<br>
+           行业解决方案 <br>
+       </th> <!核心产品>
         <th></th> <!开放平台>
        <th></th> <!AI芯片>
         <th></th> <!客户群>
