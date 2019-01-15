@@ -508,8 +508,14 @@ https://www.ubtrobot.com/ <br>
        <th>2007</th> <!哪年成立>
        <th>上交大</th> <!背后>        
         <th></th> <!核心技术>
-        <th></th> <!核心产品>
-        <th></th> <!开放平台>
+        <th> 智能车载 <br>
+           智能家居 <br>
+           智能机器人<br>
+           对话定制
+       </th> <!核心产品>
+        <th>
+           <a href="https://www.dui.ai/">DUI</a>
+       </th> <!开放平台>
        <th>
           <a href = "https://baijiahao.baidu.com/s?id=1621991747261074272&wfr=spider&for=pc">语音芯片</a>
        </th> <!AI芯片>
