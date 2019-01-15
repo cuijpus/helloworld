@@ -453,6 +453,7 @@ https://www.ubtrobot.com/ <br>
         <th>核心技术</th> 
         <th>核心产品</th>
         <th>开放平台</th>
+        <th>AI芯片</th>
         <th>客户群</th>
         <th>市占率</th>
         <th>能力级别</th>
@@ -462,6 +463,7 @@ https://www.ubtrobot.com/ <br>
         <th></th> <!核心技术>
         <th></th> <!核心产品>
         <th></th> <!开放平台>
+       <th></th> <!AI芯片>
         <th></th> <!客户群>
         <th></th> <!市占率>
         <th></th> <!能力级别>
@@ -471,6 +473,7 @@ https://www.ubtrobot.com/ <br>
         <th></th> <!核心技术>
         <th></th> <!核心产品>
         <th></th> <!开放平台>
+       <th></th> <!AI芯片>
         <th></th> <!客户群>
         <th></th> <!市占率>
         <th></th> <!能力级别>
@@ -480,6 +483,7 @@ https://www.ubtrobot.com/ <br>
         <th></th> <!核心技术>
         <th></th> <!核心产品>
         <th></th> <!开放平台>
+       <th></th> <!AI芯片>
         <th></th> <!客户群>
         <th></th> <!市占率>
         <th></th> <!能力级别>
@@ -489,6 +493,9 @@ https://www.ubtrobot.com/ <br>
         <th></th> <!核心技术>
         <th></th> <!核心产品>
         <th></th> <!开放平台>
+       <th>
+          <a href = "https://baijiahao.baidu.com/s?id=1621991747261074272&wfr=spider&for=pc">语音芯片</a>
+       </th> <!AI芯片>
         <th></th> <!客户群>
         <th></th> <!市占率>
         <th></th> <!能力级别>
@@ -498,6 +505,7 @@ https://www.ubtrobot.com/ <br>
         <th></th> <!核心技术>
         <th></th> <!核心产品>
         <th></th> <!开放平台>
+       <th></th> <!AI芯片>
         <th></th> <!客户群>
         <th></th> <!市占率>
         <th></th> <!能力级别>
@@ -507,6 +515,7 @@ https://www.ubtrobot.com/ <br>
         <th></th> <!核心技术>
         <th></th> <!核心产品>
         <th></th> <!开放平台>
+       <th></th> <!AI芯片>
         <th></th> <!客户群>
         <th></th> <!市占率>
         <th></th> <!能力级别>
@@ -518,6 +527,7 @@ https://www.ubtrobot.com/ <br>
         <th></th> <!核心技术>
         <th></th> <!核心产品>
         <th></th> <!开放平台>
+       <th></th> <!AI芯片>
         <th>小米</th> <!客户群>
         <th></th> <!市占率>
         <th></th> <!能力级别>
