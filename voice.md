@@ -527,7 +527,16 @@ https://www.ubtrobot.com/ <br>
        <th></th> <!哪年成立>
        <th></th> <!背后>        
         <th></th> <!核心技术>
-        <th></th> <!核心产品>
+        <th> 
+           行业服务机器人<br>
+           电话机器人<br>
+           儿童早教机器人<br>
+           智能家居<br>
+           智能车载<br>
+           智慧医疗<br>
+           智慧教育<br>
+           提供定制
+       </th> <!核心产品>
         <th>
            <a href="http://dev.hivoice.cn/">开放</a>
        </th> <!开放平台>
