@@ -21,8 +21,14 @@
     </tr>
     <tr>
         <th>三星</th>
-        <th>M系列</th>
-        <th>S10</th>
+        <th>
+            M系列<br>
+            (1.20)<br>
+        </th>
+        <th>
+            S10<br>
+            (2.20)<br>
+        </th>
         <th></th>
         <th></th>
         <th></th>
