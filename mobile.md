@@ -1,8 +1,14 @@
 
+
+
+1. <a href="#tag-2019产品发布会">2019产品发布会</a>
+1. <a href="#tag-2019技术发布会">2019技术发布会</a>
+
 # 19年手机
 [2019年手机八大趋势：挖孔、折叠、5G, 10GB内存等](https://www.toutiao.com/a6640864960106725895/)<br>
 
 
+# <a id="tag-2019产品发布会" href="#tag-2019产品发布会">2019产品发布会</a>
 <table>
     <tr>
         <th>2019</th>
@@ -169,6 +175,172 @@
     </tr>    
 </table>
 
+# <a id="tag-2019技术发布会" href="#tag-2019技术发布会">2019技术发布会</a>
+<table>
+    <tr>
+        <th>2019</th>
+        <th>1月</th>
+        <th>2月</th>
+        <th>3月</th>
+        <th>4月</th>
+        <th>5月</th>
+        <th>6月</th>
+        <th>7月</th>
+        <th>8月</th>
+        <th>9月</th>
+        <th>10月</th>
+        <th>11月</th>
+        <th>12月</th>
+    </tr>
+    <tr>
+        <th>三星</th>
+        <th>
+            M系列<br>
+            (1.28)<br>
+        </th>
+        <th>
+            S10<br>
+            (2.20)<br>
+        </th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>苹果</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>华为</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>荣耀</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>     
+    <tr>
+        <th>OPPO</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>   
+    <tr>
+        <th>VIVO</th>
+        <th>
+            APEX<br>
+            液态?<br>
+            (1.24)
+        </th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>  
+    <tr>
+        <th>XiaoMi</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>  
+    <tr>
+        <th>RedMi</th>
+        <th>
+            Note7<br>
+            (1.10)<br>
+        </th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>      
+    <tr>
+        <th>Others</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>    
+</table>
 
 2019.2.20 [三星Galaxy S10系列将于2月20日发布 同时将公开全功能折叠手机](https://m.zol.com.cn/toutiao/9660266.html)<br>
 2019.1.28 [三星M系列上线印度官网，1月28日正式发布](https://baijiahao.baidu.com/s?id=1622635726425463509&wfr=spider&for=pc)<br>
@@ -178,11 +350,12 @@ M10--> J; M20 --> On; M30 --> C? <br>
 [vivo继续搞大事！2019神秘新机曝光：机身材质不一般](https://baijiahao.baidu.com/s?id=1622238813328296450&wfr=spider&for=pc)<br>
 这就是一款被视作“ 未来产品”的手机，它身上聚集了各种最新的前沿科技：5.99英寸的“真·全面屏”，屏占比达到 91%；全面屏发声技术、升降式前置摄像头、半屏指纹解锁技术加持，科技感十足。
 
+2019.1.16 [OPPO将会在1月16日举行技术沟通会，主题为“十所为见”](https://baijiahao.baidu.com/s?id=1622604097681387578&wfr=spider&for=pc)<br>
+[OPPO两大重磅黑科技发布 2019年商用 华为侧目！](https://baijiahao.baidu.com/s?id=1622805348912221752&wfr=spider&for=pc)<br>
+
 2019.1.15 [外媒：与国产手机竞争，三星3款A系列手机或配备屏幕指纹](https://baijiahao.baidu.com/s?id=1622719661868915529&wfr=spider&for=pc)<br>
 三星为了与国产手机竞争，将会在2019年推出的三款三星Galaxy A系列手机并配备屏幕指纹技术。
 根据Digitimes报道表示，三星预计会为2019年推出的三星Galaxy A90、Galaxy A70和Galaxy A50等机型配备屏幕指纹技术，并且该技术的传感器供应商已经确定，预计在2019年第二季度启动量产。
-
-2019.1.16 [OPPO将会在1月16日举行技术沟通会，主题为“十所为见”](https://baijiahao.baidu.com/s?id=1622604097681387578&wfr=spider&for=pc)<br>
 2019.1.14 [OPPO架构人事再调整 成立新兴移动终端事业部 布局5G+时代新入口](https://baijiahao.baidu.com/s?id=1622601587164680286&wfr=spider&for=pc)<br>
 我们将紧密围绕5G+时代的核心入口，布局新兴移动终端，打造用户可跨场景高频使用的入口级产品，同时打造IoT产品及开放平台，为用户提供更多元的科技体验.
 
