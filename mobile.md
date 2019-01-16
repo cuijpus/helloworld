@@ -258,7 +258,8 @@
         <th>OPPO</th>
         <th>
             十倍变焦<br>
-            区域FOD
+            区域FOD<br>
+            (1.16)
         </th>
         <th></th>
         <th></th>
