@@ -196,14 +196,8 @@
     </tr>
     <tr>
         <th>三星</th>
-        <th>
-            M系列<br>
-            (1.28)<br>
-        </th>
-        <th>
-            S10<br>
-            (2.20)<br>
-        </th>
+        <th></th>
+        <th></th>
         <th></th>
         <th></th>
         <th></th>
@@ -262,7 +256,10 @@
     </tr>     
     <tr>
         <th>OPPO</th>
-        <th></th>
+        <th>
+            十倍变焦<br>
+            区域FOD
+        </th>
         <th></th>
         <th></th>
         <th></th>
@@ -278,9 +275,6 @@
     <tr>
         <th>VIVO</th>
         <th>
-            APEX<br>
-            液态?<br>
-            (1.24)
         </th>
         <th></th>
         <th></th>
@@ -312,8 +306,6 @@
     <tr>
         <th>RedMi</th>
         <th>
-            Note7<br>
-            (1.10)<br>
         </th>
         <th></th>
         <th></th>
