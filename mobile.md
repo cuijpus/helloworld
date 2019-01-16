@@ -3,6 +3,8 @@
 
 1. <a href="#tag-2019产品发布会">2019产品发布会</a>
 1. <a href="#tag-2019技术发布会">2019技术发布会</a>
+1. <a href="#tag-全机智能化">全机智能化</a>
+1. <a href="#tag-18年手机争奇斗艳">18年手机争奇斗艳</a>
 
 # 19年手机
 [2019年手机八大趋势：挖孔、折叠、5G, 10GB内存等](https://www.toutiao.com/a6640864960106725895/)<br>
@@ -374,7 +376,6 @@ redmi单独运营死磕到底！雷军更用8个字放话，意味着什么呢�
 
 2019.1.1 [三星Galaxy M10/M20/M30智能手机全部曝光](http://www.yidianzixun.com/article/O_00sB1cJF)<br>
 
-
 # 19年新品预测
 2018.12.25, 华为出货量2亿只， 准备2020做到世界第一！<br>
 华为 正式 准备把三星拉下马 ！<br>
@@ -393,7 +394,7 @@ redmi单独运营死磕到底！雷军更用8个字放话，意味着什么呢�
 2018.10.31 [柔宇科技抢先三星带来了一款可折叠屏手机](http://www.sohu.com/a/272433965_485557)<br>
 2018.10 [华为发力折叠屏 真机2019年上半年见](http://www.zdwang.com/show-238-50287-1.html)<br>
 
-# 全机智能化
+# <a id="tag-全机智能化" href="#tag-全机智能化">全机智能化</a>
 2018.12.26 [OPPO推出智能助理Breeno：让人工智能覆盖所有场景](https://baijiahao.baidu.com/s?id=1621072053519378224&wfr=spider&for=pc)<br>
 [ColorOS智能助理Breeno惊艳亮相，功能强大更为实用](https://baijiahao.baidu.com/s?id=1620989707650815041&wfr=spider&for=pc)<br>
 [OPPO发布智能助理Breeno 推出“引力计划”赋能开发者](https://baijiahao.baidu.com/s?id=1620976774049292476&wfr=spider&for=pc)<br>
@@ -409,7 +410,7 @@ redmi单独运营死磕到底！雷军更用8个字放话，意味着什么呢�
 [IDC: Q3 全球下降6%](https://www.idc.com/getdoc.jsp?containerId=prUS44425818)<br>
 
 
-# 18年新品动态
+# <a id="tag-18年手机争奇斗艳" href="#tag-18年手机争奇斗艳">18年手机争奇斗艳</a>
 每一家都上紧发条，各种创新尝试，给消费者带了各个价位的良好体验：<br>
 硬件：
 1. 运存+内存：标配6G+128G起步, 小点的拿不出手；<br>
