@@ -21,6 +21,7 @@
 
 
 # <a id="tag-业内动向" href="#tag-业内动向">业内动向</a>
+[艾媒报告 |2018-2019中国智能音箱行业及产品竞争力评价分析报告](http://www.iimedia.cn/63405.html)<br>
 ![中国人工智能全景图](http://5b0988e595225.cdn.sohucs.com/images/20180101/633ccfaf81b347adae03489fd4807b3a.jpeg)<br>
 
 # <a id="tag-智能音箱" href="#tag-智能音箱">智能音箱</a>
