@@ -37,6 +37,9 @@
 
 
 # <a id="tag-AI能干什么？" href="#tag-AI能干什么？">AI能干什么？</a>
+[《人工智能发展白皮书-产业应用篇（2018年）》](http://www.caict.ac.cn/kxyj/qwfb/bps/201812/P020181227308307634492.pdf)<br>
+![人工智能产业应用视图](http://exhibition.cbdio.com/upload/images/2019/1/4/411303702.jpg)<br>
+
 ## <a id="tag-智能语音（听得懂）" href="#tag-智能语音（听得懂）">智能语音（听得懂）</a>
 [深度好文：2018年NLP应用和商业化调查报告](https://new.qq.com/omn/20190110/20190110B0ZVBF.html)<br>
 
