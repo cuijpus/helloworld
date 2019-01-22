@@ -62,6 +62,13 @@ https://atom.io/
     </tr>  
 </table>
 
+# 表格合并
+
+<table> 
+    <tr> #<tr></tr>的个数为：行数 <td rowspan="7"> 合并多行成一列：<br/> #<td></td>的个数为：列数 使用rowspan="n" <br/> 跨 n 行合并<br/> </td> <td>文件标识：</td> <td>内容</td> </tr> <tr> <td>第一行：</td> <td>该写什么呢？</td> </tr> <tr> <td>第二行：</td> <td>随便写吧！</td> </tr> <tr> <td>第三行：</td> <td>OK了！</td> </tr> 
+</table>
+
+
 # 插入图片
 ![插入图片]()<br>
 
