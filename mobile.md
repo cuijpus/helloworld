@@ -387,12 +387,14 @@ redmi单独运营死磕到底！雷军更用8个字放话，意味着什么呢�
     <tr>                          <td>声纹识别</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
     <tr>                          <td>富信息识别</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
     <!图像和视频>
-    <tr><td rowspan="6">图像和视频</td> <td>语音识别</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
-    <tr>                          <td>语义识别</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
-    <tr>                          <td>语音合成</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
-    <tr>                          <td>语音唤醒</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
-    <tr>                          <td>声纹识别</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
-    <tr>                          <td>富信息识别</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>    
+    <tr><td rowspan="6">图像和视频</td> <td>人脸识别</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
+    <tr>                          <td>人体识别</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
+    <tr>                          <td>物品识别</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
+    <tr>                          <td>场景识别</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
+    <tr>                          <td>AI 拍照</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
+    <tr>                          <td>AI 录像</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
+    <tr>                          <td>AR</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
+    <tr>                          <td>3D</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>      
 </table>
 
 
