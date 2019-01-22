@@ -13,20 +13,8 @@
 # <a id="tag-2019产品发布会" href="#tag-2019产品发布会">2019产品发布会</a>
 <table>
     <tr>
-        <th>2019</th>
-        <th>1月</th>
-        <th>2月</th>
-        <th>3月</th>
-        <th>4月</th>
-        <th>5月</th>
-        <th>6月</th>
-        <th>7月</th>
-        <th>8月</th>
-        <th>9月</th>
-        <th>10月</th>
-        <th>11月</th>
-        <th>12月</th>
-    </tr>
+        <th>2019</th> <th>1月</th> <th>2月</th> <th>3月</th> <th>4月</th> <th>5月</th> <th>6月</th> <th>7月</th> <th>8月</th>
+        <th>9月</th> <th>10月</th> <th>11月</th> <th>12月</th> </tr>
     <tr>
         <th>三星</th>
         <th>
@@ -398,6 +386,13 @@ redmi单独运营死磕到底！雷军更用8个字放话，意味着什么呢�
     <tr>                          <td>语音唤醒</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
     <tr>                          <td>声纹识别</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
     <tr>                          <td>富信息识别</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
+    <!图像和视频>
+    <tr><td rowspan="6">图像和视频</td> <td>语音识别</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
+    <tr>                          <td>语义识别</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
+    <tr>                          <td>语音合成</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
+    <tr>                          <td>语音唤醒</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
+    <tr>                          <td>声纹识别</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
+    <tr>                          <td>富信息识别</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>    
 </table>
 
 
