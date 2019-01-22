@@ -64,9 +64,7 @@ https://atom.io/
 
 # 表格合并
 
-<table> 
-    <tr> #<tr></tr>的个数为：行数 <td rowspan="7"> 合并多行成一列：<br/> #<td></td>的个数为：列数 使用rowspan="n" <br/> 跨 n 行合并<br/> </td> <td>文件标识：</td> <td>内容</td> </tr> <tr> <td>第一行：</td> <td>该写什么呢？</td> </tr> <tr> <td>第二行：</td> <td>随便写吧！</td> </tr> <tr> <td>第三行：</td> <td>OK了！</td> </tr> 
-</table>
+<table> <tr> <td rowspan="7"> 文件状态：<br/> [√] 草稿<br/> [√] 正在修改<br/> [√] 正式发布 </td> <td>文件标识：</td> <td> </td> </tr> <tr> <td>当前版本：</td> <td>2.7</td> </tr> <tr> <td>作 者：</td> <td></td> </tr> <tr> <td>创建日期：</td> <td></td> </tr> <tr> <td>最后更新：</td> <td></td> </tr> <tr> <td>密 级：</td> <td></td> </tr> <tr> <td>版权说明：</td> <td></td> </tr> </table>
 
 
 # 插入图片
