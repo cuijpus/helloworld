@@ -65,6 +65,7 @@ https://atom.io/
 # 表格合并
 
 <table> 
+    <tr><td>列1</td> <td>列2</td> <td>列3</td> </tr>
     <tr> <td rowspan="7"> 
         文件状态：<br/> 
         [√] 草稿<br/> 
