@@ -387,7 +387,7 @@ redmi单独运营死磕到底！雷军更用8个字放话，意味着什么呢�
     <tr>                          <td>声纹识别</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
     <tr>                          <td>富信息识别</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
     <!图像和视频>
-    <tr><td rowspan="6">图像和视频</td> <td>人脸识别</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
+    <tr><td rowspan="8">图像和视频</td> <td>人脸识别</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
     <tr>                          <td>人体识别</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
     <tr>                          <td>物品识别</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
     <tr>                          <td>场景识别</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
