@@ -394,7 +394,10 @@ redmi单独运营死磕到底！雷军更用8个字放话，意味着什么呢�
     <tr>                          <td>AI 拍照</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
     <tr>                          <td>AI 录像</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
     <tr>                          <td>AR</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
-    <tr>                          <td>3D</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>      
+    <tr>                          <td>3D</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>   
+    <!性能管理>
+    <tr><td rowspan="8">性能管理</td> <td>power智能管理</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
+    <tr>                          <td>资源智能感知分配</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>  
 </table>
 
 
@@ -430,19 +433,8 @@ redmi单独运营死磕到底！雷军更用8个字放话，意味着什么呢�
 
 <table>
     <tr>
-        <th>2018</th>
-        <th>1月</th>
-        <th>2月</th>
-        <th>3月</th>
-        <th>4月</th>
-        <th>5月</th>
-        <th>6月</th>
-        <th>7月</th>
-        <th>8月</th>
-        <th>9月</th>
-        <th>10月</th>
-        <th>11月</th>
-        <th>12月</th>
+        <th>2018</th> <th>1月</th> <th>2月</th><th>3月</th><th>4月</th> <th>5月</th> <th>6月</th>
+        <th>7月</th> <th>8月</th> <th>9月</th> <th>10月</th> <th>11月</th> <th>12月</th>
     </tr>
     <tr>
         <th>三星</th>
