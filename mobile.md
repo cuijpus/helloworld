@@ -396,13 +396,13 @@ redmi单独运营死磕到底！雷军更用8个字放话，意味着什么呢�
     <tr>                          <td>AR</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
     <tr>                          <td>3D</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>   
     <!性能管理>
-    <tr><td rowspan="8">性能管理</td> <td>power智能管理</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
+    <tr><td rowspan="2">性能管理</td> <td>power智能管理</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
     <tr>                          <td>资源智能感知分配</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>  
     <!游戏>
-    <tr><td rowspan="8">游戏领域</td> <td>自动场景识别</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
+    <tr><td rowspan="2">游戏领域</td> <td>自动场景识别</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
     <tr>                          <td>自动场景调优</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>      
     <!个性化领域>
-    <tr><td rowspan="8">个性化领域</td> <td>环境识别，<br>自动情景调节</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
+    <tr><td rowspan="2">个性化领域</td> <td>环境识别，<br>自动情景调节</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
     <tr>                          <td>智能化服务生态</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>    
 </table>
 
