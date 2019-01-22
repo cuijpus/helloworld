@@ -390,6 +390,9 @@ redmi单独运营死磕到底！雷军更用8个字放话，意味着什么呢�
 # <a id="tag-全机智能化" href="#tag-全机智能化">全机智能化</a>
 
 
+<table> 
+    <tr><td>大分类</td> <td>小分类</td> <td>落地场景</td>  <td>技术来源</td> <td>Samsung</td> <td>Huawei</td> <td>OPPO</td> <td>VIVO</td> <td>Xiaomi</td></tr>
+</table>
 
 
 2019.1.18 [商汤研究院院长王晓刚：商汤算法服务手机超过4亿台](http://mo.techweb.com.cn/smarthardware/2019-01-18/2721118.shtml)<br>
