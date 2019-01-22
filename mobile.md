@@ -394,6 +394,10 @@ redmi单独运营死磕到底！雷军更用8个字放话，意味着什么呢�
     <tr><td>大分类</td> <td>小分类</td> <td>落地场景</td>  <td>技术来源</td> <td>Samsung</td> <td>Huawei</td> <td>OPPO</td> <td>VIVO</td> <td>Xiaomi</td></tr>
     <tr><td rowspan="6">音频</td> <td>语音识别</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
     <tr>                          <td>语义识别</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
+    <tr>                          <td>语音合成</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
+    <tr>                          <td>语音唤醒</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
+    <tr>                          <td>声纹识别</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
+    <tr>                          <td>富信息识别</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
 </table>
 
 
