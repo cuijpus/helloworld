@@ -51,11 +51,15 @@
 # 平台 
 
 # 基础技术
+
+## 光照和阴影
 [基于移动AR的光照一致性](https://www.toutiao.com/a6467378044548940302/)<br>
+
+### Google ARcore的光照和阴影
 [ARCore Light Estimation Tutorial - ARCore Course in Unity]()<br> 
-[](https://www.andreasjakl.com/real-time-light-estimation-with-google-arcore/)<br>
+[ARCore 光照](https://www.andreasjakl.com/real-time-light-estimation-with-google-arcore/)<br>
 
-
+### iOS ARKit的光照和阴影
 [ARKit Tutorial: Light Estimation with Ambient Intensity and Color Temperature](https://www.appcoda.com/arkit-light-estimation/)<br>
 
 # 开源平台
