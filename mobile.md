@@ -17,84 +17,28 @@
         <th>9月</th> <th>10月</th> <th>11月</th> <th>12月</th> </tr>
     <tr>
         <th>三星</th>
-        <th>
-            M系列<br>
-            (1.28)<br>
-        </th>
-        <th>
-            S10<br>
-            (2.20)<br>
-        </th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
+        <th> M系列<br>(1.28)<br></th> <th> S10<br>2.20)<br></th> <th></th> <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>
     <tr>
         <th>苹果</th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>
     <tr>
         <th>华为</th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>
     <tr>
         <th>荣耀</th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>     
     <tr>
         <th>OPPO</th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>   
     <tr>
         <th>VIVO</th>
@@ -103,65 +47,23 @@
             液态?<br>
             (1.24)
         </th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>  
     <tr>
         <th>XiaoMi</th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>  
     <tr>
         <th>RedMi</th>
-        <th>
-            Note7<br>
-            (1.10)<br>
-        </th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
+        <th> Note7<br>(1.10)<br> </th> <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>      
     <tr>
         <th>Others</th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>    
 </table>
 
