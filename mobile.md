@@ -44,7 +44,7 @@
     </tr>   
     <tr>
         <th>VIVO</th>
-        <th> APEX<br> 液态?<br>(1.24)</th> <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
         <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>  
     <tr>
@@ -98,7 +98,8 @@
     </tr>   
     <tr>
         <th>VIVO</th>
-        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th> APEX<br>玻璃一体<br>隐藏按键<br>线性马达<br>全屏幕发声<br>(1.24)
+        </th> <th></th> <th></th> <th></th> <th></th> <th></th>
         <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>  
     <tr>
