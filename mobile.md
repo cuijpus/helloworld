@@ -98,7 +98,7 @@
     </tr>   
     <tr>
         <th>VIVO</th>
-        <th> APEX概念机<br>玻璃一体<br>全屏指纹<br>隐藏按键<br>线性马达<br>屏幕发声<br>磁吸充电<br>5G<br>12+128<br>无前置！(1.24) </th>
+        <th> 概念机<br>玻璃一体<br>全屏指纹<br>隐藏按键<br>线性马达<br>屏幕发声<br>磁吸充电<br>5G<br>12+128<br>无前置！(1.24) </th>
         <th></th> <th></th> <th></th> <th></th> <th></th>
         <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>  
