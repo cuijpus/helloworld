@@ -13,11 +13,13 @@
 # <a id="tag-2019产品发布会" href="#tag-2019产品发布会">2019产品发布会</a>
 <table>
     <tr>
-        <th>2019</th> <th>1月</th> <th>2月</th> <th>3月</th> <th>4月</th> <th>5月</th> <th>6月</th> <th>7月</th> <th>8月</th>
-        <th>9月</th> <th>10月</th> <th>11月</th> <th>12月</th> </tr>
+        <th>2019</th> 
+        <th>1月</th> <th>2月</th> <th>3月</th> <th>4月</th> <th>5月</th> <th>6月</th> 
+        <th>7月</th> <th>8月</th> <th>9月</th> <th>10月</th> <th>11月</th> <th>12月</th> 
+    </tr>
     <tr>
         <th>三星</th>
-        <th> M系列<br>(1.28)<br></th> <th> S10<br>2.20)<br></th> <th></th> <th></th> <th></th> <th></th>
+        <th> M系列<br>(1.28)<br></th> <th> S10<br>(2.20)<br></th> <th></th> <th></th> <th></th> <th></th>
         <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>
     <tr>
@@ -42,12 +44,7 @@
     </tr>   
     <tr>
         <th>VIVO</th>
-        <th>
-            APEX<br>
-            液态?<br>
-            (1.24)
-        </th>
-        <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th> APEX<br> 液态?<br>(1.24)</th> <th></th> <th></th> <th></th> <th></th> <th></th>
         <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>  
     <tr>
@@ -70,7 +67,8 @@
 # <a id="tag-2019技术发布会" href="#tag-2019技术发布会">2019技术发布会</a>
 <table>
     <tr>
-        <th>2019</th> <th>1月</th> <th>2月</th> <th>3月</th> <th>4月</th> <th>5月</th> <th>6月</th>
+        <th>2019</th> 
+        <th>1月</th> <th>2月</th> <th>3月</th> <th>4月</th> <th>5月</th> <th>6月</th>
         <th>7月</th> <th>8月</th> <th>9月</th> <th>10月</th> <th>11月</th> <th>12月</th>
     </tr>
     <tr>
@@ -85,7 +83,7 @@
     </tr>
     <tr>
         <th>华为</th>
-        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th>5G芯片<br>(1.24)</th> <th></th> <th></th> <th></th> <th></th> <th></th>
         <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>
     <tr>
@@ -95,12 +93,7 @@
     </tr>     
     <tr>
         <th>OPPO</th>
-        <th> 
-            十倍变焦<br>
-            区域FOD<br>
-            (1.16)
-        </th>
-        <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th> 十倍变焦<br>区域FOD<br>(1.16)</th> <th></th> <th></th> <th></th> <th></th> <th></th>
         <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>   
     <tr>
