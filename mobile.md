@@ -168,167 +168,66 @@
 # <a id="tag-2019技术发布会" href="#tag-2019技术发布会">2019技术发布会</a>
 <table>
     <tr>
-        <th>2019</th>
-        <th>1月</th>
-        <th>2月</th>
-        <th>3月</th>
-        <th>4月</th>
-        <th>5月</th>
-        <th>6月</th>
-        <th>7月</th>
-        <th>8月</th>
-        <th>9月</th>
-        <th>10月</th>
-        <th>11月</th>
-        <th>12月</th>
+        <th>2019</th> <th>1月</th> <th>2月</th> <th>3月</th> <th>4月</th> <th>5月</th> <th>6月</th>
+        <th>7月</th> <th>8月</th> <th>9月</th> <th>10月</th> <th>11月</th> <th>12月</th>
     </tr>
     <tr>
-        <th>三星</th>
-        <th></th>
-        <th></th>
-        <th>？</th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th>？</th>
-        <th></th>
-        <th></th>
-        <th></th>
+        <th>三星</th> 
+        <th></th> <th></th> <th>？</th> <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th>？</th> <th></th> <th></th> <th></th>
     </tr>
     <tr>
         <th>苹果</th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>
     <tr>
         <th>华为</th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>
     <tr>
         <th>荣耀</th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>     
     <tr>
         <th>OPPO</th>
-        <th>
+        <th> 
             十倍变焦<br>
             区域FOD<br>
             (1.16)
         </th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>   
     <tr>
         <th>VIVO</th>
-        <th>
-        </th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>  
     <tr>
         <th>XiaoMi</th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>  
     <tr>
         <th>RedMi</th>
-        <th>
-        </th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>      
     <tr>
         <th>Others</th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>    
 </table>
+
 
 2019.2.20 [三星Galaxy S10系列将于2月20日发布 同时将公开全功能折叠手机](https://m.zol.com.cn/toutiao/9660266.html)<br>
 2019.1.28 [三星M系列上线印度官网，1月28日正式发布](https://baijiahao.baidu.com/s?id=1622635726425463509&wfr=spider&for=pc)<br>
 M10--> J; M20 --> On; M30 --> C? <br>
-
+2019.1.24 [问剑5G！华为发布5G天罡芯片，折叠屏手机马上发布！](https://www.toutiao.com/a6649914811649884679/)<br>
 2019.1.24 VIVO 未来手机 <br>
 [vivo继续搞大事！2019神秘新机曝光：机身材质不一般](https://baijiahao.baidu.com/s?id=1622238813328296450&wfr=spider&for=pc)<br>
 这就是一款被视作“ 未来产品”的手机，它身上聚集了各种最新的前沿科技：5.99英寸的“真·全面屏”，屏占比达到 91%；全面屏发声技术、升降式前置摄像头、半屏指纹解锁技术加持，科技感十足。
@@ -736,7 +635,8 @@ redmi单独运营死磕到底！雷军更用8个字放话，意味着什么呢�
 []()<br>
 []()<br>
 
-
+# 手机屏幕
+[光鲜手机背后的屏幕江湖](https://www.toutiao.com/a6634879506840551950/)<br>
 
 # 产品管理
 
