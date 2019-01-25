@@ -61,6 +61,7 @@ https://github.com/cuijpus/helloworld/blob/master/big_data.md
 # <a id="tag-智慧安防" href="#tag-智慧安防">智慧安防</a>
 # <a id="tag-智慧金融" href="#tag-智慧金融">智慧金融</a>
 # <a id="tag-智慧工厂" href="#tag-智慧工厂">智慧工厂</a>
+2019.1.24 [眼神科技与富士康签署战略协议，面向工业4.0时代的AI落地](https://www.toutiao.com/a6649954644212580868/)<br>
 [华为携手石化盈科打造智能工厂2.0 ](https://e.huawei.com/cn/case-studies/cn/2017/201708011429)<br>
 [人工智能｜人工智能检测设备实现手机外观缺陷全自动检测](https://www.toutiao.com/a6642216398074413582/)<br>
 # <a id="tag-智能城市" href="#tag-智能城市">智能城市</a>
