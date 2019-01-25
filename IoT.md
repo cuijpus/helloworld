@@ -71,7 +71,7 @@ But，你说连就连，连起来有什么好处呢？<BR>
 
 # <a id="tag-智能工业（工业互联网IIoT)" href="#tag-智能工业（工业互联网IIoT)">智能工业（工业互联网IIoT)</a>
 [备受关注的工业物联网究竟能干什么？看这一篇就够了！](https://baijiahao.baidu.com/s?id=1597423692918893912&wfr=spider&for=pc)<br>
-
+[中国半导体产业的思考：物联网之智慧工厂的崛起](https://www.toutiao.com/a6648757323890164228/)<br>
 
 # <a id="tag-智能农业" href="#tag-智能农业">智能农业</a>
 # <a id="tag-智能物流" href="#tag-智能物流">智能物流</a>
