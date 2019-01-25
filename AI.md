@@ -80,6 +80,13 @@ https://github.com/cuijpus/helloworld/blob/master/big_data.md
 
 
 # <a id="tag-巨头AI战略" href="#tag-巨头AI战略">巨头AI战略</a>
+## BAT 
+[[人工智能】AI时代三足鼎立](https://www.toutiao.com/a6649896027438449165/)<BR>
+Ali: DNA：电商+支付，收集了大数据和发展出云计算，扩展了工业大脑和智慧城市。<br>
+Tencent: DNA: 社交+游戏，收集了大数据，扩展到智慧城市，智慧医疗等<br>
+Baidu: DNA: 搜索+广告，收集了大数据，开发了百度大脑，自动驾驶能力，开放；<br>
+![BAT三国](http://p1.pstatp.com/large/pgc-image/4aa6456e94b048f0aa348d6a8e9933b0)<BR>   
+   
 [【HC2018-Keynote-DAY1-徐直军 Eric Xu】华为人工智能发展战略](https://e.huawei.com/zh/material/onLineView?materialid=17f6dec7a32a473788a1da88d8ac50c8)<br>
 [百度在NLP领域都做了什么？](https://www.2cto.com/news/201702/597401.html)<br>
 
