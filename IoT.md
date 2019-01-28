@@ -10,6 +10,7 @@
    1. <a href="#tag-智能安防">智能安防</a>
    1. <a href="#tag-智能医疗">智能医疗</a>
    1. <a href="#tag-智能家居">智能家居</a>
+   1. <a href="#tag-智能城市">智能城市</a>
 1. <a href="#tag-行业应用">行业应用</a>
 1. <a href="#tag-政策">政策</a>
 1. <a href="#tag-IoT标准">IoT标准</a>
@@ -90,6 +91,13 @@ But，你说连就连，连起来有什么好处呢？<BR>
 # 智能家居
 [智能家居四大派系各不相同 谁更有发展？](http://www.zijin.net/news/tech/262304.html)<br>
 
+# <a id="tag-智能城市" href="#tag-智能城市">智能城市</a>
+
+## 智慧照明
+
+http://www.shuncom.com/
+
+
 # <a id="tag-行业应用" href="#tag-行业应用">行业应用</a>
 
 # <a id="tag-政策" href="#tag-政策">政策</a>
@@ -100,6 +108,7 @@ But，你说连就连，连起来有什么好处呢？<BR>
 面向基础设施和安全保障的领域，智能交通、智能电网、智能环保；<br>
 面向社会管理和民生服务的领域，智能安防、智能医疗、智能家居。<br>
 http://www.elecfans.com/d/609166.html <br>
+
 
 
 # <a id="tag-IoT标准" href="#tag-IoT标准">IoT标准</a>
