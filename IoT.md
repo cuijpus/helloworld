@@ -95,9 +95,18 @@ But，你说连就连，连起来有什么好处呢？<BR>
 
 ## 智慧照明
 <table>
-   <tr><td>智慧公司</td> <td>所在城市</td> <td>产品</td> <td>客户</td></tr>
+   <tr><td>智慧公司</td> <td>哪年成立</td> <td>所在城市</td> <td>产品</td> <td>客户</td></tr>
+   <tr>
+      <td>
+         <a href = "http://www.shuncom.com/">顺舟智能</a>
+      </td> 
+      <td>2004</td> 
+      <td>上海</td> 
+      <td>产品</td> 
+      <td>客户</td>
+   </tr>
 </table>
-http://www.shuncom.com/
+
 
 
 # <a id="tag-行业应用" href="#tag-行业应用">行业应用</a>
