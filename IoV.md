@@ -672,7 +672,7 @@ HEV:<BR>
     </tr>              
 </table>
 
-
+2019.1.28 [Waymo的“狂飙之路”｜深度](https://www.toutiao.com/a6650272231660192263/)<br>
 2019.1.10 [Apollo3.5 与企业定制版，百度自动驾驶的开放与落地](https://baijiahao.baidu.com/s?id=1622176955177933608&wfr=spider&for=pc)<br>
 2019.1.9 [三星在CES2019展示了互联网驾驶](https://smarthome.ofweek.com/2019-01/ART-91009-8110-30296737_3.html)<BR>
 互联网驾驶：
