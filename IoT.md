@@ -102,7 +102,7 @@ But，你说连就连，连起来有什么好处呢？<BR>
       </td> 
       <td>2004</td> 
       <td>上海</td> 
-      <td>产品</td> 
+      <td>Zigbee模块<br>NB-IoT模块<br>4G模块<br><方案><br></td> 
       <td>客户</td>
    </tr>
 </table>
