@@ -155,6 +155,15 @@ But，你说连就连，连起来有什么好处呢？<BR>
       <td> <a href = "http://www.modoutech.com/cpzx/">智慧市政、消防</a><br></td> 
       <td> </td>
    </tr>   
+   <tr>
+      <td>
+         <a href = "http://www.hixent.com/index.html">汇讯物联</a>
+      </td> 
+      <td>2017 <br> </td> 
+      <td>福州</td> 
+      <td> <a href = "http://www.hixent.com/view/system_solution.html">智慧照明方案</a><br></td> 
+      <td> </td>
+   </tr>    
 </table>
 
 
