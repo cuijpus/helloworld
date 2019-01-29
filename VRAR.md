@@ -49,6 +49,7 @@
 
 # 行业应用
 [人类交互方式的终极形态：扩展现实（XR） ](https://www.seoxiehui.cn/article-107497-1.html)<br>
+![XR](http://www.elecfans.com/uploads/allimg/171026/11060222U-0.png)<br>
 ![应用场景](https://www.seoxiehui.cn/data/attachment/portal/201901/28/161244vc7dkdkdjbacjz7q.jpg)<br>
 ![应用场景2](https://www.seoxiehui.cn/data/attachment/portal/201901/28/161244ij518cgj0kc63n5c.jpg)<br>
 
