@@ -91,6 +91,31 @@ But，你说连就连，连起来有什么好处呢？<BR>
 
 # <a id="tag-智能城市" href="#tag-智能城市">智能城市</a>
 
+## <a id="tag-智能水表" href="#tag-智能水表">智能水表</a>
+<table>
+   <tr><td>智慧水表公司</td> <td>哪年成立</td> <td>所在城市</td> <td>产品</td> <td>客户</td></tr>
+   <tr>
+      <td>
+         <a href = "http://www.huizhong.co/">汇中股份</a>
+      </td> 
+      <td>1994</td> 
+      <td>唐山</td> 
+      <td>
+         <a href = "http://www.huizhong.co/cphjjfa/index.aspx?nodeid=14">各种水表</a><br></td> 
+      <td></td>
+   </tr> 
+   <tr>
+      <td>
+         <a href = "http://www.chinawatermeter.com/index.html">宁波水表</a>
+      </td> 
+      <td>1958</td> 
+      <td>宁波</td> 
+      <td>
+         <a href = "http://www.chinawatermeter.com/chanpinzhongxin/">各种水表</a><br></td> 
+      <td></td>
+   </tr>   
+</table>
+
 ## <a id="tag-智能照明" href="#tag-智能照明">智能照明</a>
 <table>
    <tr><td>智慧公司</td> <td>哪年成立</td> <td>所在城市</td> <td>产品</td> <td>客户</td></tr>
