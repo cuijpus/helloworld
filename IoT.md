@@ -87,7 +87,6 @@ But，你说连就连，连起来有什么好处呢？<BR>
 # <a id="tag-智能安防" href="#tag-智能安防">智能安防</a>
 # <a id="tag-智能医疗" href="#tag-智能医疗">智能医疗</a>
 # <a id="tag-智能家居" href="#tag-智能家居">智能家居</a>
-# 智能家居
 [智能家居四大派系各不相同 谁更有发展？](http://www.zijin.net/news/tech/262304.html)<br>
 
 # <a id="tag-智能城市" href="#tag-智能城市">智能城市</a>
