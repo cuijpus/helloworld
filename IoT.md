@@ -12,6 +12,8 @@
    1. <a href="#tag-智能家居">智能家居</a>
    1. <a href="#tag-智能城市">智能城市</a>
       1. <a href="#tag-智能水表">智能水表</a>
+      1. <a href="#tag-智能电表">智能电表</a>
+      1. <a href="#tag-智能气表">智能气表</a>
       1. <a href="#tag-智能照明">智能照明</a>
 1. <a href="#tag-行业应用">行业应用</a>
 1. <a href="#tag-政策">政策</a>
@@ -176,7 +178,9 @@ But，你说连就连，连起来有什么好处呢？<BR>
    </tr>   
 </table>
 
+## <a id="tag-智能电表" href="#tag-智能电表">智能电表</a>
 
+## <a id="tag-智能气表" href="#tag-智能气表">智能气表</a>
 
 ## <a id="tag-智能照明" href="#tag-智能照明">智能照明</a>
 <table>
