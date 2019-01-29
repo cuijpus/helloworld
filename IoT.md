@@ -127,8 +127,18 @@ But，你说连就连，连起来有什么好处呢？<BR>
       <td>厦门</td> 
       <td> <a href = "http://www.cheerzing.com/ProductList/130.html">无线模组</a><br></td> 
       <td> </td>
-   </tr>      
+   </tr>   
+   <tr>
+      <td>
+         <a href = "http://www.aodgroup.net/">山东中微</a>
+      </td> 
+      <td> <br> </td> 
+      <td>潍坊</td> 
+      <td> <a href = "http://www.aodgroup.net/product/">智能路灯</a><br></td> 
+      <td> </td>
+   </tr>    
 </table>
+
 
 
 # <a id="tag-行业应用" href="#tag-行业应用">行业应用</a>
