@@ -33,6 +33,7 @@
 2018.12.17 [这8家车企2018冰雪两重天 销量第一你绝对猜不到](https://baijiahao.baidu.com/s?id=1620051202791030750&wfr=spider&for=pc)<br>
 
 # <a id="tag-行业报告" href="#tag-行业报告">行业报告</a>
+2019.1.28 [车联网产业发展报告（2019）](https://baijiahao.baidu.com/s?id=1623872649097427543&wfr=spider&for=pc)<br>
 2019.1.23 [进军2020！智能网联汽车是车联网的载体，大制造业能力彰显！](https://www.toutiao.com/a6649625206572712456/)<br>
 ![智能网联汽车是车联网的载体，大制造业能力彰显！](http://p1.pstatp.com/large/pgc-image/55753a097bd548fd9b48e7f163dae98c)<br>
 2018.12 [车联网白皮书（2018年）](http://www.caict.ac.cn/kxyj/qwfb/bps/201812/P020181218510826089278.pdf)<br>
