@@ -95,6 +95,16 @@ But，你说连就连，连起来有什么好处呢？<BR>
    <tr><td>智慧公司</td> <td>哪年成立</td> <td>所在城市</td> <td>产品</td> <td>客户</td></tr>
    <tr>
       <td>
+         <a href = "http://www.zjdyiot.com/">大云物联</a>
+      </td> 
+      <td>2016</td> 
+      <td>杭州</td> 
+      <td>
+         <a href = "http://www.zjdyiot.com/product.html">智慧路灯</a><br></td> 
+      <td></td>
+   </tr>     
+   <tr>
+      <td>
          <a href = "http://www.telchina.com.cn/">泰华智慧</a>
       </td> 
       <td>2002</td> 
