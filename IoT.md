@@ -104,8 +104,21 @@ But，你说连就连，连起来有什么好处呢？<BR>
       <td>上海</td> 
       <td><a href = "http://www.shuncom.com/document.html">Zigbee模块</a> <br>NB-IoT模块<br>4G模块<br>
          <a href = "http://www.shuncom.com/Plan.html">方案</a><br></td> 
-      <td>客户</td>
+      <td></td>
    </tr>
+   <tr>
+      <td>
+         <a href = "http://www.isoftstone.com//">软通动力</a>
+      </td> 
+      <td> 
+         2001<br>
+         50000人
+      </td> 
+      <td>北京</td> 
+      <td>
+         <a href = "http://www.isoftstone.com/glist/index.aspx?nodeid=713">方案</a><br></td> 
+      <td>N多</td>
+   </tr>   
 </table>
 
 
