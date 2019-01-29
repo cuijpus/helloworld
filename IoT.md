@@ -115,6 +115,26 @@ But，你说连就连，连起来有什么好处呢？<BR>
          <a href = "http://www.chinawatermeter.com/chanpinzhongxin/">各种水表</a><br></td> 
       <td></td>
    </tr>   
+   <tr>
+      <td>
+         <a href = "http://www.prajna-iot.com/"> 福水智联</a>
+      </td> 
+      <td>2017</td> 
+      <td>福州</td> 
+      <td>
+         <a href = "http://www.prajna-iot.com/product.aspx">各种水表</a><br></td> 
+      <td></td>
+   </tr>  
+   <tr>
+      <td>
+         <a href = "http://www.ytsanchuan.com/"> 三川智慧</a>
+      </td> 
+      <td>2010</td> 
+      <td>鹰潭</td> 
+      <td>
+         <a href = "http://www.ytsanchuan.com/product.aspx">各种水表</a><br></td> 
+      <td></td>
+   </tr>    
 </table>
 
 ## <a id="tag-智能照明" href="#tag-智能照明">智能照明</a>
