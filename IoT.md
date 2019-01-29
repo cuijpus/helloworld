@@ -155,7 +155,29 @@ But，你说连就连，连起来有什么好处呢？<BR>
          <a href = "http://www.seck.com.cn ">燃气表，水表</a><br></td> 
       <td></td>
    </tr>    
+   <tr>
+      <td>
+         <a href = "http://www.aql.cn/"> 智慧水务</a>
+      </td> 
+      <td>1998</td> 
+      <td>重庆</td> 
+      <td>
+         <a href = "http://www.aql.cn/cpcenter/yxsb/">水表</a><br></td> 
+      <td></td>
+   </tr>   
+   <tr>
+      <td>
+         <a href = "http://www.hongdachip.com/"> 宏达瑞信</a>
+      </td> 
+      <td></td> 
+      <td>天津</td> 
+      <td>
+         <a href = "http://www.aql.cn/cpcenter/yxsb/">热表</a><br></td> 
+      <td></td>
+   </tr>   
 </table>
+
+
 
 ## <a id="tag-智能照明" href="#tag-智能照明">智能照明</a>
 <table>
