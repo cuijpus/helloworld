@@ -119,8 +119,16 @@ But，你说连就连，连起来有什么好处呢？<BR>
          <a href = "http://www.isoftstone.com/glist/index.aspx?nodeid=713">智慧路灯综合管理平台</a><br></td> 
       <td>N多</td>
    </tr>   
+   <tr>
+      <td>
+         <a href = "http://www.cheerzing.com/">骐俊股份</a>
+      </td> 
+      <td> 2012<br> </td> 
+      <td>厦门</td> 
+      <td> <a href = "http://www.cheerzing.com/ProductList/130.html">无线模组</a><br></td> 
+      <td> </td>
+   </tr>      
 </table>
-
 
 
 # <a id="tag-行业应用" href="#tag-行业应用">行业应用</a>
