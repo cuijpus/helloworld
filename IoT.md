@@ -11,6 +11,7 @@
    1. <a href="#tag-智能医疗">智能医疗</a>
    1. <a href="#tag-智能家居">智能家居</a>
    1. <a href="#tag-智能城市">智能城市</a>
+      1. <a id="tag-智能照明" href="#tag-智能照明">智能照明</a>
 1. <a href="#tag-行业应用">行业应用</a>
 1. <a href="#tag-政策">政策</a>
 1. <a href="#tag-IoT标准">IoT标准</a>
@@ -90,7 +91,7 @@ But，你说连就连，连起来有什么好处呢？<BR>
 
 # <a id="tag-智能城市" href="#tag-智能城市">智能城市</a>
 
-## 智慧照明
+## <a id="tag-智能照明" href="#tag-智能照明">智能照明</a>
 <table>
    <tr><td>智慧公司</td> <td>哪年成立</td> <td>所在城市</td> <td>产品</td> <td>客户</td></tr>
    <tr>
