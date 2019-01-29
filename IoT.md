@@ -116,7 +116,7 @@ But，你说连就连，连起来有什么好处呢？<BR>
       </td> 
       <td>北京</td> 
       <td>
-         <a href = "http://www.isoftstone.com/glist/index.aspx?nodeid=713">方案</a><br></td> 
+         <a href = "http://www.isoftstone.com/glist/index.aspx?nodeid=713">智慧路灯综合管理平台</a><br></td> 
       <td>N多</td>
    </tr>   
 </table>
