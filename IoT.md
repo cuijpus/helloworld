@@ -11,7 +11,7 @@
    1. <a href="#tag-智能医疗">智能医疗</a>
    1. <a href="#tag-智能家居">智能家居</a>
    1. <a href="#tag-智能城市">智能城市</a>
-      1. <a id="tag-智能照明" href="#tag-智能照明">智能照明</a>
+      1. <a href="#tag-智能照明">智能照明</a>
 1. <a href="#tag-行业应用">行业应用</a>
 1. <a href="#tag-政策">政策</a>
 1. <a href="#tag-IoT标准">IoT标准</a>
