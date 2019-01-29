@@ -146,6 +146,15 @@ But，你说连就连，连起来有什么好处呢？<BR>
       <td> <a href = "http://www.dong-zhi.com/inside.aspx?mid=5&id=21">智慧城市解决方案</a><br></td> 
       <td>机关，公检法，<br>各种行业智慧化 </td>
    </tr>     
+   <tr>
+      <td>
+         <a href = "http://www.modoutech.com/about/">魔豆科技</a>
+      </td> 
+      <td>2015 <br> </td> 
+      <td>温州</td> 
+      <td> <a href = "http://www.modoutech.com/cpzx/">智慧市政、消防</a><br></td> 
+      <td> </td>
+   </tr>   
 </table>
 
 
