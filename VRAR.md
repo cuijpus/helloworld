@@ -43,10 +43,13 @@
 
 # 5G 给 带来 VR 复活，和广泛应用
 [云VR下，所有厂商都在合流！C端VR真的要活了？](https://baijiahao.baidu.com/s?id=1616645906622093641&wfr=spider&for=pc)<BR>
+![应用场景](https://www.seoxiehui.cn/data/attachment/portal/201901/28/161244vc7dkdkdjbacjz7q.jpg)<br>
+![应用场景2](https://www.seoxiehui.cn/data/attachment/portal/201901/28/161244ij518cgj0kc63n5c.jpg)<br>
 
 # 2C应用
 
 # 行业应用
+[人类交互方式的终极形态：扩展现实（XR） ](https://www.seoxiehui.cn/article-107497-1.html)<br>
 
 # 平台 
 
