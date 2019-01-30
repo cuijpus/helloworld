@@ -179,6 +179,30 @@ But，你说连就连，连起来有什么好处呢？<BR>
 </table>
 
 ## <a id="tag-智能电表" href="#tag-智能电表">智能电表</a>
+<table>
+   <tr><td>智慧电表公司</td> <td>哪年成立</td> <td>所在城市</td> <td>产品</td> <td>客户</td></tr>
+   <tr>
+      <td>
+         <a href = "http://www.holleymeter.com/">华立科技</a>
+      </td> 
+      <td>1986</td> 
+      <td>杭州</td> 
+      <td>
+         <a href = "http://www.holleymeter.com/index.php/product">智能电表，智能水表，智能燃气表</a><br></td> 
+      <td></td>
+   </tr> 
+   <tr>
+      <td>
+         <a href = "http://www.wasion.cn/">威胜集团</a>
+      </td> 
+      <td>2000</td> 
+      <td>湖南</td> 
+      <td>
+         <a href = "http://www.wasion.cn/CN/products.htm">电表</a><br></td> 
+      <td></td>
+   </tr>   
+</table>
+
 
 ## <a id="tag-智能气表" href="#tag-智能气表">智能气表</a>
 
