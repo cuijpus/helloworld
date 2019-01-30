@@ -234,16 +234,6 @@ But，你说连就连，连起来有什么好处呢？<BR>
       <td>2005</td> 
       <td>郑州</td> 
       <td>
-         <a href = http://www.suntront.com/product/product01.html">水、电、气表</a><br></td> 
-      <td></td>
-   </tr>  
-   <tr>
-      <td>
-         <a href = "http://www.suntront.com/">新天科技</a>
-      </td> 
-      <td>2005</td> 
-      <td>郑州</td> 
-      <td>
          <a href = "http://www.suntront.com/product/product01.html">水、电、气表</a><br></td> 
       <td></td>
    </tr>   
