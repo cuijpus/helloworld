@@ -67,6 +67,8 @@ But，你说连就连，连起来有什么好处呢？<BR>
 
 # <a id="tag-IoT总览图" href="#tag-IoT总览图">IoT总览图</a>
 总览图 http://mattturck.com/wp-content/uploads/2018/02/2018_Matt_Turck_IoT_Landscape_Final.png <br>
+[预见2019：《中国物联网产业全景图谱》（附现状、竞争格局、发展前景等）](https://t.qianzhan.com/caijing/detail/190124-eec6836a.html)<br>
+
 
 # <a id="tag-IoT能干什么" href="#tag-IoT能干什么">IoT能干什么</a>
 [国家战略中提到了9个物联网的重点示范工程](https://www.toutiao.com/a6642162419395199492/)<br>
