@@ -14,7 +14,7 @@
       1. <a href="#tag-智能水表">智能水表</a>
       1. <a href="#tag-智能电表">智能电表</a>
       1. <a href="#tag-智能气表">智能气表</a>
-      1. <a href="#tag-智能照明">智能照明</a>
+      1. <a href="#tag-智能路灯">智能路灯</a>
 1. <a href="#tag-行业应用">行业应用</a>
 1. <a href="#tag-政策">政策</a>
 1. <a href="#tag-IoT标准">IoT标准</a>
@@ -250,7 +250,7 @@ But，你说连就连，连起来有什么好处呢？<BR>
 </table>
 
 
-## <a id="tag-智能照明" href="#tag-智能照明">智能照明</a>
+## <a id="tag-智能路灯" href="#tag-智能路灯">智能路灯</a>
 <table>
    <tr><td>智慧公司</td> <td>哪年成立</td> <td>所在城市</td> <td>产品</td> <td>客户</td></tr>
    <tr>
@@ -343,6 +343,50 @@ But，你说连就连，连起来有什么好处呢？<BR>
    </tr>    
 </table>
 
+## <a id="tag-智能停车" href="#tag-智能停车">智能停车</a>
+<table>
+   <tr><td>智慧停车公司</td> <td>哪年成立</td> <td>所在城市</td> <td>产品</td> <td>客户</td></tr>
+   <tr>
+      <td>
+         <a href = "http://www.holleymeter.com/">金卡智能</a>
+      </td> 
+      <td>1997</td> 
+      <td>温州</td> 
+      <td>
+         <a href = " ">NB-IoT智能燃气表</a><br></td> 
+      <td></td>
+   </tr> 
+   <tr>
+      <td>
+         <a href = "http://www.viewshine.cn/">威星智能</a>
+      </td> 
+      <td>2005</td> 
+      <td>杭州</td> 
+      <td>
+         <a href = "http://www.viewshine.cn/product.aspx">燃气表</a><br></td> 
+      <td></td>
+   </tr>   
+   <tr>
+      <td>
+         <a href = "http://www.suntront.com/">新天科技</a>
+      </td> 
+      <td>2005</td> 
+      <td>郑州</td> 
+      <td>
+         <a href = "http://www.suntront.com/product/product01.html">水、电、气表</a><br></td> 
+      <td></td>
+   </tr>   
+   <tr>
+      <td>
+         <a href = "www.enn.cn">新奥集团</a>
+      </td> 
+      <td>1992</td> 
+      <td>廊坊</td> 
+      <td>
+         <a href = "">水、电、气表</a><br></td> 
+      <td></td>
+   </tr>   
+</table>
 
 
 # <a id="tag-行业应用" href="#tag-行业应用">行业应用</a>
