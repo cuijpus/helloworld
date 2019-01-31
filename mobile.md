@@ -536,6 +536,8 @@ redmi单独运营死磕到底！雷军更用8个字放话，意味着什么呢�
 
 # 产品管理
 
+
+
 # 供应链
 
 [手机全面屏/人脸识别/无线充电/3D玻璃等17大功能产业图(超全面 必收藏) ](https://mp.weixin.qq.com/s?__biz=MzA5NDQ2NzQyMg==&mid=2662578889&idx=6&sn=144cc1c9ea123c3c7801eaaeba0de538&chksm=8b093ef8bc7eb7ee995efbbcc4d651a2b793110456927a48ba89679ab18f04f5d75f0b03e383&scene=0#rd)<br>
@@ -552,4 +554,5 @@ OLED（Organic Light-Emitting Diode，有机发光二极管），可以“自发
 AMOLED: Active Matrix Organic Light-Emitting Diode, 有源矩阵自发光二极管
 AMOLED屏幕的构造有三层，AMOLED屏幕+TouchScreenPanel(触控屏面板)+外保护玻璃。AMOLED是OLED技术的一种，OLED代表着它是自发光显示器，利用多层有机化合物来实现独立R、G、B三色光。
 
+[一张图看懂手机CMF史 ](https://www.sohu.com/a/250437863_119960)<br>
 
