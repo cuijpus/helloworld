@@ -351,42 +351,42 @@ But，你说连就连，连起来有什么好处呢？<BR>
    <tr><td>智慧停车公司</td> <td>哪年成立</td> <td>所在城市</td> <td>产品</td> <td>客户</td></tr>
    <tr>
       <td>
-         <a href = "http://www.holleymeter.com/">金卡智能</a>
+         <a href = "http://www.szfangle.com/">方格尔科技</a>
       </td> 
-      <td>1997</td> 
-      <td>温州</td> 
+      <td></td> 
+      <td>深圳</td> 
       <td>
-         <a href = " ">NB-IoT智能燃气表</a><br></td> 
+         <a href = " http://www.szfangle.com/jiejuefangan/">智慧停车管理</a><br></td> 
       <td></td>
    </tr> 
    <tr>
       <td>
-         <a href = "http://www.viewshine.cn/">威星智能</a>
+         <a href = "http://www.innotek-co.com/">创泰科技</a>
       </td> 
-      <td>2005</td> 
+      <td></td> 
       <td>杭州</td> 
       <td>
-         <a href = "http://www.viewshine.cn/product.aspx">燃气表</a><br></td> 
+         <a href = "http://www.innotek-co.com/index.php/List/cid/3">智慧停车管理</a><br></td> 
       <td></td>
    </tr>   
    <tr>
       <td>
-         <a href = "http://www.suntront.com/">新天科技</a>
+         <a href = "http://www.ecaray.com/#/index">忆车科技</a>
       </td> 
-      <td>2005</td> 
-      <td>郑州</td> 
+      <td></td> 
+      <td>深圳</td> 
       <td>
-         <a href = "http://www.suntront.com/product/product01.html">水、电、气表</a><br></td> 
+         <a href = "http://www.ecaray.com/#/product/cuntry?active=5">智慧停车运营</a><br></td> 
       <td></td>
    </tr>   
    <tr>
       <td>
-         <a href = "www.enn.cn">新奥集团</a>
+         <a href = "http://www.sutonginfo.com/">上海苏通</a>
       </td> 
-      <td>1992</td> 
-      <td>廊坊</td> 
+      <td></td> 
+      <td>上海</td> 
       <td>
-         <a href = "">水、电、气表</a><br></td> 
+         <a href = "http://www.sutonginfo.com/room.html">NB智能停车</a><br></td> 
       <td></td>
    </tr>   
 </table>
