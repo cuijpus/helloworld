@@ -15,6 +15,7 @@
       1. <a href="#tag-智能电表">智能电表</a>
       1. <a href="#tag-智能气表">智能气表</a>
       1. <a href="#tag-智能路灯">智能路灯</a>
+      1. <a href="#tag-智能停车">智能停车</a>
 1. <a href="#tag-行业应用">行业应用</a>
 1. <a href="#tag-政策">政策</a>
 1. <a href="#tag-IoT标准">IoT标准</a>
