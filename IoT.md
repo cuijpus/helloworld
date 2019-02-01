@@ -89,7 +89,7 @@ But，你说连就连，连起来有什么好处呢？<BR>
       <td>
          <a href = "http://www.aotoso.com/">奥特信息</a>
       </td> 
-      <td>2009> 
+      <td>2009</td> 
       <td>银川</td> 
       <td>
          <a href = "http://www.aotoso.com/webcooperation.html">奶牛发情管理</a><br></td> 
@@ -119,7 +119,7 @@ But，你说连就连，连起来有什么好处呢？<BR>
       <td>
          <a href = "http://www.yunyangdata.com/">云洋数据</a>
       </td> 
-      <td>2013> 
+      <td>2013</td> 
       <td>北京</td> 
       <td>
          <a href = "http://www.yunyangdata.com/dxsf">智慧大棚</a><br></td> 
