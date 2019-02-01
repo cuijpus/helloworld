@@ -127,7 +127,7 @@ But，你说连就连，连起来有什么好处呢？<BR>
    </tr>   
 </table>
 
-![sampel](http://img.bj.wezhan.cn/content/sitefiles/2029992/images/8054658_%E5%9B%BE%E7%89%871.png)<br>
+![sampel](http://p0.ifengimg.com/pmop/2018/0710/33120E0D4A7829F081A57CC54C5AEC2E3F8AA425_size24_w500_h297.jpeg)<br>
 
 # <a id="tag-智能物流" href="#tag-智能物流">智能物流</a>
 
