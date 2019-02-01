@@ -125,9 +125,31 @@ But，你说连就连，连起来有什么好处呢？<BR>
          <a href = "http://www.yunyangdata.com/dxsf">智慧大棚</a><br></td> 
       <td></td>
    </tr>   
+   <tr>
+      <td>
+         <a href = "http://www.hoire.cn/">海睿信息</a>
+      </td> 
+      <td></td> 
+      <td>广州</td> 
+      <td>
+         <a href = "http://www.hoire.cn/Product.aspx">环境监测、智能灌溉、生产管理</a><br></td> 
+      <td></td>
+   </tr>   
+   <tr>
+      <td>
+         <a href = "">智灵通科</a>
+      </td> 
+      <td></td> 
+      <td>成都</td> 
+      <td>
+         <a href = "http://www.sohu.com/a/205930316_403354">白蚁监测</a><br></td> 
+      <td></td>
+   </tr>    
 </table>
 
 ![sampel](http://p0.ifengimg.com/pmop/2018/0710/33120E0D4A7829F081A57CC54C5AEC2E3F8AA425_size24_w500_h297.jpeg)<br>
+![sample2](http://5b0988e595225.cdn.sohucs.com/images/20171122/1c2c25243536459c9867922c2a4fbfdf.jpeg)<br>
+
 
 # <a id="tag-智能物流" href="#tag-智能物流">智能物流</a>
 
