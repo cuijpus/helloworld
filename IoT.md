@@ -82,7 +82,53 @@ But，你说连就连，连起来有什么好处呢？<BR>
 [备受关注的工业物联网究竟能干什么？看这一篇就够了！](https://baijiahao.baidu.com/s?id=1597423692918893912&wfr=spider&for=pc)<br>
 [中国半导体产业的思考：物联网之智慧工厂的崛起](https://www.toutiao.com/a6648757323890164228/)<br>
 
-# <a id="tag-智能农业" href="#tag-智能农业">智能农业</a>
+## <a id="tag-智能农业" href="#tag-智能农业">智能农业</a>
+<table>
+   <tr><td>智慧农牧业公司</td> <td>哪年成立</td> <td>所在城市</td> <td>产品</td> <td>客户</td></tr>
+   <tr>
+      <td>
+         <a href = "http://www.aotoso.com/">奥特信息</a>
+      </td> 
+      <td>2009> 
+      <td>银川</td> 
+      <td>
+         <a href = "http://www.aotoso.com/webcooperation.html">奶牛发情管理</a><br></td> 
+      <td></td>
+   </tr> 
+   <tr>
+      <td>
+         <a href = "https://www.murata.com/zh-cn?intcid5=com_xxx_xxx_cmn_hd_xxx">村田</a>
+      </td> 
+      <td></td> 
+      <td>日本</td> 
+      <td>
+         <a href = "https://www.murata.com/zh-cn?intcid5=com_xxx_xxx_cmn_hd_xxx">各种传感器</a><br></td> 
+      <td></td>
+   </tr>   
+   <tr>
+      <td>
+         <a href = "http://www.metos.at/">pessl instruments</a>
+      </td> 
+      <td></td> 
+      <td>澳大利亚</td> 
+      <td>
+         <a href = "http://metos.at/what-we-do/">硬件，软件，方案<br></td> 
+      <td></td>
+   </tr>   
+   <tr>
+      <td>
+         <a href = "http://www.yunyangdata.com/">云洋数据</a>
+      </td> 
+      <td>2013> 
+      <td>北京</td> 
+      <td>
+         <a href = "http://www.yunyangdata.com/dxsf">智慧大棚</a><br></td> 
+      <td></td>
+   </tr>   
+</table>
+
+![sampel](http://img.bj.wezhan.cn/content/sitefiles/2029992/images/8054658_%E5%9B%BE%E7%89%871.png)<br>
+
 # <a id="tag-智能物流" href="#tag-智能物流">智能物流</a>
 
 # <a id="tag-智能交通" href="#tag-智能交通">智能交通</a>
