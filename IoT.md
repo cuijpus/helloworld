@@ -154,6 +154,16 @@ But，你说连就连，连起来有什么好处呢？<BR>
       <td>
          <a href = "http://www.corewell.cn/product">硬件、软件产品</a><br></td> 
       <td></td>
+   </tr>    
+   <tr>
+      <td>
+         <a href = "http://www.nxt.com.cn/">农信通集团</a>
+      </td> 
+      <td>2002</td> 
+      <td>北京</td> 
+      <td>
+         <a href = "http://www.corewell.cn/product">硬件、软件产品</a><br></td> 
+      <td></td>
    </tr>     
 </table>
 
