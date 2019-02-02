@@ -4,6 +4,7 @@
 1. <a href="#tag-2019产品发布会">2019产品发布会</a>
 1. <a href="#tag-2019技术发布会">2019技术发布会</a>
 1. <a href="#tag-全机智能化">全机智能化</a>
+1. <a href="#tag-软件服务">软件服务</a>
 1. <a href="#tag-18年手机争奇斗艳">18年手机争奇斗艳</a>
 
 # 19年手机
@@ -207,6 +208,8 @@ redmi单独运营死磕到底！雷军更用8个字放话，意味着什么呢�
 [ColorOS智能助理Breeno惊艳亮相，功能强大更为实用](https://baijiahao.baidu.com/s?id=1620989707650815041&wfr=spider&for=pc)<br>
 [OPPO发布智能助理Breeno 推出“引力计划”赋能开发者](https://baijiahao.baidu.com/s?id=1620976774049292476&wfr=spider&for=pc)<br>
 [科技理想主义+智慧生命体YOYO，荣耀这次放大招了 ](http://www.sohu.com/a/272619026_116157)<br>
+
+# <a id="tag-软件服务" href="#tag-软件服务">软件服务</a>
 
 # 利润趋势
 
