@@ -19,7 +19,7 @@
     </tr>
     <tr>
         <th>三星</th>
-        <th> M系列<br>(1.28)<br></th> <th> S10<br>(2.20)<br></th> <th></th> <th></th> <th></th> <th></th>
+        <th> M系列<br>(1.28)<br></th> <th> S10<br>折叠<br>5G<br>(2.20)<br></th> <th></th> <th></th> <th></th> <th></th>
         <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>
     <tr>
@@ -29,7 +29,7 @@
     </tr>
     <tr>
         <th>华为</th>
-        <th></th> <th>折叠<br>(2.24)</th> <th></th> <th></th> <th></th> <th></th>
+        <th></th> <th>折叠<br>5G<br>(2.24)</th> <th></th> <th></th> <th></th> <th></th>
         <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>
     <tr>
