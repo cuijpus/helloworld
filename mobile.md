@@ -29,7 +29,7 @@
     </tr>
     <tr>
         <th>华为</th>
-        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th></th> <th>折叠<br>(2.24)</th> <th></th> <th></th> <th></th> <th></th>
         <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>
     <tr>
