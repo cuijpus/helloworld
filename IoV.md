@@ -51,6 +51,8 @@
 [Breakdown of self-driving car industry in China](https://medium.com/@fisher.jianyu.shi/breakdown-of-chinese-self-driving-car-industry-dd20deea7e73)<br>
 ![Overview](https://cdn-images-1.medium.com/max/800/1*YtowBkNiAJs0xnSSOOgCwg.png)<br>
 
+[百度阿里腾讯、京东华为滴滴，汽车网联科技争夺激烈！谁能胜出？](https://www.toutiao.com/a6654048751235105291/)<br>
+
 
 # <a id="tag-电动汽车类型" href="#tag-电动汽车类型">电动汽车类型</a>
 <table>
