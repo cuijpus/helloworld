@@ -289,6 +289,7 @@ Baidu: DNA: 搜索+广告，收集了大数据，开发了百度大脑，自动�
 [百度Paddle深度学习平台](https://github.com/PaddlePaddle/Paddle)<BR>
 
 # <a id="tag-业内动态" href="#tag-业内动态">业内动态</a>
+2019.2.12 [辩论人机大战：IBM的AI辩手令人印象深刻 但还是输了](http://tech.163.com/19/0212/15/E7QUM0VO00098IEO.html)<br>
 2019.2.12 [特朗普签署美国AI发展高层战略：我们不能再傲慢自大](http://tech.163.com/19/0212/11/E7QFNCJ500098IEO.html)<br>
 2019.1.10 [有这么一群人，他们通过AI撬动世界！](http://blog.itpub.net/29829936/viewspace-2375328/)<br>
 2018.12.20 [百度成立AI产业研究中心 与IDC联合发布《百度大脑领导力白皮书》](https://ai.bdstatic.com/file/37FB772329554EAFAE798FE0E11D1001)<br>
