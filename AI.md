@@ -37,6 +37,7 @@
 
 
 # <a id="tag-AI能干什么？" href="#tag-AI能干什么？">AI能干什么？</a>
+[在未来和AI争夺工作的16个实用技巧](http://tech.163.com/19/0211/10/E7NQMEC600098IEO.html)<br>
 [《人工智能发展白皮书-产业应用篇（2018年）》](http://www.caict.ac.cn/kxyj/qwfb/bps/201812/P020181227308307634492.pdf)<br>
 ![人工智能产业应用视图](http://exhibition.cbdio.com/upload/images/2019/1/4/411303702.jpg)<br>
 
