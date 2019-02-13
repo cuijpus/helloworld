@@ -50,7 +50,7 @@
     </tr>  
     <tr>
         <th>XiaoMi</th>
-        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th></th> <th>小米9<br>(2)</th> <th></th> <th></th> <th></th> <th></th>
         <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>  
     <tr>
@@ -120,7 +120,7 @@
     </tr>    
 </table>
 
-
+2019.2.13 [小米将于2月20日举行发布会 正式推出小米9](http://mobile.163.com/19/0213/10/E7SUJE6S0011819H.html)<br>
 2019.2.20 [三星Galaxy S10系列将于2月20日发布 同时将公开全功能折叠手机](https://m.zol.com.cn/toutiao/9660266.html)<br>
 2019.1.28 [三星M系列上线印度官网，1月28日正式发布](https://baijiahao.baidu.com/s?id=1622635726425463509&wfr=spider&for=pc)<br>
 M10--> J; M20 --> On; M30 --> C? <br>
