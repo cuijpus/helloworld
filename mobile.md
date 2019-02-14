@@ -94,7 +94,7 @@
     </tr>     
     <tr>
         <th>OPPO</th>
-        <th> 十倍变焦<br>区域FOD<br>(1.16)</th> <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th> 十倍变焦<br>区域FOD<br>(1.16)</th> <th>MWC<br>创新大会<br>(2.23)</th> <th></th> <th></th> <th></th> <th></th>
         <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>   
     <tr>
