@@ -230,6 +230,9 @@ redmi单独运营死磕到底！雷军更用8个字放话，意味着什么呢�
 # RCS 增值
 [juphune 专注于为运营商,通信设备制造商、行业用户提供融合通信 RCS 客户端方案](http://rcs.juphoon.com/cn/)<br>
 ![RCS arch](http://rcs.juphoon.com/style/image/rcs/RCS%20jiagoutu.png)<br>
+2018.7.3 [中国移动推动RCS融合通信技术，为运营商“去管道化”愿景再进一程](http://m.elecfans.com/article/705112.html)<BR>
+2018.1.13 [“短信”不见了？华为联合谷歌推广RCS](https://baijiahao.baidu.com/s?id=1589933046666588599&wfr=spider&for=pc)<BR>
+2017.7.19 [进军5G，部署RCS更加紧迫 ](http://m.elecfans.com/article/705112.html)<BR>
 
 # 短信 增值
 [小源科技](http://www.bizport.cn/)<br>
