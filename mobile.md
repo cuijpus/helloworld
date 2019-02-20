@@ -20,7 +20,7 @@
     </tr>
     <tr>
         <th>三星</th>
-        <th> M系列<br>(1.28)<br></th> <th> S10<br>打孔屏<br>三摄<br>FOD<br>折叠<br>5G<br>(2.20)<br></th> <th></th> <th></th> <th></th> <th></th>
+        <th> M系列<br>(1.28)<br></th> <th> S10<br>855<br>打孔屏<br>三摄<br>FOD<br>折叠<br>5G<br>(2.20)<br></th> <th></th> <th></th> <th></th> <th></th>
         <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>
     <tr>
@@ -45,12 +45,12 @@
     </tr>   
     <tr>
         <th>VIVO</th>
-        <th></th> <th></th> <th>IQOO<br>(3.1)</th> <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th>IQOO<br>855<br>12GB<br>44W快充<br>(3.1)</th> <th></th> <th></th> <th></th>
         <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>  
     <tr>
         <th>XiaoMi</th>
-        <th></th> <th>小米9<br>水滴屏<br>三摄<br>Game<br>(2.20)</th> <th></th> <th></th> <th></th> <th></th>
+        <th></th> <th>小米9<br>855<br>水滴屏<br>三摄<br>Game<br>(2.20)</th> <th></th> <th></th> <th></th> <th></th>
         <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>  
     <tr>
