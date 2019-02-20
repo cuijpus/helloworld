@@ -495,6 +495,9 @@ redmi单独运营死磕到底！雷军更用8个字放话，意味着什么呢�
     </tr>     
 </table>
 
+# Xiaomi手机产品线
+![Xiaomi产品线](http://p3.pstatp.com/large/pgc-image/RIUglCSBQIQA3X)<br>
+
 2018.12.26 [Honor V20](https://www.vmall.com/product/10086507785579.html)<BR>
 2018.12.17 [3099 元起 华为nova4系列年度旗舰正式发布](https://baijiahao.baidu.com/s?id=1620087222532657992&wfr=spider&for=pc)<br>
 2018.12.11 [一环双屏三摄定江山 vivo NEX 双屏版评测](https://baijiahao.baidu.com/s?id=1619560876045546677&wfr=spider&for=pc)<br>
