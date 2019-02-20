@@ -124,7 +124,8 @@
 小米9：
 屏幕：三星6.4" AMOLED水滴屏<br>
 芯片：高通骁龙855<br>
-后置3摄像头：拍照能力：DXOMARK 第三，仅次于p20 pro, mate20 pro <br>
+后置3摄像头：4800万主摄+1200人像+1600超广角微距<br>
+拍照能力：DXOMARK 第三，仅次于p20 pro, mate20 pro <br>
 FOD：第五代屏幕指纹<br>
 RAM+ROM: <br>
 6GB+128GB 2999<br>
@@ -138,6 +139,11 @@ RAM+ROM: <br>
 后置3摄像头<br>
 FOD：第五代屏幕指纹<br>
 6GB+64GB,1999!<BR>
+
+技术：<br>
+Camera大幅提升<br>
+MI Turbo: 系统级底层优化技术，连续使用18个月依然快速流畅；<br>
+Game Turbo游戏加速<br>
 
 
 2019.2.19 [别等发布会了，关于小米9的“秘密”全都在这了](https://www.toutiao.com/a6659646038443295236/)<br>
