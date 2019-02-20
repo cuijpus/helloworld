@@ -20,7 +20,7 @@
     </tr>
     <tr>
         <th>三星</th>
-        <th> M系列<br>(1.28)<br></th> <th> S10<br>折叠<br>5G<br>(2.20)<br></th> <th></th> <th></th> <th></th> <th></th>
+        <th> M系列<br>(1.28)<br></th> <th> S10<br>打孔屏<br>折叠<br>5G<br>(2.20)<br></th> <th></th> <th></th> <th></th> <th></th>
         <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>
     <tr>
@@ -30,7 +30,7 @@
     </tr>
     <tr>
         <th>华为</th>
-        <th></th> <th>折叠<br>5G<br>(2.24)</th> <th>P30<br>10倍?<br>四摄?<br>(3.26)</th> <th></th> <th></th> <th></th>
+        <th></th> <th>折叠<br>5G<br>(2.24)</th> <th>P30<br>水滴屏<br>四摄?<br>10倍?<br>(3.26)</th> <th></th> <th></th> <th></th>
         <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>
     <tr>
@@ -50,7 +50,7 @@
     </tr>  
     <tr>
         <th>XiaoMi</th>
-        <th></th> <th>小米9<br>三摄<br>Game<br>(2.20)</th> <th></th> <th></th> <th></th> <th></th>
+        <th></th> <th>小米9<br>水滴屏<br>三摄<br>Game<br>(2.20)</th> <th></th> <th></th> <th></th> <th></th>
         <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>  
     <tr>
