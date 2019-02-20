@@ -30,7 +30,7 @@
     </tr>
     <tr>
         <th>华为</th>
-        <th></th> <th>折叠<br>5G<br>(2.24)</th> <th>P30<br>(3.26)</th> <th></th> <th></th> <th></th>
+        <th></th> <th>折叠<br>5G<br>(2.24)</th> <th>P30<br>10倍?<br>四摄?<br>(3.26)</th> <th></th> <th></th> <th></th>
         <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>
     <tr>
