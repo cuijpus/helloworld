@@ -45,7 +45,7 @@
     </tr>   
     <tr>
         <th>VIVO</th>
-        <th></th> <th></th> <th>IQOO<br>855<br>12GB<br>44W快充<br>(3.1)</th> <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th>IQOO<br>855<br>12GB<br>44W<br>(3.1)</th> <th></th> <th></th> <th></th>
         <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>  
     <tr>
