@@ -45,7 +45,7 @@
     </tr>   
     <tr>
         <th>VIVO</th>
-        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th>IQOO<br>(3.1)</th> <th></th> <th></th> <th></th>
         <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>  
     <tr>
