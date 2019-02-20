@@ -50,7 +50,7 @@
     </tr>  
     <tr>
         <th>XiaoMi</th>
-        <th></th> <th>小米9<br>(2.20)</th> <th></th> <th></th> <th></th> <th></th>
+        <th></th> <th>小米9<br>三摄<br>Game Turbo<br>(2.20)</th> <th></th> <th></th> <th></th> <th></th>
         <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>  
     <tr>
