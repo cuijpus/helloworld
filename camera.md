@@ -13,3 +13,5 @@
 # 技术 
 
 [赋予3D传感“智能”，炬佑智能跻身全球领先ToF传感器供应商](https://baijiahao.baidu.com/s?id=1618837871805756218&wfr=spider&for=pc)<br>
+
+[三星4800万像素摄像头是假的，华为荣耀高管这么说！](http://www.52rd.com/S_TXT/2019_1/TXT112123.HTM)<br>
