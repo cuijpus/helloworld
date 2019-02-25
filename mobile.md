@@ -121,6 +121,7 @@
 </table>
 
 2019.2.24 [史无前例！华为Mate X正式发布：8寸超薄机身+55W快充，售价近2万](https://www.toutiao.com/a6661709567249875464/)<br>
+[华为折叠手机Mate X，完爆三星之处](https://www.toutiao.com/a6661565461810905612/)<br>
 ![matex](http://p1.pstatp.com/large/pgc-image/6b7eafd0c69e4f1490414ec8cf52b0fb)<br>
 ![matex strong point vs fold weak point](http://p3.pstatp.com/large/pgc-image/RJ2AAH16u2RsGy)<br>
 
