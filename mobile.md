@@ -120,6 +120,10 @@
     </tr>    
 </table>
 
+2019.2.24 [史无前例！华为Mate X正式发布：8寸超薄机身+55W快充，售价近2万](https://www.toutiao.com/a6661709567249875464/)<br>
+![matex](http://p1.pstatp.com/large/pgc-image/6b7eafd0c69e4f1490414ec8cf52b0fb)<br>
+![matex strong point vs fold weak point](http://p3.pstatp.com/large/pgc-image/RJ2AAH16u2RsGy)<br>
+
 2019.2.22 [S10+总分并列第一，自拍跃居第一](https://www.dxomark.com/)<br>
 [算法或是关键 三星Galaxy S10 Plus拿下DxO前、后拍照双榜首](https://www.toutiao.com/a6660749276559180302/)<BR>
 2019.2.21 [Galaxy S十周年，三星终于重拾十年前的勇气](https://www.toutiao.com/a6660269740168053251/)<br>
