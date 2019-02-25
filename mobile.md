@@ -128,6 +128,7 @@
 2019.2.22 [S10+总分并列第一，自拍跃居第一](https://www.dxomark.com/)<br>
 [算法或是关键 三星Galaxy S10 Plus拿下DxO前、后拍照双榜首](https://www.toutiao.com/a6660749276559180302/)<BR>
 2019.2.21 [Galaxy S十周年，三星终于重拾十年前的勇气](https://www.toutiao.com/a6660269740168053251/)<br>
+![fold](http://p3.pstatp.com/large/pgc-image/RIer1qp5zeYv0i)<br>
 2019.2.21 [S10 发布](https://www.toutiao.com/a6660265875343409677/)<br>
 S10e： 5.8寸直屏、侧指纹、3100mAh电池，6+128GB版本尝鲜价5300元<br>
 S10:   <BR>
