@@ -289,7 +289,8 @@ Baidu: DNA: 搜索+广告，收集了大数据，开发了百度大脑，自动�
 [为猪脸识别而进行自己数据集的构建、训练](https://blog.csdn.net/duanshao/article/details/78797616)<br>
 [百度Paddle深度学习平台](https://github.com/PaddlePaddle/Paddle)<BR>
 [新闻写作机器人的应用及前景展望——以今日头条新闻机器人张小明（xiaomingbot）为例](http://media.people.com.cn/n1/2017/0111/c409691-29014245.html)<br>
-
+[Giiso写作机器人](https://writer.giiso.com/dist/index.html#/hot-news)<br>
+[Giiso联合同济大学设计《深度学习和知识图谱在智能公司监管中的应用研究》方案，以知识图谱技术为核心，主张通过特征提取，建立多维度的风控监管模型并最终实现智能风控。](http://www.giiso.com/chengonganli-jr.html)<br>
 
 # <a id="tag-业内动态" href="#tag-业内动态">业内动态</a>
 2019.2.12 [辩论人机大战：IBM的AI辩手令人印象深刻 但还是输了](http://tech.163.com/19/0212/15/E7QUM0VO00098IEO.html)<br>
