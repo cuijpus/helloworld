@@ -20,7 +20,8 @@
     </tr>
     <tr>
         <th>三星</th>
-        <th> M系列<br>(1.28)<br></th> <th> S10<br>855<br>打孔屏<br>三摄<br>FOD<br>折叠<br>5G<br>(2.20)<br></th> <th></th> <th></th> <th></th> <th></th>
+        <th> M系列<br>(1.28)<br></th> <th> S10<br>855<br>打孔屏<br>三摄<br>FOD<br>折叠<br>5G<br>(2.20)<br></th> <th></th>
+        <th>A70</th> <th></th> <th></th>
         <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>
     <tr>
@@ -120,6 +121,9 @@
     </tr>    
 </table>
 
+2019.3.5 [三星A70搭载骁龙675四月发布 6.7寸水滴屏+屏下指纹+4500mAh电池](https://www.toutiao.com/a6664695723998577159/)<br>
+2019.3.1 [VIVO IQOO:互联网人群](http://www.vivo.com.cn/?cid=w-2-baidu_ada-dzpz-qrqm-iqoo)<BR>
+[iQOO手机发布：全系高通骁龙855，仅2998元起售](https://baijiahao.baidu.com/s?id=1626820510971724490&wfr=spider&for=pc)<br>
 2019.2.28 [s10中国发布](http://mobile.zol.com.cn/710/7104409.html)<BR>
 S10e 6GB+128GB 4999元<br>
 S10  8GB+128GB 5999元<br>
