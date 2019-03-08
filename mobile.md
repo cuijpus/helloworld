@@ -123,6 +123,11 @@
 </table>
 
 2019.3.8 [前三星工程师跳槽Vivo继续做机，iQOO手机有首批米粉的激情](https://www.toutiao.com/a6665877459658867213/)<br>
+[科技大V独家揭秘：我是怎么从小透明变成网红的？](https://www.toutiao.com/a6402034805174157570/)<br>
+戈蓝：三星惠州工厂的质检员干起，发微博，和网友互动,是个产品KOL（Key Opinion Leader）；<br>
+对产品的spec非常了解，对手的产品也非常了解，然后跳巢到vivo. <br>
+做了IQOO的产品经理！<br>
+
 2019.3.8 [vivo X27官宣：3月19日三亚发布，骁龙710，8+256G](https://baijiahao.baidu.com/s?id=1627403118638394172&wfr=spider&for=pc)<br>
 2019.3.5 [三星A70搭载骁龙675四月发布 6.7寸水滴屏+屏下指纹+4500mAh电池](https://www.toutiao.com/a6664695723998577159/)<br>
 2019.3.1 [VIVO IQOO:互联网人群](http://www.vivo.com.cn/?cid=w-2-baidu_ada-dzpz-qrqm-iqoo)<BR>
