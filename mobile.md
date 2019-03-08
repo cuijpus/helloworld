@@ -122,6 +122,7 @@
     </tr>    
 </table>
 
+2019.3.8 [前三星工程师跳槽Vivo继续做机，iQOO手机有首批米粉的激情](https://www.toutiao.com/a6665877459658867213/)<br>
 2019.3.8 [vivo X27官宣：3月19日三亚发布，骁龙710，8+256G](https://baijiahao.baidu.com/s?id=1627403118638394172&wfr=spider&for=pc)<br>
 2019.3.5 [三星A70搭载骁龙675四月发布 6.7寸水滴屏+屏下指纹+4500mAh电池](https://www.toutiao.com/a6664695723998577159/)<br>
 2019.3.1 [VIVO IQOO:互联网人群](http://www.vivo.com.cn/?cid=w-2-baidu_ada-dzpz-qrqm-iqoo)<BR>
