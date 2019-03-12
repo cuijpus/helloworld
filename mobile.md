@@ -122,6 +122,15 @@
     </tr>    
 </table>
 
+<table>
+    <tr>
+        <th>定位</th> <th>OPPO</th> <th>VIVO</th> <th>华为</th> <th>小米</th> <th>三星</th>
+    </tr>
+    
+</table>
+
+就当前OPPO产品线来看，其有高端旗舰Find X系列、中端R系列和低端A系列。去年又新推出面向线上的K系列，主打高性价比。对于Reno的市场定位暂时未了解。
+
 2019.3.8 [前三星工程师跳槽Vivo继续做机，iQOO手机有首批米粉的激情](https://www.toutiao.com/a6665877459658867213/)<br>
 [科技大V独家揭秘：我是怎么从小透明变成网红的？](https://www.toutiao.com/a6402034805174157570/)<br>
 戈蓝：三星惠州工厂的质检员干起，发微博，和网友互动,是个产品KOL（Key Opinion Leader）；<br>
