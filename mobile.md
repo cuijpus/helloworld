@@ -137,7 +137,10 @@
         <th><a href = "https://www.oppo.com/cn/product/findx/index.html">Find X</a><br>(5500￥<br>5000￥~)</th> 
         <th><a href = "https://www.vivo.com.cn/products-nex.html">NEX系列</a><br>(5000￥<br>4000￥~)</th> 
         <th><a href = "https://item.mi.com/product/10000123.html">MIX</a><br>(5000￥<br>3600￥~)</th> 
-        <th>三星</th>
+        <th>
+            <a href = "https://www.samsungeshop.com.cn/item/SM-G9750.htm">Note系列</a><br>(8000￥<br>6000￥~) <br>
+            <a href = "https://www.samsungeshop.com.cn/item/SM-G9750.htm">S系列</a><br>(7000￥<br>5000￥~)
+        </th>
     </tr>
     <tr>
         <th>互联网人群<br>(对参数门清，要高配置)</th> 
