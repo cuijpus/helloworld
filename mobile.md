@@ -131,7 +131,7 @@
         <th>华为</th> 
         <th><a href = "https://www.oppo.com/cn/product/findx/index.html">Find X</a><br>(5000￥~5500￥)</th> 
         <th><a href = "https://www.vivo.com.cn/products-nex.html">NEX系列</a><br>(4000￥~5000￥)</th> 
-        <th><a href = "https://item.mi.com/product/10000123.html">MIX</a><br>(3600￥~5000￥)</th> 
+        <th><a href = "https://item.mi.com/product/10000123.html">MIX</a><br>(5000￥<br>3600￥~)</th> 
         <th>三星</th>
     </tr>
     <tr>
@@ -139,7 +139,7 @@
         <th>华为</th> 
         <th>Reno</th> 
         <th><a href = "https://www.vivo.com.cn/vivo/iqoo">IQOO</a><br>(3000￥~4000￥)</th> 
-        <th><A href = "https://item.mi.com/product/10000134.html">MI9</a><br>(3000￥~4000￥)</th> 
+        <th><A href = "https://item.mi.com/product/10000134.html">MI9</a><br>(4000￥<br>3000￥~)</th> 
         <th>三星</th>
     </tr>     
     <tr>
@@ -147,7 +147,7 @@
         <th>华为</th> 
         <th><a href = "https://www.opposhop.cn/products/494.html">R系列</a><br>(2200￥~3200￥)</th> 
         <th><a href = "https://www.vivo.com.cn/products-x.html">X(巅峰)系列</a><br>(2800￥~3400￥)</th> 
-        <th><a href = "https://www.mi.com/mi8/">Mi8</a><br>(2300￥~2900￥)</th> 
+        <th><a href = "https://www.mi.com/mi8/">Mi8</a><br>(2900￥<br>2300￥~)</th> 
         <th>三星</th>
     </tr>    
     <tr>
@@ -155,7 +155,7 @@
         <th>华为</th> 
         <th><a href = "https://www.oppo.com/cn/product/K1/index.html">K系列</a><br>(1500￥-1700￥)</th> 
         <th><a href = "https://www.vivo.com.cn/products-z.html">Z系列</a><br>(1500￥-2000￥)</th> 
-        <th><a href = "https://item.mi.com/product/10000117.html">Mi8青春版</a><br>(1500￥-1800￥)</th>
+        <th><a href = "https://item.mi.com/product/10000117.html">Mi8青春版</a><br>(1800￥<br>1500￥~)</th>
         <th>三星</th>
     </tr> 
     <tr>
