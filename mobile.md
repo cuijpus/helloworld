@@ -139,7 +139,7 @@
         <th>华为</th> 
         <th>Reno</th> 
         <th><a href = "https://www.vivo.com.cn/vivo/iqoo">IQOO</a><br>(3000￥~4000￥)</th> 
-        <th><A href = "https://item.mi.com/product/10000134.html">MI9</a>(3000￥~4000￥)</th> 
+        <th><A href = "https://item.mi.com/product/10000134.html">MI9</a><br>(3000￥~4000￥)</th> 
         <th>三星</th>
     </tr>     
     <tr>
