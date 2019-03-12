@@ -127,7 +127,7 @@
         <th>定位</th> <th>华为</th> <th>OPPO</th> <th>VIVO</th> <th>小米</th> <th>三星</th>
     </tr>
     <tr>
-        <th>高端</th> <th>华为</th> <th>Find X</th> <th>NEX系列(4000￥~5000￥)</th> <th>小米</th> <th>三星</th>
+        <th>高端旗舰</th> <th>华为</th> <th>Find X</th> <th>NEX系列(4000￥~5000￥)</th> <th>小米</th> <th>三星</th>
     </tr>
     <tr>
         <th>互联网人群<br>(要高性价比，对参数门清)</th> <th>华为</th> <th>Reno</th> <th>IQOO(3000￥~4000￥)</th> <th>小米</th> <th>三星</th>
