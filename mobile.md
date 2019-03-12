@@ -128,7 +128,10 @@
     </tr>
     <tr>
         <th>高端旗舰</th> 
-        <th>华为</th> 
+        <th>
+            <a href = "https://www.vmall.com/product/10086393052224.html">Mate系列</a><br>(5400￥<br>4000￥~) <br>
+            <a href = "https://www.vmall.com/product/10086393052224.html">P系列</a><br>(5400￥<br>4000￥~)
+        </th> 
         <th><a href = "https://www.oppo.com/cn/product/findx/index.html">Find X</a><br>(5500￥<br>5000￥~)</th> 
         <th><a href = "https://www.vivo.com.cn/products-nex.html">NEX系列</a><br>(5000￥<br>4000￥~)</th> 
         <th><a href = "https://item.mi.com/product/10000123.html">MIX</a><br>(5000￥<br>3600￥~)</th> 
@@ -136,7 +139,7 @@
     </tr>
     <tr>
         <th>互联网人群<br>(对参数门清，要高配置)</th> 
-        <th>华为</th> 
+        <th><a href = "https://www.vmall.com/product/10086134839130.html">荣耀V系列</a><br>(4000￥<br>3000￥)</th> 
         <th>Reno</th> 
         <th><a href = "https://www.vivo.com.cn/vivo/iqoo">IQOO</a><br>(4000￥<br>3000￥)</th> 
         <th><A href = "https://item.mi.com/product/10000134.html">MI9</a><br>(4000￥<br>3000￥~)</th> 
