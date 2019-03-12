@@ -164,7 +164,7 @@
         <th><a href = "https://www.vivo.com.cn/products-y.html">Y系列</a><br>(1300￥~1700￥)<br>
             <a href = "https://www.vivo.com.cn/products-u.html">U系列</a><br>(800￥~1200￥)
         </th> 
-        <th><a href = "https://item.mi.com/product/10000131.html">红米</a><br>(600￥~1400￥)</th>
+        <th><a href = "https://item.mi.com/product/10000131.html">红米</a><br>(~1400￥<br> 600￥)</th>
         <th>三星</th>
     </tr>    
 </table>
