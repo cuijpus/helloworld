@@ -127,19 +127,19 @@
         <th>定位</th> <th>华为</th> <th>OPPO</th> <th>VIVO</th> <th>小米</th> <th>三星</th>
     </tr>
     <tr>
-        <th>高端旗舰</th> <th>华为</th> <th>Find X</th> <th>NEX系列(4000￥~5000￥)</th> <th>小米</th> <th>三星</th>
+        <th>高端旗舰</th> <th>华为</th> <th>Find X</th> <th>NEX系列<br>(4000￥~5000￥)</th> <th>小米</th> <th>三星</th>
     </tr>
     <tr>
-        <th>互联网人群<br>(要高性价比，对参数门清)</th> <th>华为</th> <th>Reno</th> <th>IQOO(3000￥~4000￥)</th> <th>小米</th> <th>三星</th>
+        <th>互联网人群<br>(要高性价比，对参数门清)</th> <th>华为</th> <th>Reno</th> <th>IQOO<br>(3000￥~4000￥)</th> <th>小米</th> <th>三星</th>
     </tr>     
     <tr>
-        <th>中端</th> <th>华为</th> <th>R系列</th> <th>X(巅峰)系列(2800￥~3400￥)</th> <th>小米</th> <th>三星</th>
+        <th>中端</th> <th>华为</th> <th>R系列</th> <th>X(巅峰)系列<br>(2800￥~3400￥)</th> <th>小米</th> <th>三星</th>
     </tr>    
     <tr>
-        <th>低端</th> <th>华为</th> <th>A系列</th> <th>Z系列(1500￥-2000￥)<br>Y系列(1000￥~1500￥)<br>U系列(800￥~1200￥)</th> <th>小米</th> <th>三星</th>
-    </tr>    
+        <th>线上</th> <th>华为</th> <th>K系列</th> <th>Z系列<br>(1500￥-2000￥)</th> <th>小米</th> <th>三星</th>
+    </tr> 
     <tr>
-        <th>线上</th> <th>华为</th> <th>K系列</th> <th>VIVO</th> <th>小米</th> <th>三星</th>
+        <th>低端</th> <th>华为</th> <th>A系列</th> <th>Y系列<br>(1000￥~1500￥)<br>U系列<br>(800￥~1200￥)</th> <th>小米</th> <th>三星</th>
     </tr>    
 </table>
 
