@@ -130,7 +130,7 @@
         <th>高端</th> <th>华为</th> <th>Find X</th> <th>NEX系列<BR>Xplay系列</th> <th>小米</th> <th>三星</th>
     </tr>
     <tr>
-        <th>互联网人群</th> <th>华为</th> <th>Reno</th> <th>IQOO</th> <th>小米</th> <th>三星</th>
+        <th>互联网人群<br>(要高性价比，对参数门清)</th> <th>华为</th> <th>Reno</th> <th>IQOO</th> <th>小米</th> <th>三星</th>
     </tr>     
     <tr>
         <th>中端</th> <th>华为</th> <th>R系列</th> <th>X(巅峰)系列</th> <th>小米</th> <th>三星</th>
