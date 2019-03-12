@@ -130,7 +130,7 @@
         <th>高端旗舰</th> 
         <th>
             <a href = "https://www.vmall.com/product/10086393052224.html">Mate系列</a><br>(5400￥<br>4000￥~) <br>
-            <a href = "https://www.vmall.com/product/10086393052224.html">P系列</a><br>(5400￥<br>4000￥~)
+            <a href = "https://www.vmall.com/product/10086471194207.html">P系列</a><br>(5000￥<br>3400￥~)
         </th> 
         <th><a href = "https://www.oppo.com/cn/product/findx/index.html">Find X</a><br>(5500￥<br>5000￥~)</th> 
         <th><a href = "https://www.vivo.com.cn/products-nex.html">NEX系列</a><br>(5000￥<br>4000￥~)</th> 
