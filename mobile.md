@@ -127,19 +127,19 @@
         <th>定位</th> <th>华为</th> <th>OPPO</th> <th>VIVO</th> <th>小米</th> <th>三星</th>
     </tr>
     <tr>
-        <th>高端</th> <th>华为</th> <th>OPPO</th> <th>VIVO</th> <th>小米</th> <th>三星</th>
+        <th>高端</th> <th>华为</th> <th>Find X</th> <th>NEX系列<BR>Xplay系列</th> <th>小米</th> <th>三星</th>
     </tr> 
     <tr>
-        <th>中端</th> <th>华为</th> <th>OPPO</th> <th>VIVO</th> <th>小米</th> <th>三星</th>
+        <th>中端</th> <th>华为</th> <th>R系列</th> <th>X(巅峰)系列</th> <th>小米</th> <th>三星</th>
     </tr>    
     <tr>
-        <th>低端</th> <th>华为</th> <th>OPPO</th> <th>VIVO</th> <th>小米</th> <th>三星</th>
+        <th>低端</th> <th>华为</th> <th>A系列</th> <th>Z系列<br>Y系列<br><U系列></th> <th>小米</th> <th>三星</th>
     </tr>    
     <tr>
-        <th>线上</th> <th>华为</th> <th>OPPO</th> <th>VIVO</th> <th>小米</th> <th>三星</th>
+        <th>线上</th> <th>华为</th> <th>K系列</th> <th>VIVO</th> <th>小米</th> <th>三星</th>
     </tr>    
     <tr>
-        <th>互联网人群</th> <th>华为</th> <th>OPPO</th> <th>VIVO</th> <th>小米</th> <th>三星</th>
+        <th>互联网人群</th> <th>华为</th> <th>Reno</th> <th>IQOO</th> <th>小米</th> <th>三星</th>
     </tr>    
 </table>
 
