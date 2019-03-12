@@ -124,9 +124,23 @@
 
 <table>
     <tr>
-        <th>定位</th> <th>OPPO</th> <th>VIVO</th> <th>华为</th> <th>小米</th> <th>三星</th>
+        <th>定位</th> <th>华为</th> <th>OPPO</th> <th>VIVO</th> <th>小米</th> <th>三星</th>
     </tr>
-    
+    <tr>
+        <th>高端</th> <th>华为</th> <th>OPPO</th> <th>VIVO</th> <th>小米</th> <th>三星</th>
+    </tr> 
+    <tr>
+        <th>中端</th> <th>华为</th> <th>OPPO</th> <th>VIVO</th> <th>小米</th> <th>三星</th>
+    </tr>    
+    <tr>
+        <th>低端</th> <th>华为</th> <th>OPPO</th> <th>VIVO</th> <th>小米</th> <th>三星</th>
+    </tr>    
+    <tr>
+        <th>线上</th> <th>华为</th> <th>OPPO</th> <th>VIVO</th> <th>小米</th> <th>三星</th>
+    </tr>    
+    <tr>
+        <th>互联网人群</th> <th>华为</th> <th>OPPO</th> <th>VIVO</th> <th>小米</th> <th>三星</th>
+    </tr>    
 </table>
 
 就当前OPPO产品线来看，其有高端旗舰Find X系列、中端R系列和低端A系列。去年又新推出面向线上的K系列，主打高性价比。对于Reno的市场定位暂时未了解。
