@@ -159,7 +159,7 @@
     </tr> 
     <tr>
         <th>低端</th> <th>华为</th> 
-        <th>A系列</th> 
+        <th><a href = "https://www.oppo.com/cn/product/A7/index.html">A系列</a><br>(1300￥~1600￥)</th> 
         <th><a href = "https://www.vivo.com.cn/products-y.html">Y系列</a><br>(1300￥~1700￥)<br>
             <a href = "https://www.vivo.com.cn/products-u.html">U系列</a><br>(800￥~1200￥)
         </th> 
