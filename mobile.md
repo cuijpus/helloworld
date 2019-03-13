@@ -129,6 +129,19 @@
         <th>定位</th> <th>华为</th> <th>OPPO</th> <th>VIVO</th> <th>小米</th> <th>三星</th> <th>苹果</th>
     </tr>
     <tr>
+        <th>超级旗舰<br>折叠机</th> 
+        <th>
+            <a href = "xxx">Mate X</a><br>(17000￥) <br>
+        </th> 
+        <th></th> 
+        <th></th> 
+        <th></th> 
+        <th>
+            <a href = "xxx">Fold系列</a><br>(14000￥)
+        </th>
+        <th>苹果</th>
+    </tr>    
+    <tr>
         <th>高端旗舰</th> 
         <th>
             <a href = "https://www.vmall.com/product/10086393052224.html">Mate系列</a><br>(5400￥<br>4000￥~) <br>
