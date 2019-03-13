@@ -126,7 +126,7 @@
 # <a id="tag-2019产品定位" href="#tag-201产品定位">2019产品定位</a>
 <table>
     <tr>
-        <th>定位</th> <th>华为</th> <th>OPPO</th> <th>VIVO</th> <th>小米</th> <th>三星</th>
+        <th>定位</th> <th>华为</th> <th>OPPO</th> <th>VIVO</th> <th>小米</th> <th>三星</th> <th>苹果</th>
     </tr>
     <tr>
         <th>高端旗舰</th> 
@@ -141,6 +141,7 @@
             <a href = "https://www.samsungeshop.com.cn/item/SM-G9750.htm">Note系列</a><br>(8000￥<br>6000￥~) <br>
             <a href = "https://www.samsungeshop.com.cn/item/SM-G9750.htm">S系列</a><br>(7000￥<br>5000￥~)
         </th>
+        <th>苹果</th>
     </tr>
     <tr>
         <th>互联网人群<br>(对参数门清，要高配置)</th> 
@@ -149,6 +150,7 @@
         <th><a href = "https://www.vivo.com.cn/vivo/iqoo">IQOO</a><br>(4000￥<br>3000￥)</th> 
         <th><A href = "https://item.mi.com/product/10000134.html">MI9</a><br>(4000￥<br>3000￥~)</th> 
         <th>三星</th>
+        <th>苹果</th>
     </tr>     
     <tr>
         <th>中端</th> 
@@ -157,6 +159,7 @@
         <th><a href = "https://www.vivo.com.cn/products-x.html">X(巅峰)系列</a><br>(3400￥<br>2800￥~)</th> 
         <th><a href = "https://www.mi.com/mi8/">Mi8</a><br>(2900￥<br>2300￥~)</th> 
         <th><a href = "https://samsung.tmall.com/p/rd063096.htm">A9S,A8S</a><br>(3000元￥<br>2799￥~)</th>
+        <th>苹果</th>
     </tr>    
     <tr>
         <th>线上<br>(对参数有些要求)</th> 
@@ -165,6 +168,7 @@
         <th><a href = "https://www.vivo.com.cn/products-z.html">Z系列</a><br>(2000￥<br>1500￥~)</th> 
         <th><a href = "https://item.mi.com/product/10000117.html">Mi8青春版</a><br>(1800￥<br>1500￥~)</th>
         <th>三星</th>
+        <th>苹果</th>
     </tr> 
     <tr>
         <th>低端</th> 
@@ -178,6 +182,7 @@
         </th> 
         <th><a href = "https://item.mi.com/product/10000131.html">红米</a><br>(1400￥<br>600￥~)</th>
         <th>三星</th>
+        <th>苹果</th>
     </tr>    
 </table>
 
