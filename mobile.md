@@ -156,7 +156,7 @@
         <th><a href = "https://www.opposhop.cn/products/494.html">R系列</a><br>(3200￥<br>2200￥~)</th> 
         <th><a href = "https://www.vivo.com.cn/products-x.html">X(巅峰)系列</a><br>(3400￥<br>2800￥~)</th> 
         <th><a href = "https://www.mi.com/mi8/">Mi8</a><br>(2900￥<br>2300￥~)</th> 
-        <th><a href = "https://www.mi.com/mi8/">A9S,A8S</a><br>(3000元￥<br>2799￥~)</th>
+        <th><a href = "https://samsung.tmall.com/p/rd063096.htm">A9S,A8S</a><br>(3000元￥<br>2799￥~)</th>
     </tr>    
     <tr>
         <th>线上<br>(对参数有些要求)</th> 
