@@ -167,7 +167,7 @@
         <th>Reno</th> 
         <th><a href = "https://www.vivo.com.cn/vivo/iqoo">IQOO</a><br>(4000￥<br>3000￥)</th> 
         <th><A href = "https://item.mi.com/product/10000134.html">MI9</a><br>(4000￥<br>3000￥~)</th> 
-        <th>三星</th>
+        <th>/</th>
         <th>/</th>
     </tr>     
     <tr>
@@ -185,7 +185,7 @@
         <th><a href = "https://www.oppo.com/cn/product/K1/index.html">K系列</a><br>(1700￥<br>1500￥~)</th> 
         <th><a href = "https://www.vivo.com.cn/products-z.html">Z系列</a><br>(2000￥<br>1500￥~)</th> 
         <th><a href = "https://item.mi.com/product/10000117.html">Mi8青春版</a><br>(1800￥<br>1500￥~)</th>
-        <th>三星</th>
+        <th>/</th>
         <th>/</th>
     </tr> 
     <tr>
