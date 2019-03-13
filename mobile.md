@@ -157,6 +157,8 @@
         <th>
             <a href = "https://www.apple.com/">iPhone XS</a><br>(12000￥<br>8000￥~) <br>
             <a href = "https://www.apple.com/">iPhone XR</a><br>(8000￥<br>6000￥~) <br>
+            <a href = "https://www.apple.com/">iPhone 8</a><br>(6500￥<br>5000￥~) <br>     
+            <a href = "https://www.apple.com/">iPhone 7</a><br>(5000￥<br>4000￥~) <br> 
         </th>
     </tr>
     <tr>
