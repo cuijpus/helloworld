@@ -142,7 +142,7 @@
         <th>苹果</th>
     </tr>    
     <tr>
-        <th>高端旗舰<br>5千以上</th> 
+        <th>高端旗舰<br>4千以上</th> 
         <th>
             <a href = "https://www.vmall.com/product/10086393052224.html">Mate系列</a><br>(5400￥<br>4000￥~) <br>
             <a href = "https://www.vmall.com/product/10086471194207.html">P系列</a><br>(5000￥<br>3400￥~)
