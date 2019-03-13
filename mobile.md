@@ -142,7 +142,7 @@
         <th>苹果</th>
     </tr>    
     <tr>
-        <th>高端旗舰</th> 
+        <th>高端旗舰<br>5千以上</th> 
         <th>
             <a href = "https://www.vmall.com/product/10086393052224.html">Mate系列</a><br>(5400￥<br>4000￥~) <br>
             <a href = "https://www.vmall.com/product/10086471194207.html">P系列</a><br>(5000￥<br>3400￥~)
@@ -157,7 +157,7 @@
         <th>苹果</th>
     </tr>
     <tr>
-        <th>互联网人群<br>(对参数门清，要高配置)</th> 
+        <th>互联网人群<br>(对参数门清，要高配置)<br>3千~4千</th> 
         <th><a href = "https://www.vmall.com/product/10086134839130.html">荣耀V系列</a><br>(4000￥<br>3000￥)</th> 
         <th>Reno</th> 
         <th><a href = "https://www.vivo.com.cn/vivo/iqoo">IQOO</a><br>(4000￥<br>3000￥)</th> 
@@ -166,7 +166,7 @@
         <th>苹果</th>
     </tr>     
     <tr>
-        <th>中端</th> 
+        <th>中端<br>2千~3千</th> 
         <th><a href = "https://www.vmall.com/list-277">Nova系列</a><br>(3400￥<br>2200￥~)</th> 
         <th><a href = "https://www.opposhop.cn/products/494.html">R系列</a><br>(3200￥<br>2200￥~)</th> 
         <th><a href = "https://www.vivo.com.cn/products-x.html">X(巅峰)系列</a><br>(3400￥<br>2800￥~)</th> 
@@ -175,7 +175,7 @@
         <th>苹果</th>
     </tr>    
     <tr>
-        <th>线上<br>(对参数有些要求)</th> 
+        <th>线上<br>(对参数有些要求：<br>中配spec)<br>1千~2千</th> 
         <th><a href = "https://www.vmall.com/honor">荣耀系列</a><br>(2500￥<br>2000￥~)</th> 
         <th><a href = "https://www.oppo.com/cn/product/K1/index.html">K系列</a><br>(1700￥<br>1500￥~)</th> 
         <th><a href = "https://www.vivo.com.cn/products-z.html">Z系列</a><br>(2000￥<br>1500￥~)</th> 
@@ -184,7 +184,7 @@
         <th>苹果</th>
     </tr> 
     <tr>
-        <th>低端</th> 
+        <th>低端<br>千元以下</th> 
         <th>
             <a href = "https://www.vmall.com/list-275">华为畅享系列</a><br>(1500￥<br>800￥~) <br>
             <a href = "https://www.vmall.com/honor">荣耀畅玩系列</a><br>(1500￥<br>800￥~)
