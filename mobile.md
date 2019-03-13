@@ -139,7 +139,7 @@
         <th>
             <a href = "xxx">Fold系列</a><br>(14000￥)
         </th>
-        <th>苹果</th>
+        <th> </th>
     </tr>    
     <tr>
         <th>高端旗舰<br>4千以上</th> 
