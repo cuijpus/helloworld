@@ -142,33 +142,33 @@
         <td> </td>
     </tr>    
     <tr>
-        <th>高端旗舰<br>4千以上</th> 
-        <th>
+        <td>高端旗舰<br>4千以上</td> 
+        <td>
             <a href = "https://www.vmall.com/product/10086393052224.html">Mate系列</a><br>(5400￥<br>4000￥~) <br>
             <a href = "https://www.vmall.com/product/10086471194207.html">P系列</a><br>(5000￥<br>3400￥~)
-        </th> 
-        <th><a href = "https://www.oppo.com/cn/product/findx/index.html">Find X</a><br>(5500￥<br>5000￥~)</th> 
-        <th><a href = "https://www.vivo.com.cn/products-nex.html">NEX系列</a><br>(5000￥<br>4000￥~)</th> 
-        <th><a href = "https://item.mi.com/product/10000123.html">MIX</a><br>(5000￥<br>3600￥~)</th> 
-        <th>
+        </td> 
+        <td><a href = "https://www.oppo.com/cn/product/findx/index.html">Find X</a><br>(5500￥<br>5000￥~)</td> 
+        <td><a href = "https://www.vivo.com.cn/products-nex.html">NEX系列</a><br>(5000￥<br>4000￥~)</td> 
+        <td><a href = "https://item.mi.com/product/10000123.html">MIX</a><br>(5000￥<br>3600￥~)</td> 
+        <td>
             <a href = "https://www.samsungeshop.com.cn/item/SM-G9750.htm">Note系列</a><br>(8000￥<br>6000￥~) <br>
             <a href = "https://www.samsungeshop.com.cn/item/SM-G9750.htm">S系列</a><br>(7000￥<br>5000￥~)
-        </th>
-        <th>
+        </td>
+        <td>
             <a href = "https://www.apple.com/">iPhone XS</a><br>(12000￥<br>8000￥~) <br>
             <a href = "https://www.apple.com/">iPhone XR</a><br>(8000￥<br>6000￥~) <br>
             <a href = "https://www.apple.com/">iPhone 8</a><br>(6500￥<br>5000￥~) <br>     
             <a href = "https://www.apple.com/">iPhone 7</a><br>(5000￥<br>4000￥~) <br> 
-        </th>
+        </td>
     </tr>
     <tr>
-        <th>互联网人群<br>(对参数门清，<br>要高配置)<br>3千~4千</th> 
-        <th><a href = "https://www.vmall.com/product/10086134839130.html">荣耀V系列</a><br>(4000￥<br>3000￥)</th> 
-        <th>Reno</th> 
-        <th><a href = "https://www.vivo.com.cn/vivo/iqoo">IQOO</a><br>(4000￥<br>3000￥)</th> 
-        <th><A href = "https://item.mi.com/product/10000134.html">MI9</a><br>(4000￥<br>3000￥~)</th> 
-        <th>/</th>
-        <th>/</th>
+        <td>互联网人群<br>(对参数门清，<br>要高配置)<br>3千~4千</td> 
+        <td><a href = "https://www.vmall.com/product/10086134839130.html">荣耀V系列</a><br>(4000￥<br>3000￥)</td> 
+        <td>Reno</th> 
+        <td><a href = "https://www.vivo.com.cn/vivo/iqoo">IQOO</a><br>(4000￥<br>3000￥)</td> 
+        <td><A href = "https://item.mi.com/product/10000134.html">MI9</a><br>(4000￥<br>3000￥~)</td> 
+        <td>/</td>
+        <td>/</td>
     </tr>     
     <tr>
         <th>中端<br>2千~3千</th> 
