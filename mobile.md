@@ -168,7 +168,7 @@
         <th><a href = "https://www.vivo.com.cn/vivo/iqoo">IQOO</a><br>(4000￥<br>3000￥)</th> 
         <th><A href = "https://item.mi.com/product/10000134.html">MI9</a><br>(4000￥<br>3000￥~)</th> 
         <th>三星</th>
-        <th>苹果</th>
+        <th>/</th>
     </tr>     
     <tr>
         <th>中端<br>2千~3千</th> 
@@ -177,7 +177,7 @@
         <th><a href = "https://www.vivo.com.cn/products-x.html">X(巅峰)系列</a><br>(3400￥<br>2800￥~)</th> 
         <th><a href = "https://www.mi.com/mi8/">Mi8</a><br>(2900￥<br>2300￥~)</th> 
         <th><a href = "https://samsung.tmall.com/p/rd063096.htm">A9S,A8S</a><br>(3000元￥<br>2799￥~)</th>
-        <th>苹果</th>
+        <th>/</th>
     </tr>    
     <tr>
         <th>线上<br>(对参数有些要求：<br>中配spec)<br>1千~2千</th> 
@@ -186,7 +186,7 @@
         <th><a href = "https://www.vivo.com.cn/products-z.html">Z系列</a><br>(2000￥<br>1500￥~)</th> 
         <th><a href = "https://item.mi.com/product/10000117.html">Mi8青春版</a><br>(1800￥<br>1500￥~)</th>
         <th>三星</th>
-        <th>苹果</th>
+        <th>/</th>
     </tr> 
     <tr>
         <th>低端<br>千元以下</th> 
@@ -200,7 +200,7 @@
         </th> 
         <th><a href = "https://item.mi.com/product/10000131.html">红米</a><br>(1400￥<br>600￥~)</th>
         <th>三星</th>
-        <th>苹果</th>
+        <th>/</th>
     </tr>    
 </table>
 
