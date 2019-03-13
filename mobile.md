@@ -162,7 +162,7 @@
         </th>
     </tr>
     <tr>
-        <th>互联网人群<br>(对参数门清，要高配置)<br>3千~4千</th> 
+        <th>互联网人群<br>(对参数门清，<br>要高配置)<br>3千~4千</th> 
         <th><a href = "https://www.vmall.com/product/10086134839130.html">荣耀V系列</a><br>(4000￥<br>3000￥)</th> 
         <th>Reno</th> 
         <th><a href = "https://www.vivo.com.cn/vivo/iqoo">IQOO</a><br>(4000￥<br>3000￥)</th> 
@@ -199,7 +199,7 @@
             <a href = "https://www.vivo.com.cn/products-u.html">U系列</a><br>(1200￥<br>800￥~)
         </th> 
         <th><a href = "https://item.mi.com/product/10000131.html">红米</a><br>(1400￥<br>600￥~)</th>
-        <th>M10/M20/M30<BR>for India</th>
+        <th>M系列<BR>for India</th>
         <th>/</th>
     </tr>    
 </table>
