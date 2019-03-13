@@ -199,7 +199,7 @@
             <a href = "https://www.vivo.com.cn/products-u.html">U系列</a><br>(1200￥<br>800￥~)
         </th> 
         <th><a href = "https://item.mi.com/product/10000131.html">红米</a><br>(1400￥<br>600￥~)</th>
-        <th>三星</th>
+        <th>M10/M20/M30<BR>for India</th>
         <th>/</th>
     </tr>    
 </table>
