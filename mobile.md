@@ -154,7 +154,10 @@
             <a href = "https://www.samsungeshop.com.cn/item/SM-G9750.htm">Note系列</a><br>(8000￥<br>6000￥~) <br>
             <a href = "https://www.samsungeshop.com.cn/item/SM-G9750.htm">S系列</a><br>(7000￥<br>5000￥~)
         </th>
-        <th>苹果</th>
+        <th>
+            <a href = "https://www.apple.com/">iPhone XS</a><br>(12000￥<br>8000￥~) <br>
+            <a href = "https://www.apple.com/">iPhone XR</a><br>(8000￥<br>6000￥~) <br>
+        </th>
     </tr>
     <tr>
         <th>互联网人群<br>(对参数门清，要高配置)<br>3千~4千</th> 
