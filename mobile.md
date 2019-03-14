@@ -40,13 +40,17 @@
     </tr>
     <tr>
         <th>荣耀</th>
-        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
-        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th></th> 
+        <th></th> <th></th> <th></th>
     </tr>     
     <tr>
         <th>OPPO</th>
-        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
-        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th></th> 
+        <th>Reno<br>855<br>3摄<br>10倍<br>(4.10)</th> <th></th> <th></th>
+        <th></th> <th></th> <th></th> 
+        <th></th> <th></th> <th></th>
     </tr>   
     <tr>
         <th>VIVO</th>
