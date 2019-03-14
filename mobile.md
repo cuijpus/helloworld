@@ -4,8 +4,9 @@
 1. <a href="#tag-2019产品发布会">2019产品发布会</a>
 1. <a href="#tag-2019技术发布会">2019技术发布会</a>
 1. <a href="#tag-2019产品定位">2019产品定位</a>
-1. <a href="#tag-全机智能化">全机智能化</a>
-1. <a href="#tag-软件服务">软件服务</a>
+1. <a href="#tag-核心技术">核心技术</a>
+    1. <a href="#tag-全机智能化">全机智能化</a>
+    1. <a href="#tag-软件服务">软件服务</a>
 1. <a href="#tag-18年手机争奇斗艳">18年手机争奇斗艳</a>
 
 # 19年手机
@@ -368,7 +369,10 @@ redmi单独运营死磕到底！雷军更用8个字放话，意味着什么呢�
 2018.10.31 [柔宇科技抢先三星带来了一款可折叠屏手机](http://www.sohu.com/a/272433965_485557)<br>
 2018.10 [华为发力折叠屏 真机2019年上半年见](http://www.zdwang.com/show-238-50287-1.html)<br>
 
-# <a id="tag-全机智能化" href="#tag-全机智能化">全机智能化</a>
+
+# <a id="tag-核心技术" href="#tag-核心技术">核心技术</a>
+
+## <a id="tag-全机智能化" href="#tag-全机智能化">全机智能化</a>
 
 
 <table> 
@@ -405,6 +409,12 @@ redmi单独运营死磕到底！雷军更用8个字放话，意味着什么呢�
 [ColorOS智能助理Breeno惊艳亮相，功能强大更为实用](https://baijiahao.baidu.com/s?id=1620989707650815041&wfr=spider&for=pc)<br>
 [OPPO发布智能助理Breeno 推出“引力计划”赋能开发者](https://baijiahao.baidu.com/s?id=1620976774049292476&wfr=spider&for=pc)<br>
 [科技理想主义+智慧生命体YOYO，荣耀这次放大招了 ](http://www.sohu.com/a/272619026_116157)<br>
+
+
+## <a id="tag-Camera" href="#tag-Camera">Camera</a>
+
+# 调光
+OLED屏幕因为目前低亮度下都是低频PWM调光，如果改为DC调光，对于护眼党来说显然会是一个不错的功能。
 
 # <a id="tag-软件服务" href="#tag-软件服务">软件服务</a>
 
