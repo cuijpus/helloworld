@@ -225,6 +225,46 @@
     <tr>
         <th>型号</th> <th>S1</th> <th>S2</th> <th>S3</th> <th>S4</th> <th>S5</th> <th>S6</th> <th>S7</th> <th>S8</th>
         <th>S9</th> <th>S10</th>
+    </tr>   
+    <tr>
+        <th>屏幕</th> <th>S1</th> <th>S2</th> <th>S3</th> <th>S4</th> <th>S5</th> <th>S6</th> <th>S7</th> <th>S8</th>
+        <th>S9</th> <th>S10</th>
+    </tr>   
+    <tr>
+        <th>分辨率</th> <th>S1</th> <th>S2</th> <th>S3</th> <th>S4</th> <th>S5</th> <th>S6</th> <th>S7</th> <th>S8</th>
+        <th>S9</th> <th>S10</th>
+    </tr>  
+    <tr>
+        <th>CPU</th> <th>S1</th> <th>S2</th> <th>S3</th> <th>S4</th> <th>S5</th> <th>S6</th> <th>S7</th> <th>S8</th>
+        <th>S9</th> <th>S10</th>
+    </tr>
+    <tr>
+        <th>GPU</th> <th>S1</th> <th>S2</th> <th>S3</th> <th>S4</th> <th>S5</th> <th>S6</th> <th>S7</th> <th>S8</th>
+        <th>S9</th> <th>S10</th>
+    </tr> 
+    <tr>
+        <th>RAM</th> <th>S1</th> <th>S2</th> <th>S3</th> <th>S4</th> <th>S5</th> <th>S6</th> <th>S7</th> <th>S8</th>
+        <th>S9</th> <th>S10</th>
+    </tr> 
+    <tr>
+        <th>ROM</th> <th>S1</th> <th>S2</th> <th>S3</th> <th>S4</th> <th>S5</th> <th>S6</th> <th>S7</th> <th>S8</th>
+        <th>S9</th> <th>S10</th>
+    </tr> 
+    <tr>
+        <th>前置摄像头</th> <th>S1</th> <th>S2</th> <th>S3</th> <th>S4</th> <th>S5</th> <th>S6</th> <th>S7</th> <th>S8</th>
+        <th>S9</th> <th>S10</th>
+    </tr>  
+    <tr>
+        <th>后摄像头</th> <th>S1</th> <th>S2</th> <th>S3</th> <th>S4</th> <th>S5</th> <th>S6</th> <th>S7</th> <th>S8</th>
+        <th>S9</th> <th>S10</th>
+    </tr> 
+    <tr>
+        <th>电池</th> <th>S1</th> <th>S2</th> <th>S3</th> <th>S4</th> <th>S5</th> <th>S6</th> <th>S7</th> <th>S8</th>
+        <th>S9</th> <th>S10</th>
+    </tr>
+    <tr>
+        <th>OS</th> <th>S1</th> <th>S2</th> <th>S3</th> <th>S4</th> <th>S5</th> <th>S6</th> <th>S7</th> <th>S8</th>
+        <th>S9</th> <th>S10</th>
     </tr>    
 </table>
 
