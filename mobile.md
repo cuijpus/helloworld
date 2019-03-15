@@ -450,9 +450,9 @@
         <td>4500</td> 
         <td>4500</td> 
         <td>4800</td> 
-        <td></td>
-        <td></td> 
-        <td></td>
+        <td>4000</td>
+        <td>4500</td> 
+        <td>5000?</td>
     </tr>            
 </table>
 
