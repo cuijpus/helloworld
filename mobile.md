@@ -318,11 +318,11 @@
         <td>1GB</td> 
         <td>2GB</td> 
         <td>2GB</td> 
-        <td>3GB/4GB</td> 
+        <td>3GB<br>4GB</td> 
         <td>4GB</td> 
         <td>4GB</td>
-        <td>4GB/6GB</td> 
-        <td>6GB/8GB</td>
+        <td>4GB<br>6GB</td> 
+        <td>6GB<br>8GB</td>
     </tr> 
     <tr>
         <th>ROM</th>        
