@@ -364,7 +364,15 @@
         <td></td>
         <td></td> 
         <td><a href = "https://www.samsung.com/semiconductor/estorage/eufs/KLUDG4U1EA-B0C1/">UFS2.1</a></td>
-    </tr>             
+    </tr>     
+    <tr>
+        <th>年代</th> <th>2010</th> <th>2011</th> <th>2012</th> <th> 2013 </th> <th>2014</th> <th>2015</th> <th>2016</th> <th>2017</th>
+        <th>2018</th> <th>2019</th>
+    </tr>
+    <tr>
+        <th>型号</th> <th>S1</th> <th>S2</th> <th>S3</th> <th>S4</th> <th>S5</th> <th>S6</th> <th>S7</th> <th>S8</th>
+        <th>S9</th> <th>S10</th>
+    </tr>            
     <tr>
         <th>前置<BR>摄像头(MP)</th>        
         <td>30w</td> 
