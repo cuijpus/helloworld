@@ -1032,6 +1032,7 @@ AMOLED: Active Matrix Organic Light-Emitting Diode, 有源矩阵自发光二极�
 AMOLED屏幕的构造有三层，AMOLED屏幕+TouchScreenPanel(触控屏面板)+外保护玻璃。AMOLED是OLED技术的一种，OLED代表着它是自发光显示器，利用多层有机化合物来实现独立R、G、B三色光。
 
 [2K/4K/8K怎么算的？720P/1080P是啥意思？](http://www.sohu.com/a/254373546_100161481)<br>
+[Super AMOLED屏幕](https://www.toutiao.com/a6423479381100052738/)<br>
 
 [一张图看懂手机CMF史 ](https://www.sohu.com/a/250437863_119960)<br>
 
