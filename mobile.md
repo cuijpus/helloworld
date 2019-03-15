@@ -517,6 +517,19 @@
         <td>3100<br>3400<br>4100</td>
     </tr>
     <tr>
+        <th>充电速度</th>       
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td>快充<br>无线</td> 
+        <td>快充2.0</td> 
+        <td>√</td>
+        <td>√</td> 
+        <td>15W快充<br>无线<br>反冲</td>
+    </tr>             
+    <tr>
         <th>OS</th>        
         <td>2.1</td> 
         <td>2.3</td> 
