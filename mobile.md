@@ -235,28 +235,28 @@
             <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s2.png" alt="S2" />
         </th> 
         <th>
-            <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s2.png" alt="S3" />
+            <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s3.png" alt="S3" />
         </th>
         <th>
-            <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s2.png" alt="S4" />    
+            <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s4.png" alt="S4" />    
         </th>
         <th>
-            <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s2.png" alt="S5" />
+            <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s5.png" alt="S5" />
         </th>
         <th>
             <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s6.png" alt="S6" />
         </th>
         <th>
-            <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s2.png" alt="S7" />
+            <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s7.png" alt="S7" />
         </th>
         <th>
-            <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s2.png" alt="S8" />
+            <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s8.png" alt="S8" />
         </th>
         <th>
-            <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s2.png" alt="S9" />
+            <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s9.png" alt="S9" />
         </th>
         <th>
-            <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/360/a.gif?v=0.1" alt="S10" />
+            <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/360/1.png" alt="S10" />
         </th>
     </tr>    
     <tr>
