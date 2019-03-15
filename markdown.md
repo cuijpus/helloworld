@@ -96,3 +96,10 @@ table td {
   border: 1px solid #dedede; /*内部边框样式*/
   padding: 0 10px; /*内边距*/
 }
+
+# 表格中插入图片
+<table>
+        <td width="20%" height="100%">
+            <img src="url" alt="我的照片" />
+        </td>
+</table>
