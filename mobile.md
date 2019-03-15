@@ -291,12 +291,12 @@
         <td>Exynos<br>4210<br>2核</td> 
         <td>Exynos<br>4412<br>4核</td> 
         <td>Exynos<br>5410<br>8核</td> 
-        <td>S5</td> 
-        <td>S6</td> 
-        <td>S7</td> 
-        <td>S8</td>
-        <td>S9</td> 
-        <td>S10</td>
+        <td>骁龙801</td> 
+        <td>Exynos<br>7420<br>8核</td> 
+        <td>Exynos<br>8890<br>8核</td> 
+        <td>猎户8895<br>骁龙835</td>
+        <td>猎户9810<br>骁龙845</td> 
+        <td>猎户9820<br>骁龙855</td>
     </tr>
     <tr>
         <th>GPU</th>       
@@ -317,12 +317,12 @@
         <td>1GB</td> 
         <td>1GB</td> 
         <td>2GB</td> 
-        <td>S5</td> 
-        <td>S6</td> 
-        <td>S7</td> 
-        <td>S8</td>
-        <td>S9</td> 
-        <td>S10</td>
+        <td>2GB</td> 
+        <td>3GB/4GB</td> 
+        <td>4GB</td> 
+        <td>4GB</td>
+        <td>4GB/6GB</td> 
+        <td>6GB/8GB</td>
     </tr> 
     <tr>
         <th>ROM</th>        
@@ -330,12 +330,12 @@
         <td>16GB<BR>32GB</td> 
         <td>16GB<BR>32GB<BR>64GB</td> 
         <td>16GB<BR>32GB<BR>64GB</td> 
-        <td>S5</td> 
-        <td>S6</td> 
-        <td>S7</td> 
-        <td>S8</td>
-        <td>S9</td> 
-        <td>S10</td>
+        <td>16GB<BR>32GB</td> 
+        <td>32GB<BR>64GB<br>128GB</td> 
+        <td>32GB<BR>64GB</td> 
+        <td>64GB<br>128GB</td>
+        <td>64GB<br>128GB<BR>256GB</td> 
+        <td>128GB<br>512GB</td>
     </tr> 
     <tr>
         <th>前置<BR>摄像头(MP)</th>        
@@ -343,21 +343,21 @@
         <td>200</td> 
         <td>200</td> 
         <td>200</td> 
-        <td>S5</td> 
-        <td>S6</td> 
+        <td>210</td> 
+        <td>500</td> 
         <td>S7</td> 
-        <td>S8</td>
+        <td>800</td>
         <td>S9</td> 
         <td>S10</td>
     </tr>  
     <tr>
-        <th>后摄像头</th>       
+        <th>后置<br>摄像头(MP)</th>       
         <td>500</td> 
         <td>800</td> 
         <td>800</td> 
         <td>1300</td> 
-        <td>S5</td> 
-        <td>S6</td> 
+        <td>1600</td> 
+        <td>1600</td> 
         <td>S7</td> 
         <td>S8</td>
         <td>S9</td> 
@@ -370,8 +370,8 @@
         <td>2100</td> 
         <td>2600</td> 
         <td>2800</td> 
-        <td>S6</td> 
-        <td>S7</td> 
+        <td></td> 
+        <td>3600</td> 
         <td>S8</td>
         <td>S9</td> 
         <td>S10</td>
@@ -382,12 +382,12 @@
         <td>2.3</td> 
         <td>4.0</td> 
         <td>4.2</td> 
-        <td>S5</td> 
-        <td>S6</td> 
-        <td>S7</td> 
-        <td>S8</td>
-        <td>S9</td> 
-        <td>S10</td>
+        <td>4.4<BR>KK</td> 
+        <td>5.0<br>L</td> 
+        <td>6.0<br>M</td> 
+        <td>7.0<br>N</td>
+        <td>8.0<br>O</td> 
+        <td>9.0<br>P</td>
     </tr>    
 </table>
 
