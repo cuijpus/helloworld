@@ -287,7 +287,7 @@
     </tr>  
     <tr>
         <th>CPU</th> 
-        <td>S1</td> 
+        <td>Exynos 3</td> 
         <td>S2</td> 
         <td>S3</td> 
         <td>S4</td> 
@@ -313,7 +313,7 @@
     </tr> 
     <tr>
         <th>RAM</th>      
-        <td>S1</td> 
+        <td>512MB</td> 
         <td>S2</td> 
         <td>S3</td> 
         <td>S4</td> 
@@ -326,7 +326,7 @@
     </tr> 
     <tr>
         <th>ROM</th>        
-        <td>S1</td> 
+        <td>8GB<BR>16GB</td> 
         <td>S2</td> 
         <td>S3</td> 
         <td>S4</td> 
@@ -338,8 +338,8 @@
         <td>S10</td>
     </tr> 
     <tr>
-        <th>前置摄像头</th>        
-        <td>S1</td> 
+        <th>前置<BR>摄像头(W)</th>        
+        <td>30</td> 
         <td>S2</td> 
         <td>S3</td> 
         <td>S4</td> 
@@ -352,7 +352,7 @@
     </tr>  
     <tr>
         <th>后摄像头</th>       
-        <td>S1</td> 
+        <td>500</td> 
         <td>S2</td> 
         <td>S3</td> 
         <td>S4</td> 
@@ -364,8 +364,8 @@
         <td>S10</td>
     </tr> 
     <tr>
-        <th>电池</th>        
-        <td>S1</td> 
+        <th>电池(mAh)</th>        
+        <td>1500</td> 
         <td>S2</td> 
         <td>S3</td> 
         <td>S4</td> 
@@ -378,7 +378,7 @@
     </tr>
     <tr>
         <th>OS</th>        
-        <td>S1</td> 
+        <td>2.1</td> 
         <td>S2</td> 
         <td>S3</td> 
         <td>S4</td> 
