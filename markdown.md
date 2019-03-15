@@ -100,6 +100,6 @@ table td {
 # 表格中插入图片
 <table>
         <td width="20%" height="100%">
-            <img src="url" alt="我的照片" />
+            <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s9.png" alt="我的照片" />
         </td>
 </table>
