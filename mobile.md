@@ -351,6 +351,19 @@
         <td>800+<br>1000</td>
     </tr>  
     <tr>
+        <th>前置<BR>录像</th>        
+        <td></td> 
+        <td></td> 
+        <td>720P<br>@30fps</td> 
+        <td>1080P<br>@30fps</td> 
+        <td></td> 
+        <td>1440P<br>@30fps</td> 
+        <td></td> 
+        <td></td>
+        <td></td> 
+        <td></td>
+    </tr>            
+    <tr>
         <th>后置<br>摄像头(MP)</th>       
         <td>500</td> 
         <td>800</td> 
@@ -363,6 +376,19 @@
         <td>1200+<br>1200</td> 
         <td>1200+<br>1200+<br>1600</td>
     </tr> 
+    <tr>
+        <th>后置<br>录像</th>       
+        <td>720P<br>@30fps</td> 
+        <td>1080P</td> 
+        <td> </td> 
+        <td> </td> 
+        <td>4K</td> 
+        <td></td> 
+        <td>2160P<br>@30fps</td> 
+        <td></td>
+        <td></td> 
+        <td>2160P<br>@60fps</td>
+    </tr>             
     <tr>
         <th>电池(mAh)</th>        
         <td>1500</td> 
