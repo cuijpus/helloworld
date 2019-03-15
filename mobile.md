@@ -335,7 +335,7 @@
         <td></td> 
         <td></td>
         <td></td> 
-        <td>LPDDR4x</td>
+        <td><a href = "https://www.samsung.com/semiconductor/dram/lpddr4x/K3UH7H70AM-AGCL/">LPDDR4x</a></td>
     </tr>            
     <tr>
         <th>闪存ROM</th>        
@@ -361,7 +361,7 @@
         <td></td> 
         <td></td>
         <td></td> 
-        <td><a href = "https://www.samsung.com/semiconductor/global.semi/file/resource/2018/06/White_Paper_Samsung_UFS_Card_1806.pdf">UFS2.1</a></td>
+        <td><a href = "https://www.samsung.com/semiconductor/estorage/eufs/KLUDG4U1EA-B0C1/">UFS2.1</a></td>
     </tr>             
     <tr>
         <th>前置<BR>摄像头(MP)</th>        
