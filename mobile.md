@@ -482,6 +482,8 @@
     </tr>            
 </table>
 
+[拆解三星 Galaxy S10：成本约 420 美元，屏幕、SoC 和摄像头占一半](http://www.ifanr.com/1180874)<br>
+[采用双摄的三星 Galaxy S9+ 内部长什么样？来看看 iFixit 的拆解结果](http://www.geekpark.net/news/227189)<br>
 [1张图回顾10代S](http://5b0988e595225.cdn.sohucs.com/images/20190219/4b14d98d3ff144eb96829549b81f4693.jpeg)<BR> 
 [S系列销量](https://www.gsmarena.com/report_says_samsung_aiming_to_sell_60_million_galaxy_s8_units_this_year-news-22620.php)<br>
 
