@@ -274,16 +274,16 @@
     </tr>   
     <tr>
         <th>分辨率</th> 
-        <th>800X480</th> 
-        <th>800X480</th>
-        <th>1280X720</th>
-        <th>1080X1920</th> 
-        <th>1080X1920</th> 
-        <th>2560X1440</th> 
-        <th>2560X1440</th> 
-        <th>2560X1440<BR>2960X1440</th>
-        <th>2960X1440</th>
-        <th>2960X1440</th>
+        <th>800X<BR>480</th> 
+        <th>800X<BR>480</th>
+        <th>1280X<BR>720</th>
+        <th>1080X<BR>1920</th> 
+        <th>1080X<BR>1920</th> 
+        <th>2560X<BR>1440</th> 
+        <th>2560X<BR>1440</th> 
+        <th>2560X<BR>1440<BR>2960X<BR>1440</th>
+        <th>2960X<BR>1440</th>
+        <th>2960X<BR>1440</th>
     </tr>  
     <tr>
         <th>CPU</th> <th>S1</th> <th>S2</th> <th>S3</th> <th>S4</th> <th>S5</th> <th>S6</th> <th>S7</th> <th>S8</th>
