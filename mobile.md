@@ -414,7 +414,46 @@
         <td>7.0<br>N</td>
         <td>8.0<br>O</td> 
         <td>9.0<br>P</td>
-    </tr>    
+    </tr>   
+    <tr>
+        <th>HW突破</th>        
+        <td>2.1</td> 
+        <td>2.3</td> 
+        <td>4.0</td> 
+        <td>4.2</td> 
+        <td>4.4<BR>KK</td> 
+        <td>5.0<br>L</td> 
+        <td>6.0<br>M</td> 
+        <td>7.0<br>N</td>
+        <td>8.0<br>O</td> 
+        <td>9.0<br>P</td>
+    </tr> 
+    <tr>
+        <th>软件突破</th>        
+        <td>2.1</td> 
+        <td>2.3</td> 
+        <td>4.0</td> 
+        <td>4.2</td> 
+        <td>4.4<BR>KK</td> 
+        <td>5.0<br>L</td> 
+        <td>6.0<br>M</td> 
+        <td>7.0<br>N</td>
+        <td>8.0<br>O</td> 
+        <td>9.0<br>P</td>
+    </tr> 
+    <tr>
+        <th>销量</th>        
+        <td>2.1</td> 
+        <td>2.3</td> 
+        <td>4.0</td> 
+        <td>4.2</td> 
+        <td>4.4<BR>KK</td> 
+        <td>5.0<br>L</td> 
+        <td>6.0<br>M</td> 
+        <td>7.0<br>N</td>
+        <td>8.0<br>O</td> 
+        <td>9.0<br>P</td>
+    </tr>            
 </table>
 
 [1张图回顾10代S](http://5b0988e595225.cdn.sohucs.com/images/20190219/4b14d98d3ff144eb96829549b81f4693.jpeg)<BR> 
