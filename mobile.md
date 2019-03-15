@@ -287,10 +287,10 @@
     </tr>  
     <tr>
         <th>CPU</th> 
-        <td>Exynos 3</td> 
-        <td>S2</td> 
-        <td>S3</td> 
-        <td>S4</td> 
+        <td>Exynos3</td> 
+        <td>Exynos<br>4210<br>2核</td> 
+        <td>Exynos<br>4412<br>4核</td> 
+        <td>Exynos<br>5410<br>8核</td> 
         <td>S5</td> 
         <td>S6</td> 
         <td>S7</td> 
@@ -314,9 +314,9 @@
     <tr>
         <th>RAM</th>      
         <td>512MB</td> 
-        <td>S2</td> 
-        <td>S3</td> 
-        <td>S4</td> 
+        <td>1GB</td> 
+        <td>1GB</td> 
+        <td>2GB</td> 
         <td>S5</td> 
         <td>S6</td> 
         <td>S7</td> 
@@ -327,9 +327,9 @@
     <tr>
         <th>ROM</th>        
         <td>8GB<BR>16GB</td> 
-        <td>S2</td> 
-        <td>S3</td> 
-        <td>S4</td> 
+        <td>16GB<BR>32GB</td> 
+        <td>16GB<BR>32GB<BR>64GB</td> 
+        <td>16GB<BR>32GB<BR>64GB</td> 
         <td>S5</td> 
         <td>S6</td> 
         <td>S7</td> 
@@ -338,11 +338,11 @@
         <td>S10</td>
     </tr> 
     <tr>
-        <th>前置<BR>摄像头(W)</th>        
-        <td>30</td> 
-        <td>S2</td> 
-        <td>S3</td> 
-        <td>S4</td> 
+        <th>前置<BR>摄像头(MP)</th>        
+        <td>30w</td> 
+        <td>200</td> 
+        <td>200</td> 
+        <td>200</td> 
         <td>S5</td> 
         <td>S6</td> 
         <td>S7</td> 
@@ -353,9 +353,9 @@
     <tr>
         <th>后摄像头</th>       
         <td>500</td> 
-        <td>S2</td> 
-        <td>S3</td> 
-        <td>S4</td> 
+        <td>800</td> 
+        <td>800</td> 
+        <td>1300</td> 
         <td>S5</td> 
         <td>S6</td> 
         <td>S7</td> 
@@ -366,10 +366,10 @@
     <tr>
         <th>电池(mAh)</th>        
         <td>1500</td> 
-        <td>S2</td> 
-        <td>S3</td> 
-        <td>S4</td> 
-        <td>S5</td> 
+        <td>1650</td> 
+        <td>2100</td> 
+        <td>2600</td> 
+        <td>2800</td> 
         <td>S6</td> 
         <td>S7</td> 
         <td>S8</td>
@@ -379,9 +379,9 @@
     <tr>
         <th>OS</th>        
         <td>2.1</td> 
-        <td>S2</td> 
-        <td>S3</td> 
-        <td>S4</td> 
+        <td>2.3</td> 
+        <td>4.0</td> 
+        <td>4.2</td> 
         <td>S5</td> 
         <td>S6</td> 
         <td>S7</td> 
