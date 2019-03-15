@@ -364,7 +364,20 @@
         <td></td>
         <td></td> 
         <td><a href = "https://www.samsung.com/semiconductor/estorage/eufs/KLUDG4U1EA-B0C1/">UFS2.1</a></td>
-    </tr>     
+    </tr>  
+    <tr>
+        <th>扩展卡</th>       
+        <td>32GB</td> 
+        <td>32GB</td> 
+        <td>64GB</td> 
+        <td>64GB</td> 
+        <td>256GB</td> 
+        <td>?</td> 
+        <td>256GB<BR>512GB</td> 
+        <td>256GB</td>
+        <td>256GB</td> 
+        <td>256GB</td>
+    </tr>             
     <tr>
         <th>年代</th> <th>2010</th> <th>2011</th> <th>2012</th> <th> 2013 </th> <th>2014</th> <th>2015</th> <th>2016</th> <th>2017</th>
         <th>2018</th> <th>2019</th>
@@ -429,66 +442,66 @@
         <th>通信制式</th>       
         <td>2G<BR>3G</td> 
         <td>2G<BR>3G</td> 
-        <td> </td> 
-        <td> </td> 
-        <td></td> 
-        <td></td> 
-        <td></td> 
-        <td></td>
-        <td></td> 
-        <td></td>
+        <td>2G<BR>3G</td> 
+        <td>2G<BR>3G<br>4GLTE </td> 
+        <td>2G<BR>3G<br>4GLTE</td> 
+        <td>2G<BR>3G<br>4GLTE</td> 
+        <td>2G<BR>3G<br>4GLTE</td> 
+        <td>2G<BR>3G<br>4GLTE</td>
+        <td>2G<BR>3G<br>4GLTE</td> 
+        <td>2G<BR>3G<br>4GLTE<br>5G</td>
     </tr> 
     <tr>
         <th>GPS</th>       
-        <td></td> 
-        <td></td> 
-        <td> </td> 
-        <td> </td> 
-        <td></td> 
-        <td></td> 
-        <td></td> 
-        <td></td>
-        <td></td> 
-        <td></td>
+        <td>√</td> 
+        <td>√</td> 
+        <td>√</td> 
+        <td>√</td> 
+        <td>√</td> 
+        <td>√</td> 
+        <td>√</td> 
+        <td>√</td>
+        <td>√</td> 
+        <td>√</td>
     </tr>             
     <tr>
         <th>WI-FI</th>       
-        <td></td> 
-        <td></td> 
-        <td> </td> 
-        <td> </td> 
-        <td></td> 
-        <td></td> 
-        <td></td> 
-        <td></td>
-        <td></td> 
-        <td></td>
+        <td>√</td> 
+        <td>√</td> 
+        <td>√</td> 
+        <td>√ </td> 
+        <td>√</td> 
+        <td>√</td> 
+        <td>√</td> 
+        <td>√</td>
+        <td>√</td> 
+        <td>Wi-Fi6</td>
     </tr>  
     <tr>
         <th>蓝牙</th>       
-        <td></td> 
-        <td></td> 
-        <td> </td> 
-        <td> </td> 
-        <td></td> 
-        <td></td> 
-        <td></td> 
-        <td></td>
-        <td></td> 
-        <td></td>
+        <td>3.0</td> 
+        <td>3.0</td> 
+        <td>4.0 </td> 
+        <td>4.0 </td> 
+        <td>4.0</td> 
+        <td>4.1</td> 
+        <td>4.1</td> 
+        <td>5.0</td>
+        <td>5.0</td> 
+        <td>5.0</td>
     </tr> 
     <tr>
         <th>NFC</th>       
-        <td></td> 
-        <td></td> 
-        <td> </td> 
-        <td> </td> 
-        <td></td> 
-        <td></td> 
-        <td></td> 
-        <td></td>
-        <td></td> 
-        <td></td>
+        <td>x</td> 
+        <td>√</td> 
+        <td>√</td> 
+        <td>√</td> 
+        <td>√</td> 
+        <td>√</td> 
+        <td>√</td> 
+        <td>√</td>
+        <td>√</td> 
+        <td>√</td>
     </tr>             
     <tr>
         <th>电池(mAh)</th>        
