@@ -345,9 +345,9 @@
         <td>200</td> 
         <td>210</td> 
         <td>500</td> 
-        <td>S7</td> 
+        <td>500</td> 
         <td>800</td>
-        <td>S9</td> 
+        <td>800</td> 
         <td>S10</td>
     </tr>  
     <tr>
@@ -358,10 +358,10 @@
         <td>1300</td> 
         <td>1600</td> 
         <td>1600</td> 
-        <td>S7</td> 
-        <td>S8</td>
-        <td>S9</td> 
-        <td>S10</td>
+        <td>1200</td> 
+        <td>1200</td>
+        <td>1200<br>1200</td> 
+        <td>1200<br>1200<br>1600</td>
     </tr> 
     <tr>
         <th>电池(mAh)</th>        
@@ -370,11 +370,11 @@
         <td>2100</td> 
         <td>2600</td> 
         <td>2800</td> 
-        <td></td> 
-        <td>3600</td> 
-        <td>S8</td>
-        <td>S9</td> 
-        <td>S10</td>
+        <td>2550<br>不可拆</td> 
+        <td>3000</td> 
+        <td>3000</td>
+        <td>3000<br>3500</td> 
+        <td>3100<br>3400<br>4100</td>
     </tr>
     <tr>
         <th>OS</th>        
