@@ -298,7 +298,8 @@
         <td>猎户8890<br>8核</td> 
         <td>猎户8895<br>骁龙835</td>
         <td>猎户9810<br>骁龙845</td> 
-        <td>猎户9820<br>骁龙855</td>
+        <td><a href = "https://www.samsung.com/semiconductor/minisite/exynos/products/mobileprocessor/exynos-9-series-9820/">猎户9820<br>
+            骁龙855</td>
     </tr>
     <tr>
         <th>GPU</th>       
