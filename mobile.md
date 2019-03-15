@@ -273,7 +273,7 @@
         <td>5.8"<BR>6.1"<BR>6.4"</td>
     </tr>   
     <tr>
-        <td>分辨率</th> 
+        <th>分辨率</th> 
         <td>800X<BR>480</td> 
         <td>800X<BR>480</td>
         <td>1280X<BR>720</td>
@@ -286,36 +286,108 @@
         <td>2960X<BR>1440</td>
     </tr>  
     <tr>
-        <th>CPU</th> <th>S1</th> <th>S2</th> <th>S3</th> <th>S4</th> <th>S5</th> <th>S6</th> <th>S7</th> <th>S8</th>
-        <th>S9</th> <th>S10</th>
+        <th>CPU</th> 
+        <td>S1</td> 
+        <td>S2</td> 
+        <td>S3</td> 
+        <td>S4</td> 
+        <td>S5</td> 
+        <td>S6</td> 
+        <td>S7</td> 
+        <td>S8</td>
+        <td>S9</td> 
+        <td>S10</td>
     </tr>
     <tr>
-        <th>GPU</th> <th>S1</th> <th>S2</th> <th>S3</th> <th>S4</th> <th>S5</th> <th>S6</th> <th>S7</th> <th>S8</th>
-        <th>S9</th> <th>S10</th>
+        <th>GPU</th>       
+        <td>S1</td> 
+        <td>S2</td> 
+        <td>S3</td> 
+        <td>S4</td> 
+        <td>S5</td> 
+        <td>S6</td> 
+        <td>S7</td> 
+        <td>S8</td>
+        <td>S9</td> 
+        <td>S10</td>
     </tr> 
     <tr>
-        <th>RAM</th> <th>S1</th> <th>S2</th> <th>S3</th> <th>S4</th> <th>S5</th> <th>S6</th> <th>S7</th> <th>S8</th>
-        <th>S9</th> <th>S10</th>
+        <th>RAM</th>      
+        <td>S1</td> 
+        <td>S2</td> 
+        <td>S3</td> 
+        <td>S4</td> 
+        <td>S5</td> 
+        <td>S6</td> 
+        <td>S7</td> 
+        <td>S8</td>
+        <td>S9</td> 
+        <td>S10</td>
     </tr> 
     <tr>
-        <th>ROM</th> <th>S1</th> <th>S2</th> <th>S3</th> <th>S4</th> <th>S5</th> <th>S6</th> <th>S7</th> <th>S8</th>
-        <th>S9</th> <th>S10</th>
+        <th>ROM</th>        
+        <td>S1</td> 
+        <td>S2</td> 
+        <td>S3</td> 
+        <td>S4</td> 
+        <td>S5</td> 
+        <td>S6</td> 
+        <td>S7</td> 
+        <td>S8</td>
+        <td>S9</td> 
+        <td>S10</td>
     </tr> 
     <tr>
-        <th>前置摄像头</th> <th>S1</th> <th>S2</th> <th>S3</th> <th>S4</th> <th>S5</th> <th>S6</th> <th>S7</th> <th>S8</th>
-        <th>S9</th> <th>S10</th>
+        <th>前置摄像头</th>        
+        <td>S1</td> 
+        <td>S2</td> 
+        <td>S3</td> 
+        <td>S4</td> 
+        <td>S5</td> 
+        <td>S6</td> 
+        <td>S7</td> 
+        <td>S8</td>
+        <td>S9</td> 
+        <td>S10</td>
     </tr>  
     <tr>
-        <th>后摄像头</th> <th>S1</th> <th>S2</th> <th>S3</th> <th>S4</th> <th>S5</th> <th>S6</th> <th>S7</th> <th>S8</th>
-        <th>S9</th> <th>S10</th>
+        <th>后摄像头</th>       
+        <td>S1</td> 
+        <td>S2</td> 
+        <td>S3</td> 
+        <td>S4</td> 
+        <td>S5</td> 
+        <td>S6</td> 
+        <td>S7</td> 
+        <td>S8</td>
+        <td>S9</td> 
+        <td>S10</td>
     </tr> 
     <tr>
-        <th>电池</th> <th>S1</th> <th>S2</th> <th>S3</th> <th>S4</th> <th>S5</th> <th>S6</th> <th>S7</th> <th>S8</th>
-        <th>S9</th> <th>S10</th>
+        <th>电池</th>        
+        <td>S1</td> 
+        <td>S2</td> 
+        <td>S3</td> 
+        <td>S4</td> 
+        <td>S5</td> 
+        <td>S6</td> 
+        <td>S7</td> 
+        <td>S8</td>
+        <td>S9</td> 
+        <td>S10</td>
     </tr>
     <tr>
-        <th>OS</th> <th>S1</th> <th>S2</th> <th>S3</th> <th>S4</th> <th>S5</th> <th>S6</th> <th>S7</th> <th>S8</th>
-        <th>S9</th> <th>S10</th>
+        <th>OS</th>        
+        <td>S1</td> 
+        <td>S2</td> 
+        <td>S3</td> 
+        <td>S4</td> 
+        <td>S5</td> 
+        <td>S6</td> 
+        <td>S7</td> 
+        <td>S8</td>
+        <td>S9</td> 
+        <td>S10</td>
     </tr>    
 </table>
 
