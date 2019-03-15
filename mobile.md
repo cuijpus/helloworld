@@ -312,7 +312,10 @@
         <td>S7</td> 
         <td>S8</td>
         <td>S9</td> 
-        <td>S10</td>
+        <td>
+            <a href = "https://www.arm.com/products/silicon-ip-multimedia/gpu/mali-g76">Mali-G76</a>
+            Adreno640
+        </td>
     </tr> 
     <tr>
         <th>运存RAM</th>      
