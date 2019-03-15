@@ -426,7 +426,7 @@
         <td></td> 
         <td>虹膜</td>
         <td>双摄</td> 
-        <td>三摄<br>FOD<br>HID></td>
+        <td>三摄<br>FOD<br>HID</td>
     </tr> 
     <tr>
         <th>软件突破</th>        
