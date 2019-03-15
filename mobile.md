@@ -524,11 +524,24 @@
         <td></td> 
         <td></td> 
         <td>快充<br>无线</td> 
-        <td>快充2.0</td> 
-        <td>√</td>
-        <td>√</td> 
+        <td>快充2.0<br>无线</td> 
+        <td>快充2.0<br>无线</td>
+        <td>快充2.0<br>无线</td> 
         <td>15W快充<br>无线<br>反冲</td>
-    </tr>             
+    </tr>
+    <tr>
+        <th>指纹</th>       
+        <td>x</td> 
+        <td>x</td> 
+        <td>x</td> 
+        <td>x</td> 
+        <td>前压</td> 
+        <td>前压</td> 
+        <td>前压</td> 
+        <td>背后</td>
+        <td>背后</td> 
+        <td>FOD</td>
+    </tr>            
     <tr>
         <th>OS</th>        
         <td>2.1</td> 
