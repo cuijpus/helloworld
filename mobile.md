@@ -445,11 +445,11 @@
         <th>销量<br>(万台)</th>        
         <td>2400</td> 
         <td>2800</td> 
-        <td>7000</td> 
-        <td>6个月<br>4000</td> 
-        <td></td> 
-        <td></td> 
-        <td>5000</td> 
+        <td>6500</td> 
+        <td>6个月<br>4000<br>共7000</td> 
+        <td>4500</td> 
+        <td>4500</td> 
+        <td>4800</td> 
         <td></td>
         <td></td> 
         <td></td>
@@ -457,7 +457,7 @@
 </table>
 
 [1张图回顾10代S](http://5b0988e595225.cdn.sohucs.com/images/20190219/4b14d98d3ff144eb96829549b81f4693.jpeg)<BR> 
-
+[S系列销量](https://www.gsmarena.com/report_says_samsung_aiming_to_sell_60_million_galaxy_s8_units_this_year-news-22620.php)<br>
 
 就当前OPPO产品线来看，其有高端旗舰Find X系列、中端R系列和低端A系列。去年又新推出面向线上的K系列，主打高性价比。对于Reno的市场定位暂时未了解。
 
