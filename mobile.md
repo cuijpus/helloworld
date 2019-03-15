@@ -312,7 +312,7 @@
         <td>S10</td>
     </tr> 
     <tr>
-        <th>RAM</th>      
+        <th>运存RAM</th>      
         <td>512MB</td> 
         <td>1GB</td> 
         <td>1GB</td> 
@@ -338,7 +338,7 @@
         <td>LPDDR4x</td>
     </tr>            
     <tr>
-        <th>ROM</th>        
+        <th>闪存ROM</th>        
         <td>8GB<BR>16GB</td> 
         <td>16GB<BR>32GB</td> 
         <td>16GB<BR>32GB<BR>64GB</td> 
@@ -350,6 +350,19 @@
         <td>64GB<br>128GB<BR>256GB</td> 
         <td>128GB<br>512GB</td>
     </tr> 
+    <tr>
+        <th>读取速度</th>      
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td> 
+        <td><a href = "https://www.samsung.com/semiconductor/global.semi/file/resource/2018/06/White_Paper_Samsung_UFS_Card_1806.pdf">UFS2.1</a></td>
+    </tr>             
     <tr>
         <th>前置<BR>摄像头(MP)</th>        
         <td>30w</td> 
