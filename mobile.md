@@ -323,7 +323,20 @@
         <td>4GB</td>
         <td>4GB<br>6GB</td> 
         <td>6GB<br>8GB</td>
-    </tr> 
+    </tr>
+    <tr>
+        <th>读取速度</th>      
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td> 
+        <td>LPDDR4x</td>
+    </tr>            
     <tr>
         <th>ROM</th>        
         <td>8GB<BR>16GB</td> 
