@@ -442,14 +442,14 @@
         <td></td>
     </tr> 
     <tr>
-        <th>销量</th>        
+        <th>销量<br>(万台)</th>        
+        <td>2400</td> 
+        <td>2800</td> 
+        <td>7000</td> 
+        <td>6个月<br>4000</td> 
         <td></td> 
         <td></td> 
-        <td></td> 
-        <td></td> 
-        <td></td> 
-        <td></td> 
-        <td></td> 
+        <td>5000</td> 
         <td></td>
         <td></td> 
         <td></td>
