@@ -231,8 +231,33 @@
         <th>
             <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s2.png" alt="S1" />
         </th> 
-        <th>S2</th> <th>S3</th> <th>S4</th> <th>S5</th> <th>S6</th> <th>S7</th> <th>S8</th>
-        <th>S9</th> <th>S10</th>
+        <th>
+            <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s2.png" alt="S2" />
+        </th> 
+        <th>
+            <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s2.png" alt="S1" />
+        </th>
+        <th>
+            <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s2.png" alt="S1" />    
+        </th>
+        <th>
+            <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s2.png" alt="S1" />
+        </th>
+        <th>
+            <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s2.png" alt="S1" />
+        </th>
+        <th>
+            <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s2.png" alt="S1" />
+        </th>
+        <th>
+            <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s2.png" alt="S1" />
+        </th>
+        <th>
+            <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s2.png" alt="S1" />
+        </th>
+        <th>
+            <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s2.png" alt="S1" />
+        </th>
     </tr>    
     <tr>
         <th>屏幕</th> <th>S1</th> <th>S2</th> <th>S3</th> <th>S4</th> <th>S5</th> <th>S6</th> <th>S7</th> <th>S8</th>
