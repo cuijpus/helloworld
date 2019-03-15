@@ -287,7 +287,7 @@
     </tr>  
     <tr>
         <th>CPU</th> 
-        <td>猎户3</td> 
+        <td>猎户3110</td> 
         <td>猎户4210<br>2核</td> 
         <td>猎户4412<br>4核</td> 
         <td>猎户5410<br>8核</td> 
@@ -419,8 +419,8 @@
         <th>HW突破</th>        
         <td></td> 
         <td></td> 
-        <td></td> 
-        <td>4G</td> 
+        <td>鹅卵石<br>设计</td> 
+        <td>4G<br>三防</td> 
         <td></td> 
         <td>无线<br>充电<br>曲屏</td> 
         <td></td> 
