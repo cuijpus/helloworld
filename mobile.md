@@ -229,10 +229,10 @@
     <tr>
         <th>PIC</th> 
         <th>
-            <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s1.png" alt="S1" />
+            <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s2.png" alt="S1" />
         </th> 
         <th>
-            <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s2.png" alt="S2" />
+            <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s1.png" alt="S2" />
         </th> 
         <th>
             <img src="http://support-cn.samsung.com/campaign/mobilephone/galaxys10/imgs/phone/s3.png" alt="S3" />
