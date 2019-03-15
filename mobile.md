@@ -416,6 +416,71 @@
         <td></td>
         <td></td> 
         <td>2160P<br>@60fps</td>
+    </tr>   
+    <tr>
+        <th>通信制式</th>       
+        <td>2G<BR>3G</td> 
+        <td>2G<BR>3G</td> 
+        <td> </td> 
+        <td> </td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td> 
+        <td></td>
+    </tr> 
+    <tr>
+        <th>GPS</th>       
+        <td></td> 
+        <td></td> 
+        <td> </td> 
+        <td> </td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td> 
+        <td></td>
+    </tr>             
+    <tr>
+        <th>WI-FI</th>       
+        <td></td> 
+        <td></td> 
+        <td> </td> 
+        <td> </td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td> 
+        <td></td>
+    </tr>  
+    <tr>
+        <th>蓝牙</th>       
+        <td></td> 
+        <td></td> 
+        <td> </td> 
+        <td> </td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td> 
+        <td></td>
+    </tr> 
+    <tr>
+        <th>NFC</th>       
+        <td></td> 
+        <td></td> 
+        <td> </td> 
+        <td> </td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td> 
+        <td></td>
     </tr>             
     <tr>
         <th>电池(mAh)</th>        
