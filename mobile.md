@@ -260,8 +260,9 @@
         </th>
     </tr>    
     <tr>
-        <th>屏幕</th> <th>S1</th> <th>S2</th> <th>S3</th> <th>S4</th> <th>S5</th> <th>S6</th> <th>S7</th> <th>S8</th>
-        <th>S9</th> <th>S10</th>
+        <th>屏幕<BR>AMOLED</th> 
+        <th>4"</th> <th>4.3"</th> <th>4.8"</th> <th>5.0"</th> <th>5.1"</th> <th>5.1"</th> <th>5.1"</th> <th>5.8"</th>
+        <th>5.8"</th> <th>6.1"</th>
     </tr>   
     <tr>
         <th>分辨率</th> <th>S1</th> <th>S2</th> <th>S3</th> <th>S4</th> <th>S5</th> <th>S6</th> <th>S7</th> <th>S8</th>
