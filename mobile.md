@@ -291,10 +291,10 @@
     </tr>  
     <tr>
         <th>PPI</th> 
-        <td></td> 
-        <td></td>
-        <td></td>
-        <td></td> 
+        <td>233</td> 
+        <td>216</td>
+        <td>305</td>
+        <td>440</td> 
         <td></td> 
         <td></td> 
         <td></td> 
