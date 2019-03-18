@@ -274,32 +274,95 @@
     </tr>   
     <tr>
         <th>CPU</th> 
-        <td>猎户3110</td> 
+        <td></td> 
         <td>猎户4210<br>2核</td> 
         <td>猎户4412<br>4核</td> 
-        <td>猎户5410<br>8核</td> 
-        <td>骁龙801</td> 
+        <td>骁龙800</td> 
+        <td>骁龙805</td> 
         <td>猎户7420<br>8核</td> 
-        <td>猎户8890<br>8核</td> 
+        <td>骁龙820</td> 
         <td>猎户8895<br>骁龙835</td>
         <td>猎户9810<br>骁龙845</td> 
-        <td><a href = "https://www.samsung.com/semiconductor/minisite/exynos/products/mobileprocessor/exynos-9-series-9820/">猎户9820</a><br>
-            <a href = "https://www.qualcomm.com/products/snapdragon-855-mobile-platform">骁龙855</a></td>
+        <td></td>
     </tr>
-    <tr> 
     <tr>
         <th>运存RAM</th>      
-        <td>512MB</td> 
-        <td>1GB</td> 
+        <td></td> 
         <td>1GB</td> 
         <td>2GB</td> 
         <td>2GB</td> 
-        <td>3GB<br>4GB</td> 
+        <td>3GB</td> 
+        <td>4GB</td> 
         <td>4GB</td> 
         <td>4GB</td>
         <td>4GB<br>6GB</td> 
-        <td>6GB<br>8GB</td>
+        <td></td>
     </tr>    
+    <tr>
+        <th>闪存ROM</th>        
+        <td></td> 
+        <td>16GB</td> 
+        <td>16GB</td> 
+        <td>16GB</td> 
+        <td>16GB</td> 
+        <td>32GB</td> 
+        <td>64GB</td> 
+        <td>64GB<br>128GB</td>
+        <td>64GB<br>128GB<BR>256GB</td> 
+        <td></td>
+    </tr>    
+    <tr>
+        <th>前置<BR>摄像头(MP)</th>        
+        <td></td> 
+        <td>200</td> 
+        <td>190</td> 
+        <td>200</td> 
+        <td>210</td> 
+        <td>500</td> 
+        <td>500</td> 
+        <td>800</td>
+        <td>800</td> 
+        <td></td>
+    </tr>  
+    <tr>
+        <th>后置<br>摄像头(MP)</th>       
+        <td></td> 
+        <td>800</td> 
+        <td>800</td> 
+        <td>1300</td> 
+        <td>1600</td> 
+        <td>1600</td> 
+        <td>1200</td> 
+        <td>1200</td>
+        <td>1200+<br>1200</td> 
+        <td></td>
+    </tr>
+    <tr>
+        <th>电池(mAh)</th>        
+        <td></td> 
+        <td>2500</td> 
+        <td>3100</td> 
+        <td>3200</td> 
+        <td>3000</td> 
+        <td>3000</td> 
+        <td>3500</td> 
+        <td>3000</td>
+        <td>3000<br>3500</td> 
+        <td></td>
+    </tr>  
+    <tr>
+        <th>OS</th>        
+        <td></td> 
+        <td>2.3</td> 
+        <td>4.1</td> 
+        <td>4.3</td> 
+        <td>4.4</td> 
+        <td>5.1<br>L</td> 
+        <td>6.0<br>M</td> 
+        <td>7.0<br>N</td>
+        <td>8.0<br>O</td> 
+        <td>9.0<br>P</td>
+    </tr>            
 </table>
 
 
