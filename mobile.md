@@ -6,7 +6,7 @@
 1. <a href="#tag-2019产品定位">2019产品定位</a>
 1. <a href="#tag-10年产品">10年产品</a>
     1. <a href="#tag-S系列10年产品">S系列10年产品</a>
-    1. <a id="tag-S系列10年产品" href="#tag-S系列10年产品">S系列10年产品</a>
+    1. <a href="#tag-Note系列10年产品">Note系列10年产品</a>
 1. <a href="#tag-核心技术">核心技术</a>
     1. <a href="#tag-Camera">Camera</a>
     1. <a href="#tag-全机智能化">全机智能化</a>
