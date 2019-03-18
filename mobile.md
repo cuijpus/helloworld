@@ -6,6 +6,7 @@
 1. <a href="#tag-2019产品定位">2019产品定位</a>
 1. <a href="#tag-10年产品">10年产品</a>
     1. <a href="#tag-S系列10年产品">S系列10年产品</a>
+    1. <a id="tag-S系列10年产品" href="#tag-S系列10年产品">S系列10年产品</a>
 1. <a href="#tag-核心技术">核心技术</a>
     1. <a href="#tag-Camera">Camera</a>
     1. <a href="#tag-全机智能化">全机智能化</a>
@@ -219,152 +220,6 @@
 
 
 # <a id="tag-10年产品" href="#tag-10年产品">10年产品</a>
-
-## <a id="tag-Note系列10年产品" href="#tag-Note系列10年产品">Note系列10年产品</a>
-<table> 
-    <tr>
-        <th>年代</th> <th>2010</th> 
-        <th>2011</th> <th>2012</th> <th> 2013 </th> <th>2014</th> <th>2015</th> <th>2016</th> <th>2017</th>
-        <th>2018</th> <th>2019</th>
-    </tr>
-    <tr>
-        <th>型号</th> 
-        <th></th> <th>Note</th> <th>Note2</th>
-        <th>Note3</th> <th>Note4<br>Edge</th> <th>Note5</th>
-        <th>Note7<br>燃损</th> <th>Note8</th> <th>Note9</th> <th>Note10</th>
-    </tr>  
-    <tr>
-        <th>屏幕<BR>AMOLED</th> 
-        <td></td> 
-        <td>5.3"</td> 
-        <td>5.5"</td> 
-        <td>5.7"</td> 
-        <td>5.7"</thd> 
-        <td>5.7"</td> 
-        <td></td> 
-        <td>6.3"</td>
-        <td>6.4</td>
-        <td></td>
-    </tr> 
-    <tr>
-        <th>分辨率</th> 
-        <td></td> 
-        <td>1280X<BR>800</td>
-        <td>1280X<BR>720</td>
-        <td>1920X<BR>1080</td> 
-        <td>2560X<BR>1440</td> 
-        <td>2560X<BR>1440</td> 
-        <td></td> 
-        <td>2960X<BR>1440</td>
-        <td>2960X<BR>1440</td>
-        <td></td>
-    </tr>   
-    <tr>
-        <th>PPI</th> 
-        <td></td> 
-        <td>285</td>
-        <td>267</td>
-        <td>388</td> 
-        <td>515</td> 
-        <td>515</td> 
-        <td></td> 
-        <td>521</td>
-        <td>514</td>
-        <td></td>
-    </tr>   
-    <tr>
-        <th>CPU</th> 
-        <td></td> 
-        <td>猎户4210<br>2核</td> 
-        <td>猎户4412<br>4核</td> 
-        <td>骁龙800</td> 
-        <td>骁龙805</td> 
-        <td>猎户7420<br>8核</td> 
-        <td>骁龙820</td> 
-        <td>猎户8895<br>骁龙835</td>
-        <td>猎户9810<br>骁龙845</td> 
-        <td></td>
-    </tr>
-    <tr>
-        <th>运存RAM</th>      
-        <td></td> 
-        <td>1GB</td> 
-        <td>2GB</td> 
-        <td>2GB</td> 
-        <td>3GB</td> 
-        <td>4GB</td> 
-        <td>4GB</td> 
-        <td>6GB</td>
-        <td>6GB</td> 
-        <td></td>
-    </tr>    
-    <tr>
-        <th>闪存ROM</th>        
-        <td></td> 
-        <td>16GB</td> 
-        <td>16GB</td> 
-        <td>16GB</td> 
-        <td>16GB</td> 
-        <td>32GB</td> 
-        <td>64GB</td> 
-        <td>64GB<br>128GB</td>
-        <td>128GB<BR>256GB</td> 
-        <td></td>
-    </tr>    
-    <tr>
-        <th>前置<BR>摄像头(MP)</th>        
-        <td></td> 
-        <td>200</td> 
-        <td>190</td> 
-        <td>200</td> 
-        <td>210</td> 
-        <td>500</td> 
-        <td>500</td> 
-        <td>800</td>
-        <td>800</td> 
-        <td></td>
-    </tr>  
-    <tr>
-        <th>后置<br>摄像头(MP)</th>       
-        <td></td> 
-        <td>800</td> 
-        <td>800</td> 
-        <td>1300</td> 
-        <td>1600</td> 
-        <td>1600</td> 
-        <td>1200</td> 
-        <td>1200</td>
-        <td>1200+<br>1200</td> 
-        <td></td>
-    </tr>
-    <tr>
-        <th>电池(mAh)</th>        
-        <td></td> 
-        <td>2500</td> 
-        <td>3100</td> 
-        <td>3200</td> 
-        <td>3000</td> 
-        <td>3000</td> 
-        <td>3500</td> 
-        <td>3300</td>
-        <td>4000</td> 
-        <td></td>
-    </tr>  
-    <tr>
-        <th>OS</th>        
-        <td></td> 
-        <td>2.3</td> 
-        <td>4.1</td> 
-        <td>4.3</td> 
-        <td>4.4</td> 
-        <td>5.1<br>L</td> 
-        <td>6.0<br>M</td> 
-        <td>7.0<br>N</td>
-        <td>8.0<br>O</td> 
-        <td></td>
-    </tr>            
-</table>
-
 
 ## <a id="tag-S系列10年产品" href="#tag-S系列10年产品">S系列10年产品</a>
 
@@ -762,6 +617,152 @@
         <td>4000</td>
         <td>4500</td> 
         <td>5000?</td>
+    </tr>            
+</table>
+
+
+## <a id="tag-Note系列10年产品" href="#tag-Note系列10年产品">Note系列10年产品</a>
+<table> 
+    <tr>
+        <th>年代</th> <th>2010</th> 
+        <th>2011</th> <th>2012</th> <th> 2013 </th> <th>2014</th> <th>2015</th> <th>2016</th> <th>2017</th>
+        <th>2018</th> <th>2019</th>
+    </tr>
+    <tr>
+        <th>型号</th> 
+        <th></th> <th>Note</th> <th>Note2</th>
+        <th>Note3</th> <th>Note4<br>Edge</th> <th>Note5</th>
+        <th>Note7<br>燃损</th> <th>Note8</th> <th>Note9</th> <th>Note10</th>
+    </tr>  
+    <tr>
+        <th>屏幕<BR>AMOLED</th> 
+        <td></td> 
+        <td>5.3"</td> 
+        <td>5.5"</td> 
+        <td>5.7"</td> 
+        <td>5.7"</thd> 
+        <td>5.7"</td> 
+        <td></td> 
+        <td>6.3"</td>
+        <td>6.4</td>
+        <td></td>
+    </tr> 
+    <tr>
+        <th>分辨率</th> 
+        <td></td> 
+        <td>1280X<BR>800</td>
+        <td>1280X<BR>720</td>
+        <td>1920X<BR>1080</td> 
+        <td>2560X<BR>1440</td> 
+        <td>2560X<BR>1440</td> 
+        <td></td> 
+        <td>2960X<BR>1440</td>
+        <td>2960X<BR>1440</td>
+        <td></td>
+    </tr>   
+    <tr>
+        <th>PPI</th> 
+        <td></td> 
+        <td>285</td>
+        <td>267</td>
+        <td>388</td> 
+        <td>515</td> 
+        <td>515</td> 
+        <td></td> 
+        <td>521</td>
+        <td>514</td>
+        <td></td>
+    </tr>   
+    <tr>
+        <th>CPU</th> 
+        <td></td> 
+        <td>猎户4210<br>2核</td> 
+        <td>猎户4412<br>4核</td> 
+        <td>骁龙800</td> 
+        <td>骁龙805</td> 
+        <td>猎户7420<br>8核</td> 
+        <td>骁龙820</td> 
+        <td>猎户8895<br>骁龙835</td>
+        <td>猎户9810<br>骁龙845</td> 
+        <td></td>
+    </tr>
+    <tr>
+        <th>运存RAM</th>      
+        <td></td> 
+        <td>1GB</td> 
+        <td>2GB</td> 
+        <td>2GB</td> 
+        <td>3GB</td> 
+        <td>4GB</td> 
+        <td>4GB</td> 
+        <td>6GB</td>
+        <td>6GB</td> 
+        <td></td>
+    </tr>    
+    <tr>
+        <th>闪存ROM</th>        
+        <td></td> 
+        <td>16GB</td> 
+        <td>16GB</td> 
+        <td>16GB</td> 
+        <td>16GB</td> 
+        <td>32GB</td> 
+        <td>64GB</td> 
+        <td>64GB<br>128GB</td>
+        <td>128GB<BR>256GB</td> 
+        <td></td>
+    </tr>    
+    <tr>
+        <th>前置<BR>摄像头(MP)</th>        
+        <td></td> 
+        <td>200</td> 
+        <td>190</td> 
+        <td>200</td> 
+        <td>210</td> 
+        <td>500</td> 
+        <td>500</td> 
+        <td>800</td>
+        <td>800</td> 
+        <td></td>
+    </tr>  
+    <tr>
+        <th>后置<br>摄像头(MP)</th>       
+        <td></td> 
+        <td>800</td> 
+        <td>800</td> 
+        <td>1300</td> 
+        <td>1600</td> 
+        <td>1600</td> 
+        <td>1200</td> 
+        <td>1200</td>
+        <td>1200+<br>1200</td> 
+        <td></td>
+    </tr>
+    <tr>
+        <th>电池(mAh)</th>        
+        <td></td> 
+        <td>2500</td> 
+        <td>3100</td> 
+        <td>3200</td> 
+        <td>3000</td> 
+        <td>3000</td> 
+        <td>3500</td> 
+        <td>3300</td>
+        <td>4000</td> 
+        <td></td>
+    </tr>  
+    <tr>
+        <th>OS</th>        
+        <td></td> 
+        <td>2.3</td> 
+        <td>4.1</td> 
+        <td>4.3</td> 
+        <td>4.4</td> 
+        <td>5.1<br>L</td> 
+        <td>6.0<br>M</td> 
+        <td>7.0<br>N</td>
+        <td>8.0<br>O</td> 
+        <td></td>
     </tr>            
 </table>
 
