@@ -240,9 +240,9 @@
         <td>5.5"</td> 
         <td>5.7"</td> 
         <td>5.7"</thd> 
+        <td>5.7"</td> 
         <td></td> 
-        <td></td> 
-        <td></td>
+        <td>6.3"</td>
         <td></td>
         <td></td>
     </tr> 
@@ -253,9 +253,9 @@
         <td>1280X<BR>720</td>
         <td>1920X<BR>1080</td> 
         <td>2560X<BR>1440</td> 
+        <td>2560X<BR>1440</td> 
         <td></td> 
-        <td></td> 
-        <td></td>
+        <td>2960X<BR>1440</td>
         <td></td>
         <td></td>
     </tr>   
@@ -266,9 +266,9 @@
         <td>267</td>
         <td>388</td> 
         <td>515</td> 
+        <td>515</td> 
         <td></td> 
-        <td></td> 
-        <td></td>
+        <td>521</td>
         <td></td>
         <td></td>
     </tr>    
