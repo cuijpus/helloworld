@@ -337,7 +337,7 @@
         <td>S8</td>
         <td>G72<br>630</td> 
         <td>
-            <a href = "https://www.arm.com/products/silicon-ip-multimedia/gpu/mali-g76">G76</a>
+            <a href = "https://www.arm.com/products/silicon-ip-multimedia/gpu/mali-g76">G76</a><br>
             640
         </td>
     </tr> 
