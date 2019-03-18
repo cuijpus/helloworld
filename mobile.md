@@ -296,7 +296,7 @@
         <td>305</td>
         <td>440</td> 
         <td>432</td> 
-        <td></td> 
+        <td>576<br>515</td> 
         <td></td> 
         <td></td>
         <td></td>
