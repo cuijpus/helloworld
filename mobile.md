@@ -271,6 +271,34 @@
         <td>521</td>
         <td>514</td>
         <td></td>
+    </tr>   
+    <tr>
+        <th>CPU</th> 
+        <td>猎户3110</td> 
+        <td>猎户4210<br>2核</td> 
+        <td>猎户4412<br>4核</td> 
+        <td>猎户5410<br>8核</td> 
+        <td>骁龙801</td> 
+        <td>猎户7420<br>8核</td> 
+        <td>猎户8890<br>8核</td> 
+        <td>猎户8895<br>骁龙835</td>
+        <td>猎户9810<br>骁龙845</td> 
+        <td><a href = "https://www.samsung.com/semiconductor/minisite/exynos/products/mobileprocessor/exynos-9-series-9820/">猎户9820</a><br>
+            <a href = "https://www.qualcomm.com/products/snapdragon-855-mobile-platform">骁龙855</a></td>
+    </tr>
+    <tr> 
+    <tr>
+        <th>运存RAM</th>      
+        <td>512MB</td> 
+        <td>1GB</td> 
+        <td>1GB</td> 
+        <td>2GB</td> 
+        <td>2GB</td> 
+        <td>3GB<br>4GB</td> 
+        <td>4GB</td> 
+        <td>4GB</td>
+        <td>4GB<br>6GB</td> 
+        <td>6GB<br>8GB</td>
     </tr>    
 </table>
 
