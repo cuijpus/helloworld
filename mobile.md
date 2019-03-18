@@ -296,8 +296,8 @@
     </tr> 
     <tr>
         <th>清晰度</th> 
-        <td>800X<BR>480</td> 
-        <td>800X<BR>480</td>
+        <td>标清</td> 
+        <td>标清</td>
         <td>高清HD</td>
         <td>全高清<br>FHD</td> 
         <td>全高清<br>FHD</td> 
