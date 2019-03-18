@@ -317,9 +317,13 @@
         <td>猎户7420<br>8核</td> 
         <td>猎户8890<br>8核</td> 
         <td>猎户8895<br>骁龙835</td>
-        <td>猎户9810<br>骁龙845</td> 
+        <td>
+            <a href = "https://www.samsung.com/semiconductor/minisite/exynos/products/mobileprocessor/exynos-9-series-9810/">猎户9810</a><br>
+            <a href = "https://www.qualcomm.com/products/snapdragon-845-mobile-platform">骁龙845</a>
+        </td> 
         <td><a href = "https://www.samsung.com/semiconductor/minisite/exynos/products/mobileprocessor/exynos-9-series-9820/">猎户9820</a><br>
-            <a href = "https://www.qualcomm.com/products/snapdragon-855-mobile-platform">骁龙855</a></td>
+            <a href = "https://www.qualcomm.com/products/snapdragon-855-mobile-platform">骁龙855</a>
+        </td>
     </tr>
     <tr>
         <th>GPU</th>       
@@ -331,7 +335,7 @@
         <td>S6</td> 
         <td>S7</td> 
         <td>S8</td>
-        <td>S9</td> 
+        <td>Mali-G72<br>Adreno630</td> 
         <td>
             <a href = "https://www.arm.com/products/silicon-ip-multimedia/gpu/mali-g76">Mali-G76</a>
             Adreno640
