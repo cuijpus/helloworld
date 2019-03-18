@@ -1183,6 +1183,7 @@ AMOLED屏幕的构造有三层，AMOLED屏幕+TouchScreenPanel(触控屏面板)+
 
 [2K/4K/8K怎么算的？720P/1080P是啥意思？](http://www.sohu.com/a/254373546_100161481)<br>
 [Super AMOLED屏幕](https://www.toutiao.com/a6423479381100052738/)<br>
+[（全解析）屏幕尺寸，分辨率，像素，PPI之间到底什么关系？](http://www.woshipm.com/ucd/198774.html)<br>
 
 [一张图看懂手机CMF史 ](https://www.sohu.com/a/250437863_119960)<br>
 
