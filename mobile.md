@@ -299,10 +299,10 @@
         <td>800X<BR>480</td> 
         <td>800X<BR>480</td>
         <td>高清HD</td>
-        <td>1920X<BR>1080</td> 
-        <td>1920X<BR>1080</td> 
-        <td>四倍高清<BR>QuadHD</td> 
-        <td>2560X<BR>1440</td> 
+        <td>全高清<br>FHD</td> 
+        <td>全高清<br>FHD</td> 
+        <td>四倍<br>高清<BR>QuadHD</td> 
+        <td>四倍<br>高清<BR>QuadHD</td> 
         <td>2960X<BR>1440</td>
         <td>2960X<BR>1440</td>
         <td>2280*<br>1080,<br>3040*<br>1440,<br>3040*<br>1440</td>
