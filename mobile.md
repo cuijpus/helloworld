@@ -234,16 +234,16 @@
     </tr>  
     <tr>
         <th>屏幕<BR>AMOLED</th> 
-        <td>5.3"</td> 
-        <td>4.3"</thd> 
-        <td>4.8"</td> 
-        <td>5.0"</td> 
-        <td>5.1"</thd> 
-        <td>5.1"<BR>5.7"</td> 
-        <td>5.1"<BR>5.5"</td> 
-        <td>5.8"<BR>6.2"</td>
-        <td>5.8"<BR>6.2"</td>
-        <td>5.8"<BR>6.1"<BR>6.4"</td>
+        <td></td> 
+        <td>5.3"</thd> 
+        <td></td> 
+        <td></td> 
+        <td></thd> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td>
+        <td>td>
     </tr>     
 </table>
 
