@@ -290,6 +290,19 @@
         <td>2960X<BR>1440</td>
     </tr>  
     <tr>
+        <th>PPI</th> 
+        <td></td> 
+        <td></td>
+        <td></td>
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>             
+    <tr>
         <th>CPU</th> 
         <td>猎户3110</td> 
         <td>猎户4210<br>2核</td> 
