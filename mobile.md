@@ -235,16 +235,42 @@
     <tr>
         <th>屏幕<BR>AMOLED</th> 
         <td></td> 
-        <td>5.3"</thd> 
-        <td></td> 
-        <td></td> 
-        <td></thd> 
+        <td>5.3"</td> 
+        <td>5.5"</td> 
+        <td>5.7"</td> 
+        <td>5.7"</thd> 
         <td></td> 
         <td></td> 
         <td></td>
         <td></td>
-        <td>td>
-    </tr>     
+        <td></td>
+    </tr> 
+    <tr>
+        <th>分辨率</th> 
+        <td></td> 
+        <td>1280X<BR>800</td>
+        <td>1280X<BR>720</td>
+        <td>1920X<BR>1080</td> 
+        <td>2560X<BR>1440</td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>   
+    <tr>
+        <th>PPI</th> 
+        <td></td> 
+        <td>285</td>
+        <td>267</td>
+        <td>388</td> 
+        <td>515</td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>    
 </table>
 
 
@@ -298,7 +324,7 @@
     <tr>
         <th>屏幕<BR>AMOLED</th> 
         <td>4"</td> 
-        <td>4.3"</thd> 
+        <td>4.3"</td> 
         <td>4.8"</td> 
         <td>5.0"</td> 
         <td>5.1"</thd> 
