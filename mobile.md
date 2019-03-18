@@ -294,8 +294,8 @@
         <td>3GB</td> 
         <td>4GB</td> 
         <td>4GB</td> 
-        <td>4GB</td>
-        <td>4GB<br>6GB</td> 
+        <td>6GB</td>
+        <td>6GB</td> 
         <td></td>
     </tr>    
     <tr>
@@ -308,7 +308,7 @@
         <td>32GB</td> 
         <td>64GB</td> 
         <td>64GB<br>128GB</td>
-        <td>64GB<br>128GB<BR>256GB</td> 
+        <td>128GB<BR>256GB</td> 
         <td></td>
     </tr>    
     <tr>
@@ -346,8 +346,8 @@
         <td>3000</td> 
         <td>3000</td> 
         <td>3500</td> 
-        <td>3000</td>
-        <td>3000<br>3500</td> 
+        <td>3300</td>
+        <td>4000</td> 
         <td></td>
     </tr>  
     <tr>
@@ -361,7 +361,7 @@
         <td>6.0<br>M</td> 
         <td>7.0<br>N</td>
         <td>8.0<br>O</td> 
-        <td>9.0<br>P</td>
+        <td></td>
     </tr>            
 </table>
 
