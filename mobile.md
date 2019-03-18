@@ -219,17 +219,49 @@
 
 
 # <a id="tag-10年产品" href="#tag-10年产品">10年产品</a>
+
+## <a id="tag-Note系列10年产品" href="#tag-Note系列10年产品">Note系列10年产品</a>
+<table> 
+    <tr>
+        <th>年代</th> <th>2010</th> 
+        <th>2011</th> <th>2012</th> <th> 2013 </th> <th>2014</th> <th>2015</th> <th>2016</th> <th>2017</th>
+        <th>2018</th> <th>2019</th>
+    </tr>
+    <tr>
+        <th>型号</th> <th></th> 
+        <th>Note</th> <th>Note2</th> <th>Note3</th> <th>Note4</th> <th>Note5</th> <th>Note7</th> <th>Note8</th>
+        <th>Note9</th> <th>Note10</th>
+    </tr>  
+    <tr>
+        <th>屏幕<BR>AMOLED</th> 
+        <td>5.3"</td> 
+        <td>4.3"</thd> 
+        <td>4.8"</td> 
+        <td>5.0"</td> 
+        <td>5.1"</thd> 
+        <td>5.1"<BR>5.7"</td> 
+        <td>5.1"<BR>5.5"</td> 
+        <td>5.8"<BR>6.2"</td>
+        <td>5.8"<BR>6.2"</td>
+        <td>5.8"<BR>6.1"<BR>6.4"</td>
+    </tr>     
+</table>
+
+
 ## <a id="tag-S系列10年产品" href="#tag-S系列10年产品">S系列10年产品</a>
 
 <table> 
     <tr>
-        <th>年代</th> <th>2010</th> <th>2011</th> <th>2012</th> <th> 2013 </th> <th>2014</th> <th>2015</th> <th>2016</th> <th>2017</th>
+        <th>年代</th> 
+        <th>2010</th> <th>2011</th> <th>2012</th>
+        <th>2013</th> <th>2014</th> <th>2015</th>
+        <th>2016</th> <th>2017</th>
         <th>2018</th> <th>2019</th>
     </tr>
     <tr>
         <th>型号</th> <th>S1</th> <th>S2</th> <th>S3</th> <th>S4</th> <th>S5</th> <th>S6</th> <th>S7</th> <th>S8</th>
         <th>S9</th> <th>S10</th>
-    </tr>   
+    </tr> 
     <tr>
         <th>PIC</th> 
         <th>
