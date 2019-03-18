@@ -300,7 +300,7 @@
         <td></td> 
         <td></td>
         <td></td>
-        <td></td>
+        <td>435<br><br>551<br><br>525</td>
     </tr>             
     <tr>
         <th>CPU</th> 
