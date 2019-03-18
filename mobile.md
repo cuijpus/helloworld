@@ -228,9 +228,10 @@
         <th>2018</th> <th>2019</th>
     </tr>
     <tr>
-        <th>型号</th> <th></th> 
-        <th>Note</th> <th>Note2</th> <th>Note3</th> <th>Note4</th> <th>Note5</th> <th>Note7</th> <th>Note8</th>
-        <th>Note9</th> <th>Note10</th>
+        <th>型号</th> 
+        <th></th> <th>Note</th> <th>Note2</th>
+        <th>Note3</th> <th>Note4<br>Edge</th> <th>Note5</th>
+        <th>Note7<br>燃损</th> <th>Note8</th> <th>Note9</th> <th>Note10</th>
     </tr>  
     <tr>
         <th>屏幕<BR>AMOLED</th> 
