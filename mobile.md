@@ -301,8 +301,8 @@
         <td>高清HD</td>
         <td>全高清<br>FHD</td> 
         <td>全高清<br>FHD</td> 
-        <td>四倍<br>高清<BR>QuadHD</td> 
-        <td>四倍<br>高清<BR>QuadHD</td> 
+        <td>四倍<br>高清<BR>QHD<br>2K屏</td> 
+        <td>四倍<br>高清<BR>QHD<br>2K屏</td> 
         <td>WQHD+</td>
         <td>WQHD+</td>
         <td>FHD+,<br>WQHD+,<br>WQHD+</td>
@@ -1365,6 +1365,15 @@ AMOLED屏幕的构造有三层，AMOLED屏幕+TouchScreenPanel(触控屏面板)+
 [2K/4K/8K怎么算的？720P/1080P是啥意思？](http://www.sohu.com/a/254373546_100161481)<br>
 [Super AMOLED屏幕](https://www.toutiao.com/a6423479381100052738/)<br>
 [（全解析）屏幕尺寸，分辨率，像素，PPI之间到底什么关系？](http://www.woshipm.com/ucd/198774.html)<br>
+HD: 1280x720 <BR>
+FHD 1080p是指1920×1080分辨率；<br>
+QHD 2560x1440, 2K屏 <br> 
+WQHD+ 2960x1440 <br>
+UHD是指3840×2160分辨率；<br>
+
+2K是指2560x1440分辨率；<br>
+4K是指4096×2160分辨率；<br>
+8K是指7680×4320分辨率。 <br>
 
 [一张图看懂手机CMF史 ](https://www.sohu.com/a/250437863_119960)<br>
 
