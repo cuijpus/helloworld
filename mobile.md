@@ -326,7 +326,7 @@
         </td>
     </tr>
     <tr>
-        <th>GPU</th>       
+        <th>GPU<br>Mail-?<br>Adreno?</th>       
         <td>S1</td> 
         <td>S2</td> 
         <td>S3</td> 
@@ -335,10 +335,10 @@
         <td>S6</td> 
         <td>S7</td> 
         <td>S8</td>
-        <td>Mali-G72<br>Adreno630</td> 
+        <td>G72<br>630</td> 
         <td>
-            <a href = "https://www.arm.com/products/silicon-ip-multimedia/gpu/mali-g76">Mali-G76</a>
-            Adreno640
+            <a href = "https://www.arm.com/products/silicon-ip-multimedia/gpu/mali-g76">G76</a>
+            640
         </td>
     </tr> 
     <tr>
