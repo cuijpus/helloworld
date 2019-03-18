@@ -108,8 +108,10 @@
     </tr>     
     <tr>
         <th>OPPO</th>
-        <th> 十倍变焦<br>区域FOD<br>(1.16)</th> <th>MWC<br>创新大会<br>(2.23)</th> <th></th> <th></th> <th></th> <th></th>
-        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th> 十倍变焦<br>区域FOD<br>(1.16)</th> <th>MWC<br>创新大会<br>(2.23)</th> <th>ColorOS6<br>(3.17)</th>
+        <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th></th>
     </tr>   
     <tr>
         <th>VIVO</th>
@@ -600,6 +602,7 @@
     </tr>            
 </table>
 
+2019.3.18 [一图看懂OPPO ColorOS 6系统](https://www.toutiao.com/a6669502724393927181/)<br>
 [拆解三星 Galaxy S10：成本约 420 美元，屏幕、SoC 和摄像头占一半](http://www.ifanr.com/1180874)<br>
 [采用双摄的三星 Galaxy S9+ 内部长什么样？来看看 iFixit 的拆解结果](http://www.geekpark.net/news/227189)<br>
 [1张图回顾10代S](http://5b0988e595225.cdn.sohucs.com/images/20190219/4b14d98d3ff144eb96829549b81f4693.jpeg)<BR> 
