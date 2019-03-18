@@ -243,7 +243,7 @@
         <td>5.7"</td> 
         <td></td> 
         <td>6.3"</td>
-        <td></td>
+        <td>6.4</td>
         <td></td>
     </tr> 
     <tr>
@@ -256,7 +256,7 @@
         <td>2560X<BR>1440</td> 
         <td></td> 
         <td>2960X<BR>1440</td>
-        <td></td>
+        <td>2960X<BR>1440</td>
         <td></td>
     </tr>   
     <tr>
@@ -269,7 +269,7 @@
         <td>515</td> 
         <td></td> 
         <td>521</td>
-        <td></td>
+        <td>514</td>
         <td></td>
     </tr>    
 </table>
