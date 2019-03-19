@@ -798,6 +798,86 @@
     <tr>
         <th>型号<br>(iPhone)</th> <th>1</th> <th>3G</th> <th>3GS</th> <th>4</th> <th>4S</th> <th>5</th> <th>5S/5C</th> <th>6/6+</th> <th>6S/6S+</th> <th>SE<br>7/7+</th> <th>8/8+<br>X</th> <th>XR/XS<br>XS Max</th> <th></th>
     </tr> 
+    <tr>
+        <th>PIC</th>
+        <th></th> <!iPhone>
+        <th></th> <!iPhone 3G>
+        <th></th> <!iPhone 3GS>
+        <th></th> <!iPhone 4>
+        <th></th> <!iPhone 4S>
+        <th></th> <!iPhone 5>
+        <th></th> <!iPhone 5S/5C>
+        <th></th> <!iPhone 6/6+>
+        <th></th> <!iPhone 6S/6S+>
+        <th></th> <!iPhone SE/7/7+>
+        <th></th> <!iPhone 8/8+/X>
+        <th></th> <!iPhone XR/XS/XS Max>
+        <th></th>
+    </tr>     
+    <tr>
+        <th>PIC</th>
+        <th></th> <!iPhone>
+        <th></th> <!iPhone 3G>
+        <th></th> <!iPhone 3GS>
+        <th></th> <!iPhone 4>
+        <th></th> <!iPhone 4S>
+        <th></th> <!iPhone 5>
+        <th></th> <!iPhone 5S/5C>
+        <th></th> <!iPhone 6/6+>
+        <th></th> <!iPhone 6S/6S+>
+        <th></th> <!iPhone SE/7/7+>
+        <th></th> <!iPhone 8/8+/X>
+        <th></th> <!iPhone XR/XS/XS Max>
+        <th></th>
+    </tr>  
+    <tr>
+        <th>PIC</th>
+        <th></th> <!iPhone>
+        <th></th> <!iPhone 3G>
+        <th></th> <!iPhone 3GS>
+        <th></th> <!iPhone 4>
+        <th></th> <!iPhone 4S>
+        <th></th> <!iPhone 5>
+        <th></th> <!iPhone 5S/5C>
+        <th></th> <!iPhone 6/6+>
+        <th></th> <!iPhone 6S/6S+>
+        <th></th> <!iPhone SE/7/7+>
+        <th></th> <!iPhone 8/8+/X>
+        <th></th> <!iPhone XR/XS/XS Max>
+        <th></th>
+    </tr>  
+    <tr>
+        <th>PIC</th>
+        <th></th> <!iPhone>
+        <th></th> <!iPhone 3G>
+        <th></th> <!iPhone 3GS>
+        <th></th> <!iPhone 4>
+        <th></th> <!iPhone 4S>
+        <th></th> <!iPhone 5>
+        <th></th> <!iPhone 5S/5C>
+        <th></th> <!iPhone 6/6+>
+        <th></th> <!iPhone 6S/6S+>
+        <th></th> <!iPhone SE/7/7+>
+        <th></th> <!iPhone 8/8+/X>
+        <th></th> <!iPhone XR/XS/XS Max>
+        <th></th>
+    </tr>  
+    <tr>
+        <th>PIC</th>
+        <th></th> <!iPhone>
+        <th></th> <!iPhone 3G>
+        <th></th> <!iPhone 3GS>
+        <th></th> <!iPhone 4>
+        <th></th> <!iPhone 4S>
+        <th></th> <!iPhone 5>
+        <th></th> <!iPhone 5S/5C>
+        <th></th> <!iPhone 6/6+>
+        <th></th> <!iPhone 6S/6S+>
+        <th></th> <!iPhone SE/7/7+>
+        <th></th> <!iPhone 8/8+/X>
+        <th></th> <!iPhone XR/XS/XS Max>
+        <th></th>
+    </tr>      
 </table>
 
 ![iphone history](https://img3.gelonghui.com/201809/p20180912160702742.png!wm)<br>
