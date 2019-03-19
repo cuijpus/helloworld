@@ -1,6 +1,4 @@
 
-
-
 1. <a href="#tag-2019产品发布会">2019产品发布会</a>
 1. <a href="#tag-2019技术发布会">2019技术发布会</a>
 1. <a href="#tag-2019产品定位">2019产品定位</a>
@@ -65,7 +63,7 @@
     </tr>  
     <tr>
         <th>XiaoMi</th>
-        <th></th> <th>小米9<br>855<br>水滴屏<br>三摄<br>Game<br>(2.20)</th> <th>黑鲨2<br>855<br>液冷3.0<br>触控优化</th>
+        <th></th> <th>小米9<br>855<br>水滴屏<br>三摄<br>Game<br>(2.20)</th> <th>黑鲨2<br>855<br>液冷3.0<br>触控优化<br>(3.18)</th>
         <th></th> <th></th> <th></th>
         <th></th> <th></th> <th></th> 
         <th></th> <th></th> <th></th>
