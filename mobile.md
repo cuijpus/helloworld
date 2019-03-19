@@ -815,13 +815,27 @@
         <th>
             <img src="https://cdn.mos.cms.futurecdn.net/8e47ab757514d83679b178afec79f847-1920-80.jpg" alt="iPhone 4S" />
         </th> <!iPhone 4S>
-        <th></th> <!iPhone 5>
-        <th></th> <!iPhone 5S/5C>
-        <th></th> <!iPhone 6/6+>
-        <th></th> <!iPhone 6S/6S+>
-        <th></th> <!iPhone SE/7/7+>
-        <th></th> <!iPhone 8/8+/X>
-        <th></th> <!iPhone XR/XS/XS Max>
+        <th>
+            <img src="https://cdn.mos.cms.futurecdn.net/d01cda083632ebc2e167e9424f28d4f6-1920-80.jpg" alt="iPhone 5" />
+        </th> <!iPhone 5>
+        <th>
+            <img src="https://cdn.mos.cms.futurecdn.net/1dda397c338b2c23d58f013697e0760f-1920-80.jpg" alt="iPhone 5S/5C" />
+        </th> <!iPhone 5S/5C>
+        <th>
+            <img src="https://cdn.mos.cms.futurecdn.net/b23e7360b4c118436ea921c0a7e14671-1920-80.jpg" alt="iPhone 6/6+" />
+        </th> <!iPhone 6/6+>
+        <th>
+            <img src="https://cdn.mos.cms.futurecdn.net/b6f061de1f29d8de37ed338f58a1e362-1920-80.jpg" alt="iPhone 6S/6S+" />
+        </th> <!iPhone 6S/6S+>
+        <th>
+            <img src="https://cdn.mos.cms.futurecdn.net/QaqdnRjHMdBBVset3AHBwQ-1920-80.jpg" alt="iPhone 7/7+" />
+        </th> <!iPhone SE/7/7+>
+        <th>
+            <img src="https://cdn.mos.cms.futurecdn.net/RTCzdQgDiPU86STwUQfx2e-1920-80.jpg" alt="X" />
+        </th> <!iPhone 8/8+/X>
+        <th>
+            <img src="" alt="iPhone XR" />
+        </th> <!iPhone XR/XS/XS Max>
         <th></th>
     </tr>     
     <tr>
