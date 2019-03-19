@@ -815,7 +815,7 @@
         <th></th>
     </tr>     
     <tr>
-        <th>PIC</th>
+        <th>屏幕</th>
         <th></th> <!iPhone>
         <th></th> <!iPhone 3G>
         <th></th> <!iPhone 3GS>
@@ -831,7 +831,7 @@
         <th></th>
     </tr>  
     <tr>
-        <th>PIC</th>
+        <th>分辨率</th>
         <th></th> <!iPhone>
         <th></th> <!iPhone 3G>
         <th></th> <!iPhone 3GS>
@@ -847,7 +847,7 @@
         <th></th>
     </tr>  
     <tr>
-        <th>PIC</th>
+        <th>PPI</th>
         <th></th> <!iPhone>
         <th></th> <!iPhone 3G>
         <th></th> <!iPhone 3GS>
@@ -863,7 +863,7 @@
         <th></th>
     </tr>  
     <tr>
-        <th>PIC</th>
+        <th>CPU</th>
         <th></th> <!iPhone>
         <th></th> <!iPhone 3G>
         <th></th> <!iPhone 3GS>
@@ -877,7 +877,343 @@
         <th></th> <!iPhone 8/8+/X>
         <th></th> <!iPhone XR/XS/XS Max>
         <th></th>
-    </tr>      
+    </tr>   
+    <tr>
+        <th>GPU</th>
+        <th></th> <!iPhone>
+        <th></th> <!iPhone 3G>
+        <th></th> <!iPhone 3GS>
+        <th></th> <!iPhone 4>
+        <th></th> <!iPhone 4S>
+        <th></th> <!iPhone 5>
+        <th></th> <!iPhone 5S/5C>
+        <th></th> <!iPhone 6/6+>
+        <th></th> <!iPhone 6S/6S+>
+        <th></th> <!iPhone SE/7/7+>
+        <th></th> <!iPhone 8/8+/X>
+        <th></th> <!iPhone XR/XS/XS Max>
+        <th></th>
+    </tr>
+    <tr>
+        <th>运存<br>RAM</th>
+        <th></th> <!iPhone>
+        <th></th> <!iPhone 3G>
+        <th></th> <!iPhone 3GS>
+        <th></th> <!iPhone 4>
+        <th></th> <!iPhone 4S>
+        <th></th> <!iPhone 5>
+        <th></th> <!iPhone 5S/5C>
+        <th></th> <!iPhone 6/6+>
+        <th></th> <!iPhone 6S/6S+>
+        <th></th> <!iPhone SE/7/7+>
+        <th></th> <!iPhone 8/8+/X>
+        <th></th> <!iPhone XR/XS/XS Max>
+        <th></th>
+    </tr>
+    <tr>
+        <th>读写速度</th>
+        <th></th> <!iPhone>
+        <th></th> <!iPhone 3G>
+        <th></th> <!iPhone 3GS>
+        <th></th> <!iPhone 4>
+        <th></th> <!iPhone 4S>
+        <th></th> <!iPhone 5>
+        <th></th> <!iPhone 5S/5C>
+        <th></th> <!iPhone 6/6+>
+        <th></th> <!iPhone 6S/6S+>
+        <th></th> <!iPhone SE/7/7+>
+        <th></th> <!iPhone 8/8+/X>
+        <th></th> <!iPhone XR/XS/XS Max>
+        <th></th>
+    </tr>
+    <tr>
+        <th>闪存<br>ROM</th>
+        <th></th> <!iPhone>
+        <th></th> <!iPhone 3G>
+        <th></th> <!iPhone 3GS>
+        <th></th> <!iPhone 4>
+        <th></th> <!iPhone 4S>
+        <th></th> <!iPhone 5>
+        <th></th> <!iPhone 5S/5C>
+        <th></th> <!iPhone 6/6+>
+        <th></th> <!iPhone 6S/6S+>
+        <th></th> <!iPhone SE/7/7+>
+        <th></th> <!iPhone 8/8+/X>
+        <th></th> <!iPhone XR/XS/XS Max>
+        <th></th>
+    </tr>
+    <tr>
+        <th>读写速度</th>
+        <th></th> <!iPhone>
+        <th></th> <!iPhone 3G>
+        <th></th> <!iPhone 3GS>
+        <th></th> <!iPhone 4>
+        <th></th> <!iPhone 4S>
+        <th></th> <!iPhone 5>
+        <th></th> <!iPhone 5S/5C>
+        <th></th> <!iPhone 6/6+>
+        <th></th> <!iPhone 6S/6S+>
+        <th></th> <!iPhone SE/7/7+>
+        <th></th> <!iPhone 8/8+/X>
+        <th></th> <!iPhone XR/XS/XS Max>
+        <th></th>
+    </tr>
+    <tr>
+        <th>前置摄像头</th>
+        <th></th> <!iPhone>
+        <th></th> <!iPhone 3G>
+        <th></th> <!iPhone 3GS>
+        <th></th> <!iPhone 4>
+        <th></th> <!iPhone 4S>
+        <th></th> <!iPhone 5>
+        <th></th> <!iPhone 5S/5C>
+        <th></th> <!iPhone 6/6+>
+        <th></th> <!iPhone 6S/6S+>
+        <th></th> <!iPhone SE/7/7+>
+        <th></th> <!iPhone 8/8+/X>
+        <th></th> <!iPhone XR/XS/XS Max>
+        <th></th>
+    </tr>
+    <tr>
+        <th>前置录像</th>
+        <th></th> <!iPhone>
+        <th></th> <!iPhone 3G>
+        <th></th> <!iPhone 3GS>
+        <th></th> <!iPhone 4>
+        <th></th> <!iPhone 4S>
+        <th></th> <!iPhone 5>
+        <th></th> <!iPhone 5S/5C>
+        <th></th> <!iPhone 6/6+>
+        <th></th> <!iPhone 6S/6S+>
+        <th></th> <!iPhone SE/7/7+>
+        <th></th> <!iPhone 8/8+/X>
+        <th></th> <!iPhone XR/XS/XS Max>
+        <th></th>
+    </tr>
+    <tr>
+        <th>后置摄像头(MP)</th>
+        <th></th> <!iPhone>
+        <th></th> <!iPhone 3G>
+        <th></th> <!iPhone 3GS>
+        <th></th> <!iPhone 4>
+        <th></th> <!iPhone 4S>
+        <th></th> <!iPhone 5>
+        <th></th> <!iPhone 5S/5C>
+        <th></th> <!iPhone 6/6+>
+        <th></th> <!iPhone 6S/6S+>
+        <th></th> <!iPhone SE/7/7+>
+        <th></th> <!iPhone 8/8+/X>
+        <th></th> <!iPhone XR/XS/XS Max>
+        <th></th>
+    </tr>
+    <tr>
+        <th>后置录像</th>
+        <th></th> <!iPhone>
+        <th></th> <!iPhone 3G>
+        <th></th> <!iPhone 3GS>
+        <th></th> <!iPhone 4>
+        <th></th> <!iPhone 4S>
+        <th></th> <!iPhone 5>
+        <th></th> <!iPhone 5S/5C>
+        <th></th> <!iPhone 6/6+>
+        <th></th> <!iPhone 6S/6S+>
+        <th></th> <!iPhone SE/7/7+>
+        <th></th> <!iPhone 8/8+/X>
+        <th></th> <!iPhone XR/XS/XS Max>
+        <th></th>
+    </tr>
+    <tr>
+        <th>通信制式</th>
+        <th></th> <!iPhone>
+        <th></th> <!iPhone 3G>
+        <th></th> <!iPhone 3GS>
+        <th></th> <!iPhone 4>
+        <th></th> <!iPhone 4S>
+        <th></th> <!iPhone 5>
+        <th></th> <!iPhone 5S/5C>
+        <th></th> <!iPhone 6/6+>
+        <th></th> <!iPhone 6S/6S+>
+        <th></th> <!iPhone SE/7/7+>
+        <th></th> <!iPhone 8/8+/X>
+        <th></th> <!iPhone XR/XS/XS Max>
+        <th></th>
+    </tr>    
+    <tr>
+        <th>GPS</th>
+        <th></th> <!iPhone>
+        <th></th> <!iPhone 3G>
+        <th></th> <!iPhone 3GS>
+        <th></th> <!iPhone 4>
+        <th></th> <!iPhone 4S>
+        <th></th> <!iPhone 5>
+        <th></th> <!iPhone 5S/5C>
+        <th></th> <!iPhone 6/6+>
+        <th></th> <!iPhone 6S/6S+>
+        <th></th> <!iPhone SE/7/7+>
+        <th></th> <!iPhone 8/8+/X>
+        <th></th> <!iPhone XR/XS/XS Max>
+        <th></th>
+    </tr>  
+    <tr>
+        <th>Wi-Fi</th>
+        <th></th> <!iPhone>
+        <th></th> <!iPhone 3G>
+        <th></th> <!iPhone 3GS>
+        <th></th> <!iPhone 4>
+        <th></th> <!iPhone 4S>
+        <th></th> <!iPhone 5>
+        <th></th> <!iPhone 5S/5C>
+        <th></th> <!iPhone 6/6+>
+        <th></th> <!iPhone 6S/6S+>
+        <th></th> <!iPhone SE/7/7+>
+        <th></th> <!iPhone 8/8+/X>
+        <th></th> <!iPhone XR/XS/XS Max>
+        <th></th>
+    </tr>  
+    <tr>
+        <th>蓝牙</th>
+        <th></th> <!iPhone>
+        <th></th> <!iPhone 3G>
+        <th></th> <!iPhone 3GS>
+        <th></th> <!iPhone 4>
+        <th></th> <!iPhone 4S>
+        <th></th> <!iPhone 5>
+        <th></th> <!iPhone 5S/5C>
+        <th></th> <!iPhone 6/6+>
+        <th></th> <!iPhone 6S/6S+>
+        <th></th> <!iPhone SE/7/7+>
+        <th></th> <!iPhone 8/8+/X>
+        <th></th> <!iPhone XR/XS/XS Max>
+        <th></th>
+    </tr>   
+    <tr>
+        <th>NFC</th>
+        <th></th> <!iPhone>
+        <th></th> <!iPhone 3G>
+        <th></th> <!iPhone 3GS>
+        <th></th> <!iPhone 4>
+        <th></th> <!iPhone 4S>
+        <th></th> <!iPhone 5>
+        <th></th> <!iPhone 5S/5C>
+        <th></th> <!iPhone 6/6+>
+        <th></th> <!iPhone 6S/6S+>
+        <th></th> <!iPhone SE/7/7+>
+        <th></th> <!iPhone 8/8+/X>
+        <th></th> <!iPhone XR/XS/XS Max>
+        <th></th>
+    </tr>  
+    <tr>
+        <th>电池</th>
+        <th></th> <!iPhone>
+        <th></th> <!iPhone 3G>
+        <th></th> <!iPhone 3GS>
+        <th></th> <!iPhone 4>
+        <th></th> <!iPhone 4S>
+        <th></th> <!iPhone 5>
+        <th></th> <!iPhone 5S/5C>
+        <th></th> <!iPhone 6/6+>
+        <th></th> <!iPhone 6S/6S+>
+        <th></th> <!iPhone SE/7/7+>
+        <th></th> <!iPhone 8/8+/X>
+        <th></th> <!iPhone XR/XS/XS Max>
+        <th></th>
+    </tr>  
+    <tr>
+        <th>充电速度</th>
+        <th></th> <!iPhone>
+        <th></th> <!iPhone 3G>
+        <th></th> <!iPhone 3GS>
+        <th></th> <!iPhone 4>
+        <th></th> <!iPhone 4S>
+        <th></th> <!iPhone 5>
+        <th></th> <!iPhone 5S/5C>
+        <th></th> <!iPhone 6/6+>
+        <th></th> <!iPhone 6S/6S+>
+        <th></th> <!iPhone SE/7/7+>
+        <th></th> <!iPhone 8/8+/X>
+        <th></th> <!iPhone XR/XS/XS Max>
+        <th></th>
+    </tr>    
+    <tr>
+        <th>指纹</th>
+        <th></th> <!iPhone>
+        <th></th> <!iPhone 3G>
+        <th></th> <!iPhone 3GS>
+        <th></th> <!iPhone 4>
+        <th></th> <!iPhone 4S>
+        <th></th> <!iPhone 5>
+        <th></th> <!iPhone 5S/5C>
+        <th></th> <!iPhone 6/6+>
+        <th></th> <!iPhone 6S/6S+>
+        <th></th> <!iPhone SE/7/7+>
+        <th></th> <!iPhone 8/8+/X>
+        <th></th> <!iPhone XR/XS/XS Max>
+        <th></th>
+    </tr> 
+    <tr>
+        <th>OS</th>
+        <th></th> <!iPhone>
+        <th></th> <!iPhone 3G>
+        <th></th> <!iPhone 3GS>
+        <th></th> <!iPhone 4>
+        <th></th> <!iPhone 4S>
+        <th></th> <!iPhone 5>
+        <th></th> <!iPhone 5S/5C>
+        <th></th> <!iPhone 6/6+>
+        <th></th> <!iPhone 6S/6S+>
+        <th></th> <!iPhone SE/7/7+>
+        <th></th> <!iPhone 8/8+/X>
+        <th></th> <!iPhone XR/XS/XS Max>
+        <th></th>
+    </tr> 
+    <tr>
+        <th>硬件突破</th>
+        <th></th> <!iPhone>
+        <th></th> <!iPhone 3G>
+        <th></th> <!iPhone 3GS>
+        <th></th> <!iPhone 4>
+        <th></th> <!iPhone 4S>
+        <th></th> <!iPhone 5>
+        <th></th> <!iPhone 5S/5C>
+        <th></th> <!iPhone 6/6+>
+        <th></th> <!iPhone 6S/6S+>
+        <th></th> <!iPhone SE/7/7+>
+        <th></th> <!iPhone 8/8+/X>
+        <th></th> <!iPhone XR/XS/XS Max>
+        <th></th>
+    </tr>   
+    <tr>
+        <th>软件突破</th>
+        <th></th> <!iPhone>
+        <th></th> <!iPhone 3G>
+        <th></th> <!iPhone 3GS>
+        <th></th> <!iPhone 4>
+        <th></th> <!iPhone 4S>
+        <th></th> <!iPhone 5>
+        <th></th> <!iPhone 5S/5C>
+        <th></th> <!iPhone 6/6+>
+        <th></th> <!iPhone 6S/6S+>
+        <th></th> <!iPhone SE/7/7+>
+        <th></th> <!iPhone 8/8+/X>
+        <th></th> <!iPhone XR/XS/XS Max>
+        <th></th>
+    </tr>  
+    <tr>
+        <th>销量</th>
+        <th></th> <!iPhone>
+        <th></th> <!iPhone 3G>
+        <th></th> <!iPhone 3GS>
+        <th></th> <!iPhone 4>
+        <th></th> <!iPhone 4S>
+        <th></th> <!iPhone 5>
+        <th></th> <!iPhone 5S/5C>
+        <th></th> <!iPhone 6/6+>
+        <th></th> <!iPhone 6S/6S+>
+        <th></th> <!iPhone SE/7/7+>
+        <th></th> <!iPhone 8/8+/X>
+        <th></th> <!iPhone XR/XS/XS Max>
+        <th></th>
+    </tr>     
 </table>
 
 ![iphone history](https://img3.gelonghui.com/201809/p20180912160702742.png!wm)<br>
