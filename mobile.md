@@ -828,13 +828,13 @@
             <img src="https://cdn.mos.cms.futurecdn.net/b6f061de1f29d8de37ed338f58a1e362-1920-80.jpg" alt="iPhone 6S/6S+" />
         </th> <!iPhone 6S/6S+>
         <th>
-            <img src="https://cdn.mos.cms.futurecdn.net/QaqdnRjHMdBBVset3AHBwQ-1920-80.jpg" alt="iPhone 7/7+" />
+            <img src="https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone7/select/iphone7-select-2019-family?wid=882&amp;hei=1058&amp;fmt=jpeg&amp;qlt=80&amp;op_usm=0.5,0.5&amp;.v=1550795429263" alt="iPhone 7/7+" />
         </th> <!iPhone SE/7/7+>
         <th>
             <img src="https://cdn.mos.cms.futurecdn.net/RTCzdQgDiPU86STwUQfx2e-1920-80.jpg" alt="X" />
         </th> <!iPhone 8/8+/X>
         <th>
-            <img src="" alt="iPhone XR" />
+            <img src="https://cdn.mos.cms.futurecdn.net/RTCzdQgDiPU86STwUQfx2e-1920-80.jpg" alt="iPhone XR" />
         </th> <!iPhone XR/XS/XS Max>
         <th></th>
     </tr>     
