@@ -796,7 +796,7 @@
         <th>年代</th> <th>2007</th> <th>2008</th> <th>2009</th> <th>2010</th> <th>2011</th> <th>2012</th> <th>2013</th> <th>2014</th> <th>2015</th> <th>2016</th> <th>2017</th> <th>2018</th> <th>2019</th>
     </tr>
     <tr>
-        <th>型号<br>(iPhone)</th> <th>1</th> <th>3G</th> <th>3GS</th> <th>4</th> <th>4S</th> <th>5</th> <th>5S/5C</th> <th>6/6Plus</th> <th>6S/6S Plus</th> <th>SE<br>7/7Plus</th> <th>8/8Plus<br>X</th> <th>XR/XS/XS Max</th> <th></th>
+        <th>型号<br>(iPhone)</th> <th>1</th> <th>3G</th> <th>3GS</th> <th>4</th> <th>4S</th> <th>5</th> <th>5S/5C</th> <th>6/6+</th> <th>6S/6S+</th> <th>SE<br>7/7+</th> <th>8/8+<br>X</th> <th>XR/XS<br>XS Max</th> <th></th>
     </tr> 
 </table>
 
