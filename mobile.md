@@ -63,7 +63,7 @@
     </tr>  
     <tr>
         <th>XiaoMi</th>
-        <th></th> <th>小米9<br>855<br>水滴屏<br>三摄<br>Game<br>(2.20)</th> <th>黑鲨2<br>855<br>液冷3.0<br>触控优化<br>(3.18)</th>
+        <th></th> <th>小米9<br>855<br>水滴屏<br>三摄<br>Game<br>(2.20)</th> <th>黑鲨2<br>855<br>液冷3.0<br>触控优化<br>AI引擎<br>(3.18)</th>
         <th></th> <th></th> <th></th>
         <th></th> <th></th> <th></th> 
         <th></th> <th></th> <th></th>
@@ -220,6 +220,7 @@
     </tr>    
 </table>
 
+2019.3.18 [3199元起！黑鲨游戏手机2发布：液冷3.0技术+压力触控+电竞级电池](http://mobile.zol.com.cn/711/7119815.html)<br>
 
 # <a id="tag-10年产品" href="#tag-10年产品">10年产品</a>
 
