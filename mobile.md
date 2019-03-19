@@ -800,6 +800,9 @@
     </tr> 
 </table>
 
+![iphone history](https://img3.gelonghui.com/201809/p20180912160702742.png!wm)<br>
+
+
 2019.3.18 [一图看懂OPPO ColorOS 6系统](https://www.toutiao.com/a6669502724393927181/)<br>
 [拆解三星 Galaxy S10：成本约 420 美元，屏幕、SoC 和摄像头占一半](http://www.ifanr.com/1180874)<br>
 [采用双摄的三星 Galaxy S9+ 内部长什么样？来看看 iFixit 的拆解结果](http://www.geekpark.net/news/227189)<br>
