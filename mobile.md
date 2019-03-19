@@ -65,13 +65,17 @@
     </tr>  
     <tr>
         <th>XiaoMi</th>
-        <th></th> <th>小米9<br>855<br>水滴屏<br>三摄<br>Game<br>(2.20)</th> <th></th> <th></th> <th></th> <th></th>
-        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th></th> <th>小米9<br>855<br>水滴屏<br>三摄<br>Game<br>(2.20)</th> <th>黑鲨2<br>855<br>液冷3.0<br>触控优化</th>
+        <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th></th> 
+        <th></th> <th></th> <th></th>
     </tr>  
     <tr>
         <th>RedMi</th>
-        <th> Note7<br>(1.10)<br> </th> <th></th> <th></th> <th></th> <th></th> <th></th>
-        <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
+        <th> Note7<br>(1.10)<br> </th> <th></th> <th></th> 
+        <th></th> <th></th> <th></th>
+        <th></th> <th></th> <th></th> 
+        <th></th> <th></th> <th></th>
     </tr>      
     <tr>
         <th>Others</th>
