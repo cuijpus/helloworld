@@ -59,7 +59,9 @@
     <tr>
         <th>VIVO</th>
         <th></th> <th></th> 
-        <th>IQOO<br>855<br>12GB<br>44W<br>(3.1)<br><br><a href = "https://www.vivo.com.cn/vivo/x27/" >X27</a><br>710<BR>弹出<br>(3.19)</th> 
+        <th>
+            <a href = "https://www.vivo.com.cn/vivo/iqoo">IQOO</a><br>855<br>12GB<br>44W<br>(3.1)<br><br>
+            <a href = "https://www.vivo.com.cn/vivo/x27/" >X27</a><br>710<BR>弹出<br>(3.19)</th> 
         <th></th> <th></th> <th></th>
         <th></th> <th></th> <th></th> <th></th> <th></th> <th></th>
     </tr>  
