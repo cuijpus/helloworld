@@ -143,7 +143,7 @@
     </tr>    
 </table>
 
-# <a id="tag-2019产品定位" href="#tag-201产品定位">2019产品定位</a>
+# <a id="tag-2019产品定位" href="#tag-2019产品定位">2019产品定位</a>
 <table>
     <tr>
         <th>定位</th> <th>华为</th> <th>OPPO</th> <th>VIVO</th> <th>小米</th> <th>三星</th> <th>苹果</th>
@@ -644,6 +644,7 @@
     </tr>            
 </table>
 
+[S9 Teardown ](https://www.techinsights.com/about-techinsights/overview/blog/samsung-galaxy-s9-teardown/)<br>
 
 ## <a id="tag-Note系列10年产品" href="#tag-Note系列10年产品">Note系列10年产品</a>
 <table> 
