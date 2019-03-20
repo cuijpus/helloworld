@@ -644,6 +644,7 @@
     </tr>            
 </table>
 
+[S10 Teardown](https://zh.ifixit.com/Guide/%E4%B8%89%E6%98%9FGalaxy+S10%E5%8F%8AS10e%E6%8B%86%E8%A7%A3/120331)<br>
 [S9 Teardown ](https://www.techinsights.com/about-techinsights/overview/blog/samsung-galaxy-s9-teardown/)<br>
 
 ## <a id="tag-Note系列10年产品" href="#tag-Note系列10年产品">Note系列10年产品</a>
