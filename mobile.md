@@ -479,6 +479,19 @@
         <td>12+<br>12+<br>16</td>
     </tr> 
     <tr>
+        <th>光圈<br>f/x</th>       
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td>1.5<br>2.4<br>自动</td> 
+        <td>1.5<br>2.4<br>2.2</td>
+    </tr>             
+    <tr>
         <th>后置<br>录像</th>       
         <td>720P<br>@30fps</td> 
         <td>1080P</td> 
