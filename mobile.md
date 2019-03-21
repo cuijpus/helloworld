@@ -516,7 +516,20 @@
         <td></td>
         <td></td> 
         <td>1.5<br>2.4<br>2.2</td>
-    </tr>            
+    </tr>  
+    <tr>
+        <th>OIS</th>       
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td> 
+        <td>Dual OIS</td>
+    </tr>             
     <tr>
         <th>后置<br>录像</th>       
         <td>720P<br>@30fps</td> 
