@@ -489,7 +489,7 @@
         <td>12</td> 
         <td>12</td>
         <td>12+<br>12</td> 
-        <td>12长焦+<br>12广角(主)+<br>16超广角</td>
+        <td><a href = "http://mobile.zol.com.cn/710/7100658.html">12长焦+<br>12广角(主)+<br>16超广角</a></td>
     </tr> 
     <tr>
         <th>光圈<br>f/x</th>       
