@@ -481,13 +481,13 @@
     <tr>
         <th>光圈<br>f/x</th>       
         <td></td> 
-        <td></td> 
-        <td></td> 
-        <td></td> 
-        <td></td> 
-        <td></td> 
-        <td></td> 
-        <td></td>
+        <td>2.7</td> 
+        <td>2.4</td> 
+        <td>2.2</td> 
+        <td>2.2</td> 
+        <td>1.9</td> 
+        <td>1.7</td> 
+        <td>1.7</td>
         <td>1.5<br>2.4<br>自动</td> 
         <td>1.5<br>2.4<br>2.2</td>
     </tr>             
