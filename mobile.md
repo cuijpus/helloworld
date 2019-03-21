@@ -442,15 +442,15 @@
     <tr>
         <th>前置<BR>摄像头(MP)</th>        
         <td>30w</td> 
-        <td>200</td> 
-        <td>200</td> 
-        <td>200</td> 
-        <td>210</td> 
-        <td>500</td> 
-        <td>500</td> 
-        <td>800</td>
-        <td>800</td> 
-        <td>800+<br>1000</td>
+        <td>2</td> 
+        <td>2</td> 
+        <td>2</td> 
+        <td>2.1</td> 
+        <td>5</td> 
+        <td>5</td> 
+        <td>8</td>
+        <td>8</td> 
+        <td>8+<br>10</td>
     </tr>  
     <tr>
         <th>前置<BR>录像</th>        
@@ -467,16 +467,16 @@
     </tr>            
     <tr>
         <th>后置<br>摄像头(MP)</th>       
-        <td>500</td> 
-        <td>800</td> 
-        <td>800</td> 
-        <td>1300</td> 
-        <td>1600</td> 
-        <td>1600</td> 
-        <td>1200</td> 
-        <td>1200</td>
-        <td>1200+<br>1200</td> 
-        <td>1200+<br>1200+<br>1600</td>
+        <td>5</td> 
+        <td>8</td> 
+        <td>8</td> 
+        <td>13</td> 
+        <td>16</td> 
+        <td>16</td> 
+        <td>12</td> 
+        <td>12</td>
+        <td>12+<br>12</td> 
+        <td>12+<br>12+<br>16</td>
     </tr> 
     <tr>
         <th>后置<br>录像</th>       
