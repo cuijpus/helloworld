@@ -25,7 +25,12 @@
     </tr>
     <tr>
         <th>三星</th>
-        <th> M系列<br>(1.28)<br></th> <th> S10<br>855<br>打孔屏<br>三摄<br>FOD<br>折叠<br>5G<br>(2.20)<br></th> <th></th>
+        <th> M系列<br>(1.28)<br></th> 
+        <th> 
+            S10<br>855<br>打孔屏<br>三摄<br>FOD<br>折叠<br>5G<br>(2.20)<br>
+            A30<br>800￥<br>A50<br>1200￥<br>水滴屏<br>三摄<br>FOD<br>(2.26)<br>
+        </th> 
+        <th></th>
         <th>A70<br>水滴屏<br>三摄<br>FOD<br></th> <th></th> <th></th>
         <th></th> <th></th> <th></th>
         <th></th> <th></th> <th></th>
