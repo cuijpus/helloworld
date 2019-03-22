@@ -515,7 +515,7 @@
         <td></td> 
         <td></td>
         <td></td> 
-        <td>OIS<br>OIS<br>-</td>
+        <td><a href = "https://hiphotos.baidu.com/feed/pic/item/6a600c338744ebf8ad88d918d5f9d72a6059a718.jpg">OIS</a><br>OIS<br>-</td>
     </tr>  
     <tr>
         <th><a href = "http://technicles.com/laser-autofocus-pdaf-cdaf-dual-pixel-af-better/">自动对焦</a></th>       
