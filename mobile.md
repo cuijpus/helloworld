@@ -507,7 +507,7 @@
         <td><a href = "http://mobile.zol.com.cn/710/7100658.html">12长焦+<br>12广角(主)+<br>16超广角</a></td>
     </tr> 
     <tr>
-        <th><a href = "http://www.sunnyoptical.com/pro/001007/index.html">镜头模组</a></th>       
+        <th><a href = "https://wenku.baidu.com/view/0efa0e3a0166f5335a8102d276a20029bd646366.html?sxts=1553249183591">镜头模组</a></th>       
         <td></td> 
         <td></td> 
         <td></td> 
