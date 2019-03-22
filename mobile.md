@@ -502,7 +502,7 @@
         <td>1.7</td> 
         <td>1.7</td>
         <td>1.5/2.4<br>自动</td> 
-        <td>2.4<br>1.5/2.4<br>2.2</td>
+        <td>2.4<br><a href = "https://venturebeat.com/wp-content/uploads/2019/02/GalaxyS10_Camera-1.gif?w=800&resize=800%2C450&strip=all">1.5/2.4</a><br>2.2</td>
     </tr>
     <tr>
         <th><a href = "https://baijiahao.baidu.com/s?id=1593544977623674833&wfr=spider&for=pc">OIS</a></th>       
