@@ -518,7 +518,7 @@
         <td>Dual OIS</td>
     </tr>  
     <tr>
-        <th>对焦</th>       
+        <th><a href = "http://technicles.com/laser-autofocus-pdaf-cdaf-dual-pixel-af-better/">对焦</a></th>       
         <td></td> 
         <td></td> 
         <td></td> 
@@ -531,7 +531,7 @@
         <td>AF<BR>2PD AF<BR>FF</td>
     </tr>            
     <tr>
-        <th>Sensor</th>       
+        <th>Sensor/ISP</th>       
         <td></td> 
         <td></td> 
         <td></td> 
@@ -541,10 +541,23 @@
         <td></td> 
         <td></td>
         <td></td> 
-        <td>1.5<br>2.4<br>2.2</td>
+        <td></td>
     </tr>  
     <tr>
         <th>感光面积<br>um</th>       
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td> 
+        <td></td>
+    </tr>   
+    <tr>
+        <th>镜头模组<br>um</th>       
         <td></td> 
         <td></td> 
         <td></td> 
