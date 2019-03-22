@@ -8,6 +8,10 @@
 
 # 模组 
 
+# 音圈马达
+[2018年中国手机VCM马达市场崛起报告](https://baijiahao.baidu.com/s?id=1622074072011455342&wfr=spider&for=pc)<br>
+
+
 # 芯片 
 
 # 技术 
