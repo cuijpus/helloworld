@@ -507,20 +507,7 @@
         <td><a href = "http://mobile.zol.com.cn/710/7100658.html">12长焦+<br>12广角(主)+<br>16超广角</a></td>
     </tr> 
     <tr>
-        <th>光圈<br>f/x</th>       
-        <td></td> 
-        <td>2.7</td> 
-        <td>2.4</td> 
-        <td>2.2</td> 
-        <td>2.2</td> 
-        <td>1.9</td> 
-        <td>1.7</td> 
-        <td>1.7</td>
-        <td>1.5/2.4<br>自动</td> 
-        <td>2.4<br><a href = "https://venturebeat.com/wp-content/uploads/2019/02/GalaxyS10_Camera-1.gif?w=800&resize=800%2C450&strip=all">1.5/2.4</a><br>2.2</td>
-    </tr>
-    <tr>
-        <th><a href = "https://baijiahao.baidu.com/s?id=1593544977623674833&wfr=spider&for=pc">OIS</a></th>       
+        <th><a href = "http://www.sunnyoptical.com/pro/001007/index.html">镜头模组</a></th>       
         <td></td> 
         <td></td> 
         <td></td> 
@@ -530,20 +517,7 @@
         <td></td> 
         <td></td>
         <td></td> 
-        <td><a href = "https://hiphotos.baidu.com/feed/pic/item/6a600c338744ebf8ad88d918d5f9d72a6059a718.jpg">OIS</a><br>OIS<br>-</td>
-    </tr>  
-    <tr>
-        <th><a href = "http://technicles.com/laser-autofocus-pdaf-cdaf-dual-pixel-af-better/">自动对焦</a></th>       
-        <td></td> 
-        <td></td> 
-        <td></td> 
-        <td></td> 
-        <td></td> 
-        <td></td> 
-        <td></td> 
         <td></td>
-        <td></td> 
-        <td>PDAF<BR>2PD AF<BR>FF?</td>
     </tr>            
     <tr>
         <th>Sensor<br>/<a href = "https://images.anandtech.com/doci/6777/Frequencies%20Presentation.026.png">ISP</a></th>       
@@ -592,7 +566,20 @@
         <td>1.0<br>1.4<br>1.0</td>
     </tr>   
     <tr>
-        <th><a href = "http://www.sunnyoptical.com/pro/001007/index.html">镜头模组</a></th>       
+        <th>光圈<br>f/x</th>       
+        <td></td> 
+        <td>2.7</td> 
+        <td>2.4</td> 
+        <td>2.2</td> 
+        <td>2.2</td> 
+        <td>1.9</td> 
+        <td>1.7</td> 
+        <td>1.7</td>
+        <td>1.5/2.4<br>自动</td> 
+        <td>2.4<br><a href = "https://venturebeat.com/wp-content/uploads/2019/02/GalaxyS10_Camera-1.gif?w=800&resize=800%2C450&strip=all">1.5/2.4</a><br>2.2</td>
+    </tr>
+    <tr>
+        <th><a href = "https://baijiahao.baidu.com/s?id=1593544977623674833&wfr=spider&for=pc">OIS</a></th>       
         <td></td> 
         <td></td> 
         <td></td> 
@@ -602,7 +589,20 @@
         <td></td> 
         <td></td>
         <td></td> 
+        <td><a href = "https://hiphotos.baidu.com/feed/pic/item/6a600c338744ebf8ad88d918d5f9d72a6059a718.jpg">OIS</a><br>OIS<br>-</td>
+    </tr>  
+    <tr>
+        <th><a href = "http://technicles.com/laser-autofocus-pdaf-cdaf-dual-pixel-af-better/">自动对焦</a></th>       
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
         <td></td>
+        <td></td> 
+        <td>PDAF<BR>2PD AF<BR>FF?</td>
     </tr>            
     <tr>
         <th>后置<br>录像</th>       
