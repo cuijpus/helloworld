@@ -503,7 +503,33 @@
         <td>1.7</td>
         <td>1.5/2.4<br>自动</td> 
         <td>2.4<br>1.5/2.4<br>2.2</td>
-    </tr>   
+    </tr>
+    <tr>
+        <th>OIS</th>       
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td> 
+        <td>Dual OIS</td>
+    </tr>  
+    <tr>
+        <th>对焦</th>       
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td> 
+        <td>AF<BR>2PD AF<BR>FF</td>
+    </tr>            
     <tr>
         <th>Sensor</th>       
         <td></td> 
@@ -518,7 +544,7 @@
         <td>1.5<br>2.4<br>2.2</td>
     </tr>  
     <tr>
-        <th>OIS</th>       
+        <th>感光面积<br>um</th>       
         <td></td> 
         <td></td> 
         <td></td> 
@@ -528,8 +554,8 @@
         <td></td> 
         <td></td>
         <td></td> 
-        <td>Dual OIS</td>
-    </tr>             
+        <td></td>
+    </tr>            
     <tr>
         <th>后置<br>录像</th>       
         <td>720P<br>@30fps</td> 
