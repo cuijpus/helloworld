@@ -531,7 +531,7 @@
         <td>AF<BR>2PD AF<BR>FF</td>
     </tr>            
     <tr>
-        <th>Sensor<br>/ISP</th>       
+        <th>Sensor<br>/<a href = "https://images.anandtech.com/doci/6777/Frequencies%20Presentation.026.png">ISP</a></th>       
         <td></td> 
         <td></td> 
         <td></td> 
