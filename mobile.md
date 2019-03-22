@@ -557,7 +557,7 @@
         <td></td>
     </tr>   
     <tr>
-        <th>镜头模组<br>um</th>       
+        <th><a href = "http://www.sunnyoptical.com/pro/001007/index.html">镜头模组</a></th>       
         <td></td> 
         <td></td> 
         <td></td> 
