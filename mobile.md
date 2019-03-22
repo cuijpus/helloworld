@@ -543,7 +543,7 @@
         <td></td> 
         <td></td>
         <td></td> 
-        <td>AF<BR>2PD AF<BR>FF</td>
+        <td>PDAF<BR>2PD AF<BR>PDAF</td>
     </tr>            
     <tr>
         <th>Sensor<br>/<a href = "https://images.anandtech.com/doci/6777/Frequencies%20Presentation.026.png">ISP</a></th>       
@@ -556,9 +556,9 @@
         <td></td> 
         <td></td>
         <td></td> 
-        <td>S5K3M3<BR>
-            S5K2L4<BR>
-            S5K3P9<BR>
+        <td><a href = "https://www.samsung.com/semiconductor/image-sensor/mobile-image-sensor/S5K3M3/">S5K3M3</a><BR>
+            S5K2L4?<BR>
+            <a href = "https://www.samsung.com/semiconductor/image-sensor/mobile-image-sensor/S5K3P9/">S5K3P9</a><BR>
             <a href = "https://www.samsung.com/semiconductor/minisite/exynos/technology/advanced-isp/">内置ISP</a></td>
     </tr>  
     <tr>
