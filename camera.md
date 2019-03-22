@@ -15,3 +15,11 @@
 [赋予3D传感“智能”，炬佑智能跻身全球领先ToF传感器供应商](https://baijiahao.baidu.com/s?id=1618837871805756218&wfr=spider&for=pc)<br>
 
 [三星4800万像素摄像头是假的，华为荣耀高管这么说！](http://www.52rd.com/S_TXT/2019_1/TXT112123.HTM)<br>
+
+
+# 学习资料
+
+[手机摄像头测试](https://wenku.baidu.com/view/5ea47f8b03d276a20029bd64783e0912a2167cf0.html)<br>
+[手机摄像模组知识简介](https://wenku.baidu.com/view/0efa0e3a0166f5335a8102d276a20029bd646366.html?sxts=1553249183591)<br>
+[如何评价手机摄像模组](https://wenku.baidu.com/view/0588dc670b1c59eef8c7b4ac.html?sxts=1553250478006)<br>
+[【摄像头入门】第八章：拆解VCM音圈马达，原理、结构蛮有意思！](http://www.52rd.com/S_TXT/2014_10/TXT62308.HTM)<br>
