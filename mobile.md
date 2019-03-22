@@ -543,7 +543,7 @@
         <td></td> 
         <td></td>
         <td></td> 
-        <td>PDAF<BR>2PD AF<BR>PDAF</td>
+        <td>PDAF<BR>2PD AF<BR>FF?</td>
     </tr>            
     <tr>
         <th>Sensor<br>/<a href = "https://images.anandtech.com/doci/6777/Frequencies%20Presentation.026.png">ISP</a></th>       
