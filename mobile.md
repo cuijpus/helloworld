@@ -464,6 +464,21 @@
         <td></td>
         <td></td> 
         <td>1.9<br>2.2</td>
+    </tr>  
+    <tr>
+        <th>Sensor</th>       
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td> 
+        <td>索尼IMX374<BR>
+            S5K4HA<BR>
+        </td>
     </tr>            
     <tr>
         <th>前置<BR>录像</th>        
@@ -541,7 +556,10 @@
         <td></td> 
         <td></td>
         <td></td> 
-        <td><a href = "https://www.samsung.com/semiconductor/minisite/exynos/technology/advanced-isp/">内置ISP</a></td>
+        <td>S5K3M3<BR>
+            S5K2L4<BR>
+            S5K3P9<BR>
+            <a href = "https://www.samsung.com/semiconductor/minisite/exynos/technology/advanced-isp/">内置ISP</a></td>
     </tr>  
     <tr>
         <th>感光面积<br>um</th>       
