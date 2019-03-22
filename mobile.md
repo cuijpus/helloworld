@@ -518,7 +518,7 @@
         <td>Dual OIS</td>
     </tr>  
     <tr>
-        <th><a href = "http://technicles.com/laser-autofocus-pdaf-cdaf-dual-pixel-af-better/">对焦</a></th>       
+        <th><a href = "http://technicles.com/laser-autofocus-pdaf-cdaf-dual-pixel-af-better/">自动对焦</a></th>       
         <td></td> 
         <td></td> 
         <td></td> 
@@ -531,7 +531,7 @@
         <td>AF<BR>2PD AF<BR>FF</td>
     </tr>            
     <tr>
-        <th>Sensor/ISP</th>       
+        <th>Sensor<br>/ISP</th>       
         <td></td> 
         <td></td> 
         <td></td> 
