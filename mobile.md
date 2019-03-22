@@ -541,7 +541,7 @@
         <td></td> 
         <td></td>
         <td></td> 
-        <td></td>
+        <td><a href = "https://www.samsung.com/semiconductor/minisite/exynos/technology/advanced-isp/">内置ISP</a></td>
     </tr>  
     <tr>
         <th>感光面积<br>um</th>       
