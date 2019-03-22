@@ -536,7 +536,7 @@
             <a href = "https://www.samsung.com/semiconductor/minisite/exynos/technology/advanced-isp/">内置ISP</a></td>
     </tr>
     <tr>
-        <th>传感器尺寸<br>inch</th>       
+        <th>传感器<br>尺寸<br>inch</th>       
         <td></td> 
         <td></td> 
         <td></td> 
