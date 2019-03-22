@@ -560,9 +560,9 @@
             S5K2L4?<BR>
             <a href = "https://www.samsung.com/semiconductor/image-sensor/mobile-image-sensor/S5K3P9/">S5K3P9</a><BR>
             <a href = "https://www.samsung.com/semiconductor/minisite/exynos/technology/advanced-isp/">内置ISP</a></td>
-    </tr>  
+    </tr>
     <tr>
-        <th>感光面积<br>um</th>       
+        <th>传感器尺寸<br>inch</th>       
         <td></td> 
         <td></td> 
         <td></td> 
@@ -572,7 +572,24 @@
         <td></td> 
         <td></td>
         <td></td> 
+        <td>
+            1/3.4<br>
+            1/2.55<br>
+            1/3.4<br>
+        </td>
+    </tr>              
+    <tr>
+        <th>单个像素大小<br>um</th>       
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
         <td></td>
+        <td></td> 
+        <td>1.0<br>1.4<br>1.0</td>
     </tr>   
     <tr>
         <th><a href = "http://www.sunnyoptical.com/pro/001007/index.html">镜头模组</a></th>       
