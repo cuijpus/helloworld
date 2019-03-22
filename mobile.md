@@ -505,7 +505,7 @@
         <td>2.4<br>1.5/2.4<br>2.2</td>
     </tr>
     <tr>
-        <th>OIS</th>       
+        <th><a href = "https://baijiahao.baidu.com/s?id=1593544977623674833&wfr=spider&for=pc">OIS</a></th>       
         <td></td> 
         <td></td> 
         <td></td> 
@@ -515,7 +515,7 @@
         <td></td> 
         <td></td>
         <td></td> 
-        <td>Dual OIS</td>
+        <td>OIS<br>OIS<br>-</td>
     </tr>  
     <tr>
         <th><a href = "http://technicles.com/laser-autofocus-pdaf-cdaf-dual-pixel-af-better/">自动对焦</a></th>       
