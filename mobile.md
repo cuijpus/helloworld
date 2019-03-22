@@ -592,6 +592,19 @@
         <td><a href = "https://hiphotos.baidu.com/feed/pic/item/6a600c338744ebf8ad88d918d5f9d72a6059a718.jpg">OIS</a><br>OIS<br>-</td>
     </tr>  
     <tr>
+        <th><a href = "https://www.sohu.com/a/239532402_237916">OIS马达</a></th>       
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td> 
+        <td></td>
+    </tr>            
+    <tr>
         <th><a href = "http://technicles.com/laser-autofocus-pdaf-cdaf-dual-pixel-af-better/">自动对焦</a></th>       
         <td></td> 
         <td></td> 
@@ -603,6 +616,19 @@
         <td></td>
         <td></td> 
         <td>PDAF<BR>2PD AF<BR>FF?</td>
+    </tr>  
+    <tr>
+        <th><a href = "https://www.sohu.com/a/239532402_237916">音圈马达</a></th>       
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td> 
+        <td></td>
     </tr>            
     <tr>
         <th>后置<br>录像</th>       
