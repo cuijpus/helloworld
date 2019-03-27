@@ -1636,7 +1636,7 @@
         <td></td> 
         <td></td>
         <td></td> 
-        <td></td>
+        <td>IMX350</td>
     </tr>
     <tr>
         <th>传感器<br>尺寸<br>inch</th>       
