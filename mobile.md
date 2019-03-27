@@ -1649,8 +1649,7 @@
         <td></td> 
         <td></td>
         <td></td> 
-        <td>
-        </td>
+        <td>,<br>1/1.7,<br>,<br></td>
     </tr>              
     <tr>
         <th>单个像素大小<br>um</th>       
@@ -1734,7 +1733,46 @@
         <td></td>
         <td></td> 
         <td></td>
-    </tr>      
+    </tr>   
+    <tr>
+        <th>ISO</th>       
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td> 
+        <td></td>
+    </tr>  
+    <tr>
+        <th>微距</th>       
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td> 
+        <td></td>
+    </tr>  
+    <tr>
+        <th>夜拍</th>       
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td> 
+        <td></td>
+    </tr>    
     <tr>
         <th>后置录像</th>
         <th></th> 
@@ -1914,6 +1952,21 @@
 [P30 巴黎发布 EMUI 9.1多项新功能曝光](https://www.toutiao.com/a6672711677986734603/)<br>
 [10项全球第一！余承东发布超级影像手机，华为P30系列太惊艳](https://www.toutiao.com/a6672731791889007118/)<BR>
 ![P30 PRO](http://p3.pstatp.com/large/pgc-image/17b91fe1a5284d4dbe326b115cfde06c)<br>
+
+[华为P30系列发布：重新定义“拍照手机”！关键供应商揭秘！](https://www.toutiao.com/a6672772096046662156/)<br>
+根据供应链了解到的信息显示：
+
+P30标准版后置三摄的图像传感器均由索尼供应，4000万+1600万像素镜头则由大立光 ，800万像素镜头则由舜宇和日本关东辰美(康达智Kantatsu)供应；马达部分，Mitsumi是一供，TDK是二供；
+
+摄像头模组：欧菲光是一供， 舜宇是二供，立景是三供。
+
+P30 Pro后置四摄的图像传感器芯片由索尼供应，4000万+2000万像素镜头也是大立光供应，800万像素镜头则是由舜宇供应；马达部分，Mitsumi是一供，TDK二供；潜望镜棱镜则是由舜宇和利达光电主供，水晶光电和亚光是​二供。后置三摄模组，舜宇是一供，立景是二供。
+
+P30 Pro的TOF模组供应链：VCSEL由Lumentum供应；陶瓷盒子由京瓷供应；Diffussor由Viavi Solutions供应；模组方面，舜宇是一供，欧菲光是二供；
+
+P30及P30 Pro的光学屏下指纹供应链：芯片是由汇顶科技供应；模组方面，欧菲光是一供，丘太是二供；
+
+P30的显示屏是由三星供应；P30 Pro的显示屏则由BOE和LGD共同供应。​​​​​​​
 
 
 2019.3.18 [一图看懂OPPO ColorOS 6系统](https://www.toutiao.com/a6669502724393927181/)<br>
