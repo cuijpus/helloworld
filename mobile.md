@@ -1467,7 +1467,7 @@
         <th></th> 
         <th></th> 
         <th></th> 
-        <th>6.37</th>
+        <th>6.47</th>
     </tr>  
     <tr>
         <th>分辨率</th>
@@ -1493,7 +1493,7 @@
         <th></th> 
         <th></th> 
         <th></th> 
-        <th>404</th>
+        <th>398</th>
     </tr>  
     <tr>
         <th>CPU</th>
@@ -1720,7 +1720,7 @@
         <td></td> 
         <td></td>
         <td></td> 
-        <td>PDAF<BR>2PD AF<BR>FF?</td>
+        <td></td>
     </tr>  
     <tr>
         <th><a href = "https://www.sohu.com/a/239532402_237916">音圈马达</a></th>       
@@ -1907,6 +1907,7 @@
 </table>
 
 
+[P30 Pro spec](https://www.gsmarena.com/huawei_p30_pro-9635.php)<br>
 
 
 
