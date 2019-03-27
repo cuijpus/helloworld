@@ -1455,15 +1455,9 @@
         <th></th> 
         <th></th> 
         <th></th> 
-        <th></th> 
-        <th></th> 
-        <th></th>
     </tr>     
     <tr>
         <th>屏幕</th>
-        <th></th> 
-        <th></th> 
-        <th></th> 
         <th></th> 
         <th></th> 
         <th></th> 
@@ -1486,16 +1480,10 @@
         <th></th> 
         <th></th> 
         <th></th> 
-        <th></th> 
-        <th></th> 
-        <th></th> 
         <th></th>
     </tr>  
     <tr>
         <th>PPI</th>
-        <th></th> 
-        <th></th> 
-        <th></th> 
         <th></th> 
         <th></th> 
         <th></th> 
@@ -1518,16 +1506,10 @@
         <th></th> 
         <th></th> 
         <th></th> 
-        <th></th> 
-        <th></th> 
-        <th></th> 
         <th></th>
     </tr>   
     <tr>
         <th>GPU</th>
-        <th></th> 
-        <th></th> 
-        <th></th> 
         <th></th> 
         <th></th> 
         <th></th> 
@@ -1550,16 +1532,10 @@
         <th></th> 
         <th></th> 
         <th></th> 
-        <th></th> 
-        <th></th> 
-        <th></th> 
         <th></th>
     </tr>
     <tr>
         <th>读写速度</th>
-        <th></th> 
-        <th></th> 
-        <th></th> 
         <th></th> 
         <th></th> 
         <th></th> 
@@ -1582,16 +1558,10 @@
         <th></th> 
         <th></th> 
         <th></th> 
-        <th></th> 
-        <th></th> 
-        <th></th> 
         <th></th>
     </tr>
     <tr>
         <th>读写速度</th>
-        <th></th> 
-        <th></th> 
-        <th></th> 
         <th></th> 
         <th></th> 
         <th></th> 
@@ -1614,16 +1584,10 @@
         <th></th> 
         <th></th> 
         <th></th> 
-        <th></th> 
-        <th></th> 
-        <th></th> 
         <th></th>
     </tr>
     <tr>
         <th>前置录像</th>
-        <th></th> 
-        <th></th> 
-        <th></th> 
         <th></th> 
         <th></th> 
         <th></th> 
@@ -1646,16 +1610,10 @@
         <th></th> 
         <th></th> 
         <th></th> 
-        <th></th> 
-        <th></th> 
-        <th></th> 
         <th></th>
     </tr>
     <tr>
         <th>后置录像</th>
-        <th></th> 
-        <th></th> 
-        <th></th> 
         <th></th> 
         <th></th> 
         <th></th> 
@@ -1678,16 +1636,10 @@
         <th></th> 
         <th></th> 
         <th></th> 
-        <th></th> 
-        <th></th> 
-        <th></th> 
         <th></th>
     </tr>    
     <tr>
         <th>GPS</th>
-        <th></th> 
-        <th></th> 
-        <th></th> 
         <th></th> 
         <th></th> 
         <th></th> 
@@ -1710,16 +1662,10 @@
         <th></th> 
         <th></th> 
         <th></th> 
-        <th></th> 
-        <th></th> 
-        <th></th> 
         <th></th>
     </tr>  
     <tr>
         <th>蓝牙</th>
-        <th></th> 
-        <th></th> 
-        <th></th> 
         <th></th> 
         <th></th> 
         <th></th> 
@@ -1742,16 +1688,10 @@
         <th></th> 
         <th></th> 
         <th></th> 
-        <th></th> 
-        <th></th> 
-        <th></th> 
         <th></th>
     </tr>  
     <tr>
         <th>电池</th>
-        <th></th> 
-        <th></th> 
-        <th></th> 
         <th></th> 
         <th></th> 
         <th></th> 
@@ -1774,16 +1714,10 @@
         <th></th> 
         <th></th> 
         <th></th> 
-        <th></th> 
-        <th></th> 
-        <th></th> 
         <th></th>
     </tr>    
     <tr>
         <th>指纹</th>
-        <th></th> 
-        <th></th> 
-        <th></th> 
         <th></th> 
         <th></th> 
         <th></th> 
@@ -1806,16 +1740,10 @@
         <th></th> 
         <th></th> 
         <th></th> 
-        <th></th> 
-        <th></th> 
-        <th></th> 
         <th></th>
     </tr> 
     <tr>
         <th>硬件突破</th>
-        <th></th> 
-        <th></th> 
-        <th></th> 
         <th></th> 
         <th></th> 
         <th></th> 
@@ -1838,16 +1766,10 @@
         <th></th> 
         <th></th> 
         <th></th> 
-        <th></th> 
-        <th></th> 
-        <th></th> 
         <th></th>
     </tr>  
     <tr>
         <th>销量</th>
-        <th></th> 
-        <th></th> 
-        <th></th> 
         <th></th> 
         <th></th> 
         <th></th> 
