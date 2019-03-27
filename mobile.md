@@ -1457,7 +1457,7 @@
         <th></th> 
     </tr>     
     <tr>
-        <th>屏幕</th>
+        <th>屏幕<br>(inch)</th>
         <th></th> 
         <th></th> 
         <th></th> 
@@ -1467,7 +1467,7 @@
         <th></th> 
         <th></th> 
         <th></th> 
-        <th></th>
+        <th>6.37</th>
     </tr>  
     <tr>
         <th>分辨率</th>
@@ -1480,7 +1480,7 @@
         <th></th> 
         <th></th> 
         <th></th> 
-        <th></th>
+        <th>2340x<br>1080</th>
     </tr>  
     <tr>
         <th>PPI</th>
@@ -1493,7 +1493,7 @@
         <th></th> 
         <th></th> 
         <th></th> 
-        <th></th>
+        <th>404</th>
     </tr>  
     <tr>
         <th>CPU</th>
@@ -1506,7 +1506,7 @@
         <th></th> 
         <th></th> 
         <th></th> 
-        <th></th>
+        <th>980</th>
     </tr>   
     <tr>
         <th>GPU</th>
@@ -1519,7 +1519,7 @@
         <th></th> 
         <th></th> 
         <th></th> 
-        <th></th>
+        <th>Mali-G76<br>MP10</th>
     </tr>
     <tr>
         <th>运存<br>RAM</th>
@@ -1532,7 +1532,7 @@
         <th></th> 
         <th></th> 
         <th></th> 
-        <th></th>
+        <th>8GB</th>
     </tr>
     <tr>
         <th>读写速度</th>
@@ -1558,7 +1558,7 @@
         <th></th> 
         <th></th> 
         <th></th> 
-        <th></th>
+        <th>128GB</th>
     </tr>
     <tr>
         <th>读写速度</th>
@@ -1574,7 +1574,7 @@
         <th></th>
     </tr>
     <tr>
-        <th>前置摄像头</th>
+        <th>前置摄像头<br>(MP)</th>
         <th></th> 
         <th></th> 
         <th></th> 
@@ -1584,7 +1584,7 @@
         <th></th> 
         <th></th> 
         <th></th> 
-        <th></th>
+        <th>32</th>
     </tr>
     <tr>
         <th>前置录像</th>
@@ -1814,7 +1814,7 @@
         <th></th>
     </tr>  
     <tr>
-        <th>电池</th>
+        <th>电池<BR>(mAh)</th>
         <th></th> 
         <th></th> 
         <th></th> 
@@ -1824,7 +1824,7 @@
         <th></th> 
         <th></th> 
         <th></th> 
-        <th></th>
+        <th>4200</th>
     </tr>  
     <tr>
         <th>充电速度</th>
@@ -1850,7 +1850,7 @@
         <th></th> 
         <th></th> 
         <th></th> 
-        <th></th>
+        <th>FOD</th>
     </tr> 
     <tr>
         <th>OS</th>
