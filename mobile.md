@@ -1968,6 +1968,10 @@ P30及P30 Pro的光学屏下指纹供应链：芯片是由汇顶科技供应；�
 
 P30的显示屏是由三星供应；P30 Pro的显示屏则由BOE和LGD共同供应。​​​​​​​
 
+[Compare Huawei P30 vs Huawei P30 Pro vs Samsung Galaxy S10 Plus](https://www.gadgetsnow.com/compare-mobile-phones/Huawei-P30-vs-Huawei-P30-Pro-vs-Samsung-Galaxy-S10-Plus)<br>
+
+
+
 
 2019.3.18 [一图看懂OPPO ColorOS 6系统](https://www.toutiao.com/a6669502724393927181/)<br>
 
