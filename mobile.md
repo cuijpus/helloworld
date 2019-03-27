@@ -1601,16 +1601,16 @@
     </tr>
     <tr>
         <th>后置摄像头(MP)</th>
-        <th></th> 
-        <th></th> 
-        <th></th> 
-        <th></th> 
-        <th></th> 
-        <th></th> 
-        <th></th> 
-        <th></th> 
-        <th></th> 
-        <th>20超广角<br>40广角(主摄)<br>8长焦<br>TOF</th>
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td>
+        <td>20超广角<br>40广角<br>(主)<br>8长焦<br>TOF</td>
     </tr>
     <tr>
         <th><a href = "https://wenku.baidu.com/view/0efa0e3a0166f5335a8102d276a20029bd646366.html?sxts=1553249183591">镜头模组</a></th>       
