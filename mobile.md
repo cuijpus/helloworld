@@ -1707,7 +1707,7 @@
         <td></td> 
         <td></td>
         <td></td> 
-        <td></td>
+        <td>-<br>OIS<br>OIS<br>-</td>
     </tr>            
     <tr>
         <th><a href = "http://technicles.com/laser-autofocus-pdaf-cdaf-dual-pixel-af-better/">自动对焦</a></th>       
@@ -1907,10 +1907,13 @@
 </table>
 
 
+2019.3.27:<br>
 [P30 Pro spec](https://www.gsmarena.com/huawei_p30_pro-9635.php)<br>
-
-
-
+[Huawei P30 + P30 Pro: Everything you need to know!](https://www.androidcentral.com/huawei-p30)<br>
+[华为P30/P30 Pro六大亮点解析：无可替代的拍照机皇](https://www.toutiao.com/a6672838915767927309/)<br>
+[P30 巴黎发布 EMUI 9.1多项新功能曝光](https://www.toutiao.com/a6672711677986734603/)<br>
+[10项全球第一！余承东发布超级影像手机，华为P30系列太惊艳](https://www.toutiao.com/a6672731791889007118/)<BR>
+![P30 PRO](http://p3.pstatp.com/large/pgc-image/17b91fe1a5284d4dbe326b115cfde06c)<br>
 
 
 2019.3.18 [一图看懂OPPO ColorOS 6系统](https://www.toutiao.com/a6669502724393927181/)<br>
