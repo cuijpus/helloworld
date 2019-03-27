@@ -817,6 +817,14 @@
 [S10 Teardown](https://zh.ifixit.com/Guide/%E4%B8%89%E6%98%9FGalaxy+S10%E5%8F%8AS10e%E6%8B%86%E8%A7%A3/120331)<br>
 [S9 Teardown ](https://www.techinsights.com/about-techinsights/overview/blog/samsung-galaxy-s9-teardown/)<br>
 
+
+[拆解三星 Galaxy S10：成本约 420 美元，屏幕、SoC 和摄像头占一半](http://www.ifanr.com/1180874)<br>
+[采用双摄的三星 Galaxy S9+ 内部长什么样？来看看 iFixit 的拆解结果](http://www.geekpark.net/news/227189)<br>
+[1张图回顾10代S](http://5b0988e595225.cdn.sohucs.com/images/20190219/4b14d98d3ff144eb96829549b81f4693.jpeg)<BR> 
+[S系列销量](https://www.gsmarena.com/report_says_samsung_aiming_to_sell_60_million_galaxy_s8_units_this_year-news-22620.php)<br>
+
+
+
 ## <a id="tag-Note系列10年产品" href="#tag-Note系列10年产品">Note系列10年产品</a>
 <table> 
     <tr>
@@ -1418,11 +1426,31 @@
 ![iphone history](https://img3.gelonghui.com/201809/p20180912160702742.png!wm)<br>
 
 
+## <a id="tag-P系列10年产品" href="#tag-P系列10年产品">P系列10年产品</a>
+<table> 
+    <tr>
+        <th>年代</th> 
+        <th>2010</th> <th>2011</th> 
+        <th>2012</th> <th>2013</th> <th>2014</th> <th>2015</th>
+        <th>2016</th> <th>2017</th>
+        <th>2018</th> <th>2019</th>
+    </tr>
+    <tr>
+        <th>型号</th> 
+        <th></th> <th> </th> 
+        <th>P1</th> <th>P6</th> <th>P7</th> <th>P8</th> 
+        <th>P9</th> <th>P10</th>
+        <th>P20</th> <th>P30</th>
+    </tr>
+</table>
+
+
+
+
+
+
+
 2019.3.18 [一图看懂OPPO ColorOS 6系统](https://www.toutiao.com/a6669502724393927181/)<br>
-[拆解三星 Galaxy S10：成本约 420 美元，屏幕、SoC 和摄像头占一半](http://www.ifanr.com/1180874)<br>
-[采用双摄的三星 Galaxy S9+ 内部长什么样？来看看 iFixit 的拆解结果](http://www.geekpark.net/news/227189)<br>
-[1张图回顾10代S](http://5b0988e595225.cdn.sohucs.com/images/20190219/4b14d98d3ff144eb96829549b81f4693.jpeg)<BR> 
-[S系列销量](https://www.gsmarena.com/report_says_samsung_aiming_to_sell_60_million_galaxy_s8_units_this_year-news-22620.php)<br>
 
 就当前OPPO产品线来看，其有高端旗舰Find X系列、中端R系列和低端A系列。去年又新推出面向线上的K系列，主打高性价比。对于Reno的市场定位暂时未了解。
 
