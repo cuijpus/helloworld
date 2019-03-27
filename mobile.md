@@ -43,7 +43,7 @@
     </tr>
     <tr>
         <th>华为</th>
-        <th></th> <th>折叠<br>5G<br>(2.24)</th> <th>P30<br>水滴屏<br>四摄?<br>10倍?<br>(3.26)</th> 
+        <th></th> <th>折叠<br>5G<br>(2.24)</th> <th>P30<br>水滴曲屏<br>屏幕发声<br>FOD<br>四摄<br>5倍光变<br>10倍混变<br>50倍数变<br>(3.26)</th> 
         <th></th> <th></th> <th></th>
         <th></th> <th></th> <th></th> 
         <th></th> <th></th> <th></th>
@@ -1610,8 +1610,131 @@
         <th></th> 
         <th></th> 
         <th></th> 
-        <th></th>
+        <th>20超广角<br>40广角(主摄)<br>8长焦<br>TOF</th>
     </tr>
+    <tr>
+        <th><a href = "https://wenku.baidu.com/view/0efa0e3a0166f5335a8102d276a20029bd646366.html?sxts=1553249183591">镜头模组</a></th>       
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td> 
+        <td></td>
+    </tr>            
+    <tr>
+        <th>Sensor<br>/<a href = "https://images.anandtech.com/doci/6777/Frequencies%20Presentation.026.png">ISP</a></th>       
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td> 
+        <td></td>
+    </tr>
+    <tr>
+        <th>传感器<br>尺寸<br>inch</th>       
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td> 
+        <td>
+        </td>
+    </tr>              
+    <tr>
+        <th>单个像素大小<br>um</th>       
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td> 
+        <td></td>
+    </tr>   
+    <tr>
+        <th>光圈<br>f/x</th>       
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td> 
+        <td>            
+            1/2.2<br>
+            1/1.6<br>
+            1/3.4<br>
+            tof<br>
+        </td>
+    </tr>
+    <tr>
+        <th><a href = "https://baijiahao.baidu.com/s?id=1593544977623674833&wfr=spider&for=pc">OIS</a></th>       
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td> 
+        <td></td>
+    </tr>  
+    <tr>
+        <th><a href = "https://www.sohu.com/a/239532402_237916">OIS马达</a></th>       
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td> 
+        <td></td>
+    </tr>            
+    <tr>
+        <th><a href = "http://technicles.com/laser-autofocus-pdaf-cdaf-dual-pixel-af-better/">自动对焦</a></th>       
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td> 
+        <td>PDAF<BR>2PD AF<BR>FF?</td>
+    </tr>  
+    <tr>
+        <th><a href = "https://www.sohu.com/a/239532402_237916">音圈马达</a></th>       
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td>
+        <td></td> 
+        <td></td>
+    </tr>      
     <tr>
         <th>后置录像</th>
         <th></th> 
@@ -1753,7 +1876,7 @@
         <th></th> 
         <th></th> 
         <th></th> 
-        <th></th>
+        <th>四摄</th>
     </tr>   
     <tr>
         <th>软件突破</th>
@@ -1766,7 +1889,7 @@
         <th></th> 
         <th></th> 
         <th></th> 
-        <th></th>
+        <th>双景摄像</th>
     </tr>  
     <tr>
         <th>销量</th>
