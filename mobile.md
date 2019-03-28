@@ -2596,9 +2596,21 @@ UHD是指3840×2160分辨率；<br>
         </td>
         <td>感知手机是否被贴在耳朵上讲电话，<br>若是则会关闭屏幕来省电</td> 
     </tr>
-    <tr> <td>Accelerometer</td><td>作用</td> <td>用途</td> </tr>
+    <tr> 
+        <td>加速度传感器<br>Accelerometer </td>
+        <td>透过三个维度来确定加速度方向，功耗小但精度低</td> 
+        <td>计步、判断手机朝向的方向</td> 
+    </tr>
     <tr> <td>Compass</td><td>作用</td> <td>用途</td> </tr>
-    <tr> <td>Gyroscope</td><td>作用</td> <td>用途</td> </tr>
+    <tr> 
+        <td>陀螺仪 <br>Gyroscope</td>
+        <td>作用</td> 
+        <td>精确的导航系统</td> 
+    </tr>
+    <tr> 
+        <td>气压传感器<br>Barometer</td><td>作用</td> <td>可以将误差校正到1米左右；也可用来辅助GPS定位，来确认所在楼层位置等信息。用途</td> 
+    </tr>
+    
 </table>
 
 
