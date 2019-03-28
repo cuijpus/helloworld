@@ -2568,3 +2568,15 @@ UHD是指3840×2160分辨率；<br>
 
 [一张图看懂手机CMF史 ](https://www.sohu.com/a/250437863_119960)<br>
 
+# 手机传感器
+<table>
+    <td>传感器名称</td> <td>作用</td> <td>用途</td>
+    <td>Light sensor</td><td>作用</td> <td>用途</td>
+    <td>Proximity sensor</td><td>作用</td> <td>用途</td>
+    <td>Accelerometer</td><td>作用</td> <td>用途</td>
+    <td>Compass</td><td>作用</td> <td>用途</td>
+    <td>Gyroscope</td><td>作用</td> <td>用途</td>
+</table>
+
+
+
