@@ -2601,7 +2601,8 @@ UHD是指3840×2160分辨率；<br>
         <td>透过三个维度来确定加速度方向，功耗小但精度低</td> 
         <td>计步、判断手机朝向的方向</td> 
     </tr>
-    <tr> <td>Compass</td><td>作用</td> <td>用途</td> </tr>
+    <tr> <td>磁(场)传感器(Magnetism Sensor) Compass</td><td>作用</td> <td>用途</td> </tr>
+    <tr> <td>GPS位置传感器</td><td>计算出手机与卫星之间的距离</td> <td>定位、测速、测量距离与导航等</td> </tr>
     <tr> 
         <td>陀螺仪 <br>Gyroscope</td>
         <td>作用</td> 
@@ -2610,6 +2611,8 @@ UHD是指3840×2160分辨率；<br>
     <tr> 
         <td>气压传感器<br>Barometer</td><td>作用</td> <td>可以将误差校正到1米左右；也可用来辅助GPS定位，来确认所在楼层位置等信息。用途</td> 
     </tr>
+    <tr> <td>指纹传感器</td><td>感应指纹</td> <td>解锁、安全支付</td> </tr>
+    
     
 </table>
 
