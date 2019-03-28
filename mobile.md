@@ -2575,12 +2575,21 @@ UHD是指3840×2160分辨率；<br>
 
 # <a id="tag-手机传感器" href="#tag-手机传感器">手机传感器</a>
 <table>
-    <tr><td>传感器名称</td> <td>作用</td> <td>用途</td> </tr>
-    <tr><td>Light sensor</td><td>作用</td> <td>用途</td> </tr>
-    <tr><td>Proximity sensor</td><td>作用</td> <td>用途</td> </tr>
-    <tr><td>Accelerometer</td><td>作用</td> <td>用途</td> </tr>
-    <tr><td>Compass</td><td>作用</td> <td>用途</td> </tr>
-    <tr><td>Gyroscope</td><td>作用</td> <td>用途</td> </tr>
+    <tr> <td>传感器名称</td> <td>作用</td> <td>用途</td> </tr>
+    <tr> 
+        <td>光线传感器<br>Light sensor</td> 
+        <td>感测环境光线的强度</td> 
+        <td>
+            用来调节手机屏幕的亮度。<br>
+            而因为屏幕通常是手机最耗电的部分，<br>
+            因此运用光线传感器来协助调整屏幕亮度，<br>
+            能进一步达到延长电池寿命的作用。
+        </td> 
+    </tr>
+    <tr> <td>Proximity sensor</td><td>作用</td> <td>用途</td> </tr>
+    <tr> <td>Accelerometer</td><td>作用</td> <td>用途</td> </tr>
+    <tr> <td>Compass</td><td>作用</td> <td>用途</td> </tr>
+    <tr> <td>Gyroscope</td><td>作用</td> <td>用途</td> </tr>
 </table>
 
 
