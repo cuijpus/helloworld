@@ -2575,12 +2575,12 @@ UHD是指3840×2160分辨率；<br>
 
 # <a id="tag-手机传感器" href="#tag-手机传感器">手机传感器</a>
 <table>
-    <td>传感器名称</td> <td>作用</td> <td>用途</td>
-    <td>Light sensor</td><td>作用</td> <td>用途</td>
-    <td>Proximity sensor</td><td>作用</td> <td>用途</td>
-    <td>Accelerometer</td><td>作用</td> <td>用途</td>
-    <td>Compass</td><td>作用</td> <td>用途</td>
-    <td>Gyroscope</td><td>作用</td> <td>用途</td>
+    <tr><td>传感器名称</td> <td>作用</td> <td>用途</td> </tr>
+    <tr><td>Light sensor</td><td>作用</td> <td>用途</td> </tr>
+    <tr><td>Proximity sensor</td><td>作用</td> <td>用途</td> </tr>
+    <tr><td>Accelerometer</td><td>作用</td> <td>用途</td> </tr>
+    <tr><td>Compass</td><td>作用</td> <td>用途</td> </tr>
+    <tr><td>Gyroscope</td><td>作用</td> <td>用途</td> </tr>
 </table>
 
 
