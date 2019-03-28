@@ -12,6 +12,9 @@
     1. <a href="#tag-全机智能化">全机智能化</a>
     1. <a href="#tag-软件服务">软件服务</a>
 1. <a href="#tag-18年手机争奇斗艳">18年手机争奇斗艳</a>
+1. <a id="tag-手机常用术语" href="#tag-手机常用术语">手机常用术语</a>
+    1. <a href="#tag-分辨率">分辨率</a>
+    1. <a href="#tag-手机传感器">手机传感器</a>
 
 # 19年手机
 [2019年手机八大趋势：挖孔、折叠、5G, 10GB内存等](https://www.toutiao.com/a6640864960106725895/)<br>
@@ -2541,13 +2544,15 @@ OLED屏幕因为目前低亮度下都是低频PWM调光，如果改为DC调光�
 
 # 消费互动
 
-# 附录（手机常用术语）
+# <a id="tag-手机常用术语" href="#tag-手机常用术语">手机常用术语</a>
 EMMC 
 UFS
 OLED（Organic Light-Emitting Diode，有机发光二极管），可以“自发光”
 AMOLED: Active Matrix Organic Light-Emitting Diode, 有源矩阵自发光二极管
 AMOLED屏幕的构造有三层，AMOLED屏幕+TouchScreenPanel(触控屏面板)+外保护玻璃。AMOLED是OLED技术的一种，OLED代表着它是自发光显示器，利用多层有机化合物来实现独立R、G、B三色光。
 
+
+# <a id="tag-分辨率" href="#tag-分辨率">分辨率</a>
 [2K/4K/8K怎么算的？720P/1080P是啥意思？](http://www.sohu.com/a/254373546_100161481)<br>
 [Super AMOLED屏幕](https://www.toutiao.com/a6423479381100052738/)<br>
 [（全解析）屏幕尺寸，分辨率，像素，PPI之间到底什么关系？](http://www.woshipm.com/ucd/198774.html)<br>
@@ -2568,7 +2573,7 @@ UHD是指3840×2160分辨率；<br>
 
 [一张图看懂手机CMF史 ](https://www.sohu.com/a/250437863_119960)<br>
 
-# 手机传感器
+# <a id="tag-手机传感器" href="#tag-手机传感器">手机传感器</a>
 <table>
     <td>传感器名称</td> <td>作用</td> <td>用途</td>
     <td>Light sensor</td><td>作用</td> <td>用途</td>
