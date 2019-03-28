@@ -2580,13 +2580,22 @@ UHD是指3840×2160分辨率；<br>
         <td>光线传感器<br>Light sensor</td> 
         <td>感测环境光线的强度</td> 
         <td>
-            用来调节手机屏幕的亮度。<br>
-            而因为屏幕通常是手机最耗电的部分，<br>
-            因此运用光线传感器来协助调整屏幕亮度，<br>
-            能进一步达到延长电池寿命的作用。
+            调节手机屏幕的亮度。<br><br>
+            因为屏幕通常是手机最耗电的部分，<br>
+            用光线传感器自动调整屏幕亮度，<br>
+            进一步省电。
         </td> 
     </tr>
-    <tr> <td>Proximity sensor</td><td>作用</td> <td>用途</td> </tr>
+    <tr> 
+        <td>距离传感器<br>Proximity sensor </td>
+        <td>
+            透过红外线LED灯发射红外线，<br>
+            被物体反射后由红外线探测器接受，<br>
+            判断接收到红外线的强度来判断距离, <br> 
+            有效距离大约在10米左右
+        </td>
+        <td>感知手机是否被贴在耳朵上讲电话，<br>若是则会关闭屏幕来省电</td> 
+    </tr>
     <tr> <td>Accelerometer</td><td>作用</td> <td>用途</td> </tr>
     <tr> <td>Compass</td><td>作用</td> <td>用途</td> </tr>
     <tr> <td>Gyroscope</td><td>作用</td> <td>用途</td> </tr>
