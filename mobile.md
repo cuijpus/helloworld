@@ -198,7 +198,7 @@
     <tr>
         <td>互联网人群<br>(对参数门清，<br>要高配置)<br>3千~4千</td> 
         <td><a href = "https://www.vmall.com/product/10086134839130.html">荣耀V系列</a><br>(4000￥<br>3000￥~)</td> 
-        <td>Reno</th> 
+        <td><a href = "https://hd.oppo.com/act/2019/0410/index.html">Reno</a><br>(4800￥<br>3000￥~)</th> 
         <td><a href = "https://www.vivo.com.cn/vivo/iqoo">IQOO</a><br>(4000￥<br>3000￥~)</td> 
         <td><A href = "https://item.mi.com/product/10000134.html">MI9</a><br>(4000￥<br>3000￥~)</td> 
         <td>/</td>
