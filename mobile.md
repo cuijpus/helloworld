@@ -66,7 +66,10 @@
     <tr>
         <th>OPPO</th>
         <th></th> <th></th> <th></th> 
-        <th>Reno标准版<br>710<br>2摄<br>10倍<br><br>Reno 10X<br>855<br>3摄<br>FOD(4.10)</th> <th></th> <th></th>
+        <th>
+            Reno标准版<br>710<br>2摄<br><br>
+            <a href = "https://www.oppo.com/cn/product/reno/index.html">Reno 10X</a><br>855<br>3摄<br>FOD<BR>(4.10)</th>
+        <th></th> <th></th>
         <th></th> <th></th> <th></th> 
         <th></th> <th></th> <th></th>
     </tr>   
