@@ -40,7 +40,7 @@
             A30<br>800￥<br>A50<br>1200￥<br>水滴屏<br>三摄<br>FOD<br>(2.26)<br>
         </th> 
         <th></th>
-        <th>A70<br>水滴屏<br>三摄<br>FOD<br></th> <th></th> <th></th>
+        <th>A70<br>675<br>水滴屏<br>三摄<br>FOD<br><br>A80<br>730<br>真全面屏<br>升降旋转<br>三摄<br>FOD<br>(4.10)</th> <th></th> <th></th>
         <th></th> <th></th> <th></th>
         <th></th> <th></th> <th></th>
     </tr>
@@ -66,7 +66,7 @@
     <tr>
         <th>OPPO</th>
         <th></th> <th></th> <th></th> 
-        <th>Reno<br>855<br>3摄<br>10倍<br>(4.10)</th> <th></th> <th></th>
+        <th>Reno标准版<br>710<br>2摄<br>10倍<br><br>Reno 10X<br>855<br>3摄<br>FOD(4.10)</th> <th></th> <th></th>
         <th></th> <th></th> <th></th> 
         <th></th> <th></th> <th></th>
     </tr>   
