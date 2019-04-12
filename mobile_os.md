@@ -34,14 +34,14 @@ Breeno 智能助理
     </tr>
     <tr>
         <th>搭载产品</th> 
-        <th>2012.7.30</th> 
-        <th>2013.12</th>
-        <th>2014.9.4</th> 
-        <th>2015.11</th> 
-        <th>2017.3.24</th> 
-        <th>2017.10.16</th> 
-        <th>Mate20</th> 
-        <th>P30</th>
+        <th></th> 
+        <th></th>
+        <th></th>  <! EMUI3.0>
+        <th></th>  <! EMUI4.0>
+        <th></th>  <! EMUI5.0>
+        <th></th>  <! EMUI8.0>
+        <th>Mate20</th> <! EMUI9.0>
+        <th>P30</th>  <! EMUI9.1>
     </tr>    
 </table>
 
