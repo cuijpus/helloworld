@@ -11,7 +11,15 @@ Breeno 智能助理
 # Huawei EMUI 产品演进
 <table> 
     <tr>
-        <th>年代</th> <th>2007</th> <th>2008</th> <th>2009</th> <th>2010</th> <th>2011</th> <th>2012</th> <th>2013</th> <th>2014</th> <th>2015</th> <th>2016</th> <th>2017</th> <th>2018</th> <th>2019</th>
+        <th>年代</th> 
+        <th>2012.7.30</th> 
+        <th>2013.12</th>
+        <th>2014.9.4</th> 
+        <th>2015.11</th> 
+        <th>2017.3.24</th> 
+        <th>2017.10.16</th> 
+        <th>2018.10.24</th> 
+        <th>2019.4</th>
     </tr>
     <tr>
         <th>型号<br>(iPhone)</th> <th>1</th> <th>3G</th> <th>3GS</th> <th>4</th> <th>4S</th> <th>5</th> <th>5S/5C</th> <th>6/6+</th> <th>6S/6S+</th> <th>SE<br>7/7+</th> <th>8/8+<br>X</th> <th>XR/XS<br>XS Max</th> <th></th>
