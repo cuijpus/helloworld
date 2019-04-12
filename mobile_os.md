@@ -44,14 +44,14 @@ Breeno 智能助理
         <th>P30</th>  <! EMUI9.1>
     </tr>    
     <tr>
-        <th>调度</th> 
+        <th>卡顿</th> 
         <th></th> 
         <th></th>
         <th></th>  <! EMUI3.0>
         <th></th>  <! EMUI4.0>
         <th>AI 18个月<br>不卡顿</th>  <! EMUI5.0>
         <th></th>  <! EMUI8.0>
-        <th></th> <! EMUI9.0>
+        <th>18个月<br>老化优化</th> <! EMUI9.0>
         <th></th>  <! EMUI9.1>
     </tr>   
     <tr>
@@ -75,6 +75,28 @@ Breeno 智能助理
         <th>GPU Turbo1.0</th>  <! EMUI8.0>
         <th>GPU Turbo2.0</th> <! EMUI9.0>
         <th>GPU Turbo3.0</th>  <! EMUI9.1>
+    </tr>  
+    <tr>
+        <th>网速保证</th> 
+        <th></th> 
+        <th></th>
+        <th></th>  <! EMUI3.0>
+        <th></th>  <! EMUI4.0>
+        <th></th>  <! EMUI5.0>
+        <th></th>  <! EMUI8.0>
+        <th>Link Turbo</th> <! EMUI9.0>
+        <th></th>  <! EMUI9.1>
+    </tr>    
+    <tr>
+        <th>编译</th> 
+        <th></th> 
+        <th></th>
+        <th></th>  <! EMUI3.0>
+        <th></th>  <! EMUI4.0>
+        <th></th>  <! EMUI5.0>
+        <th></th>  <! EMUI8.0>
+        <th></th> <! EMUI9.0>
+        <th>方舟编译器</th>  <! EMUI9.1>
     </tr>     
 </table>
 
