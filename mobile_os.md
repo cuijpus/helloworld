@@ -72,8 +72,8 @@ Breeno 智能助理
         <th></th>  <! EMUI3.0>
         <th></th>  <! EMUI4.0>
         <th></th>  <! EMUI5.0>
-        <th>GPU Turbo1.0</th>  <! EMUI8.0>
-        <th>GPU Turbo2.0</th> <! EMUI9.0>
+        <th></th>  <! EMUI8.0>
+        <th>GPU Turbo1.0</th> <! EMUI9.0>
         <th>GPU Turbo3.0</th>  <! EMUI9.1>
     </tr>  
     <tr>
@@ -100,5 +100,9 @@ Breeno 智能助理
     </tr>     
 </table>
 
+
 [EMUI 9.1推出全新华为方舟编译器 打造极致流畅安卓](https://baijiahao.baidu.com/s?id=1630511342372751240&wfr=spider&for=pc)<BR>
+
+[可怕的黑科技GPU Turbo你知道是什么吗？](https://baijiahao.baidu.com/s?id=1617484696357796383&wfr=spider&for=pc)<br>
+
 [“最技术”再升级 华为EMUI全网络聚合技术LinkTurbo升华用户体验](http://tech.qianlong.com/2018/1228/3031252.shtml)<BR>
