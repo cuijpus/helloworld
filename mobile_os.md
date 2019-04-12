@@ -96,7 +96,7 @@ Breeno 智能助理
         <th></th>  <! EMUI5.0>
         <th></th>  <! EMUI8.0>
         <th></th> <! EMUI9.0>
-        <th>方舟编译器</th>  <! EMUI9.1>
+        <th>方舟<br>编译器</th>  <! EMUI9.1>
     </tr>     
 </table>
 
