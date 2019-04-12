@@ -104,5 +104,5 @@ Breeno 智能助理
 [EMUI 9.1推出全新华为方舟编译器 打造极致流畅安卓](https://baijiahao.baidu.com/s?id=1630511342372751240&wfr=spider&for=pc)<BR>
 
 [可怕的黑科技GPU Turbo你知道是什么吗？](https://baijiahao.baidu.com/s?id=1617484696357796383&wfr=spider&for=pc)<br>
-
+![gpu turbo](https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=3269400946,2826016175&fm=173&app=49&f=JPEG?w=394&h=376&s=1215796C4FF6B6D8567E5A930200D08E)<br>
 [“最技术”再升级 华为EMUI全网络聚合技术LinkTurbo升华用户体验](http://tech.qianlong.com/2018/1228/3031252.shtml)<BR>
