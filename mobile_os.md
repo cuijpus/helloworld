@@ -43,6 +43,39 @@ Breeno 智能助理
         <th>Mate20</th> <! EMUI9.0>
         <th>P30</th>  <! EMUI9.1>
     </tr>    
+    <tr>
+        <th>调度</th> 
+        <th></th> 
+        <th></th>
+        <th></th>  <! EMUI3.0>
+        <th></th>  <! EMUI4.0>
+        <th>AI 18个月<br>不卡顿</th>  <! EMUI5.0>
+        <th></th>  <! EMUI8.0>
+        <th></th> <! EMUI9.0>
+        <th></th>  <! EMUI9.1>
+    </tr>   
+    <tr>
+        <th>文件系统</th> 
+        <th></th> 
+        <th></th>
+        <th></th>  <! EMUI3.0>
+        <th></th>  <! EMUI4.0>
+        <th>F2FS</th>  <! EMUI5.0>
+        <th></th>  <! EMUI8.0>
+        <th></th> <! EMUI9.0>
+        <th>EROFS</th>  <! EMUI9.1>
+    </tr>    
+    <tr>
+        <th>GPU提升</th> 
+        <th></th> 
+        <th></th>
+        <th></th>  <! EMUI3.0>
+        <th></th>  <! EMUI4.0>
+        <th></th>  <! EMUI5.0>
+        <th>GPU Turbo1.0</th>  <! EMUI8.0>
+        <th>GPU Turbo2.0</th> <! EMUI9.0>
+        <th>GPU Turbo3.0</th>  <! EMUI9.1>
+    </tr>     
 </table>
 
 [EMUI 9.1推出全新华为方舟编译器 打造极致流畅安卓](https://baijiahao.baidu.com/s?id=1630511342372751240&wfr=spider&for=pc)<BR>
