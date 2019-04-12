@@ -40,7 +40,7 @@ Breeno 智能助理
         <th>2015.11</th> 
         <th>2017.3.24</th> 
         <th>2017.10.16</th> 
-        <th>M</th> 
+        <th>Mate20</th> 
         <th>P30</th>
     </tr>    
 </table>
