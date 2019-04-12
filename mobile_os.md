@@ -11,7 +11,18 @@ Breeno 智能助理
 # Huawei EMUI 产品演进
 <table> 
     <tr>
-        <th>年代</th> 
+        <th>UI版本号</th> 
+        <th>Emotion UI 1.0</th>
+        <th>Emotion UI 2.0</th> 
+        <th>EMUI 3.0</th>
+        <th>EMUI 4.0</th>
+        <th>EMUI 5.0</th>
+        <th>EMUI 8.0</th>
+        <th>EMUI 9.0</th>
+        <th>EMUI 9.1</th>
+    </tr> 
+    <tr>
+        <th>发布时间</th> 
         <th>2012.7.30</th> 
         <th>2013.12</th>
         <th>2014.9.4</th> 
@@ -21,9 +32,6 @@ Breeno 智能助理
         <th>2018.10.24</th> 
         <th>2019.4</th>
     </tr>
-    <tr>
-        <th>型号<br>(iPhone)</th> <th>1</th> <th>3G</th> <th>3GS</th> <th>4</th> <th>4S</th> <th>5</th> <th>5S/5C</th> <th>6/6+</th> <th>6S/6S+</th> <th>SE<br>7/7+</th> <th>8/8+<br>X</th> <th>XR/XS<br>XS Max</th> <th></th>
-    </tr> 
     <tr>
         <th>PIC</th>
         <th></th> 
