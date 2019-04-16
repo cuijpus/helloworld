@@ -37,3 +37,44 @@
 [ColorOS智能助理Breeno惊艳亮相，功能强大更为实用](https://baijiahao.baidu.com/s?id=1620989707650815041&wfr=spider&for=pc)<br>
 [OPPO发布智能助理Breeno 推出“引力计划”赋能开发者](https://baijiahao.baidu.com/s?id=1620976774049292476&wfr=spider&for=pc)<br>
 [科技理想主义+智慧生命体YOYO，荣耀这次放大招了 ](http://www.sohu.com/a/272619026_116157)<br>
+
+
+# on-device AI
+
+
+Snapdragon Neural Processing Engine (Qualcomm):
+
+https://developer.qualcomm.com/software/snapdragon-neural-processing-engine
+
+ 
+
+CoreML framework (Apple) tools for embedded solution:
+
+https://developer.apple.com/documentation/coreml/converting_trained_models_to_core_ml
+
+https://pypi.python.org/pypi/coremltools
+
+https://apple.github.io/coremltools/
+
+https://apple.github.io/coremltools/coremlspecification/sections/NeuralNetwork.html
+
+https://github.com/apple/coremltools
+
+ 
+
+ 
+
+Mobile deep learning (Baidu):
+
+https://github.com/baidu/mobile-deep-learning
+
+https://github.com/PaddlePaddle/Paddle
+
+ 
+
+ 
+
+Microsoft & Huawei:
+
+https://blogs.msdn.microsoft.com/translation/2017/10/19/microsoft-huawei-nmt-ondevice/
+
