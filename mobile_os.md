@@ -38,8 +38,8 @@ Breeno 智能助理
         <th></th>
         <th></th>  <! EMUI3.0>
         <th></th>  <! EMUI4.0>
-        <th></th>  <! EMUI5.0>
-        <th></th>  <! EMUI8.0>
+        <th>Mate9</th>  <! EMUI5.0>
+        <th>Mate10</th>  <! EMUI8.0>
         <th>Mate20</th> <! EMUI9.0>
         <th>P30</th>  <! EMUI9.1>
     </tr>    
