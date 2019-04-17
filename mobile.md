@@ -204,7 +204,7 @@
         <td><a href = "https://hd.oppo.com/act/2019/0410/index.html">Reno</a><br>(4800￥<br>3000￥~)</th> 
         <td><a href = "https://www.vivo.com.cn/vivo/iqoo">IQOO</a><br>(4000￥<br>3000￥~)</td> 
         <td><A href = "https://item.mi.com/product/10000134.html">MI9</a><br>(4000￥<br>3000￥~)</td> 
-        <td>A80/A70<br>(4000￥<br>3000￥~)</td>
+        <td>A80(4000￥<br>3000￥~)</td>
         <td>/</td>
     </tr>     
     <tr>
