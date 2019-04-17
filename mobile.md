@@ -213,7 +213,7 @@
         <td><a href = "https://www.opposhop.cn/products/494.html">R系列</a><br>(3200￥<br>2200￥~)</td> 
         <td><a href = "https://www.vivo.com.cn/products-x.html">X(巅峰)系列</a><br>(3400￥<br>2800￥~)</td> 
         <td><a href = "https://www.mi.com/mi8/">Mi8</a><br>(2900￥<br>2300￥~)</td> 
-        <td><a href = "https://samsung.tmall.com/p/rd063096.htm">A9S,A8S</a><br>(3000元￥<br>2799￥~)</td>
+        <td>A70 2500元￥</td>
         <td>/</td>
     </tr>    
     <tr>
@@ -222,7 +222,9 @@
         <td><a href = "https://www.oppo.com/cn/product/K1/index.html">K系列</a><br>(1700￥<br>1500￥~)</td> 
         <td><a href = "https://www.vivo.com.cn/products-z.html">Z系列</a><br>(2000￥<br>1500￥~)</td> 
         <td><a href = "https://item.mi.com/product/10000117.html">Mi8青春版</a><br>(1800￥<br>1500￥~)</td>
-        <td>/</td>
+        <td>A60 2000￥<BR>
+            A40s 1500￥<br>
+        </td>
         <td>/</td>
     </tr> 
     <tr>
