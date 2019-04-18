@@ -15,6 +15,8 @@
 
 # 书籍
 python深度学习2018中文版.pdf <br>
+[书本教程](https://github.com/amueller/introduction_to_ml_with_python)<br>
+
 Python机器学习基础教程.pdf <br>
 
 # Tools
