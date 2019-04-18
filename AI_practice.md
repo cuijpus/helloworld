@@ -19,6 +19,10 @@ python深度学习2018中文版.pdf <br>
 
 Python机器学习基础教程.pdf <br>
 
+<table>
+  <tr> <th>书名</th> <th>学习记录</th></tr>
+  </table>
+
 # Tools
 
 # 概念&术语 
