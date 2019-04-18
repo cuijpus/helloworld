@@ -15,13 +15,14 @@
 
 # 书籍
 python深度学习2018中文版.pdf <br>
-[书本教程](https://github.com/amueller/introduction_to_ml_with_python)<br>
+[书本代码](https://github.com/amueller/introduction_to_ml_with_python)<br>
 
 Python机器学习基础教程.pdf <br>
 
 <table>
-  <tr> <th>书名</th> <th>学习记录</th></tr>
-  </table>
+  <tr> <th>书名</th> <th>配套代码</th> <th>学习记录</th> <th>备注</th></tr>
+  <tr> <th>python深度学习2018中文版.pdf</th> <th><a href = "https://github.com/amueller/introduction_to_ml_with_python">配套代码</a></th> <th>2019.4.18 page17</th> <th>安装 python, juypter</th> </tr>
+</table>
 
 # Tools
 
