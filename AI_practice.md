@@ -34,7 +34,9 @@ python深度学习2018中文版.pdf <br>
      2019.4.19 page16 <br>
      2019.4.18 page6
    </th> 
-    <th>安装 python, juypter</th> 
+    <th>
+     2019.4.19<br>跑示例代码 <br>
+     2019.4.18<br>安装 python, juypter</th> 
   </tr>  
 </table>
 
