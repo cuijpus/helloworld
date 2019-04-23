@@ -78,6 +78,27 @@ python深度学习2018中文版.pdf <br>
  <tr>
   <th>Keras</th> <th></th> <th>基于Python的深度学习库</th> <th> </th>
  </tr>  
+ <tr>
+  <th>GPU</th> <th></th> <th></th> <th> </th>
+ </tr> 
+ <tr>
+  <th>CUDA</th> <th></th> <th></th> <th> </th>
+ </tr>
+ <tr>
+  <th>TPU</th> <th>2016 Google</th> <th>完全是为了运行深度神经网络</th> <th> </th>
+ </tr>  
+ <tr>
+  <th>图像数据集</th> <th></th> <th></th> <th> </th>
+ </tr>
+ <tr>
+  <th>ImageNet图像数据集</th> <th>140万张图片<br>人工已经标注好分类</th> <th></th> <th> </th>
+ </tr> 
+ <tr>
+  <th>视频数据集</th> <th></th> <th></th> <th> </th>
+ </tr>
+ <tr>
+  <th>语音数据集</th> <th></th> <th></th> <th> </th>
+ </tr> 
 </table>
 
 
