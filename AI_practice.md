@@ -44,4 +44,19 @@ python深度学习2018中文版.pdf <br>
 
 # 概念&术语 
 
+<table>
+ <tr>
+  <th>概念</th> <th>英文</th> <th>作用</th> <th>备注</th>
+ </tr>
+ <tr>
+  <th>决策树</th> <th>Decision Tree</th> <th>根据输入数据进行分类,或者<br>根据给定输入来预测输出值 </th> <th> </th>
+ </tr> 
+ <tr>
+  <th>随机森林</th> <th>Random Forest</th> <th>一种决策树学习方法 </th> <th> </th>
+ </tr>  
+ <tr>
+  <th>梯度提升机</th> <th>Gradient Boosting Machine</th> <th>一种决策树学习方法 </th> <th> </th>
+ </tr>   
+</table>
+
 
