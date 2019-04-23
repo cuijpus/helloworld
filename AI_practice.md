@@ -132,6 +132,18 @@ python深度学习2018中文版.pdf <br>
  <tr>
   <th>特征工程</th> <th></th> <th></th> <th> </th>
  </tr> 
+ <tr>
+  <th>NumPy</th> <th></th> <th>Python 科学计算的基础包之一</th> <th> </th>
+ </tr>  
+ <tr>
+  <th>SciPy</th> <th></th> <th>Python 中用于科学计算的函数集合</th> <th> </th>
+ </tr>  
+ <tr>
+  <th>matplotlib</th> <th></th> <th>Python 主要的科学绘图库</th> <th> </th>
+ </tr>  
+ <tr>
+  <th>pandas</th> <th></th> <th>用于处理和分析数据的Python 库</th> <th> </th>
+ </tr>  
 </table>
 
 
