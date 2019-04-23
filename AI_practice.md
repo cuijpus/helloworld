@@ -57,6 +57,15 @@ python深度学习2018中文版.pdf <br>
  <tr>
   <th>梯度提升机</th> <th>Gradient Boosting Machine</th> <th>一种决策树学习方法 </th> <th> </th>
  </tr>   
+ <tr>
+  <th>GB</th> <th>Gradient Boosting</th> <th> </th> <th> </th>
+ </tr>  
+ <tr>
+  <th>GBDT</th> <th>Gradient Boosting Decision Tree</th> <th> </th> <th> </th>
+ </tr>  
+ <tr>
+  <th>Xgboost</th> <th></th> <th> Xgboost是GB算法的高效实现</th> <th> </th>
+ </tr> 
 </table>
 
 
