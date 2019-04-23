@@ -120,6 +120,18 @@ python深度学习2018中文版.pdf <br>
  <tr>
   <th>无监督学习算法</th> <th></th> <th></th> <th> </th>
  </tr> 
+ <tr>
+  <th>样本</th> <th></th> <th></th> <th> </th>
+ </tr> 
+ <tr>
+  <th>特征</th> <th></th> <th></th> <th> </th>
+ </tr> 
+ <tr>
+  <th>特征提取</th> <th></th> <th></th> <th> </th>
+ </tr> 
+ <tr>
+  <th>特征工程</th> <th></th> <th></th> <th> </th>
+ </tr> 
 </table>
 
 
