@@ -1,7 +1,7 @@
 
 
 # 竞赛 
-Kaggle是由联合创始人、首席执行官安东尼·高德布卢姆（Anthony Goldbloom）2010年在墨尔本创立的，主要为开发商和数据科学家提供举办机器学习竞赛、托管数据库、编写和分享代码的平台。该平台已经吸引了80万名数据科学家的关注，这些用户资源或许正是吸引谷歌的主要因素。
+Kaggle是由联合创始人、首席执行官安东尼·高德布卢姆（Anthony Goldbloom）2010年在墨尔本创立的，主要为开发商和数据科学家提供举办机器学习竞赛、托管数据库、编写和分享代码的平台。该平台已经吸引了80万名数据科学家的关注，这些用户资源或许正是吸引谷歌的主要因素。<br>
 [Kaggle](https://www.kaggle.com/)<br>
 大规模图像分类挑战赛[ImageNet](http://www.image-net.org/)<BR>
 
@@ -75,6 +75,9 @@ python深度学习2018中文版.pdf <br>
  <tr>
   <th>Xgboost</th> <th></th> <th> Xgboost是GB算法的高效实现</th> <th> </th>
  </tr> 
+ <tr>
+  <th>Keras</th> <th></th> <th> </th> <th> </th>
+ </tr>  
 </table>
 
 
