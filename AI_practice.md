@@ -144,6 +144,12 @@ python深度学习2018中文版.pdf <br>
  <tr>
   <th>pandas</th> <th></th> <th>用于处理和分析数据的Python 库</th> <th> </th>
  </tr>  
+ <tr>
+  <th>训练集</th> <th></th> <th></th> <th> </th>
+ </tr>  
+ <tr>
+  <th>测试集</th> <th></th> <th></th> <th> </th>
+ </tr>   
 </table>
 
 
