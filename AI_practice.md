@@ -40,6 +40,13 @@ python深度学习2018中文版.pdf <br>
      2019.4.19<br>跑示例代码 <br>
      2019.4.18<br>安装 python, juypter</th> 
   </tr>  
+  <tr> 
+    <th>Kaggle Micro-Courses</th> 
+    <th><a href = "https://www.kaggle.com/learn/overview">配套代码</a></th> 
+    <th>
+   </th> 
+    <th>
+  </tr> 
 </table>
 
 # Tools
