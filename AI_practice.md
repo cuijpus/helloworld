@@ -113,7 +113,13 @@ python深度学习2018中文版.pdf <br>
  </tr>  
  <tr>
   <th>Adam</th> <th></th> <th></th> <th> </th>
- </tr>  
+ </tr>
+ <tr>
+  <th>监督学习</th> <th></th> <th></th> <th> </th>
+ </tr> 
+ <tr>
+  <th>无监督学习算法</th> <th></th> <th></th> <th> </th>
+ </tr> 
 </table>
 
 
