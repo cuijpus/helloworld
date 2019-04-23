@@ -76,7 +76,7 @@ python深度学习2018中文版.pdf <br>
   <th>Xgboost</th> <th></th> <th> Xgboost是GB算法的高效实现</th> <th> </th>
  </tr> 
  <tr>
-  <th>Keras</th> <th></th> <th> </th> <th> </th>
+  <th>Keras</th> <th></th> <th>基于Python的深度学习库</th> <th> </th>
  </tr>  
 </table>
 
