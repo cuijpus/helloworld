@@ -99,6 +99,21 @@ python深度学习2018中文版.pdf <br>
  <tr>
   <th>语音数据集</th> <th></th> <th></th> <th> </th>
  </tr> 
+ <tr>
+  <th>激活函数</th> <th></th> <th></th> <th> </th>
+ </tr>  
+ <tr>
+  <th>权重初始化方案</th> <th></th> <th></th> <th> </th>
+ </tr>   
+ <tr>
+  <th>优化方案</th> <th></th> <th></th> <th> </th>
+ </tr>  
+ <tr>
+  <th>RMSProp</th> <th></th> <th></th> <th> </th>
+ </tr>  
+ <tr>
+  <th>Adam</th> <th></th> <th></th> <th> </th>
+ </tr>  
 </table>
 
 
