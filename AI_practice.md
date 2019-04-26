@@ -150,6 +150,27 @@ python深度学习2018中文版.pdf <br>
  <tr>
   <th>测试集</th> <th></th> <th></th> <th> </th>
  </tr>   
+ <tr>
+  <th>分类(Classificatoin)</th> <th></th> <th></th> <th> </th>
+ </tr>   
+ <tr>
+  <th>二分类(Binary Classificatoin)</th> <th></th> <th></th> <th> </th>
+ </tr>  
+ <tr>
+  <th>多分类(MultiClass Classificatoin)</th> <th></th> <th></th> <th> </th>
+ </tr>   
+ <tr>
+  <th>泛化(Generalize)</th> <th></th> <th></th> <th> </th>
+ </tr> 
+ <tr>
+  <th>过拟合(Overfitting)</th> <th></th> <th>构建一个对现有信息量来说过于复杂的模型</th> <th> </th>
+ </tr>  
+ <tr>
+  <th>欠拟合(Underfitting)</th> <th></th> <th>选择过于简单的模型</th> <th> </th>
+ </tr>  
+ <tr>
+  <th>回归(Regression)</th> <th></th> <th></th> <th> </th>
+ </tr>     
 </table>
 
 
