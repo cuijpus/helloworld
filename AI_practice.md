@@ -33,7 +33,7 @@ python深度学习2018中文版.pdf <br>
     <th>Python机器学习基础教程.pdf</th> 
     <th><a href = "https://github.com/amueller/introduction_to_ml_with_python">配套代码</a></th> 
     <th>
-     2019
+     2019.4.26 page55 <br>
      2019.4.19 page16 <br>
      2019.4.18 page6
    </th> 
