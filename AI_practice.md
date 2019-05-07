@@ -8,6 +8,9 @@ Kaggle是由联合创始人、首席执行官安东尼·高德布卢姆（Anthon
 # open source
 [Tensorflow](https://github.com/tensorflow/tensorflow)<br>
 [Keras: The Python Deep Learning library](https://keras.io/)<br>
+阿里开源首个移动AI项目，淘宝同款推理引擎<br>
+https://www.toutiao.com/i6687757120990872071 <br>
+https://github.com/alibaba/MNN <br>
 
 # 开发环境
 [新手必看！如何在windows下安装Python(Python入门教程)](https://baijiahao.baidu.com/s?id=1606573927720991570&wfr=spider&for=pc)<br>
