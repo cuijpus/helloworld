@@ -16,7 +16,7 @@ http://blog.csdn.net/ccjhdopc/article/details/54316154
 国内Android开发技术大牛推介 <br>
 袁辉辉 <br>
 Android系统工程师，曾就职于IBM、Lenovo，目前就职于小米MIUI系统组，对Android系统源码研究的比较透彻，毕竟是系统工程师。博客中有很多高质量的源码分析文章. <br>
-博客地址：Gityuan <br>
+博客地址：[Gityuan](http://gityuan.com/)<br>
 
 罗升阳 <br>
 江湖人称老罗（其实挺年轻的），对Android系统源码有颇深的研究，著有《Android系统源代码情景分析》一书，并且在CSDN上分享了出来，文章内容的质量也是非常高，非常值得研读一番，听说他最近在oppo供职。 <br>
