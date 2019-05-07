@@ -20,20 +20,20 @@ Android系统工程师，曾就职于IBM、Lenovo，目前就职于小米MIUI系
 
 罗升阳 <br>
 江湖人称老罗（其实挺年轻的），对Android系统源码有颇深的研究，著有《Android系统源代码情景分析》一书，并且在CSDN上分享了出来，文章内容的质量也是非常高，非常值得研读一番，听说他最近在oppo供职。 <br>
-博客地址：老罗的Android之旅 <br>
+博客地址：[老罗的Android之旅](http://blog.csdn.net/Luoshengyang)<br>
 
 邓凡平 <br>
 《深入理解Android 卷》一书的作者，早年是做C++开发的，后来转到Android开发，对Android源码研究的也比较透彻，也有自己的博客： <br>
-博客地址：Innost的专栏 <br>
+博客地址：[Innost的专栏](http://blog.csdn.net/innost)<br>
 
 郭霖 
 《第一行代码》一书的作者，主要分析应用层的代码，将一些开源库的分析比较透彻。 <br>
-博客地址：郭霖的专栏 <br>
+博客地址：[郭霖的专栏](http://blog.csdn.net/sinyu890807/article/list/1)<br>
 
 尼古拉斯_赵四 <br>
 此人擅长于Android逆向，对于APK的加固破解有较深入的研究，擅长从反编译已经被混淆的代码中寻找线速，再结合Xposed工具修复已经按照的应用的功能 <br>
-博客地址：尼古拉斯.赵四 <br>
-GITHUB：尼古拉斯.赵四 <br>
+博客地址：[尼古拉斯.赵四](http://my.csdn.net/jiangwei0910410003) <br>
+GITHUB：[尼古拉斯.赵四](http://my.csdn.net/jiangwei0910410003) <br>
 
 Weishu <br>
 真名可能是叫田维术，博客行文不错，很容易让人明白，也有不少实实在在的干货。 <br>
