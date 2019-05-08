@@ -42,7 +42,7 @@
         <th>Android 4.0~4.0.4<br>IceCream Sandwich <br>冰淇淋三明治</th> <th>2011.10.18</th> <th>14-15</th> <th></th> <th></th>
     </tr>    
     <tr>
-        <th>Android 4.1~4.3.1 <br>JellyBean/雷根糖</th> <th>2012.7.9</th> <th>16-18</th> <th>黄油计划</th> <th></th>
+        <th>Android 4.1~4.3.1 <br>JellyBean/雷根糖</th> <th>2012.7.9</th> <th>16-18</th> <th>黄油计划</th> <th>垂直同步技术(VSYNC)<br>三重缓冲技术(Triple Buffer)</th>
     </tr>    
     <tr>
         <th>Android 4.4~4.4.4<br>KitKat/奇巧巧克力</th> <th>2013.10.31</th> <th>19-20</th> <th>瘦身计划</th> <th></th>
