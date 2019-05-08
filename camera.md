@@ -17,8 +17,13 @@
 
 # 视觉算法提供公司
 <table>
-  <tr> <th> ID </th> <th>公司</th> <th>主要业务</th> <th>主要合作伙伴</th> <th>地址</th> </tr>
-  <tr> <th> 1 </th> <th>虹软</th> <th>单摄/多摄视觉<br>智能驾驶<br>IoT等</th> <th>三星、华为、OV等</th> <th><a href = "https://www.arcsoft.com.cn/">官网</a></th> 
+  <tr> <th> ID </th> <th>公司</th> <th>核心技术</th> <th>主要业务</th> <th>主要合作伙伴</th> <th>地址</th> </tr>
+  <tr> 
+    <th> 1 </th> <th>虹软</th>
+    <th>人体识别<br>物体识别<br>场景识别<br>图像增强<br>三维重建<br>虚拟人像动画</th>
+    <th>单摄/多摄视觉<br>智能驾驶<br>IoT等</th>
+    <th>三星、华为、OV等</th> 
+    <th><a href = "https://www.arcsoft.com.cn/">官网</a></th> 
   </tr>
 </table>
 
