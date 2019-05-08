@@ -6,7 +6,7 @@
 # Android OS演进
 <table> 
     <tr>
-        <th>版本名称(版本号)<br>中文</th> <th>发行日期</th> <th>API等级</th> <th>主要特点</th> <th>主要功能</th>
+        <th>版本名称(版本号)<br>代号</th> <th>发行日期</th> <th>API等级</th> <th>主要特点</th> <th>主要功能</th>
     </tr>
     <tr>
         <th>Andy Rubin创立<br>Android公司</th>  <th>2003.10</th> <th></th> <th></th> <th></th>
@@ -21,34 +21,34 @@
         <th>Android 1.1 <br> Petit Four </th> <th>2009.2.9</th> <th>2</th> <th></th> <th></th>
     </tr>   
     <tr>
-        <th>Android 1.5 <br>  Cupcake <br> 纸杯蛋糕</th> <th>2009.4.27</th> <th>3</th> <th></th> <th></th>
+        <th>Android 1.5 <br>  Cupcake/纸杯蛋糕</th> <th>2009.4.27</th> <th>3</th> <th></th> <th></th>
     </tr>    
     <tr>
-        <th>Android 1.6 <br> Donut <br> 甜甜圈</th> <th>2009.9.15</th> <th>4</th> <th></th> <th></th>
+        <th>Android 1.6 <br> Donut/甜甜圈</th> <th>2009.9.15</th> <th>4</th> <th></th> <th></th>
     </tr>   
     <tr>
-        <th>Android 2.0~2.1 <br> Eclair <br>闪电泡芙</th> <th>2009.10.26</th> <th>5-7</th> <th></th> <th></th>
+        <th>Android 2.0~2.1 <br> Eclair/闪电泡芙</th> <th>2009.10.26</th> <th>5-7</th> <th></th> <th></th>
     </tr>    
     <tr>
-        <th>Android Froyo <br>>2.2~2.2.3 <br>优格冰淇淋</th> <th>2010.5.28</th> <th>8</th> <th></th> <th></th>
+        <th>Android 2.2~2.2.3 <br> Froyo/优格冰淇淋</th> <th>2010.5.28</th> <th>8</th> <th></th> <th></th>
     </tr>  
     <tr>
-        <th>Android Gingerbread <br>2.3~2.3.7<br>姜饼</th>  <th>2010.12.6</th> <th>9-10</th> <th></th> <th></th>
+        <th>Android 2.3~2.3.7<br>Gingerbread/姜饼</th>  <th>2010.12.6</th> <th>9-10</th> <th></th> <th></th>
     </tr>    
     <tr>
-        <th>Android HoneyComb <br>3.0~3.2.6<br>蜂巢</th> <th>2011.2.22</th> <th>11-13</th> <th></th> <th></th>
+        <th>Android 3.0~3.2.6<br>HoneyComb/蜂巢</th> <th>2011.2.22</th> <th>11-13</th> <th></th> <th></th>
     </tr>   
     <tr>
-        <th>Android <br> IceCream Sandwich <br>4.0~4.0.4<br>冰淇淋三明治</th> <th>2011.10.18</th> <th>14-15</th> <th></th> <th></th>
+        <th>Android 4.0~4.0.4<br>IceCream <br>Sandwich/冰淇淋三明治</th> <th>2011.10.18</th> <th>14-15</th> <th></th> <th></th>
     </tr>    
     <tr>
-        <th>Android <br> JellyBean <br>4.1~4.3.1<br>雷根糖</th> <th>2012.7.9</th> <th>16-18</th> <th>黄油计划</th> <th></th>
+        <th>Android 4.1~4.3.1 <br>JellyBean/雷根糖</th> <th>2012.7.9</th> <th>16-18</th> <th>黄油计划</th> <th></th>
     </tr>    
     <tr>
-        <th>Android <br> KitKat <br>4.4~4.4.4<br>奇巧巧克力</th> <th>2013.10.31</th> <th>19-20</th> <th>瘦身计划</th> <th></th>
+        <th>Android 4.4~4.4.4<br>KitKat/奇巧巧克力</th> <th>2013.10.31</th> <th>19-20</th> <th>瘦身计划</th> <th></th>
     </tr>    
     <tr>
-        <th>Android <br> Lollipop <br>5.0~5.1.1<br>棒棒糖</th> <th>2014.11.12</th> <th>21-22</th> <th>续航</th> <th></th>
+        <th>Android 5.0~5.1.1 <br>Lollipop/棒棒糖</th> <th>2014.11.12</th> <th>21-22</th> <th>续航</th> <th></th>
     </tr>     
 </table>
 
