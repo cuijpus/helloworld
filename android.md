@@ -6,10 +6,7 @@
 # Android OS演进
 <table> 
     <tr>
-        <th>年代</th> <th>2008</th> <th>2009</th> <th>2010</th> <th>2011</th> <th>2012</th> <th>2013</th> <th>2014</th> <th>2015</th> <th>2016</th> <th>2017</th> <th>2018</th> <th>2019</th>
-    </tr>
-    <tr>
-        <th>版本<br>(数字)</th> <th>3G</th> <th>3GS</th> <th>4</th> <th>4S</th> <th>5</th> <th>5S/5C</th> <th>6/6+</th> <th>6S/6S+</th> <th>SE<br>7/7+</th> <th>8/8+<br>X</th> <th>XR/XS<br>XS Max</th> <th></th>
+        <th>版本名称</th> <th>中文</th> <th>版本号</th> <th>发行日期</th> <th>API等级</th> <th>主要特点</th> <th>主要功能</th>
     </tr>
 </table>
 
