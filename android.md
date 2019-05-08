@@ -13,7 +13,10 @@
     </tr>  
     <tr>
         <th>谷歌收购<br>Android公司</th> <th></th> <th></th> <th>2005.8</th> <th></th> <th></th> <th></th>
-    </tr>       
+    </tr>    
+    <tr>
+        <th>Android 1.0</th> <th></th> <th>1.0</th> <th>2008.9.23</th> <th>1</th> <th></th> <th></th>
+    </tr>      
 </table>
 
 # Android 知识梳理
