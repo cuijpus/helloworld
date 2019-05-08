@@ -9,8 +9,11 @@
         <th>版本名称</th> <th>中文</th> <th>版本号</th> <th>发行日期</th> <th>API等级</th> <th>主要特点</th> <th>主要功能</th>
     </tr>
     <tr>
-        <th>Android公司</th> <th></th> <th></th> <th>2003.10</th> <th></th> <th></th> <th></th>
-    </tr>    
+        <th>Andy Rubin创立<br>Android公司</th> <th></th> <th></th> <th>2003.10</th> <th></th> <th></th> <th></th>
+    </tr>  
+    <tr>
+        <th>谷歌收购<br>Android公司</th> <th></th> <th></th> <th>2005.8</th> <th></th> <th></th> <th></th>
+    </tr>       
 </table>
 
 # Android 知识梳理
