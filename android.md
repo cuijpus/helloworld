@@ -18,16 +18,16 @@
         <th>Android 1.0</th> <th>2008.9.23</th> <th>1</th> <th></th> <th></th>
     </tr>   
     <tr>
-        <th>Android Petit Four (1.1)</th> <th>2009.2.9</th> <th>2</th> <th></th> <th></th>
+        <th>Android 1.1 <br> Petit Four </th> <th>2009.2.9</th> <th>2</th> <th></th> <th></th>
     </tr>   
     <tr>
-        <th>Android Cupcake (1.5) <br>纸杯蛋糕</th> <th>2009.4.27</th> <th>3</th> <th></th> <th></th>
+        <th>Android 1.5 <br>  Cupcake <br> 纸杯蛋糕</th> <th>2009.4.27</th> <th>3</th> <th></th> <th></th>
     </tr>    
     <tr>
-        <th>Android Donut (1.6) <br>甜甜圈</th> <th>2009.9.15</th> <th>4</th> <th></th> <th></th>
+        <th>Android 1.6 <br> Donut <br> 甜甜圈</th> <th>2009.9.15</th> <th>4</th> <th></th> <th></th>
     </tr>   
     <tr>
-        <th>Android Eclair <br> (2.0~2.1)闪电泡芙<br></th> <th>2009.10.26</th> <th>5-7</th> <th></th> <th></th>
+        <th>Android 2.0~2.1 <br> Eclair <br>闪电泡芙</th> <th>2009.10.26</th> <th>5-7</th> <th></th> <th></th>
     </tr>    
     <tr>
         <th>Android Froyo <br>>2.2~2.2.3 <br>优格冰淇淋</th> <th>2010.5.28</th> <th>8</th> <th></th> <th></th>
