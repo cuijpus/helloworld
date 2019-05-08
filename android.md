@@ -1,8 +1,5 @@
 
 
-
-[一个支付宝竟使用了30多个开源软件](https://baijiahao.baidu.com/s?id=1600136837454684578&wfr=spider&for=pc)<br>
-
 # Android OS演进
 <table> 
     <tr>
@@ -77,8 +74,6 @@ http://blog.csdn.net/ccjhdopc/article/details/54316154
 2.adb <br>
 3. <br>
 
-
-
 # 业内Android顶牛
 国内Android开发技术大牛推介 <br>
 袁辉辉 <br>
@@ -113,3 +108,8 @@ zjutkz <br>
 任玉刚  <br>
 前几年因为提出通过代理的方式实现Activity插件化而非常出名，还出了一本书《Android开发艺术探索》,最近没有什么高质量的文章问世，有点可惜。 <br>
 博客地址：任玉刚 <br>
+
+
+# Android项目相关开源
+[一个支付宝竟使用了30多个开源软件](https://baijiahao.baidu.com/s?id=1600136837454684578&wfr=spider&for=pc)<br>
+后续做个表格
