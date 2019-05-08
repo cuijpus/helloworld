@@ -67,7 +67,7 @@
 [Android版本列表](https://zh.wikipedia.org/wiki/Android%E7%89%88%E6%9C%AC%E5%88%97%E8%A1%A8)<br>
 
 # Android 知识梳理
-http://blog.csdn.net/ccjhdopc/article/details/54316154 
+[Android Index](http://blog.csdn.net/ccjhdopc/article/details/54316154)<br>
 
 # Dev. Environment
 1.Android Studio <br>
