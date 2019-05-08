@@ -69,6 +69,10 @@
 # Android 知识梳理
 [Android Index](http://blog.csdn.net/ccjhdopc/article/details/54316154)<br>
 
+<table>
+    <tr><th>分层</th> <th>需要掌握的知识</th> <th>详细分析</th></tr>
+</table>
+
 # Dev. Environment
 1.Android Studio <br>
 2.adb <br>
