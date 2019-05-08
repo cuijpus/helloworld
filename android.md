@@ -3,6 +3,16 @@
 
 [一个支付宝竟使用了30多个开源软件](https://baijiahao.baidu.com/s?id=1600136837454684578&wfr=spider&for=pc)<br>
 
+# Android OS演进
+<table> 
+    <tr>
+        <th>年代</th> <th>2008</th> <th>2009</th> <th>2010</th> <th>2011</th> <th>2012</th> <th>2013</th> <th>2014</th> <th>2015</th> <th>2016</th> <th>2017</th> <th>2018</th> <th>2019</th>
+    </tr>
+    <tr>
+        <th>版本<br>(数字)</th> <th>3G</th> <th>3GS</th> <th>4</th> <th>4S</th> <th>5</th> <th>5S/5C</th> <th>6/6+</th> <th>6S/6S+</th> <th>SE<br>7/7+</th> <th>8/8+<br>X</th> <th>XR/XS<br>XS Max</th> <th></th>
+    </tr>
+</table>
+
 # Android 知识梳理
 http://blog.csdn.net/ccjhdopc/article/details/54316154 
 
@@ -10,6 +20,7 @@ http://blog.csdn.net/ccjhdopc/article/details/54316154
 1.Android Studio <br>
 2.adb <br>
 3. <br>
+
 
 
 # 业内Android顶牛
