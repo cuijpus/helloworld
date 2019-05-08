@@ -39,8 +39,11 @@
         <th>Android HoneyComb</th> <th>蜂巢 </th> <th>3.0~3.2.6</th> <th>2011.2.22</th> <th>11-13</th> <th></th> <th></th>
     </tr>   
     <tr>
-        <th>Android <br> ICE Cream Sandwich</th> <th>冰淇淋三明治</th> <th>4.0~4.0.4</th> <th>2011.10.18</th> <th>14-15</th> <th></th> <th></th>
-    </tr>     
+        <th>Android <br> IceCream Sandwich</th> <th>冰淇淋三明治</th> <th>4.0~4.0.4</th> <th>2011.10.18</th> <th>14-15</th> <th></th> <th></th>
+    </tr>    
+    <tr>
+        <th>Android <br> JellyBean</th> <th>雷根糖</th> <th>4.1~4.3.1</th> <th>2012.7.9</th> <th>16-18</th> <th>黄油计划</th> <th></th>
+    </tr>        
 </table>
 
 # Android 知识梳理
