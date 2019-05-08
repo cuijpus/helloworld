@@ -22,6 +22,12 @@
     </tr>   
     <tr>
         <th>Android Cupcake</th> <th>纸杯蛋糕</th> <th>1.5</th> <th>2009.4.27</th> <th>3</th> <th></th> <th></th>
+    </tr>    
+    <tr>
+        <th>Android Donut</th> <th>甜甜圈</th> <th>1.6</th> <th>2009.9.15</th> <th>4</th> <th></th> <th></th>
+    </tr>   
+    <tr>
+        <th>Android Eclair</th> <th>闪电泡芙</th> <th>2.0~2.1</th> <th>2009.10.26</th> <th>5-7</th> <th></th> <th></th>
     </tr>      
 </table>
 
