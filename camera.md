@@ -14,6 +14,16 @@
 7.1 算法下放到芯片<br>
 7.2 索尼/三星ISP芯片
 
+
+# 视觉算法提供公司
+<table>
+  <tr> <th> ID </th> <th>公司</th> <th>主要业务</th> <th>主要合作伙伴</th> <th>地址</th> </tr>
+  <tr> <th> 1 </th> <th>虹软</th> <th>单摄/多摄视觉<br>智能驾驶<br>IoT等</th> <th>三星、华为、OV等</th> <th><a href = "https://www.arcsoft.com.cn/">官网</a></th> 
+  </tr>
+</table>
+
+[虹软科技，凭什么成为第一家上科创板的AI企业？](http://t.zijieimg.com/6QLpR2/)<br>
+
 # Camera全景图
 
 小米官方推特放出的预热海报显示，小米9后置三颗镜头，分别是景深镜头、主摄像头以及超广角镜头。
