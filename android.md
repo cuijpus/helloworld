@@ -16,6 +16,12 @@
     </tr>    
     <tr>
         <th>Android 1.0</th> <th></th> <th>1.0</th> <th>2008.9.23</th> <th>1</th> <th></th> <th></th>
+    </tr>   
+    <tr>
+        <th>Android Petit Four</th> <th></th> <th>1.1</th> <th>2009.2.9</th> <th>2</th> <th></th> <th></th>
+    </tr>   
+    <tr>
+        <th>Android Cupcake</th> <th>纸杯蛋糕</th> <th>1.5</th> <th>2009.4.27</th> <th>3</th> <th></th> <th></th>
     </tr>      
 </table>
 
