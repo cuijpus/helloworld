@@ -6,7 +6,7 @@
 # Android OS演进
 <table> 
     <tr>
-        <th>版本名称(版本号)<br>代号</th> <th>发行日期</th> <th>API等级</th> <th>主要特点</th> <th>主要功能</th>
+        <th>版本名称(版本号)<br>代号</th> <th>发行日期</th> <th>API等级</th> <th>主要特点</th> <th>主要功能/核心技术</th>
     </tr>
     <tr>
         <th>Andy Rubin创立<br>Android公司</th>  <th>2003.10</th> <th></th> <th></th> <th></th>
