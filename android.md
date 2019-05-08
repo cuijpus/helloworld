@@ -34,7 +34,13 @@
     </tr>  
     <tr>
         <th>Android Gingerbread</th> <th>姜饼 </th> <th>2.3~2.3.7</th> <th>2010.12.6</th> <th>9-10</th> <th></th> <th></th>
-    </tr>      
+    </tr>    
+    <tr>
+        <th>Android HoneyComb</th> <th>蜂巢 </th> <th>3.0~3.2.6</th> <th>2011.2.22</th> <th>11-13</th> <th></th> <th></th>
+    </tr>   
+    <tr>
+        <th>Android <br> ICE Cream Sandwich</th> <th>冰淇淋三明治</th> <th>4.0~4.0.4</th> <th>2011.10.18</th> <th>14-15</th> <th></th> <th></th>
+    </tr>     
 </table>
 
 # Android 知识梳理
