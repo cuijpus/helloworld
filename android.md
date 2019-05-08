@@ -28,6 +28,12 @@
     </tr>   
     <tr>
         <th>Android Eclair</th> <th>闪电泡芙</th> <th>2.0~2.1</th> <th>2009.10.26</th> <th>5-7</th> <th></th> <th></th>
+    </tr>    
+    <tr>
+        <th>Android Froyo</th> <th>优格冰淇淋</th> <th>2.2~2.2.3</th> <th>2010.5.28</th> <th>8</th> <th></th> <th></th>
+    </tr>  
+    <tr>
+        <th>Android Gingerbread</th> <th>姜饼 </th> <th>2.3~2.3.7</th> <th>2010.12.6</th> <th>9-10</th> <th></th> <th></th>
     </tr>      
 </table>
 
