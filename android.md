@@ -9,7 +9,7 @@
         <th>版本名称</th> <th>中文</th> <th>版本号</th> <th>发行日期</th> <th>API等级</th> <th>主要特点</th> <th>主要功能</th>
     </tr>
     <tr>
-        <th>Android公司</th> <th></th> <th></th> <th>2003.10</th> <th</th> <th></th> <th></th>
+        <th>Android公司</th> <th></th> <th></th> <th>2003.10</th> <th></th> <th></th> <th></th>
     </tr>    
 </table>
 
