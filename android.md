@@ -43,7 +43,13 @@
     </tr>    
     <tr>
         <th>Android <br> JellyBean</th> <th>雷根糖</th> <th>4.1~4.3.1</th> <th>2012.7.9</th> <th>16-18</th> <th>黄油计划</th> <th></th>
-    </tr>        
+    </tr>    
+    <tr>
+        <th>Android <br> KitKat</th> <th>奇巧巧克力</th> <th>4.4~4.4.4</th> <th>2013.10.31</th> <th>19-20</th> <th>瘦身计划</th> <th></th>
+    </tr>    
+    <tr>
+        <th>Android <br> Lollipop</th> <th>奇巧巧克力</th> <th>5.0~5.1.1</th> <th>2014.11.12</th> <th>21-22</th> <th>续航</th> <th></th>
+    </tr>     
 </table>
 
 # Android 知识梳理
