@@ -71,6 +71,13 @@
 
 <table>
     <tr><th>分层</th> <th>需要掌握的知识</th> <th>详细分析</th></tr>
+    <tr><th>App层</th> <th></th> <th></th></tr>
+    <tr><th>framework层</th> <th></th> <th></th></tr>
+    <tr><th>框架层</th> <th></th> <th></th></tr>
+    <tr><th>Native层</th> <th></th> <th></th></tr>
+    <tr><th>算法层</th> <th></th> <th></th></tr>
+    <tr><th>HAL层</th> <th></th> <th></th></tr>
+    <tr><th>驱动层</th> <th></th> <th></th></tr>
 </table>
 
 # Dev. Environment
