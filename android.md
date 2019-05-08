@@ -39,7 +39,7 @@
         <th>Android 3.0~3.2.6<br>HoneyComb/蜂巢</th> <th>2011.2.22</th> <th>11-13</th> <th></th> <th></th>
     </tr>   
     <tr>
-        <th>Android 4.0~4.0.4<br>IceCream <br>Sandwich/冰淇淋三明治</th> <th>2011.10.18</th> <th>14-15</th> <th></th> <th></th>
+        <th>Android 4.0~4.0.4<br>IceCream Sandwich <br>冰淇淋三明治</th> <th>2011.10.18</th> <th>14-15</th> <th></th> <th></th>
     </tr>    
     <tr>
         <th>Android 4.1~4.3.1 <br>JellyBean/雷根糖</th> <th>2012.7.9</th> <th>16-18</th> <th>黄油计划</th> <th></th>
@@ -49,7 +49,22 @@
     </tr>    
     <tr>
         <th>Android 5.0~5.1.1 <br>Lollipop/棒棒糖</th> <th>2014.11.12</th> <th>21-22</th> <th>续航</th> <th></th>
+    </tr>  
+    <tr>
+        <th>Android 6.0<br>MashMallow/棉花糖</th> <th>2015.10.5</th> <th>23</th> <th>安全</th> <th></th>
+    </tr> 
+    <tr>
+        <th>Android 7.0<br>Nougat/棉花糖</th> <th>2016.8.22</th> <th>24-25</th> <th>性能</th> <th></th>
+    </tr>   
+    <tr>
+        <th>Android 8.0<br>Oreo/奥利奥</th> <th>2017.8.21</th> <th>26-27</th> <th>Treble计划</th> <th></th>
+    </tr>    
+    <tr>
+        <th>Android 9.0<br>Pie/派</th> <th>2018.8.6</th> <th>28</th> <th>机器学习</th> <th></th>
     </tr>     
+    <tr>
+        <th>Android 10.0<br>Quesadilla /玉米饼</th> <th>2019.5.7</th> <th>29</th> <th>Mainline计划</th> <th></th>
+    </tr>      
 </table>
 
 # Android 知识梳理
