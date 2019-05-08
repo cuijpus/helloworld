@@ -48,22 +48,22 @@
         <th>Android 4.4~4.4.4<br>KitKat/奇巧巧克力</th> <th>2013.10.31</th> <th>19-20</th> <th>瘦身计划</th> <th></th>
     </tr>    
     <tr>
-        <th>Android 5.0~5.1.1 <br>Lollipop/棒棒糖</th> <th>2014.11.12</th> <th>21-22</th> <th>续航</th> <th></th>
+        <th>Android 5.0~5.1.1 <br>Lollipop/棒棒糖</th> <th>2014.11.12</th> <th>21-22</th> <th>续航</th> <th>ART代替Dalvik虚拟机</th>
     </tr>  
     <tr>
-        <th>Android 6.0<br>MashMallow/棉花糖</th> <th>2015.10.5</th> <th>23</th> <th>安全</th> <th></th>
+        <th>Android 6.0<br>MashMallow/棉花糖</th> <th>2015.10.5</th> <th>23</th> <th>安全</th> <th>新权限控制<br>增加续航：Doze模式</th>
     </tr> 
     <tr>
-        <th>Android 7.0<br>Nougat/棉花糖</th> <th>2016.8.22</th> <th>24-25</th> <th>性能</th> <th></th>
+        <th>Android 7.0<br>Nougat/棉花糖</th> <th>2016.8.22</th> <th>24-25</th> <th>性能</th> <th>JIT编译器<br>续航：优化Doze唤醒机制</th>
     </tr>   
     <tr>
-        <th>Android 8.0<br>Oreo/奥利奥</th> <th>2017.8.21</th> <th>26-27</th> <th>Treble计划</th> <th></th>
+        <th>Android 8.0<br>Oreo/奥利奥</th> <th>2017.8.21</th> <th>26-27</th> <th>Treble计划</th> <th>重构：系统框架和Vendor解耦<br>管控加强</th>
     </tr>    
     <tr>
-        <th>Android 9.0<br>Pie/派</th> <th>2018.8.6</th> <th>28</th> <th>机器学习</th> <th></th>
+        <th>Android 9.0<br>Pie/派</th> <th>2018.8.6</th> <th>28</th> <th>机器学习</th> <th>引入神经网络：<br>预测用户习惯：省电优化；<br>强化Treble计划<br>文件系统持续提升<br>强化隐私和安全</th>
     </tr>     
     <tr>
-        <th>Android 10.0<br>Quesadilla /玉米饼</th> <th>2019.5.7</th> <th>29</th> <th>Mainline计划</th> <th></th>
+        <th>Android 10.0<br>Quesadilla /玉米饼</th> <th>2019.5.7</th> <th>29</th> <th>Mainline计划</th> <th>Modules只能google修改<br>强化用户隐私</th>
     </tr>      
 </table>
 
