@@ -1,7 +1,10 @@
 
+## Goolge AI落地之路
+<table>
+    <tr> <th>模块</th> <th>2016</th> <th>2017</th> <th>2018</th> <th>2019</th> </tr>
+</table>
 
 ## <a id="tag-全机智能化" href="#tag-全机智能化">全机智能化</a>
-
 
 <table> 
     <tr><td>大分类</td> <td>小分类</td> <td>落地场景</td>  <td>技术来源</td> <td>Samsung</td> <td>Huawei</td> <td>OPPO</td> <td>VIVO</td> <td>Xiaomi</td></tr>
