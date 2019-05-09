@@ -6,9 +6,9 @@
     <tr> <th>Google Home<br>（智能音箱）</th> <th>Y</th> <th>升级版</th> <th>2018</th> <th>2019</th> </tr>
     <tr> <th>TPU</th> <th>1.0</th> <th>2.0</th> <th>2018</th> <th>2019</th> </tr>
     <tr> <th>TensorFlow </th> <th>2016</th> <th>2017</th> <th>2018</th> <th>2019</th> </tr>
-    <tr> <th>Google Lens</th> <th>2016</th> <th>2017</th> <th>2018</th> <th>2019</th> </tr>
+    <tr> <th>Google Lens</th> <th>2016</th> <th>图像识别 OCR</th> <th>升级版，可关联场景</th> <th>2019</th> </tr>
     <tr> <th>Google Maps</th> <th>2016</th> <th>2017</th> <th>2018</th> <th>2019</th> </tr>
-    <tr> <th>Google News</th> <th>2016</th> <th>2017</th> <th>2018</th> <th>2019</th> </tr>
+    <tr> <th>Google News</th> <th>2016</th> <th>2017</th> <th>个性化推荐消息</th> <th>2019</th> </tr>
     <tr> <th>Waymo<br>自动驾驶</th> <th>2016</th> <th>2017</th> <th>2018</th> <th>2019</th> </tr>
 </table>
 
