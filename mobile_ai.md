@@ -5,9 +5,11 @@
     <tr> <th>Google Assistant<br>智能语音助手</th> <th>Y</th> <th>升级</th> <th>升级版，使用 Duplex 技术</th> <th>2019</th> </tr>
     <tr> <th>Google Home<br>（智能音箱）</th> <th>Y</th> <th>升级版</th> <th>2018</th> <th>2019</th> </tr>
     <tr> <th>TPU</th> <th>1.0</th> <th>2.0</th> <th>2018</th> <th>2019</th> </tr>
-    <tr> <th>模块</th> <th>2016</th> <th>2017</th> <th>2018</th> <th>2019</th> </tr>
-    <tr> <th>模块</th> <th>2016</th> <th>2017</th> <th>2018</th> <th>2019</th> </tr>
-    <tr> <th>模块</th> <th>2016</th> <th>2017</th> <th>2018</th> <th>2019</th> </tr>
+    <tr> <th>TensorFlow </th> <th>2016</th> <th>2017</th> <th>2018</th> <th>2019</th> </tr>
+    <tr> <th>Google Lens</th> <th>2016</th> <th>2017</th> <th>2018</th> <th>2019</th> </tr>
+    <tr> <th>Google Maps</th> <th>2016</th> <th>2017</th> <th>2018</th> <th>2019</th> </tr>
+    <tr> <th>Google News</th> <th>2016</th> <th>2017</th> <th>2018</th> <th>2019</th> </tr>
+    <tr> <th>Waymo<br>自动驾驶</th> <th>2016</th> <th>2017</th> <th>2018</th> <th>2019</th> </tr>
 </table>
 
 ## <a id="tag-全机智能化" href="#tag-全机智能化">全机智能化</a>
